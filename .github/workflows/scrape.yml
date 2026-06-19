@@ -30,15 +30,20 @@ jobs:
       - name: Collect proxies
         run: python scrape.py
 
-      - name: Commit proxies.json if changed
+      # Проверяем собранные прокси на чистом интернете сервера и оставляем
+      # только реально доступные → working_proxies.json (его качает телефон).
+      - name: Verify proxies
+        run: python verify.py
+
+      - name: Commit if changed
         run: |
           git config user.name "proxy-bot"
           git config user.email "proxy-bot@users.noreply.github.com"
-          if ! git diff --quiet proxies.json; then
-            git add proxies.json
+          git add proxies.json working_proxies.json
+          if ! git diff --cached --quiet; then
             git commit -m "Update proxies ($(date -u '+%Y-%m-%d %H:%M UTC'))"
             git push
-            echo "proxies.json обновлён"
+            echo "списки обновлены"
           else
             echo "изменений нет"
           fi

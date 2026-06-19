@@ -50,13 +50,19 @@ object ProxyChecker {
 
     // ----------------------- ЗАГРУЗКА СПИСКА ПРОКСИ -------------------------
     //
-    // Список прокси собирается на сервере GitHub (ему доступен t.me без VPN) и
-    // лежит в proxies.json. Телефон качает готовый файл — поэтому VPN НЕ нужен,
-    // а проверка пинга идёт по твоему реальному интернету.
+    // Сервер GitHub (чистый интернет) собирает прокси из каналов И сразу
+    // проверяет их, отсеивая мёртвые и битые. В working_proxies.json остаётся
+    // только реально доступное — телефон качает уже отобранный короткий список
+    // (без VPN), а финальную проверку делает по своему мобильному интернету.
 
-    // raw.githubusercontent — отдаёт файл напрямую. Если он недоступен у
-    // провайдера, пробуем jsDelivr CDN (другой домен, часто открыт).
+    // raw.githubusercontent — напрямую; jsDelivr CDN — запасной домен.
+    // Основной список — отобранный (working_proxies.json). Если он пуст или
+    // недоступен — берём полный сырой (proxies.json), чтобы не остаться без прокси.
     private val PROXY_LIST_URLS = listOf(
+        "https://raw.githubusercontent.com/Kukurumbel/proxy-checker-android/main/working_proxies.json",
+        "https://cdn.jsdelivr.net/gh/Kukurumbel/proxy-checker-android@main/working_proxies.json"
+    )
+    private val FALLBACK_LIST_URLS = listOf(
         "https://raw.githubusercontent.com/Kukurumbel/proxy-checker-android/main/proxies.json",
         "https://cdn.jsdelivr.net/gh/Kukurumbel/proxy-checker-android@main/proxies.json"
     )
@@ -97,10 +103,11 @@ object ProxyChecker {
         return out.values.toList()
     }
 
-    /** Скачать готовый список прокси с GitHub (VPN не требуется). */
+    /** Скачать список прокси с GitHub (VPN не требуется). */
     suspend fun collectProxies(log: (String) -> Unit): List<Proxy> =
         withContext(Dispatchers.IO) {
-            log("Загружаю список прокси...")
+            log("Загружаю отобранный список...")
+            // 1) сперва пробуем отобранный сервером список
             for (url in PROXY_LIST_URLS) {
                 val text = httpGet(url) ?: continue
                 try {
@@ -110,7 +117,20 @@ object ProxyChecker {
                         return@withContext list
                     }
                 } catch (e: Exception) {
-                    // битый JSON — пробуем следующий источник
+                    // битый JSON — следующий источник
+                }
+            }
+            // 2) если отобранных нет — берём полный сырой список
+            log("Отобранных нет, беру полный список...")
+            for (url in FALLBACK_LIST_URLS) {
+                val text = httpGet(url) ?: continue
+                try {
+                    val list = parseJson(text)
+                    if (list.isNotEmpty()) {
+                        log("Загружено ${list.size} прокси, проверяю...")
+                        return@withContext list
+                    }
+                } catch (e: Exception) {
                 }
             }
             log("Не удалось загрузить список. Проверь интернет.")
