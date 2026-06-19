@@ -13,18 +13,19 @@ import java.net.Socket
 import java.net.URL
 
 /**
- * Логика сбора и проверки MTProto-прокси — порт proxy_checker.py на Kotlin.
+ * Логика загрузки и проверки MTProto-прокси.
  *
- * Читает публичную веб-версию Telegram-каналов (t.me/s/...), вытаскивает
- * ссылки tg://proxy, проверяет каждый прокси: TCP-connect (пинг) + начало
- * MTProto-рукопожатия. Логин в Telegram не требуется.
+ * Список прокси собирается на сервере GitHub (см. scrape.py) и скачивается
+ * приложением как готовый proxies.json — поэтому VPN на телефоне не нужен.
+ * Каждый прокси проверяется: TCP-connect (пинг) + начало MTProto-рукопожатия
+ * по реальному интернету телефона. Логин в Telegram не требуется.
  */
 object ProxyChecker {
 
     // ----------------------------- НАСТРОЙКИ -------------------------------
 
-    val CHANNELS = listOf("TProxyRU", "ProxyMTProto")  // публичные каналы
-    const val MAX_PAGES = 10                            // страниц истории на канал
+    // Каналы-источники (сбор идёт на сервере, см. scrape.py) — для подписи в UI
+    val CHANNELS = listOf("TProxyRU", "ProxyMTProto")
     const val PING_LIMIT_MS = 1000                      // порог пинга, мс
     const val CONNECT_TIMEOUT_MS = 1000                 // таймаут TCP-connect
     const val HANDSHAKE_TIMEOUT_MS = 1000               // таймаут ответа прокси
@@ -47,91 +48,73 @@ object ProxyChecker {
 
     data class Result(val proxy: Proxy, val ok: Boolean, val pingMs: Int?)
 
-    // --------------------------- ЧТЕНИЕ КАНАЛОВ ----------------------------
+    // ----------------------- ЗАГРУЗКА СПИСКА ПРОКСИ -------------------------
+    //
+    // Список прокси собирается на сервере GitHub (ему доступен t.me без VPN) и
+    // лежит в proxies.json. Телефон качает готовый файл — поэтому VPN НЕ нужен,
+    // а проверка пинга идёт по твоему реальному интернету.
 
-    private val proxyLinkRe = Regex(
-        """(?:tg://proxy\?|https?://t\.me/proxy\?)([^"'<>\s]+)""",
-        RegexOption.IGNORE_CASE
+    // raw.githubusercontent — отдаёт файл напрямую. Если он недоступен у
+    // провайдера, пробуем jsDelivr CDN (другой домен, часто открыт).
+    private val PROXY_LIST_URLS = listOf(
+        "https://raw.githubusercontent.com/Kukurumbel/proxy-checker-android/main/proxies.json",
+        "https://cdn.jsdelivr.net/gh/Kukurumbel/proxy-checker-android@main/proxies.json"
     )
-    private val postIdRe = Regex("""data-post="[^"]+/(\d+)"""")
 
-    /** Скачать веб-версию канала; before — id поста для пагинации вглубь. */
-    private fun fetchChannel(channel: String, before: Int?): String {
-        var urlStr = "https://t.me/s/$channel"
-        if (before != null) urlStr += "?before=$before"
+    /** Скачать текст по URL (или null при ошибке). */
+    private fun httpGet(urlStr: String): String? {
         return try {
             val conn = (URL(urlStr).openConnection() as HttpURLConnection).apply {
                 requestMethod = "GET"
                 setRequestProperty("User-Agent", USER_AGENT)
-                connectTimeout = 20_000
-                readTimeout = 20_000
+                connectTimeout = 15_000
+                readTimeout = 15_000
+            }
+            if (conn.responseCode != 200) {
+                conn.disconnect()
+                return null
             }
             conn.inputStream.bufferedReader(Charsets.UTF_8).use { it.readText() }
         } catch (e: Exception) {
-            ""
+            null
         }
     }
 
-    /** Минимальный id поста на странице — курсор для следующей страницы. */
-    private fun minPostId(html: String): Int? =
-        postIdRe.findAll(html).map { it.groupValues[1].toInt() }.minOrNull()
-
-    /** Декодировать HTML-сущности (&amp; -> & и т.п.) без сторонних либ. */
-    private fun unescapeHtml(s: String): String =
-        s.replace("&amp;", "&")
-            .replace("&lt;", "<")
-            .replace("&gt;", ">")
-            .replace("&quot;", "\"")
-            .replace("&#39;", "'")
-
-    /** Из HTML вытащить уникальные прокси. */
-    private fun parseProxies(html: String): List<Proxy> {
-        val found = LinkedHashMap<String, Proxy>()
-        for (m in proxyLinkRe.findAll(html)) {
-            val query = unescapeHtml(m.groupValues[1])
-            val params = HashMap<String, String>()
-            for (pair in query.split("&")) {
-                val i = pair.indexOf('=')
-                if (i > 0) {
-                    params[pair.substring(0, i).trim().lowercase()] =
-                        pair.substring(i + 1).trim()
-                }
+    /** Разобрать proxies.json в список прокси. */
+    private fun parseJson(text: String): List<Proxy> {
+        val out = LinkedHashMap<String, Proxy>()
+        val arr = org.json.JSONObject(text).getJSONArray("proxies")
+        for (i in 0 until arr.length()) {
+            val o = arr.getJSONObject(i)
+            val server = o.optString("server")
+            val port = o.optInt("port", -1)
+            val secret = o.optString("secret")
+            if (server.isNotEmpty() && port > 0 && secret.isNotEmpty()) {
+                val p = Proxy(server, port, secret)
+                out[p.key] = p
             }
-            val server = params["server"] ?: continue
-            val portStr = params["port"] ?: continue
-            val secret = params["secret"] ?: continue
-            val port = portStr.toIntOrNull() ?: continue
-            val p = Proxy(server, port, secret)
-            found[p.key] = p
         }
-        return found.values.toList()
+        return out.values.toList()
     }
 
-    /** Собрать прокси со всех каналов, листая до MAX_PAGES страниц вглубь. */
+    /** Скачать готовый список прокси с GitHub (VPN не требуется). */
     suspend fun collectProxies(log: (String) -> Unit): List<Proxy> =
         withContext(Dispatchers.IO) {
-            val all = LinkedHashMap<String, Proxy>()
-            for (ch in CHANNELS) {
-                log("Читаю канал @$ch ...")
-                var before: Int? = null
-                var chCount = 0
-                for (page in 0 until MAX_PAGES) {
-                    val text = fetchChannel(ch, before)
-                    if (text.isEmpty()) {
-                        if (page == 0) log("  ! не удалось прочитать @$ch")
-                        break
+            log("Загружаю список прокси...")
+            for (url in PROXY_LIST_URLS) {
+                val text = httpGet(url) ?: continue
+                try {
+                    val list = parseJson(text)
+                    if (list.isNotEmpty()) {
+                        log("Загружено ${list.size} прокси, проверяю...")
+                        return@withContext list
                     }
-                    for (p in parseProxies(text)) {
-                        if (!all.containsKey(p.key)) chCount++
-                        all[p.key] = p
-                    }
-                    val nxt = minPostId(text)
-                    if (nxt == null || nxt == before) break
-                    before = nxt
+                } catch (e: Exception) {
+                    // битый JSON — пробуем следующий источник
                 }
-                log("  + новых прокси из @$ch: $chCount")
             }
-            all.values.toList()
+            log("Не удалось загрузить список. Проверь интернет.")
+            emptyList()
         }
 
     // --------------------------- ПРОВЕРКА ПИНГА ----------------------------

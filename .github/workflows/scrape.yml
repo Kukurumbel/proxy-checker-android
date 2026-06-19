@@ -1,0 +1,44 @@
+name: Update proxies
+
+# Сервер GitHub собирает свежие прокси и коммитит proxies.json.
+# Телефон потом качает этот файл с GitHub без VPN.
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # каждые 30 минут
+  workflow_dispatch:           # и вручную кнопкой
+
+permissions:
+  contents: write
+
+# Не запускать новый сбор, если предыдущий ещё идёт
+concurrency:
+  group: update-proxies
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Collect proxies
+        run: python scrape.py
+
+      - name: Commit proxies.json if changed
+        run: |
+          git config user.name "proxy-bot"
+          git config user.email "proxy-bot@users.noreply.github.com"
+          if ! git diff --quiet proxies.json; then
+            git add proxies.json
+            git commit -m "Update proxies ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+            echo "proxies.json обновлён"
+          else
+            echo "изменений нет"
+          fi

@@ -134,7 +134,7 @@ private fun ProxyScreen() {
             )
         }
         Text(
-            "каналы: @${ProxyChecker.CHANNELS.joinToString(", @")}",
+            "источники: @${ProxyChecker.CHANNELS.joinToString(", @")} · без VPN",
             color = MUTED, fontSize = 12.sp,
             modifier = Modifier.padding(top = 4.dp)
         )
