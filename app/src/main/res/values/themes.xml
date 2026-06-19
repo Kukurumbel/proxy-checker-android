@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Тёмная тема, чтобы статус-бар совпадал с фоном Compose до его отрисовки -->
+    <style name="Theme.ProxyChecker" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0e1621</item>
+        <item name="android:navigationBarColor">#0e1621</item>
+        <item name="android:windowBackground">#0e1621</item>
+    </style>
+</resources>
