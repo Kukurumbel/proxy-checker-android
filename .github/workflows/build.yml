@@ -1,0 +1,60 @@
+name: Build APK
+
+# Запускается при каждом push и вручную (кнопка Run workflow на вкладке Actions)
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+# Нужно право записи, чтобы опубликовать APK в Releases
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v3
+
+      # gradle-wrapper.jar в репозитории нет — генерируем wrapper на лету,
+      # затем собираем debug-APK (его можно сразу ставить на телефон).
+      - name: Generate Gradle wrapper
+        run: gradle wrapper --gradle-version 8.7
+
+      - name: Build debug APK
+        run: ./gradlew assembleDebug --stacktrace
+
+      # Переименуем в понятное имя для скачивания
+      - name: Rename APK
+        run: cp app/build/outputs/apk/debug/app-debug.apk ProxyChecker.apk
+
+      # 1) Кладём APK в Artifacts (запасной способ — для вкладки Actions)
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ProxyChecker-apk
+          path: ProxyChecker.apk
+          if-no-files-found: error
+
+      # 2) Публикуем APK в Releases под тегом "latest" —
+      #    отсюда будет ПРЯМАЯ ссылка для скачивания на телефоне без логина.
+      - name: Publish to Releases
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: Proxy Checker (последняя сборка)
+          body: |
+            Готовый APK приложения Proxy Checker.
+            Скачай ProxyChecker.apk на телефон и установи.
+          files: ProxyChecker.apk
+          make_latest: true
