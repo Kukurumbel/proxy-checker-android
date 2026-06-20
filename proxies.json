@@ -11,6 +11,11 @@
    "secret": "ee67738e5814e33556092d27827a2264ef62726f777365722e79616e6465782e636f6d"
   },
   {
+   "server": "103.161.35.23",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "116.203.5.251",
    "port": 995,
    "secret": "8O6wvZrcT9SpOZTuOyohaw=="
@@ -791,11 +796,6 @@
    "secret": "eed1f77690d4e79770a774d33db8dd834c676f2e70656c6d6573686b612e746f70"
   },
   {
-   "server": "go.proxyz.site",
-   "port": 443,
-   "secret": "ee36854d344477eab338dda799b071116b676f2e70726f78797a2e73697465"
-  },
-  {
    "server": "googel.alo-otp.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -929,11 +929,6 @@
    "server": "lumen.proxytop.space",
    "port": 443,
    "secret": "ee77a9c0a7c576db75ddb379ffc1ea49786c756d656e2e70726f7879746f702e7370616365"
-  },
-  {
-   "server": "lumen.proxyux.site",
-   "port": 443,
-   "secret": "ee46a405cdf38698927aa7352341e2ba0a6c756d656e2e70726f787975782e73697465"
   },
   {
    "server": "mail.proxyz.site",
@@ -1073,6 +1068,11 @@
   {
    "server": "node.mishkalapy.life",
    "port": 443,
+   "secret": "ee0a90f3b3396f5d29c64a47ef6615078d6e6f64652e6d6973686b616c6170792e6c696665"
+  },
+  {
+   "server": "node.mishkalapy.life",
+   "port": 443,
    "secret": "ee260d5ca0b469dc17230009fb59f69ac96e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
@@ -1114,11 +1114,6 @@
    "server": "onyx.proxytop.space",
    "port": 443,
    "secret": "eec1115da4080fd04ee24a09d60682c66a6f6e79782e70726f7879746f702e7370616365"
-  },
-  {
-   "server": "onyx.proxyux.site",
-   "port": 443,
-   "secret": "eed253def67abf4d0924d1679fc1a9c5206f6e79782e70726f787975782e73697465"
   },
   {
    "server": "open.gpoint.website",
@@ -1184,11 +1179,6 @@
    "server": "portal.old-but-new.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
-   "server": "predator-artist.top",
-   "port": 853,
-   "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
    "server": "proxy.garden-troll.life",
@@ -1606,5 +1596,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 321
+ "count": 319
 }
