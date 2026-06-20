@@ -1,0 +1,26 @@
+name: Probe v2 (strict, one-off)
+
+# Разовый тест строгого валидатора. Ничего не коммитит — печатает статистику.
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install crypto
+        run: pip install --quiet pycryptodome
+      - name: Scrape fresh list
+        run: python scrape.py
+      - name: Strict verify
+        run: python verify2.py
+      - name: Show result
+        run: |
+          echo "===== ИТОГ ====="
+          python -c "import json; d=json.load(open('working_proxies.json')); print('РАБОЧИХ:', d['count'], 'из', d['checked'])"
+          echo "===== первые строки ====="
+          head -c 700 working_proxies.json || true
