@@ -66,6 +66,11 @@
    "secret": "eebf2b18633bd20310eeb833852083d1277777772e77702e706c"
   },
   {
+   "server": "155.212.220.62",
+   "port": 443,
+   "secret": "ee0ee24cdae558c51694f679bfe4d8314a7275747562652e7275"
+  },
+  {
    "server": "159.69.26.72",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -124,11 +129,6 @@
    "server": "2.26.125.82",
    "port": 443,
    "secret": "ee6d6963726f736f66742e636f6dd95c"
-  },
-  {
-   "server": "45.198.0.146",
-   "port": 443,
-   "secret": "ee6d765666d7e5821f9683c7b541759a2b7275747562652e7275"
   },
   {
    "server": "5.75.199.104",
@@ -386,11 +386,6 @@
    "secret": "ee05d3d7463edfb7a674cc1d89ba24eeba617065782e70726f7879746f702e7370616365"
   },
   {
-   "server": "apex.proxyux.site",
-   "port": 443,
-   "secret": "ee1e16392ec634c2ebce9387a9edcf24e3617065782e70726f787975782e73697465"
-  },
-  {
    "server": "api.gorbushkin.click",
    "port": 443,
    "secret": "ee5aa8528eddb3b46d225fc8f50f26659c6170692e676f72627573686b696e2e636c69636b"
@@ -569,11 +564,6 @@
    "server": "echo.proxym.world",
    "port": 443,
    "secret": "ee03856fdd3a0b54784892677df90144a06563686f2e70726f78796d2e776f726c64"
-  },
-  {
-   "server": "echo.proxyux.site",
-   "port": 443,
-   "secret": "ee5f16596b5fbf96f62edd3ce71a5905516563686f2e70726f787975782e73697465"
   },
   {
    "server": "edge.librava.click",
@@ -911,11 +901,6 @@
    "secret": "ee4b74f12070063421d61c13d470bc1d206b696c6f2e70726f78796d2e776f726c64"
   },
   {
-   "server": "kilo.proxyux.site",
-   "port": 443,
-   "secret": "ee62d16bd3fa5f892202a2af3062a7321d6b696c6f2e70726f787975782e73697465"
-  },
-  {
    "server": "Kingdom-persia.ir.hey-gardash.info.",
    "port": 1080,
    "secret": "79e344818749bd7ac519130220c25d09"
@@ -1206,6 +1191,11 @@
    "secret": "eea49899bfb9f5b061d6213e6f6480ea006f726269742e70726f78796f6e6c696e652e6f6e6c696e65"
   },
   {
+   "server": "persian.gulf.ir.olsjddhf.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "play.proxyvpn.site",
    "port": 443,
    "secret": "ee4d0c82ca73f261e6933ec36e5d902ff6706c61792e70726f787976706e2e73697465"
@@ -1446,11 +1436,6 @@
    "secret": "eec68955d36d7f04a4ad1b6b0e82c7baeb72656c61792e7072782e746f646179"
   },
   {
-   "server": "rkn.proxytelega.store",
-   "port": 8443,
-   "secret": "eeec48b14805acf33a64f494fe7cf6656a726b6e2e70726f787974656c6567612e73746f7265"
-  },
-  {
    "server": "rocket.proxlet.site",
    "port": 443,
    "secret": "eed820fcb44d576ead3854439b5b044d32726f636b65742e70726f786c65742e73697465"
@@ -1504,11 +1489,6 @@
    "server": "static.prxtoday.store",
    "port": 443,
    "secret": "ee3740849efd941157c45810d974fd66097374617469632e707278746f6461792e73746f7265"
-  },
-  {
-   "server": "storm.proxytelega.store",
-   "port": 443,
-   "secret": "eedef3ae42d41ca0570cd030dea03fa6b373746f726d2e70726f787974656c6567612e73746f7265"
   },
   {
    "server": "Strait-of-Hormuz.ir.jursdheks.info.",
@@ -1656,5 +1636,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 331
+ "count": 327
 }
