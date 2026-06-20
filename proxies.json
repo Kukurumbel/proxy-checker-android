@@ -26,11 +26,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "142.132.167.80",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "144.31.215.119",
    "port": 443,
    "secret": "ee6d6963726f736f66742e636f6d2379"
@@ -119,11 +114,6 @@
    "server": "2.26.125.82",
    "port": 443,
    "secret": "ee6d6963726f736f66742e636f6dd95c"
-  },
-  {
-   "server": "2.56.240.116",
-   "port": 443,
-   "secret": "ee1b1ee2dde44530b7148d7b9d530a3b6e79616e6465782e7275"
   },
   {
    "server": "5.75.199.104",
@@ -254,6 +244,11 @@
    "server": "65.21.83.248",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "72.56.75.89",
+   "port": 443,
+   "secret": "eedf76bd1a13223fa63471ea530913415a7275747562652e7275"
   },
   {
    "server": "79.137.196.223",
@@ -446,6 +441,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "back.nolags.pw",
+   "port": 443,
+   "secret": "dd23930f2da14e8bad3dcf4620e9db128b"
+  },
+  {
    "server": "best-sellerst.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -539,6 +539,11 @@
    "server": "connect.savelyev.click",
    "port": 443,
    "secret": "eea3c4f408d77873937b1ca825723435e2636f6e6e6563742e736176656c7965762e636c69636b"
+  },
+  {
+   "server": "connect.toconvel.digital",
+   "port": 443,
+   "secret": "ee3a3296f4b555695ea57b9578c3500258636f6e6e6563742e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "connect.toconvel.digital",
@@ -669,11 +674,6 @@
    "server": "form.quickdl.info",
    "port": 22,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "free16.mtproxygram.lol",
-   "port": 443,
-   "secret": "ddffb552fe270a898393fa59cfa57753d2"
   },
   {
    "server": "fresh.t-proxy.info.",
@@ -988,6 +988,11 @@
   {
    "server": "mirror.malevich7.top",
    "port": 443,
+   "secret": "ee2c3fb96c013863a026fcb3a7e38473276d6972726f722e6d616c6576696368372e746f70"
+  },
+  {
+   "server": "mirror.malevich7.top",
+   "port": 443,
    "secret": "eeec5c27ad2e4538c2832aeccdcb9d10096d6972726f722e6d616c6576696368372e746f70"
   },
   {
@@ -1081,11 +1086,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "nova.proxym.world",
-   "port": 443,
-   "secret": "eea6e33ccecbfb096e42a2a735e59532436e6f76612e70726f78796d2e776f726c64"
-  },
-  {
    "server": "nova.proxytop.space",
    "port": 443,
    "secret": "ee11fc839a7e51789ec6a7901c261d778d6e6f76612e70726f7879746f702e7370616365"
@@ -1104,11 +1104,6 @@
    "server": "ns2.what-ever.co.uk.",
    "port": 443,
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
-  },
-  {
-   "server": "onyx.proxym.world",
-   "port": 443,
-   "secret": "ee532e278962412ddeacca4d86a606743a6f6e79782e70726f78796d2e776f726c64"
   },
   {
    "server": "onyx.proxytg.live",
@@ -1611,5 +1606,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 322
+ "count": 321
 }
