@@ -636,21 +636,6 @@
    "secret": "eed19f9c1acf32e3b20825add6d073f07866696c65732e7072782e746f646179"
   },
   {
-   "server": "flux.proxym.world",
-   "port": 443,
-   "secret": "ee9f447c337d66b416b8e4f81a27e8e344666c75782e70726f78796d2e776f726c64"
-  },
-  {
-   "server": "flux.proxytelega.store",
-   "port": 443,
-   "secret": "eec57f379567b25a79cbd1fa0ad73b98d9666c75782e70726f787974656c6567612e73746f7265"
-  },
-  {
-   "server": "flux.proxyux.site",
-   "port": 443,
-   "secret": "ee0a7ecff0ebda97b34dc84157b8cbfad3666c75782e70726f787975782e73697465"
-  },
-  {
    "server": "football.world-pro.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -871,16 +856,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "jet.proxym.world",
-   "port": 443,
-   "secret": "ee894a8e1c70d3ec137af76968609e04666a65742e70726f78796d2e776f726c64"
-  },
-  {
-   "server": "jet.proxyux.site",
-   "port": 443,
-   "secret": "eed2024b83c7a14889f7d69bd82ca087c16a65742e70726f787975782e73697465"
-  },
-  {
    "server": "junior.ir.the-nice-mtproto.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
@@ -1009,11 +984,6 @@
    "server": "mega.teleproxy.info",
    "port": 443,
    "secret": "ee524f90c6f61b4c7c56697a12cb2744776d6972726f722e636f7262696e612e6e6574"
-  },
-  {
-   "server": "milan.nolags.pw",
-   "port": 443,
-   "secret": "ddc7540aa41b7e49710c19cb8a2a1426d3"
   },
   {
    "server": "mirror.balalaika.click",
@@ -1264,11 +1234,6 @@
    "server": "proxy.subs-sosavpn.ru",
    "port": 8443,
    "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69"
-  },
-  {
-   "server": "proxy18.arixo.shop",
-   "port": 443,
-   "secret": "ee819b4efa2397a9470682aae92babee31617669746f2e7275"
   },
   {
    "server": "proxy19.arixo.shop",
@@ -1636,5 +1601,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 327
+ "count": 320
 }
