@@ -11,11 +11,6 @@
    "secret": "ee67738e5814e33556092d27827a2264ef62726f777365722e79616e6465782e636f6d"
   },
   {
-   "server": "103.161.35.23",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "116.203.5.251",
    "port": 995,
    "secret": "8O6wvZrcT9SpOZTuOyohaw=="
@@ -91,11 +86,6 @@
    "secret": "fad015155defc3a8bd8ebc16b5d2b300"
   },
   {
-   "server": "176.65.128.63",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "176.65.135.69",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -104,6 +94,11 @@
    "server": "185.44.253.46",
    "port": 20598,
    "secret": "870cd7d91c727fc7d9687a8fedd8c23d"
+  },
+  {
+   "server": "194.120.230.26",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "2.26.124.102",
@@ -561,11 +556,6 @@
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
-   "server": "core.proxyvpn.site",
-   "port": 443,
-   "secret": "eeeaedcd5747e28104b7a1cbc25cf37ec1636f72652e70726f787976706e2e73697465"
-  },
-  {
    "server": "data.proxyvpn.site",
    "port": 443,
    "secret": "ee7d75b7a3d02eefad99691681a534c1fe646174612e70726f787976706e2e73697465"
@@ -821,11 +811,6 @@
    "secret": "ee55aabc9752a9d9d379e02943cf8117956164732e78352e7275"
   },
   {
-   "server": "hub.proxyvpn.site",
-   "port": 443,
-   "secret": "ee7f6d6d39e09f3578784d72946dae50cc6875622e70726f787976706e2e73697465"
-  },
-  {
    "server": "ihkljklk.etherealvpn.uk",
    "port": 443,
    "secret": "eebfee6bc937ce40159186de7ece967a95617669746f2e7275"
@@ -924,11 +909,6 @@
    "server": "login.veltura.digital",
    "port": 443,
    "secret": "ee5958726ff7014366a3b70d38ff0c8e456c6f67696e2e76656c747572612e6469676974616c"
-  },
-  {
-   "server": "lumen.proxytop.space",
-   "port": 443,
-   "secret": "ee77a9c0a7c576db75ddb379ffc1ea49786c756d656e2e70726f7879746f702e7370616365"
   },
   {
    "server": "mail.proxyz.site",
@@ -1109,11 +1089,6 @@
    "server": "onyx.proxytg.live",
    "port": 443,
    "secret": "ee8e4bd7b2a034418fd924aeed3c97cd7b6f6e79782e70726f787974672e6c697665"
-  },
-  {
-   "server": "onyx.proxytop.space",
-   "port": 443,
-   "secret": "eec1115da4080fd04ee24a09d60682c66a6f6e79782e70726f7879746f702e7370616365"
   },
   {
    "server": "open.gpoint.website",
@@ -1596,5 +1571,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 319
+ "count": 314
 }
