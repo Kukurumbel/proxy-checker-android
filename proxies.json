@@ -66,11 +66,6 @@
    "secret": "eebf2b18633bd20310eeb833852083d1277777772e77702e706c"
   },
   {
-   "server": "155.212.220.62",
-   "port": 443,
-   "secret": "ee0ee24cdae558c51694f679bfe4d8314a7275747562652e7275"
-  },
-  {
    "server": "159.69.26.72",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -124,6 +119,11 @@
    "server": "2.26.125.82",
    "port": 443,
    "secret": "ee6d6963726f736f66742e636f6dd95c"
+  },
+  {
+   "server": "2.56.240.116",
+   "port": 443,
+   "secret": "ee1b1ee2dde44530b7148d7b9d530a3b6e79616e6465782e7275"
   },
   {
    "server": "5.75.199.104",
@@ -256,6 +256,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "79.137.196.223",
+   "port": 3443,
+   "secret": "eeee33159ebd0ee0dcafef811a9bc7c2ab8d7777772e636c6f7564666c6172652e636f6d"
+  },
+  {
    "server": "81.90.17.230",
    "port": 8530,
    "secret": "eed9d1fceb145ca35d0b9a07bd662e57df7777772e6f6e65742e706c"
@@ -287,6 +292,11 @@
   },
   {
    "server": "93.77.178.229",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "93.77.178.254",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -331,6 +341,11 @@
    "secret": "eee22c06bb888f0bd9819402db66514c11617669746f2e7275"
   },
   {
+   "server": "93.77.188.219",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "93.77.190.100",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -369,11 +384,6 @@
    "server": "apex.proxym.world",
    "port": 443,
    "secret": "ee4459d77ba2b570d1a593a478d3cd94a4617065782e70726f78796d2e776f726c64"
-  },
-  {
-   "server": "apex.proxystepa.site",
-   "port": 443,
-   "secret": "eeded4b2736737b1f6bd19f6a07de257d0617065782e70726f787973746570612e73697465"
   },
   {
    "server": "apex.proxytop.space",
@@ -626,11 +636,6 @@
    "secret": "ddf9cbb3978cf95814666a7760fec37f90"
   },
   {
-   "server": "feed.proxyvpn.ink",
-   "port": 443,
-   "secret": "eef9cbb3978cf95814666a7760fec37f90666565642e70726f787976706e2e696e6b"
-  },
-  {
    "server": "files.prx.today",
    "port": 443,
    "secret": "eed19f9c1acf32e3b20825add6d073f07866696c65732e7072782e746f646179"
@@ -784,11 +789,6 @@
    "server": "go.proxyz.site",
    "port": 443,
    "secret": "ee36854d344477eab338dda799b071116b676f2e70726f78797a2e73697465"
-  },
-  {
-   "server": "goo.vingardium.co.uk.",
-   "port": 8443,
-   "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v"
   },
   {
    "server": "googel.alo-otp.info.",
@@ -1086,11 +1086,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "nova.proxlet.site",
-   "port": 443,
-   "secret": "ee8df74a1ab10ffde1cb7b2cb2deb918016e6f76612e70726f786c65742e73697465"
-  },
-  {
    "server": "nova.proxym.world",
    "port": 443,
    "secret": "eea6e33ccecbfb096e42a2a735e59532436e6f76612e70726f78796d2e776f726c64"
@@ -1153,7 +1148,17 @@
   {
    "server": "persian.gulf.ir.olsjddhf.info.",
    "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "persian.gulf.ir.olsjddhf.info.",
+   "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "persian.gulf.ir.olsjddhf.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "play.proxyvpn.site",
@@ -1366,6 +1371,21 @@
    "secret": "eed4b7509c0cafb248e486429cb088498070726f787937302e617269786f2e73686f70"
   },
   {
+   "server": "proxy71.arixo.shop",
+   "port": 443,
+   "secret": "ee2bd0d079ba9a89c23feb0ab8dbc15e4770726f787937312e617269786f2e73686f70"
+  },
+  {
+   "server": "proxy72.arixo.shop",
+   "port": 443,
+   "secret": "eed9daaec0722fbe76dca5c2e92dd5dd7870726f787937322e617269786f2e73686f70"
+  },
+  {
+   "server": "proxy73.arixo.shop",
+   "port": 443,
+   "secret": "eee2285cad7b3cb2727f3bc1605bb63b3970726f787937332e617269786f2e73686f70"
+  },
+  {
    "server": "public2.mtproxygram.lol",
    "port": 443,
    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d"
@@ -1389,11 +1409,6 @@
    "server": "relay.prx.today",
    "port": 443,
    "secret": "eec68955d36d7f04a4ad1b6b0e82c7baeb72656c61792e7072782e746f646179"
-  },
-  {
-   "server": "rocket.proxlet.site",
-   "port": 443,
-   "secret": "eed820fcb44d576ead3854439b5b044d32726f636b65742e70726f786c65742e73697465"
   },
   {
    "server": "rudomain.info.",
@@ -1596,5 +1611,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 319
+ "count": 322
 }
