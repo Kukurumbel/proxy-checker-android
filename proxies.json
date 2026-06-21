@@ -6,11 +6,6 @@
    "secret": "ee82ec8023c4a68532d536b94c53c8a7ba62726f777365722e79616e6465782e636f6d"
   },
   {
-   "server": "098u.mtproxygram.pro",
-   "port": 853,
-   "secret": "ee67738e5814e33556092d27827a2264ef62726f777365722e79616e6465782e636f6d"
-  },
-  {
    "server": "116.203.5.251",
    "port": 995,
    "secret": "8O6wvZrcT9SpOZTuOyohaw=="
@@ -61,11 +56,6 @@
    "secret": "eebf2b18633bd20310eeb833852083d1277777772e77702e706c"
   },
   {
-   "server": "158.220.94.74",
-   "port": 443,
-   "secret": "ee4e7e3c97c9fc442cacb935955277ba29676f6f676c65617069732e636f6d"
-  },
-  {
    "server": "159.69.26.72",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -91,9 +81,9 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "194.233.79.52",
+   "server": "194.233.87.152",
    "port": 443,
-   "secret": "eeae4238427921aba7b1fcb407e1f37ce1676f6f676c65617069732e636f6d"
+   "secret": "ee4e7e3c97c9fc442cacb935955277ba29676f6f676c65617069732e636f6d"
   },
   {
    "server": "2.26.124.102",
@@ -206,6 +196,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "62.146.175.138",
+   "port": 443,
+   "secret": "ee4e7e3c97c9fc442cacb935955277ba29676f6f676c65617069732e636f6d"
+  },
+  {
    "server": "65.108.126.206",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -221,19 +216,9 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.109.255.99",
-   "port": 443,
-   "secret": "YyEEgYdJXfrFmgMCIMJdjgYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY"
-  },
-  {
    "server": "65.21.83.248",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "66.94.112.235",
-   "port": 443,
-   "secret": "ee4e7e3c97c9fc442cacb935955277ba29676f6f676c65617069732e636f6d"
   },
   {
    "server": "72.56.75.89",
@@ -364,6 +349,11 @@
    "server": "93.77.191.135",
    "port": 443,
    "secret": "ee2adf378e4dda51ba74fcdfa375e9ef1a617669746f2e7275"
+  },
+  {
+   "server": "94.72.107.69",
+   "port": 443,
+   "secret": "ee4e7e3c97c9fc442cacb935955277ba29676f6f676c65617069732e636f6d"
   },
   {
    "server": "95.216.123.224",
@@ -571,11 +561,6 @@
    "secret": "eeacd41b6bbfa3b3f3d50a25511430857464726966742e70726f78796f6e6c696e652e6f6e6c696e65"
   },
   {
-   "server": "durev.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "echo.proxym.world",
    "port": 443,
    "secret": "ee03856fdd3a0b54784892677df90144a06563686f2e70726f78796d2e776f726c64"
@@ -716,11 +701,6 @@
    "secret": "eefdf6175e50069c01bd22d786534aa2b26164732e78352e7275"
   },
   {
-   "server": "Gengbeng.etherealvpn.uk",
-   "port": 443,
-   "secret": "eec3332fab3d82ff009bc26822e5b7dc84617669746f2e7275"
-  },
-  {
    "server": "gergh.etherealvpn.uk",
    "port": 443,
    "secret": "ee543c9faea80baa5803188629f133cfc5617669746f2e7275"
@@ -844,11 +824,6 @@
    "server": "Kingdom-persia.ir.hey-gardash.info.",
    "port": 1080,
    "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "kria4.snappytuppy.icu",
-   "port": 443,
-   "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375"
   },
   {
    "server": "link.freetg.pw",
@@ -1031,6 +1006,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "news.future.ir.balabolanda.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "node.mishkalapy.life",
    "port": 443,
    "secret": "ee0a90f3b3396f5d29c64a47ef6615078d6e6f64652e6d6973686b616c6170792e6c696665"
@@ -1159,16 +1139,6 @@
    "server": "proxy2.redemshenvpn.site",
    "port": 443,
    "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0"
-  },
-  {
-   "server": "proxy50.arixo.shop",
-   "port": 443,
-   "secret": "ee575d377290b9d579fe1e572c4b8d4b7b617669746f2e7275"
-  },
-  {
-   "server": "proxy51.arixo.shop",
-   "port": 443,
-   "secret": "ee5213729eae4670d804f594044f81b831617669746f2e7275"
   },
   {
    "server": "proxy52.arixo.shop",
@@ -1501,5 +1471,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 300
+ "count": 294
 }
