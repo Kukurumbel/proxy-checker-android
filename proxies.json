@@ -1031,11 +1031,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "ns.proxyz.site",
-   "port": 443,
-   "secret": "ee45e7845ee5a032aa5ccf1915270d18016e732e70726f78797a2e73697465"
-  },
-  {
    "server": "ns1.what-ever.co.uk.",
    "port": 443,
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
@@ -1451,11 +1446,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "www.vingardium.co.uk.",
-   "port": 443,
-   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
-  },
-  {
    "server": "www2.nilmart.ir",
    "port": 443,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -1471,5 +1461,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 294
+ "count": 292
 }
