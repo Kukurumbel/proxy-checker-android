@@ -71,6 +71,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "194.120.230.120",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "194.120.230.26",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -97,6 +102,11 @@
   },
   {
    "server": "5.75.199.104",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "5.75.203.37",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -576,6 +586,11 @@
    "secret": "eeb72954885d6fd069f16372f54e9c9939656467652e6c6962726176612e636c69636b"
   },
   {
+   "server": "edge.librava.click",
+   "port": 443,
+   "secret": "eefbf1daa1dfac9d57e9931bcb6f600e41656467652e6c6962726176612e636c69636b"
+  },
+  {
    "server": "edge.prxtoday.store",
    "port": 443,
    "secret": "ee9ca7db6793ada8892580787426c44fa2656467652e707278746f6461792e73746f7265"
@@ -864,6 +879,11 @@
    "server": "login.klyuch1k.org",
    "port": 443,
    "secret": "ee7fe48cfdec0ea3ef252cabc2fadda0206c6f67696e2e6b6c79756368316b2e6f7267"
+  },
+  {
+   "server": "login.veltura.digital",
+   "port": 443,
+   "secret": "ee4c8a0558e2816595cb5fa0718be51a316c6f67696e2e76656c747572612e6469676974616c"
   },
   {
    "server": "login.veltura.digital",
@@ -1476,5 +1496,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 295
+ "count": 299
 }
