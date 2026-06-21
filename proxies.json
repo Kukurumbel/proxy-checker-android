@@ -26,11 +26,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "138.124.33.176",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "144.31.215.119",
    "port": 443,
    "secret": "ee6d6963726f736f66742e636f6d2379"
@@ -71,6 +66,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "161.97.167.251",
+   "port": 443,
+   "secret": "eec14b841016ce9b05f48e9ed7f2d9de9e676f6f676c65617069732e636f6d"
+  },
+  {
    "server": "167-233-100-238.xip.lhjmmc.cn",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -84,11 +84,6 @@
    "server": "167.233.54.153",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "176.65.135.69",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "185.44.253.46",
@@ -114,6 +109,11 @@
    "server": "2.26.125.82",
    "port": 443,
    "secret": "ee6d6963726f736f66742e636f6dd95c"
+  },
+  {
+   "server": "212.56.44.174",
+   "port": 443,
+   "secret": "ee79ba93b4e649ba70dcd191e72539c99e676f6f676c65617069732e636f6d"
   },
   {
    "server": "5.75.199.104",
@@ -166,19 +166,9 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "51.250.75.249",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "51.250.75.98",
    "port": 443,
    "secret": "ee2af448fb2a21cb48d6b3872514134fb7617669746f2e7275"
-  },
-  {
-   "server": "51.250.78.59",
-   "port": 443,
-   "secret": "eefd6c10517940b3ad79ce5e3d40c9972e617669746f2e7275"
   },
   {
    "server": "51.250.8.185",
@@ -246,6 +236,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "66.94.107.23",
+   "port": 443,
+   "secret": "eecfcd09956992b6d4dd0bf6aa2a8f63cd676f6f676c65617069732e636f6d"
+  },
+  {
    "server": "72.56.75.89",
    "port": 443,
    "secret": "eedf76bd1a13223fa63471ea530913415a7275747562652e7275"
@@ -286,17 +281,22 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "93.77.164.229",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "93.77.164.33",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "93.77.176.9",
+   "server": "93.77.166.29",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "93.77.178.229",
+   "server": "93.77.176.9",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -307,11 +307,6 @@
   },
   {
    "server": "93.77.179.16",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "93.77.181.195",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -449,6 +444,11 @@
    "server": "back.nolags.pw",
    "port": 443,
    "secret": "dd23930f2da14e8bad3dcf4620e9db128b"
+  },
+  {
+   "server": "bale-ai.vingardium.co.uk.",
+   "port": 443,
+   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
    "server": "best-sellerst.co.uk.",
@@ -716,11 +716,6 @@
    "secret": "eefdf6175e50069c01bd22d786534aa2b26164732e78352e7275"
   },
   {
-   "server": "Geng.etherealvpn.uk",
-   "port": 443,
-   "secret": "eefd6c10517940b3ad79ce5e3d40c9972e617669746f2e7275"
-  },
-  {
    "server": "Gengbeng.etherealvpn.uk",
    "port": 443,
    "secret": "eec3332fab3d82ff009bc26822e5b7dc84617669746f2e7275"
@@ -791,11 +786,6 @@
    "secret": "7mEE1f2TbEkwl48CJxZt6qlhZHMueDUucnU"
   },
   {
-   "server": "hl.routefastnet.online",
-   "port": 443,
-   "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
-  },
-  {
    "server": "hub.nowabst.net",
    "port": 853,
    "secret": "ee55aabc9752a9d9d379e02943cf8117956164732e78352e7275"
@@ -809,6 +799,11 @@
    "server": "img.prx.today",
    "port": 443,
    "secret": "eee27d5cb82b4da82e09ef06a98d4cd37f696d672e7072782e746f646179"
+  },
+  {
+   "server": "in-vase-to.ir.biobarmesh.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "Iran.mother.ir.jetish.info.",
@@ -1131,11 +1126,6 @@
    "secret": "ee916d6aba60d3915467ca2df333a6c478706f7274616c2e6d616c6576696368372e746f70"
   },
   {
-   "server": "portal.old-but-new.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
    "server": "proxy.garden-troll.life",
    "port": 443,
    "secret": "ee115cda68b4cc09401106aad10c97475d70726f78792e67617264656e2d74726f6c6c2e6c696665"
@@ -1169,21 +1159,6 @@
    "server": "proxy2.redemshenvpn.site",
    "port": 443,
    "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0"
-  },
-  {
-   "server": "proxy44.arixo.shop",
-   "port": 443,
-   "secret": "eec0fc4c756634b16bb71c3714c80329c3617669746f2e7275"
-  },
-  {
-   "server": "proxy45.arixo.shop",
-   "port": 443,
-   "secret": "eea91f379099ba53e83fea21dec0db748d617669746f2e7275"
-  },
-  {
-   "server": "proxy46.arixo.shop",
-   "port": 443,
-   "secret": "eef77eebc21b12355a1323f135cecd7e35617669746f2e7275"
   },
   {
    "server": "proxy49.arixo.shop",
@@ -1316,6 +1291,16 @@
    "secret": "ee6f3a00450c21768cdfa44d595ed0982b70726f787937372e617269786f2e73686f70"
   },
   {
+   "server": "proxy78.arixo.shop",
+   "port": 443,
+   "secret": "eee82436254d6b2113eae406b2f79396e670726f787937382e617269786f2e73686f70"
+  },
+  {
+   "server": "proxy79.arixo.shop",
+   "port": 443,
+   "secret": "ee9ad12a14bf46ff6f3692297c67c3babe70726f787937392e617269786f2e73686f70"
+  },
+  {
    "server": "pulse.proxytelega.store",
    "port": 443,
    "secret": "ee03a380e712e90ec011ab33582441aee170756c73652e70726f787974656c6567612e73746f7265"
@@ -1446,19 +1431,9 @@
    "secret": "eeda2f673a3e3c3aef6e9e7ae76dc7d403747572626f2e70726f78797a2e73697465"
   },
   {
-   "server": "uplink.techlibrary.ink",
-   "port": 4501,
-   "secret": "ee17e6d4e0d143817328e4341210e9bb3a636c6f7564666c6172652e636f6d"
-  },
-  {
    "server": "v.vkgosuslugi.ru",
    "port": 443,
    "secret": "ee34fd4e8e9b8d0008a2d80f7e8b80ce8277622e7275"
-  },
-  {
-   "server": "vibe.proxyonline.online",
-   "port": 443,
-   "secret": "ee658ee8ba38b14db544ee2954023446d0766962652e70726f78796f6e6c696e652e6f6e6c696e65"
   },
   {
    "server": "vl.lees.linkpc.net",
@@ -1531,5 +1506,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 306
+ "count": 301
 }
