@@ -1,11 +1,6 @@
 {
  "proxies": [
   {
-   "server": "098g.mtproxygram.pro",
-   "port": 853,
-   "secret": "ee82ec8023c4a68532d536b94c53c8a7ba62726f777365722e79616e6465782e636f6d"
-  },
-  {
    "server": "116.203.5.251",
    "port": 995,
    "secret": "8O6wvZrcT9SpOZTuOyohaw=="
@@ -451,11 +446,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "bolt.proxyonline.online",
-   "port": 443,
-   "secret": "ee98741a4df96ee86a25ca542a538a3484626f6c742e70726f78796f6e6c696e652e6f6e6c696e65"
-  },
-  {
    "server": "br.kingproxynewdomailasiatech.ink",
    "port": 22,
    "secret": "dd79e7010200010007f0030386e24c3add"
@@ -473,6 +463,11 @@
   {
    "server": "cdn.savelyev.click",
    "port": 443,
+   "secret": "ee96c7c43d46625840bd7b75721a74a43063646e2e736176656c7965762e636c69636b"
+  },
+  {
+   "server": "cdn.savelyev.click",
+   "port": 443,
    "secret": "eec9c9bb1b8b220bfb0517e575dc34e1e563646e2e736176656c7965762e636c69636b"
   },
   {
@@ -484,6 +479,11 @@
    "server": "cdn.toconvel.digital",
    "port": 443,
    "secret": "ee40e625d3286a6e8aeab9fa83bea77e1763646e2e746f636f6e76656c2e6469676974616c"
+  },
+  {
+   "server": "cdn.toconvel.digital",
+   "port": 443,
+   "secret": "ee4b626208a4a1f7bf6ed78ba01c5a4cd263646e2e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "cdn.toconvel.digital",
@@ -608,6 +608,11 @@
   {
    "server": "fast.garden-troll.life",
    "port": 443,
+   "secret": "eea3dc3cf5e6fb44c1e2f2cdd3e9bf9acb666173742e67617264656e2d74726f6c6c2e6c696665"
+  },
+  {
+   "server": "fast.garden-troll.life",
+   "port": 443,
    "secret": "eec90c608f031e8b582a2047afce34175f666173742e67617264656e2d74726f6c6c2e6c696665"
   },
   {
@@ -726,11 +731,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "glide.proxyonline.online",
-   "port": 443,
-   "secret": "eeb4cf448c2c66dc6151b6746bd1799ae5676c6964652e70726f78796f6e6c696e652e6f6e6c696e65"
-  },
-  {
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "ee0d12d8f206a08b06eced9a104734a824676f2e616e7469747370752e636f6d"
@@ -739,6 +739,11 @@
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "ee31d386ef7e695ee39f4f28ecfbd28a37676f2e616e7469747370752e636f6d"
+  },
+  {
+   "server": "go.antitspu.com",
+   "port": 443,
+   "secret": "ee8209c31793eed02f435ab753825b891f676f2e616e7469747370752e636f6d"
   },
   {
    "server": "go.pelmeshka.top",
@@ -1088,6 +1093,11 @@
   {
    "server": "portal.balalaika.click",
    "port": 443,
+   "secret": "ee6d1c554e874ffba6252e1e36768eb5a4706f7274616c2e62616c616c61696b612e636c69636b"
+  },
+  {
+   "server": "portal.balalaika.click",
+   "port": 443,
    "secret": "eefcbdb65a11b00bbfbbd9de6fb0b17099706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
@@ -1109,11 +1119,6 @@
    "server": "proxy.garden-troll.life",
    "port": 443,
    "secret": "ee3851712169434d3953e08f470d7ccaa170726f78792e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
-   "server": "proxy.pushvpn.space",
-   "port": 443,
-   "secret": "ee27c7f948bc8c223e13ae240911e783ab7777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "proxy.redemshenvpn.site",
@@ -1301,6 +1306,16 @@
    "secret": "ee9021e985e3089e1401dd746820a5e63d7365637572652e676f72627573686b696e2e636c69636b"
   },
   {
+   "server": "secure.gorbushkin.click",
+   "port": 443,
+   "secret": "eecab4484829951a99c587564657b51ad37365637572652e676f72627573686b696e2e636c69636b"
+  },
+  {
+   "server": "secure.medhata.org",
+   "port": 443,
+   "secret": "ee50b26f8744857d1ca0d4f3c94eaf779f7365637572652e6d6564686174612e6f7267"
+  },
+  {
    "server": "secure.medhata.org",
    "port": 443,
    "secret": "ee5e2b1fd30d641d0a1a5f8dbf932d8ce57365637572652e6d6564686174612e6f7267"
@@ -1416,9 +1431,9 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
   },
   {
-   "server": "wave.proxytelega.store",
+   "server": "web.asiaadomainsshatelhamrahaval.co.uk.",
    "port": 443,
-   "secret": "eee12b7ef9718c53b06c8a416387c8d4a6776176652e70726f787974656c6567612e73746f7265"
+   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
    "server": "web.jinxandjack.co.uk.",
@@ -1461,5 +1476,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 292
+ "count": 295
 }
