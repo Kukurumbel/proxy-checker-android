@@ -106,6 +106,11 @@
    "secret": "ee6d6963726f736f66742e636f6dd95c"
   },
   {
+   "server": "34.51.255.77",
+   "port": 443,
+   "secret": "dd111304d9c2b55a043efd8139aaf51ef5"
+  },
+  {
    "server": "5.189.165.109",
    "port": 443,
    "secret": "ee417d3d7571c540ec9fbc4fd1995058a1676f6f676c65617069732e636f6d"
@@ -663,6 +668,11 @@
   {
    "server": "gate.veltura.digital",
    "port": 443,
+   "secret": "ee4a5219514ece921fa0cf2c3c77c29d16676174652e76656c747572612e6469676974616c"
+  },
+  {
+   "server": "gate.veltura.digital",
+   "port": 443,
    "secret": "eeb9c797fcd759c89dba799d17d7c83623676174652e76656c747572612e6469676974616c"
   },
   {
@@ -1014,6 +1024,11 @@
    "server": "node.mishkalapy.life",
    "port": 443,
    "secret": "ee260d5ca0b469dc17230009fb59f69ac96e6f64652e6d6973686b616c6170792e6c696665"
+  },
+  {
+   "server": "node.mishkalapy.life",
+   "port": 443,
+   "secret": "ee48768a46d726771e9f10a686fae5714e6e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
    "server": "node.prx.today",
@@ -1471,5 +1486,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 294
+ "count": 297
 }
