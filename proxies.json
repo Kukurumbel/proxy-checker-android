@@ -6,24 +6,9 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "144.31.215.119",
-   "port": 443,
-   "secret": "ee6d6963726f736f66742e636f6d2379"
-  },
-  {
    "server": "144.31.25.150",
    "port": 5223,
    "secret": "eee6a8dff69d6fdeac388cca6d20ccb4427777772e6170706c652e636f6d"
-  },
-  {
-   "server": "144.31.28.211",
-   "port": 443,
-   "secret": "ee6d6963726f736f66742e636f6d25ae"
-  },
-  {
-   "server": "150.241.65.151",
-   "port": 443,
-   "secret": "ee6d6963726f736f66742e636f6d2e03"
   },
   {
    "server": "150.241.68.198",
@@ -59,6 +44,11 @@
    "server": "167.233.54.153",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "server": "178.18.147.11",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "194.120.230.120",
@@ -291,6 +281,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "93.77.165.1",
+   "port": 443,
+   "secret": "ee9f9c9180dbe1d442fbe689aed524f60f617669746f2e7275"
+  },
+  {
    "server": "93.77.165.26",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -336,17 +331,12 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "93.77.187.54",
+   "server": "93.77.188.219",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "93.77.188.108",
-   "port": 443,
-   "secret": "ee8b4a1336cee1ea54a5b3e3b1f2b1cfd9617669746f2e7275"
-  },
-  {
-   "server": "93.77.188.219",
+   "server": "93.77.188.224",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -369,6 +359,16 @@
    "server": "95.216.123.224",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "active.freetg.shop",
+   "port": 37443,
+   "secret": "139fa759df13542a416f1ee5af8d75f1"
+  },
+  {
+   "server": "active.freetg.shop",
+   "port": 38443,
+   "secret": "5a4137b07851fc43bd39a6955f56a79b"
   },
   {
    "server": "ad1.loveproxy.xyz",
@@ -461,11 +461,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "bia-ba-ham-bashim.ir.jhsdkhsds.info.",
-   "port": 443,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "blue.protocolsix.info",
    "port": 22,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -514,11 +509,6 @@
    "server": "cdn.toconvel.digital",
    "port": 443,
    "secret": "eeddeeeeb0dda28d2a517ff1c71036f2c663646e2e746f636f6e76656c2e6469676974616c"
-  },
-  {
-   "server": "charley.proproxies.top",
-   "port": 443,
-   "secret": "eedf71b7382316de5f4359084a5544f506636861726c65792e70726f70726f786965732e746f70"
   },
   {
    "server": "cloud.mowork.ru",
@@ -606,11 +596,6 @@
    "secret": "eef46bc72f595e749cb5c623c19e2251f5656467652e726b6e77617463682e6469676974616c"
   },
   {
-   "server": "End-of-any-proxy.ir.hohoshshs.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "f.reverse.linkpc.net",
    "port": 443,
    "secret": "ee465651a1836fd4320395aba3f4d621556a2e736e692d3634342d64656661756c742e73736c2e666173746c792e6e6574"
@@ -659,6 +644,16 @@
    "server": "form.quickdl.info",
    "port": 22,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "free1.loveproxy.xyz",
+   "port": 443,
+   "secret": "ee790564eb7681ead5fa55f10c7ee61c3d62726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "free2.loveproxy.xyz",
+   "port": 443,
+   "secret": "ee790564eb7681ead5fa55f10c7ee61c3d62726f777365722e79616e6465782e7275"
   },
   {
    "server": "fresh.t-proxy.info.",
@@ -739,6 +734,11 @@
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "ee31d386ef7e695ee39f4f28ecfbd28a37676f2e616e7469747370752e636f6d"
+  },
+  {
+   "server": "go.antitspu.com",
+   "port": 443,
+   "secret": "ee446e5146f1a0fce735922dcb7ecca5ed676f2e616e7469747370752e636f6d"
   },
   {
    "server": "go.antitspu.com",
@@ -894,11 +894,6 @@
    "server": "login.veltura.digital",
    "port": 443,
    "secret": "ee5958726ff7014366a3b70d38ff0c8e456c6f67696e2e76656c747572612e6469676974616c"
-  },
-  {
-   "server": "mail.proxyz.site",
-   "port": 443,
-   "secret": "ee34cce08e4b2b62d5f9b3c4d71f6bd2646d61696c2e70726f78797a2e73697465"
   },
   {
    "server": "max.kimt.click",
@@ -1066,11 +1061,6 @@
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
-   "server": "okey.miresadandrooz.info.",
-   "port": 443,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "onyx.proxytg.live",
    "port": 443,
    "secret": "ee8e4bd7b2a034418fd924aeed3c97cd7b6f6e79782e70726f787974672e6c697665"
@@ -1114,6 +1104,11 @@
    "server": "portal.balalaika.click",
    "port": 443,
    "secret": "ee6d1c554e874ffba6252e1e36768eb5a4706f7274616c2e62616c616c61696b612e636c69636b"
+  },
+  {
+   "server": "portal.balalaika.click",
+   "port": 443,
+   "secret": "eeb1e9573672dbba7fe8d14da9a2249be8706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
    "server": "portal.balalaika.click",
@@ -1174,11 +1169,6 @@
    "server": "proxy2.redemshenvpn.site",
    "port": 443,
    "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0"
-  },
-  {
-   "server": "proxy57.arixo.shop",
-   "port": 443,
-   "secret": "ee94fabf2d59ff784e18a41ac324db82d4617669746f2e7275"
   },
   {
    "server": "proxy58.arixo.shop",
@@ -1306,6 +1296,11 @@
    "secret": "eed715e5e741cb3ce98a926b8ee5ac68dc70726f787939302e617269786f2e73686f70"
   },
   {
+   "server": "proxy91.arixo.shop",
+   "port": 443,
+   "secret": "ee7df5843393897f468c2c1e77531c54f870726f787939312e617269786f2e73686f70"
+  },
+  {
    "server": "proxy92.arixo.shop",
    "port": 443,
    "secret": "ee6cdb57cbb4f03bda88dfb4db2bae2bfe70726f787939322e617269786f2e73686f70"
@@ -1319,6 +1314,11 @@
    "server": "relay.prx.today",
    "port": 443,
    "secret": "eec68955d36d7f04a4ad1b6b0e82c7baeb72656c61792e7072782e746f646179"
+  },
+  {
+   "server": "rostam-dastan.ir.jhsdkhsds.info.",
+   "port": 443,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "rudomain.info.",
@@ -1396,6 +1396,11 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "sum.beatvault.ru",
+   "port": 443,
+   "secret": "eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d"
+  },
+  {
    "server": "super-hero-iran.ir.mausjakaqd.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
@@ -1404,11 +1409,6 @@
    "server": "surge.linkflowhub.shop",
    "port": 443,
    "secret": "ee932f87d141afddf9a957c5e3c85d8bb673757267652e6c696e6b666c6f776875622e73686f70"
-  },
-  {
-   "server": "team.work.ir.olsjddhf.info.",
-   "port": 443,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "Telegram.best.ir.heazshddd.info.",
@@ -1436,11 +1436,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "turbo.proxyz.site",
-   "port": 443,
-   "secret": "eeda2f673a3e3c3aef6e9e7ae76dc7d403747572626f2e70726f78797a2e73697465"
-  },
-  {
    "server": "v.vkgosuslugi.ru",
    "port": 443,
    "secret": "ee34fd4e8e9b8d0008a2d80f7e8b80ce8277622e7275"
@@ -1459,11 +1454,6 @@
    "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
-   "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
   },
   {
    "server": "web.asiaadomainsshatelhamrahaval.co.uk.",
@@ -1521,5 +1511,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 304
+ "count": 302
 }
