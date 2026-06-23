@@ -1,66 +1,66 @@
 {
  "proxies": [
   {
-   "server": "167.233.48.222",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 117
-  },
-  {
-   "server": "b8rta.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 149
-  },
-  {
-   "server": "proxy.redemshenvpn.site",
-   "port": 443,
-   "secret": "dd81d2ede8c591eeb5a39000d24e211694",
-   "ping": 159
-  },
-  {
-   "server": "kha8shen.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 164
-  },
-  {
-   "server": "pmcdin.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 167
-  },
-  {
-   "server": "zinova.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 171
-  },
-  {
-   "server": "back.nolags.pw",
-   "port": 443,
-   "secret": "dd23930f2da14e8bad3dcf4620e9db128b",
-   "ping": 177
-  },
-  {
-   "server": "proxy2.redemshenvpn.site",
-   "port": 443,
-   "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0",
-   "ping": 196
+   "server": "br.kingproxynewdomailasiatech.ink",
+   "port": 22,
+   "secret": "dd79e7010200010007f0030386e24c3add",
+   "ping": 73
   },
   {
    "server": "Kingdom-persia.ir.hey-gardash.info.",
    "port": 1080,
    "secret": "79e344818749bd7ac519130220c25d09",
-   "ping": 292
+   "ping": 99
   },
   {
-   "server": "br.kingproxynewdomailasiatech.ink",
-   "port": 22,
-   "secret": "dd79e7010200010007f0030386e24c3add",
-   "ping": 483
+   "server": "167.233.48.222",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 100
+  },
+  {
+   "server": "kha8shen.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 107
+  },
+  {
+   "server": "pmcdin.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 116
+  },
+  {
+   "server": "b8rta.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 122
+  },
+  {
+   "server": "proxy.redemshenvpn.site",
+   "port": 443,
+   "secret": "dd81d2ede8c591eeb5a39000d24e211694",
+   "ping": 145
+  },
+  {
+   "server": "back.nolags.pw",
+   "port": 443,
+   "secret": "dd23930f2da14e8bad3dcf4620e9db128b",
+   "ping": 153
+  },
+  {
+   "server": "proxy2.redemshenvpn.site",
+   "port": 443,
+   "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0",
+   "ping": 157
+  },
+  {
+   "server": "zinova.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 328
   }
  ],
  "count": 10,
- "checked": 301
+ "checked": 304
 }
