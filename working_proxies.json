@@ -1,78 +1,66 @@
 {
  "proxies": [
   {
-   "server": "br.kingproxynewdomailasiatech.ink",
-   "port": 22,
-   "secret": "dd79e7010200010007f0030386e24c3add",
-   "ping": 149
-  },
-  {
    "server": "167.233.48.222",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 155
-  },
-  {
-   "server": "Kingdom-persia.ir.hey-gardash.info.",
-   "port": 1080,
-   "secret": "79e344818749bd7ac519130220c25d09",
-   "ping": 161
-  },
-  {
-   "server": "proxy2.redemshenvpn.site",
-   "port": 443,
-   "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0",
-   "ping": 168
-  },
-  {
-   "server": "34.51.255.77",
-   "port": 443,
-   "secret": "dd111304d9c2b55a043efd8139aaf51ef5",
-   "ping": 171
-  },
-  {
-   "server": "proxy.redemshenvpn.site",
-   "port": 443,
-   "secret": "dd81d2ede8c591eeb5a39000d24e211694",
-   "ping": 173
-  },
-  {
-   "server": "zinova.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 181
-  },
-  {
-   "server": "kha8shen.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 186
-  },
-  {
-   "server": "back.nolags.pw",
-   "port": 443,
-   "secret": "dd23930f2da14e8bad3dcf4620e9db128b",
-   "ping": 191
+   "ping": 117
   },
   {
    "server": "b8rta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 200
+   "ping": 149
+  },
+  {
+   "server": "proxy.redemshenvpn.site",
+   "port": 443,
+   "secret": "dd81d2ede8c591eeb5a39000d24e211694",
+   "ping": 159
+  },
+  {
+   "server": "kha8shen.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 164
   },
   {
    "server": "pmcdin.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 307
+   "ping": 167
   },
   {
-   "server": "proxy.subs-sosavpn.ru",
-   "port": 8443,
-   "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69",
-   "ping": 563
+   "server": "zinova.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 171
+  },
+  {
+   "server": "back.nolags.pw",
+   "port": 443,
+   "secret": "dd23930f2da14e8bad3dcf4620e9db128b",
+   "ping": 177
+  },
+  {
+   "server": "proxy2.redemshenvpn.site",
+   "port": 443,
+   "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0",
+   "ping": 196
+  },
+  {
+   "server": "Kingdom-persia.ir.hey-gardash.info.",
+   "port": 1080,
+   "secret": "79e344818749bd7ac519130220c25d09",
+   "ping": 292
+  },
+  {
+   "server": "br.kingproxynewdomailasiatech.ink",
+   "port": 22,
+   "secret": "dd79e7010200010007f0030386e24c3add",
+   "ping": 483
   }
  ],
- "count": 12,
- "checked": 297
+ "count": 10,
+ "checked": 301
 }
