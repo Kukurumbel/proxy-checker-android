@@ -1,72 +1,78 @@
 {
  "proxies": [
   {
-   "server": "proxy.redemshenvpn.site",
-   "port": 443,
-   "secret": "dd81d2ede8c591eeb5a39000d24e211694",
-   "ping": 112
-  },
-  {
    "server": "167.233.48.222",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 114
+   "ping": 126
+  },
+  {
+   "server": "34.51.255.77",
+   "port": 443,
+   "secret": "dd111304d9c2b55a043efd8139aaf51ef5",
+   "ping": 133
   },
   {
    "server": "br.kingproxynewdomailasiatech.ink",
    "port": 22,
    "secret": "dd79e7010200010007f0030386e24c3add",
-   "ping": 127
+   "ping": 134
   },
   {
-   "server": "proxy2.redemshenvpn.site",
+   "server": "proxy.redemshenvpn.site",
    "port": 443,
-   "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0",
-   "ping": 137
-  },
-  {
-   "server": "kha8shen.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 138
-  },
-  {
-   "server": "Kingdom-persia.ir.hey-gardash.info.",
-   "port": 1080,
-   "secret": "79e344818749bd7ac519130220c25d09",
-   "ping": 138
+   "secret": "dd81d2ede8c591eeb5a39000d24e211694",
+   "ping": 158
   },
   {
    "server": "pmcdin.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 149
-  },
-  {
-   "server": "b8rta.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 164
+   "ping": 163
   },
   {
    "server": "back.nolags.pw",
    "port": 443,
    "secret": "dd23930f2da14e8bad3dcf4620e9db128b",
-   "ping": 172
+   "ping": 168
+  },
+  {
+   "server": "b8rta.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 169
   },
   {
    "server": "zinova.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 181
+   "ping": 176
+  },
+  {
+   "server": "kha8shen.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 177
+  },
+  {
+   "server": "proxy2.redemshenvpn.site",
+   "port": 443,
+   "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0",
+   "ping": 185
+  },
+  {
+   "server": "Kingdom-persia.ir.hey-gardash.info.",
+   "port": 1080,
+   "secret": "79e344818749bd7ac519130220c25d09",
+   "ping": 310
   },
   {
    "server": "proxy.subs-sosavpn.ru",
    "port": 8443,
    "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69",
-   "ping": 450
+   "ping": 1336
   }
  ],
- "count": 11,
- "checked": 303
+ "count": 12,
+ "checked": 302
 }
