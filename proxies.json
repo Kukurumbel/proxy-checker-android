@@ -386,6 +386,11 @@
    "secret": "eea71b3252c060bf87230e5212149aac2b6170692e676f72627573686b696e2e636c69636b"
   },
   {
+   "server": "api.gorbushkin.click",
+   "port": 443,
+   "secret": "eeb0f3249f410b7bb9a39b1821400fdf7c6170692e676f72627573686b696e2e636c69636b"
+  },
+  {
    "server": "api.jinxandjack.co.uk.",
    "port": 443,
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
@@ -484,11 +489,6 @@
    "server": "cdn.toconvel.digital",
    "port": 443,
    "secret": "ee4b626208a4a1f7bf6ed78ba01c5a4cd263646e2e746f636f6e76656c2e6469676974616c"
-  },
-  {
-   "server": "cdn.toconvel.digital",
-   "port": 443,
-   "secret": "eeddeeeeb0dda28d2a517ff1c71036f2c663646e2e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "cdn.toconvel.digital",
@@ -663,6 +663,11 @@
   {
    "server": "gate.klyuch1k.org",
    "port": 443,
+   "secret": "ee0630f13105feea50003aeed9e5df4df8676174652e6b6c79756368316b2e6f7267"
+  },
+  {
+   "server": "gate.klyuch1k.org",
+   "port": 443,
    "secret": "ee5300913a77cc2612609f6bd1dcad2ea7676174652e6b6c79756368316b2e6f7267"
   },
   {
@@ -684,6 +689,11 @@
    "server": "gate.veltura.digital",
    "port": 443,
    "secret": "ee4a5219514ece921fa0cf2c3c77c29d16676174652e76656c747572612e6469676974616c"
+  },
+  {
+   "server": "gate.veltura.digital",
+   "port": 443,
+   "secret": "ee4d50c27f02aa90347059343638293ed7676174652e76656c747572612e6469676974616c"
   },
   {
    "server": "gate.veltura.digital",
@@ -724,11 +734,6 @@
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "ee0d12d8f206a08b06eced9a104734a824676f2e616e7469747370752e636f6d"
-  },
-  {
-   "server": "go.antitspu.com",
-   "port": 443,
-   "secret": "ee31d386ef7e695ee39f4f28ecfbd28a37676f2e616e7469747370752e636f6d"
   },
   {
    "server": "go.antitspu.com",
@@ -856,11 +861,6 @@
    "secret": "eeac0a20eeeee11499e99bded774ff29f16c696e6b2e6d6f776f726b2e7275"
   },
   {
-   "server": "live.proxyvpn.site",
-   "port": 443,
-   "secret": "eed2430edff0d3fc503099f982282bd0066c6976652e70726f787976706e2e73697465"
-  },
-  {
    "server": "login.klyuch1k.org",
    "port": 443,
    "secret": "ee62ae22cb0b6c1eb6a62d54ed50ec6c886c6f67696e2e6b6c79756368316b2e6f7267"
@@ -899,6 +899,11 @@
    "server": "login.veltura.digital",
    "port": 443,
    "secret": "ee5958726ff7014366a3b70d38ff0c8e456c6f67696e2e76656c747572612e6469676974616c"
+  },
+  {
+   "server": "malmo.viking-vibe.co.uk",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "max.kimt.click",
@@ -1046,11 +1051,6 @@
    "secret": "ee48768a46d726771e9f10a686fae5714e6e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
-   "server": "node.prx.today",
-   "port": 443,
-   "secret": "ee4fc23f27cad414e0ca758692e060323a6e6f64652e7072782e746f646179"
-  },
-  {
    "server": "norm.quickdl.info",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -1091,19 +1091,9 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
-   "server": "play.proxyvpn.site",
-   "port": 443,
-   "secret": "ee4d0c82ca73f261e6933ec36e5d902ff6706c61792e70726f787976706e2e73697465"
-  },
-  {
    "server": "pmcdin.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "portal.balalaika.click",
-   "port": 443,
-   "secret": "ee538213df0d0186a4a676dea4ed2ee1d6706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
    "server": "portal.balalaika.click",
@@ -1129,11 +1119,6 @@
    "server": "portal.malevich7.top",
    "port": 443,
    "secret": "ee1ed92f1fc75ce363d61dd9310b3c1f3b706f7274616c2e6d616c6576696368372e746f70"
-  },
-  {
-   "server": "portal.malevich7.top",
-   "port": 443,
-   "secret": "ee485df0201883028a6eb46b55fd937b4f706f7274616c2e6d616c6576696368372e746f70"
   },
   {
    "server": "portal.malevich7.top",
@@ -1316,11 +1301,6 @@
    "secret": "ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275"
   },
   {
-   "server": "relay.prx.today",
-   "port": 443,
-   "secret": "eec68955d36d7f04a4ad1b6b0e82c7baeb72656c61792e7072782e746f646179"
-  },
-  {
    "server": "rostam-dastan.ir.jhsdkhsds.info.",
    "port": 443,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
@@ -1379,6 +1359,11 @@
    "server": "Stand-For-Iran.ir.mausjakaqd.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "stockholm.viking-vibe.co.uk",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "Strait-of-Hormuz.ir.jursdheks.info.",
@@ -1446,11 +1431,6 @@
    "secret": "eeb5790afbdbe2185fae23837b6ea699f3626c7a6464697374312d612e616b616d616968642e6e6574"
   },
   {
-   "server": "vpn.prxtoday.store",
-   "port": 443,
-   "secret": "ee29260362b2497c092e631593a534e5a376706e2e707278746f6461792e73746f7265"
-  },
-  {
    "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
@@ -1464,11 +1444,6 @@
    "server": "web.jinxandjack.co.uk.",
    "port": 443,
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
-  },
-  {
-   "server": "web.prxtoday.store",
-   "port": 443,
-   "secret": "ee7a5660b84770213722fe3581bcb17faa7765622e707278746f6461792e73746f7265"
   },
   {
    "server": "web.utkanos.life",
@@ -1511,5 +1486,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 302
+ "count": 297
 }
