@@ -6,14 +6,14 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "144.31.237.144",
+   "port": 443,
+   "secret": "ee6d6963726f736f66742e636f6dd95c"
+  },
+  {
    "server": "144.31.25.150",
    "port": 5223,
    "secret": "eee6a8dff69d6fdeac388cca6d20ccb4427777772e6170706c652e636f6d"
-  },
-  {
-   "server": "150.241.68.96",
-   "port": 443,
-   "secret": "ee6d6963726f736f66742e636f6dd95c"
   },
   {
    "server": "150.241.87.133",
@@ -34,6 +34,16 @@
    "server": "178.18.147.11",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "191.44.113.93",
+   "port": 443,
+   "secret": "ee79616e6465782e727530b9744f0c52"
+  },
+  {
+   "server": "193.8.215.213",
+   "port": 443,
+   "secret": "ee633c8a615a98f094c18732c5c7e0d0af7275747562652e7275"
   },
   {
    "server": "194.120.230.120",
@@ -61,19 +71,14 @@
    "secret": "eee3727d72c23452d6928e9a5ea16f0940676f6f676c65617069732e636f6d"
   },
   {
-   "server": "2.26.124.102",
-   "port": 443,
-   "secret": "ee6d6963726f736f66742e636f6dd95c"
-  },
-  {
-   "server": "2.26.124.108",
-   "port": 443,
-   "secret": "ee6d6963726f736f66742e636f6dd95c"
-  },
-  {
    "server": "212.56.44.174",
    "port": 443,
    "secret": "ee79ba93b4e649ba70dcd191e72539c99e676f6f676c65617069732e636f6d"
+  },
+  {
+   "server": "217.145.72.158",
+   "port": 443,
+   "secret": "ee6d6963726f736f66742e636f6dd95c"
   },
   {
    "server": "34.51.255.77",
@@ -339,6 +344,11 @@
    "server": "ad1.loveproxy.xyz",
    "port": 443,
    "secret": "ee790564eb7681ead5fa55f10c7ee61c3d62726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "ad2.arixo.shop",
+   "port": 443,
+   "secret": "eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70"
   },
   {
    "server": "ad2.loveproxy.xyz",
@@ -871,6 +881,11 @@
    "secret": "eeac0a20eeeee11499e99bded774ff29f16c696e6b2e6d6f776f726b2e7275"
   },
   {
+   "server": "link.nowabst.net",
+   "port": 853,
+   "secret": "ee1bbdcdcfd200974bb999813180a127386164732e78352e7275"
+  },
+  {
    "server": "login.klyuch1k.org",
    "port": 443,
    "secret": "ee62ae22cb0b6c1eb6a62d54ed50ec6c886c6f67696e2e6b6c79756368316b2e6f7267"
@@ -1166,12 +1181,12 @@
    "secret": "dd81d2ede8c591eeb5a39000d24e211694"
   },
   {
-   "server": "proxy.subs-sosavpn.ru",
-   "port": 8443,
-   "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69"
+   "server": "proxy1.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "proxy1.chunkycorp.shop",
+   "server": "proxy2.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1179,6 +1194,16 @@
    "server": "proxy2.redemshenvpn.site",
    "port": 443,
    "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0"
+  },
+  {
+   "server": "proxy3.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "proxy4.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "proxy64.arixo.shop",
@@ -1366,11 +1391,6 @@
    "secret": "eecbe98ad15a916cf1027a7bd6c8d11c1f7365637572652e6d6564686174612e6f7267"
   },
   {
-   "server": "Stand-For-Iran.ir.mausjakaqd.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "stockholm.viking-vibe.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -1496,5 +1516,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 299
+ "count": 303
 }
