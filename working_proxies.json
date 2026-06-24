@@ -4,55 +4,55 @@
    "server": "br.kingproxynewdomailasiatech.ink",
    "port": 22,
    "secret": "dd79e7010200010007f0030386e24c3add",
-   "ping": 32
+   "ping": 58
   },
   {
    "server": "167.233.48.222",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 152
+   "ping": 161
   },
   {
-   "server": "proxy.redemshenvpn.site",
+   "server": "34.51.192.156",
    "port": 443,
-   "secret": "dd81d2ede8c591eeb5a39000d24e211694",
-   "ping": 166
-  },
-  {
-   "server": "b8rta.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 176
-  },
-  {
-   "server": "proxy2.redemshenvpn.site",
-   "port": 443,
-   "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0",
-   "ping": 182
-  },
-  {
-   "server": "Kingdom-persia.ir.hey-gardash.info.",
-   "port": 1080,
-   "secret": "79e344818749bd7ac519130220c25d09",
-   "ping": 260
+   "secret": "dd99c304c8857034be7df934a6e5a95032",
+   "ping": 163
   },
   {
    "server": "kha8shen.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 296
+   "ping": 174
   },
   {
-   "server": "pmcdin.co.uk.",
+   "server": "proxy2.redemshenvpn.site",
    "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 305
+   "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0",
+   "ping": 179
+  },
+  {
+   "server": "proxy.redemshenvpn.site",
+   "port": 443,
+   "secret": "dd81d2ede8c591eeb5a39000d24e211694",
+   "ping": 201
   },
   {
    "server": "zinova.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 315
+   "ping": 230
+  },
+  {
+   "server": "b8rta.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 238
+  },
+  {
+   "server": "pmcdin.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 313
   }
  ],
  "count": 9,
