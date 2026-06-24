@@ -6,6 +6,11 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "138.201.192.170",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "144.31.237.144",
    "port": 443,
    "secret": "ee6d6963726f736f66742e636f6dd95c"
@@ -19,6 +24,11 @@
    "server": "150.241.87.133",
    "port": 443,
    "secret": "eebf2b18633bd20310eeb833852083d1277777772e77702e706c"
+  },
+  {
+   "server": "157.90.227.27",
+   "port": 85,
+   "secret": "FgMBAgABAAH8AxOG4kw63Q"
   },
   {
    "server": "159.69.26.72",
@@ -101,11 +111,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "5.75.199.104",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "5.75.203.37",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -167,6 +172,11 @@
   },
   {
    "server": "65.109.247.142",
+   "port": 85,
+   "secret": "FgMBAgABAAH8AxOG4kw63Q"
+  },
+  {
+   "server": "65.109.255.219",
    "port": 85,
    "secret": "FgMBAgABAAH8AxOG4kw63Q"
   },
@@ -646,11 +656,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "For.dear-iranian-people.com.heazshddd.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "For.you.ir.gdhbvjshjrf.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
@@ -689,6 +694,11 @@
    "server": "gate.klyuch1k.org",
    "port": 443,
    "secret": "ee5300913a77cc2612609f6bd1dcad2ea7676174652e6b6c79756368316b2e6f7267"
+  },
+  {
+   "server": "gate.klyuch1k.org",
+   "port": 443,
+   "secret": "ee90fe2283168fc565dd2bc7e4a5756314676174652e6b6c79756368316b2e6f7267"
   },
   {
    "server": "gate.klyuch1k.org",
@@ -763,6 +773,11 @@
   {
    "server": "go.antitspu.com",
    "port": 443,
+   "secret": "ee6217919fd71929ed6ab41f8d01e20298676f2e616e7469747370752e636f6d"
+  },
+  {
+   "server": "go.antitspu.com",
+   "port": 443,
    "secret": "ee8209c31793eed02f435ab753825b891f676f2e616e7469747370752e636f6d"
   },
   {
@@ -831,11 +846,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "irancell-mci.ir.gybshdjls.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "iranian-cheetah.ir.the-nice-mtproto.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
@@ -854,6 +864,11 @@
    "server": "link.freetg.pw",
    "port": 443,
    "secret": "ee1d89eb222800da9e0dca07e51883b2916c696e6b2e6672656574672e7077"
+  },
+  {
+   "server": "link.mishkalapy.life",
+   "port": 443,
+   "secret": "ee274dfac1a91d34c1962098b19d7a59136c696e6b2e6d6973686b616c6170792e6c696665"
   },
   {
    "server": "link.mishkalapy.life",
@@ -941,11 +956,6 @@
    "secret": "ee13d1a203eb8fa428b44a69aa2c25d8e9636c6f75642e7265672e7275"
   },
   {
-   "server": "max.ru.rightarion.ru",
-   "port": 443,
-   "secret": "dd8b2994e4133226d9230ae7200c258958"
-  },
-  {
    "server": "maxcloud.mowork.ru",
    "port": 443,
    "secret": "eececef6563bce080cccda8dcc61cedbf6636c6f75642e7265672e7275"
@@ -1003,17 +1013,7 @@
   {
    "server": "mt.nowabst.net",
    "port": 853,
-   "secret": "7hKJP_0gRM7NMRBO3AKn5VhhZHMueDUucnU"
-  },
-  {
-   "server": "mt.nowabst.net",
-   "port": 853,
    "secret": "ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275"
-  },
-  {
-   "server": "mtp.nowabst.net",
-   "port": 853,
-   "secret": "7oLOH4SvQDPMfnsCEGm-PVthZHMueDUucnU"
   },
   {
    "server": "mtp.nowabst.net",
@@ -1129,6 +1129,11 @@
    "server": "portal.balalaika.click",
    "port": 443,
    "secret": "eeb1e9573672dbba7fe8d14da9a2249be8706f7274616c2e62616c616c61696b612e636c69636b"
+  },
+  {
+   "server": "portal.balalaika.click",
+   "port": 443,
+   "secret": "eed9b57dfbf5b124dd877540301c89c774706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
    "server": "portal.balalaika.click",
@@ -1516,5 +1521,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 303
+ "count": 304
 }
