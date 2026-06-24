@@ -4,57 +4,57 @@
    "server": "br.kingproxynewdomailasiatech.ink",
    "port": 22,
    "secret": "dd79e7010200010007f0030386e24c3add",
-   "ping": 33
+   "ping": 39
   },
   {
    "server": "167.233.48.222",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 154
+   "ping": 159
   },
   {
    "server": "kha8shen.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 162
-  },
-  {
-   "server": "34.51.192.156",
-   "port": 443,
-   "secret": "dd99c304c8857034be7df934a6e5a95032",
-   "ping": 167
-  },
-  {
-   "server": "proxy.redemshenvpn.site",
-   "port": 443,
-   "secret": "dd81d2ede8c591eeb5a39000d24e211694",
-   "ping": 167
-  },
-  {
-   "server": "pmcdin.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 172
-  },
-  {
-   "server": "zinova.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 177
-  },
-  {
-   "server": "proxy2.redemshenvpn.site",
-   "port": 443,
-   "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0",
-   "ping": 181
+   "ping": 159
   },
   {
    "server": "b8rta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 469
+   "ping": 163
+  },
+  {
+   "server": "proxy.redemshenvpn.site",
+   "port": 443,
+   "secret": "dd81d2ede8c591eeb5a39000d24e211694",
+   "ping": 163
+  },
+  {
+   "server": "proxy2.redemshenvpn.site",
+   "port": 443,
+   "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0",
+   "ping": 168
+  },
+  {
+   "server": "34.51.192.156",
+   "port": 443,
+   "secret": "dd99c304c8857034be7df934a6e5a95032",
+   "ping": 171
+  },
+  {
+   "server": "pmcdin.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 175
+  },
+  {
+   "server": "zinova.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 316
   }
  ],
  "count": 9,
- "checked": 300
+ "checked": 302
 }
