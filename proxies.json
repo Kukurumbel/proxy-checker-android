@@ -1,6 +1,11 @@
 {
  "proxies": [
   {
+   "server": "103.161.35.23",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "135.181.129.178",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -24,11 +29,6 @@
    "server": "144.31.25.150",
    "port": 5223,
    "secret": "eee6a8dff69d6fdeac388cca6d20ccb4427777772e6170706c652e636f6d"
-  },
-  {
-   "server": "150.241.87.133",
-   "port": 443,
-   "secret": "eebf2b18633bd20310eeb833852083d1277777772e77702e706c"
   },
   {
    "server": "157.90.227.27",
@@ -111,6 +111,11 @@
    "secret": "dd99c304c8857034be7df934a6e5a95032"
   },
   {
+   "server": "34.51.222.239",
+   "port": 443,
+   "secret": "ddfb1c51c0125d6c82066dd588f5201849"
+  },
+  {
    "server": "34.51.255.77",
    "port": 443,
    "secret": "dd111304d9c2b55a043efd8139aaf51ef5"
@@ -179,11 +184,6 @@
    "server": "79.137.196.223",
    "port": 3443,
    "secret": "eeee33159ebd0ee0dcafef811a9bc7c2ab8d7777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "81.90.17.230",
-   "port": 8530,
-   "secret": "eed9d1fceb145ca35d0b9a07bd662e57df7777772e6f6e65742e706c"
   },
   {
    "server": "87.120.216.254",
@@ -631,11 +631,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "For-best-download-iran.ir.gybshdjls.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "free1.loveproxy.xyz",
    "port": 443,
    "secret": "ee790564eb7681ead5fa55f10c7ee61c3d62726f777365722e79616e6465782e7275"
@@ -1011,6 +1006,11 @@
    "secret": "eec6e87219dcdfeb137917b81aed28e8b76e65742e616e7469747370752e636f6d"
   },
   {
+   "server": "net.antitspu.com",
+   "port": 443,
+   "secret": "eefc083cdd43374e05bb52f5ef0992bd836e65742e616e7469747370752e636f6d"
+  },
+  {
    "server": "net.freetg.pw",
    "port": 443,
    "secret": "eebd79a03bd57944c4830f41e0f2fb94626e65742e6672656574672e7077"
@@ -1366,11 +1366,6 @@
    "secret": "eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d"
   },
   {
-   "server": "super-hero-iran.ir.mausjakaqd.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "surge.linkflowhub.shop",
    "port": 443,
    "secret": "ee932f87d141afddf9a957c5e3c85d8bb673757267652e6c696e6b666c6f776875622e73686f70"
@@ -1461,5 +1456,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 292
+ "count": 291
 }
