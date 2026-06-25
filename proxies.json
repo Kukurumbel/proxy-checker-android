@@ -621,6 +621,11 @@
    "secret": "ee5f8b31d631d413f83f1f6e8da233f69c657468657265616c2e617269786f2e73686f70"
   },
   {
+   "server": "ethereal1.arixo.shop",
+   "port": 443,
+   "secret": "eed38044efdfe3e067bbe3e6a683a07de4657468657265616c312e617269786f2e73686f70"
+  },
+  {
    "server": "f.reverse.linkpc.net",
    "port": 443,
    "secret": "ee465651a1836fd4320395aba3f4d621556a2e736e692d3634342d64656661756c742e73736c2e666173746c792e6e6574"
@@ -654,11 +659,6 @@
    "server": "For-best-download-iran.ir.gybshdjls.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "form.quickdl.info",
-   "port": 22,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "free1.loveproxy.xyz",
@@ -891,6 +891,11 @@
    "secret": "ee1bbdcdcfd200974bb999813180a127386164732e78352e7275"
   },
   {
+   "server": "login.kerfilia.info",
+   "port": 6775,
+   "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "login.klyuch1k.org",
    "port": 443,
    "secret": "ee62ae22cb0b6c1eb6a62d54ed50ec6c886c6f67696e2e6b6c79756368316b2e6f7267"
@@ -994,11 +999,6 @@
    "server": "mirror.malevich7.top",
    "port": 443,
    "secret": "eea4fd6452be496f04cfc237fc5f8c9ee26d6972726f722e6d616c6576696368372e746f70"
-  },
-  {
-   "server": "mirror.malevich7.top",
-   "port": 443,
-   "secret": "eeec5c27ad2e4538c2832aeccdcb9d10096d6972726f722e6d616c6576696368372e746f70"
   },
   {
    "server": "moh.kingproxynewdomailasiatech.ink",
@@ -1201,6 +1201,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "proxy5.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "proxy65.arixo.shop",
    "port": 443,
    "secret": "ee3ceb82a3b4254e6e6ae1971021f3c209617669746f2e7275"
@@ -1224,6 +1229,11 @@
    "server": "proxy69.arixo.shop",
    "port": 443,
    "secret": "ee8bab12df003b7100ba42d7765fbaea51617669746f2e7275"
+  },
+  {
+   "server": "proxy7.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "proxy70.arixo.shop",
@@ -1373,11 +1383,6 @@
   {
    "server": "secure.medhata.org",
    "port": 443,
-   "secret": "ee7304893354c81b4c1ed4fc4716f838007365637572652e6d6564686174612e6f7267"
-  },
-  {
-   "server": "secure.medhata.org",
-   "port": 443,
    "secret": "eecbe98ad15a916cf1027a7bd6c8d11c1f7365637572652e6d6564686174612e6f7267"
   },
   {
@@ -1506,5 +1511,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 301
+ "count": 302
 }
