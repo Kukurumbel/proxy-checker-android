@@ -571,11 +571,6 @@
    "secret": "eecb6ce3bf6eff4afb452983edb4afd7fa636f6e6e6563742e746f636f6e76656c2e6469676974616c"
   },
   {
-   "server": "connect.toconvel.digital",
-   "port": 443,
-   "secret": "eecc68c3e515c192616524dd47f5baabdf636f6e6e6563742e746f636f6e76656c2e6469676974616c"
-  },
-  {
    "server": "edge.librava.click",
    "port": 443,
    "secret": "ee095f20b4b7605b5cc1f104a55b98eb65656467652e6c6962726176612e636c69636b"
@@ -1511,5 +1506,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 302
+ "count": 301
 }
