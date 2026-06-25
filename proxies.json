@@ -131,37 +131,12 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "51.250.33.131",
-   "port": 443,
-   "secret": "eeeb28d5487237e3ba0e9c5ccce794af9f79612e7275"
-  },
-  {
-   "server": "51.250.67.154",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "51.250.68.4",
-   "port": 443,
-   "secret": "ee065e8e8e8d0208ab9b2073584e1b3623617669746f2e7275"
-  },
-  {
    "server": "51.250.68.4",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "51.250.73.94",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "51.250.86.244",
-   "port": 443,
-   "secret": "eeaa8f2cfd941607525db63d42dcc1971d617669746f2e7275"
-  },
-  {
-   "server": "51.250.90.143",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -469,6 +444,11 @@
    "server": "cdn.kvakzon.top",
    "port": 443,
    "secret": "ee774ecb55b96b5c3302852e6861ada11563646e2e6b76616b7a6f6e2e746f70"
+  },
+  {
+   "server": "cdn.nowabst.net",
+   "port": 853,
+   "secret": "7lN1On5sIBlEBmdKGthywfhhZHMueDUucnU"
   },
   {
    "server": "cdn.savelyev.click",
@@ -878,6 +858,11 @@
   {
    "server": "link.nowabst.net",
    "port": 853,
+   "secret": "7hu9zc_SAJdLuZmBMYChJzhhZHMueDUucnU"
+  },
+  {
+   "server": "link.nowabst.net",
+   "port": 853,
    "secret": "ee1bbdcdcfd200974bb999813180a127386164732e78352e7275"
   },
   {
@@ -973,11 +958,6 @@
   {
    "server": "mirror.balalaika.click",
    "port": 443,
-   "secret": "ee9357dbcb9a357d5da2bd243962ec00796d6972726f722e62616c616c61696b612e636c69636b"
-  },
-  {
-   "server": "mirror.balalaika.click",
-   "port": 443,
    "secret": "eea82a1f90226c525f9ae2d93312e17e766d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
@@ -1019,11 +999,6 @@
    "server": "ne01.proxymirron.com",
    "port": 7443,
    "secret": "eeb4b6fa158a16af5ef496a8df064477ed636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "net.antitspu.com",
-   "port": 443,
-   "secret": "ee8c43814cfc9478dfba16eafebcccdf206e65742e616e7469747370752e636f6d"
   },
   {
    "server": "net.antitspu.com",
@@ -1201,19 +1176,14 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "proxy6.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "proxy65.arixo.shop",
    "port": 443,
    "secret": "ee3ceb82a3b4254e6e6ae1971021f3c209617669746f2e7275"
-  },
-  {
-   "server": "proxy68.arixo.shop",
-   "port": 443,
-   "secret": "ee211f4548903f4caa17d9b38727a856f9617669746f2e7275"
-  },
-  {
-   "server": "proxy69.arixo.shop",
-   "port": 443,
-   "secret": "ee8bab12df003b7100ba42d7765fbaea51617669746f2e7275"
   },
   {
    "server": "proxy7.chunkycorp.shop",
@@ -1304,11 +1274,6 @@
    "server": "proxy93.arixo.shop",
    "port": 443,
    "secret": "eeec8c9893c4626b4f731052a948a8f0f870726f787939332e617269786f2e73686f70"
-  },
-  {
-   "server": "relay.nowabst.net",
-   "port": 853,
-   "secret": "ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275"
   },
   {
    "server": "rkngoodbye.fsproxy.site",
@@ -1496,5 +1461,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 299
+ "count": 292
 }
