@@ -393,6 +393,11 @@
   {
    "server": "app.rknwatch.digital",
    "port": 443,
+   "secret": "ee413cd220b66352a19c5ddfd6a5bda8476170702e726b6e77617463682e6469676974616c"
+  },
+  {
+   "server": "app.rknwatch.digital",
+   "port": 443,
    "secret": "ee62b477f7363ba0f84465165fc0fc95316170702e726b6e77617463682e6469676974616c"
   },
   {
@@ -1141,6 +1146,11 @@
    "secret": "ee3851712169434d3953e08f470d7ccaa170726f78792e67617264656e2d74726f6c6c2e6c696665"
   },
   {
+   "server": "proxy.garden-troll.life",
+   "port": 443,
+   "secret": "ee79c23102a1b8dfa85082fec3d7f28b0470726f78792e67617264656e2d74726f6c6c2e6c696665"
+  },
+  {
    "server": "proxy.redemshenvpn.site",
    "port": 443,
    "secret": "dd81d2ede8c591eeb5a39000d24e211694"
@@ -1291,11 +1301,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "s04.neo-trading.org",
-   "port": 8443,
-   "secret": "ee9212c14bf99d751c68a80592229d677e6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "secure.gorbushkin.click",
    "port": 443,
    "secret": "ee085e93f8b1609516932d35ace0fe35da7365637572652e676f72627573686b696e2e636c69636b"
@@ -1369,6 +1374,11 @@
    "server": "surge.linkflowhub.shop",
    "port": 443,
    "secret": "ee932f87d141afddf9a957c5e3c85d8bb673757267652e6c696e6b666c6f776875622e73686f70"
+  },
+  {
+   "server": "tanzibjf.club.",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "tg.nowabst.net",
@@ -1456,5 +1466,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 291
+ "count": 293
 }
