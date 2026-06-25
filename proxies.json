@@ -116,6 +116,11 @@
    "secret": "ddfb1c51c0125d6c82066dd588f5201849"
   },
   {
+   "server": "34.51.227.196",
+   "port": 443,
+   "secret": "dd3cec606d9be26a99756789121ce87239"
+  },
+  {
    "server": "34.51.255.77",
    "port": 443,
    "secret": "dd111304d9c2b55a043efd8139aaf51ef5"
@@ -351,14 +356,14 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "always.for.you.ir.mausjakaqd.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+   "server": "api.gorbushkin.click",
+   "port": 443,
+   "secret": "ee5aa8528eddb3b46d225fc8f50f26659c6170692e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "api.gorbushkin.click",
    "port": 443,
-   "secret": "ee5aa8528eddb3b46d225fc8f50f26659c6170692e676f72627573686b696e2e636c69636b"
+   "secret": "ee791652f50256cf7380994506b69223c16170692e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "api.gorbushkin.click",
@@ -604,11 +609,6 @@
    "server": "ethereal1.arixo.shop",
    "port": 443,
    "secret": "eed38044efdfe3e067bbe3e6a683a07de4657468657265616c312e617269786f2e73686f70"
-  },
-  {
-   "server": "f.reverse.linkpc.net",
-   "port": 443,
-   "secret": "ee465651a1836fd4320395aba3f4d621556a2e736e692d3634342d64656661756c742e73736c2e666173746c792e6e6574"
   },
   {
    "server": "fast.garden-troll.life",
@@ -1353,11 +1353,6 @@
   {
    "server": "Strait-of-Hormuz.ir.jursdheks.info.",
    "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "Strait-of-Hormuz.ir.jursdheks.info.",
-   "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
@@ -1399,11 +1394,6 @@
    "server": "turbo-jet.balestic.ir.ghsisncbv.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "vl.lees.linkpc.net",
-   "port": 443,
-   "secret": "eeb5790afbdbe2185fae23837b6ea699f3626c7a6464697374312d612e616b616d616968642e6e6574"
   },
   {
    "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
@@ -1466,5 +1456,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 293
+ "count": 291
 }
