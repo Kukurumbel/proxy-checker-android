@@ -106,6 +106,11 @@
    "secret": "ee6d6963726f736f66742e636f6dd95c"
   },
   {
+   "server": "31.76.251.25",
+   "port": 853,
+   "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e7777772e676f6f676c652e636f6d,"
+  },
+  {
    "server": "34.51.192.156",
    "port": 443,
    "secret": "dd99c304c8857034be7df934a6e5a95032"
@@ -124,6 +129,11 @@
    "server": "34.51.255.77",
    "port": 443,
    "secret": "dd111304d9c2b55a043efd8139aaf51ef5"
+  },
+  {
+   "server": "34.90.36.238",
+   "port": 443,
+   "secret": "ddeec806d5ceb6ebe2fe47e212f982fe64"
   },
   {
    "server": "5.189.165.109",
@@ -199,6 +209,11 @@
    "server": "87.120.216.254",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "87.58.201.74",
+   "port": 853,
+   "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e7777772e676f6f676c652e636f6d"
   },
   {
    "server": "92.246.87.242",
@@ -363,11 +378,6 @@
   {
    "server": "api.gorbushkin.click",
    "port": 443,
-   "secret": "ee5aa8528eddb3b46d225fc8f50f26659c6170692e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "api.gorbushkin.click",
-   "port": 443,
    "secret": "ee791652f50256cf7380994506b69223c16170692e676f72627573686b696e2e636c69636b"
   },
   {
@@ -404,11 +414,6 @@
    "server": "app.rknwatch.digital",
    "port": 443,
    "secret": "ee413cd220b66352a19c5ddfd6a5bda8476170702e726b6e77617463682e6469676974616c"
-  },
-  {
-   "server": "app.rknwatch.digital",
-   "port": 443,
-   "secret": "ee62b477f7363ba0f84465165fc0fc95316170702e726b6e77617463682e6469676974616c"
   },
   {
    "server": "app.rknwatch.digital",
@@ -538,11 +543,6 @@
   {
    "server": "connect.savelyev.click",
    "port": 443,
-   "secret": "eea3c4f408d77873937b1ca825723435e2636f6e6e6563742e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "connect.savelyev.click",
-   "port": 443,
    "secret": "eec48304f71a291f5beee5dcd114cefd07636f6e6e6563742e736176656c7965762e636c69636b"
   },
   {
@@ -611,6 +611,11 @@
    "secret": "eed38044efdfe3e067bbe3e6a683a07de4657468657265616c312e617269786f2e73686f70"
   },
   {
+   "server": "ethereal2.arixo.shop",
+   "port": 443,
+   "secret": "ee6217ab7cb85436e31984b28fbe64bda7657468657265616c322e617269786f2e73686f70"
+  },
+  {
    "server": "fast.garden-troll.life",
    "port": 443,
    "secret": "ee0c3f91dda87adc073a65d989972871ec666173742e67617264656e2d74726f6c6c2e6c696665"
@@ -629,6 +634,11 @@
    "server": "fast.garden-troll.life",
    "port": 443,
    "secret": "eef947210c4a3bc988fb15a3d32918ce4c666173742e67617264656e2d74726f6c6c2e6c696665"
+  },
+  {
+   "server": "fastproxy.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "football.world-pro.co.uk",
@@ -663,11 +673,6 @@
   {
    "server": "gate.klyuch1k.org",
    "port": 443,
-   "secret": "ee5300913a77cc2612609f6bd1dcad2ea7676174652e6b6c79756368316b2e6f7267"
-  },
-  {
-   "server": "gate.klyuch1k.org",
-   "port": 443,
    "secret": "ee90fe2283168fc565dd2bc7e4a5756314676174652e6b6c79756368316b2e6f7267"
   },
   {
@@ -694,11 +699,6 @@
    "server": "gate.veltura.digital",
    "port": 443,
    "secret": "ee4d50c27f02aa90347059343638293ed7676174652e76656c747572612e6469676974616c"
-  },
-  {
-   "server": "gate.veltura.digital",
-   "port": 443,
-   "secret": "eeb9c797fcd759c89dba799d17d7c83623676174652e76656c747572612e6469676974616c"
   },
   {
    "server": "gate.veltura.digital",
@@ -1133,11 +1133,6 @@
   {
    "server": "proxy.garden-troll.life",
    "port": 443,
-   "secret": "ee3851712169434d3953e08f470d7ccaa170726f78792e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
-   "server": "proxy.garden-troll.life",
-   "port": 443,
    "secret": "ee79c23102a1b8dfa85082fec3d7f28b0470726f78792e67617264656e2d74726f6c6c2e6c696665"
   },
   {
@@ -1234,6 +1229,11 @@
    "server": "proxy79.arixo.shop",
    "port": 443,
    "secret": "ee9ad12a14bf46ff6f3692297c67c3babe70726f787937392e617269786f2e73686f70"
+  },
+  {
+   "server": "proxy8.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "proxy81.arixo.shop",
@@ -1336,6 +1336,11 @@
    "secret": "eecbe98ad15a916cf1027a7bd6c8d11c1f7365637572652e6d6564686174612e6f7267"
   },
   {
+   "server": "so-cpu.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
    "server": "sr1.loveproxy.xyz",
    "port": 443,
    "secret": "eef334baa1cb1e7ca5cf1a48e461b5dbfa62726f777365722e79616e6465782e636f6d"
@@ -1411,11 +1416,6 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
-   "server": "web.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
-  },
-  {
    "server": "web.utkanos.life",
    "port": 443,
    "secret": "ee1258feec290ee9a7216a0dfa1fed19117765622e75746b616e6f732e6c696665"
@@ -1424,11 +1424,6 @@
    "server": "web.utkanos.life",
    "port": 443,
    "secret": "ee3c2a43ba64b15e214c3f1813848121a77765622e75746b616e6f732e6c696665"
-  },
-  {
-   "server": "web.utkanos.life",
-   "port": 443,
-   "secret": "ee70e6b2e38b1a733d4dac1077464b46a47765622e75746b616e6f732e6c696665"
   },
   {
    "server": "web.utkanos.life",
@@ -1461,5 +1456,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 292
+ "count": 291
 }
