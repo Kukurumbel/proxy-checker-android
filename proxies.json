@@ -66,11 +66,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "194.120.230.26",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "194.233.82.137",
    "port": 443,
    "secret": "ee853310ac258556e04970d42f4d2c0023676f6f676c65617069732e636f6d"
@@ -134,6 +129,11 @@
    "server": "34.6.97.246",
    "port": 443,
    "secret": "dde15c0efa2f77bf7378cb3dc8cea5ddde"
+  },
+  {
+   "server": "34.7.181.135",
+   "port": 443,
+   "secret": "ddebf4e93d8565ca5d242efe5aa70822c3"
   },
   {
    "server": "34.90.36.238",
@@ -968,6 +968,11 @@
   {
    "server": "mirror.malevich7.top",
    "port": 443,
+   "secret": "eea022c7ec7cd2643dd62f7d39579df1b06d6972726f722e6d616c6576696368372e746f70"
+  },
+  {
+   "server": "mirror.malevich7.top",
+   "port": 443,
    "secret": "eea4fd6452be496f04cfc237fc5f8c9ee26d6972726f722e6d616c6576696368372e746f70"
   },
   {
@@ -1481,5 +1486,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 296
+ "count": 297
 }
