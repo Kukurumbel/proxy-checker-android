@@ -641,11 +641,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "football.world-pro.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "free1.loveproxy.xyz",
    "port": 443,
    "secret": "ee790564eb7681ead5fa55f10c7ee61c3d62726f777365722e79616e6465782e7275"
@@ -1046,6 +1041,11 @@
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
+   "server": "o.turboproxy.pro",
+   "port": 443,
+   "secret": "ee8b60156255cd03a3201a4af8655e211a67716c2d31757037643876307a6c6e6f323130782e7477697463682e7476"
+  },
+  {
    "server": "onyx.proxytg.live",
    "port": 443,
    "secret": "ee8e4bd7b2a034418fd924aeed3c97cd7b6f6e79782e70726f787974672e6c697665"
@@ -1261,6 +1261,11 @@
    "secret": "eeddb1dbf8b26ae01665a152f90029591770726f787938392e617269786f2e73686f70"
   },
   {
+   "server": "proxy9.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "proxy90.arixo.shop",
    "port": 443,
    "secret": "eed715e5e741cb3ce98a926b8ee5ac68dc70726f787939302e617269786f2e73686f70"
@@ -1294,6 +1299,16 @@
    "server": "rudomain.info.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "s1.v6n.tech",
+   "port": 443,
+   "secret": "eee11484d2c8b928f3d5a19f5da8e182037777772e696465616c6f2e6465"
+  },
+  {
+   "server": "s2.v6n.tech",
+   "port": 443,
+   "secret": "ee192e048bfc34b71e27a801fdd15340af7777772e77702e706c"
   },
   {
    "server": "secure.gorbushkin.click",
@@ -1391,6 +1406,11 @@
    "secret": "eebfbfb8093b088269716ea5262d483e1d6164732e78352e7275"
   },
   {
+   "server": "th.turboproxy.pro",
+   "port": 443,
+   "secret": "ee8b60156255cd03a3201a4af8655e211a6d2e7477697463682e7476"
+  },
+  {
    "server": "top.teleproxy.info",
    "port": 443,
    "secret": "eeeb6abe77e3fe1207be7f42ea989e923d64726976652e676f6f676c652e636f6d"
@@ -1404,6 +1424,11 @@
    "server": "turbo-jet.balestic.ir.ghsisncbv.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "tw.turboproxy.pro",
+   "port": 443,
+   "secret": "ee8b60156255cd03a3201a4af8655e211a72746d702e7477697463682e7476"
   },
   {
    "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
@@ -1436,11 +1461,6 @@
    "secret": "eecc8f41227a10051d1c4c325ed9db528b7765622e75746b616e6f732e6c696665"
   },
   {
-   "server": "windows.old-balance.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "www2.acientirani-uor4.ir",
    "port": 443,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
@@ -1456,5 +1476,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 291
+ "count": 295
 }
