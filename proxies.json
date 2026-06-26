@@ -182,6 +182,11 @@
   },
   {
    "server": "79.137.196.223",
+   "port": 1443,
+   "secret": "eeee52288a1c9bf20ef3423488f8418c3f087777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "79.137.196.223",
    "port": 2443,
    "secret": "eeeed28dc05b23b7ccba27a3d352abf1467c7777772e636c6f7564666c6172652e636f6d"
   },
@@ -573,11 +578,6 @@
   {
    "server": "edge.librava.click",
    "port": 443,
-   "secret": "eeb72954885d6fd069f16372f54e9c9939656467652e6c6962726176612e636c69636b"
-  },
-  {
-   "server": "edge.librava.click",
-   "port": 443,
    "secret": "eefbf1daa1dfac9d57e9931bcb6f600e41656467652e6c6962726176612e636c69636b"
   },
   {
@@ -723,11 +723,6 @@
   {
    "server": "get.utkanos.life",
    "port": 443,
-   "secret": "eed8c4721b5a97067cca9364b04d293afc6765742e75746b616e6f732e6c696665"
-  },
-  {
-   "server": "get.utkanos.life",
-   "port": 443,
    "secret": "eedf6c9e1e71c5194e005a32de1256977f6765742e75746b616e6f732e6c696665"
   },
   {
@@ -754,11 +749,6 @@
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "ee8209c31793eed02f435ab753825b891f676f2e616e7469747370752e636f6d"
-  },
-  {
-   "server": "go.pelmeshka.top",
-   "port": 443,
-   "secret": "ee3b27756fba95be04fa17a91e1fb1434e676f2e70656c6d6573686b612e746f70"
   },
   {
    "server": "go.pelmeshka.top",
@@ -1161,6 +1151,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "proxy10.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "proxy2.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1341,6 +1336,21 @@
    "secret": "eecbe98ad15a916cf1027a7bd6c8d11c1f7365637572652e6d6564686174612e6f7267"
   },
   {
+   "server": "sr1.loveproxy.xyz",
+   "port": 443,
+   "secret": "eef334baa1cb1e7ca5cf1a48e461b5dbfa62726f777365722e79616e6465782e636f6d"
+  },
+  {
+   "server": "sr2.loveproxy.xyz",
+   "port": 443,
+   "secret": "ee740cf3f67125ac3f478ea83b10c0b20a62726f777365722e79616e6465782e636f6d"
+  },
+  {
+   "server": "sr3.loveproxy.xyz",
+   "port": 443,
+   "secret": "ee80c85fd744ac529b79af0e72157d90c162726f777365722e79616e6465782e636f6d"
+  },
+  {
    "server": "stockholm.viking-vibe.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -1364,11 +1374,6 @@
    "server": "sum.beatvault.ru",
    "port": 443,
    "secret": "eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d"
-  },
-  {
-   "server": "surge.linkflowhub.shop",
-   "port": 443,
-   "secret": "ee932f87d141afddf9a957c5e3c85d8bb673757267652e6c696e6b666c6f776875622e73686f70"
   },
   {
    "server": "tanzibjf.club.",
@@ -1456,5 +1461,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 291
+ "count": 292
 }
