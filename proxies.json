@@ -131,6 +131,11 @@
    "secret": "dd111304d9c2b55a043efd8139aaf51ef5"
   },
   {
+   "server": "34.6.97.246",
+   "port": 443,
+   "secret": "dde15c0efa2f77bf7378cb3dc8cea5ddde"
+  },
+  {
    "server": "34.90.36.238",
    "port": 443,
    "secret": "ddeec806d5ceb6ebe2fe47e212f982fe64"
@@ -174,6 +179,11 @@
    "server": "62.146.175.138",
    "port": 443,
    "secret": "ee4e7e3c97c9fc442cacb935955277ba29676f6f676c65617069732e636f6d"
+  },
+  {
+   "server": "65.108.126.206",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "65.109.247.142",
@@ -366,11 +376,6 @@
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
   },
   {
-   "server": "always.for.you.ir.mausjakaqd.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "api.gorbushkin.click",
    "port": 443,
    "secret": "ee791652f50256cf7380994506b69223c16170692e676f72627573686b696e2e636c69636b"
@@ -424,11 +429,6 @@
    "server": "b8rta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "back.nolags.pw",
-   "port": 443,
-   "secret": "dd23930f2da14e8bad3dcf4620e9db128b"
   },
   {
    "server": "bale-ai.vingardium.co.uk.",
@@ -926,11 +926,6 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "mega.teleproxy.info",
-   "port": 443,
-   "secret": "ee524f90c6f61b4c7c56697a12cb2744776d6972726f722e636f7262696e612e6e6574"
-  },
-  {
    "server": "mesh.nowabst.net",
    "port": 853,
    "secret": "ee563d60b964695b7bee8b6525b4be45636164732e78352e7275"
@@ -1381,11 +1376,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "Strait-of-Hormuz.ir.jursdheks.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
    "server": "subobdoa.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -1476,5 +1466,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 295
+ "count": 293
 }
