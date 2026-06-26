@@ -6,6 +6,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "109.122.198.203",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "135.181.129.178",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -24,11 +29,6 @@
    "server": "144.31.237.144",
    "port": 443,
    "secret": "ee6d6963726f736f66742e636f6dd95c"
-  },
-  {
-   "server": "144.31.25.150",
-   "port": 5223,
-   "secret": "eee6a8dff69d6fdeac388cca6d20ccb4427777772e6170706c652e636f6d"
   },
   {
    "server": "157.90.227.27",
@@ -341,6 +341,11 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "95.85.230.56",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "active.freetg.shop",
    "port": 37443,
    "secret": "139fa759df13542a416f1ee5af8d75f1"
@@ -636,6 +641,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "For.dear-iranian-people.com.heazshddd.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "free1.loveproxy.xyz",
    "port": 443,
    "secret": "ee790564eb7681ead5fa55f10c7ee61c3d62726f777365722e79616e6465782e7275"
@@ -794,6 +804,11 @@
    "server": "iran.protocolsix.info",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "irancell-mci.ir.gybshdjls.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "iranian-cheetah.ir.the-nice-mtproto.info.",
@@ -1021,6 +1036,11 @@
    "secret": "ee48768a46d726771e9f10a686fae5714e6e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
+   "server": "node.nowabst.net",
+   "port": 853,
+   "secret": "eef17eaf287401413739814ccc05a709a66164732e78352e7275"
+  },
+  {
    "server": "norm.quickdl.info",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -1131,11 +1151,6 @@
    "secret": "ee79c23102a1b8dfa85082fec3d7f28b0470726f78792e67617264656e2d74726f6c6c2e6c696665"
   },
   {
-   "server": "proxy.redemshenvpn.site",
-   "port": 443,
-   "secret": "dd81d2ede8c591eeb5a39000d24e211694"
-  },
-  {
    "server": "proxy1.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1149,11 +1164,6 @@
    "server": "proxy2.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "proxy2.redemshenvpn.site",
-   "port": 443,
-   "secret": "dd45336d2a73ae46a4ddb530e3d9edc4f0"
   },
   {
    "server": "proxy3.chunkycorp.shop",
@@ -1279,6 +1289,11 @@
    "server": "proxy93.arixo.shop",
    "port": 443,
    "secret": "eeec8c9893c4626b4f731052a948a8f0f870726f787939332e617269786f2e73686f70"
+  },
+  {
+   "server": "relay.nowabst.net",
+   "port": 853,
+   "secret": "ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275"
   },
   {
    "server": "rkngoodbye.fsproxy.site",
@@ -1466,5 +1481,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 293
+ "count": 296
 }
