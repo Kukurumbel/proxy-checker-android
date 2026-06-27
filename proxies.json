@@ -66,11 +66,6 @@
    "secret": "ee853310ac258556e04970d42f4d2c0023676f6f676c65617069732e636f6d"
   },
   {
-   "server": "194.233.87.152",
-   "port": 443,
-   "secret": "ee4e7e3c97c9fc442cacb935955277ba29676f6f676c65617069732e636f6d"
-  },
-  {
    "server": "194.233.94.9",
    "port": 443,
    "secret": "eee3727d72c23452d6928e9a5ea16f0940676f6f676c65617069732e636f6d"
@@ -169,11 +164,6 @@
    "server": "62.146.175.133",
    "port": 443,
    "secret": "ee8fae0f0e3cf53c84220cecab5b7276b5676f6f676c65617069732e636f6d"
-  },
-  {
-   "server": "62.146.175.138",
-   "port": 443,
-   "secret": "ee4e7e3c97c9fc442cacb935955277ba29676f6f676c65617069732e636f6d"
   },
   {
    "server": "65.108.126.206",
@@ -314,11 +304,6 @@
    "server": "94.249.225.6",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "94.72.107.69",
-   "port": 443,
-   "secret": "ee4e7e3c97c9fc442cacb935955277ba29676f6f676c65617069732e636f6d"
   },
   {
    "server": "94.72.126.51",
@@ -961,9 +946,19 @@
    "secret": "ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275"
   },
   {
+   "server": "mt.nowabst.net",
+   "port": 853,
+   "secret": "ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d"
+  },
+  {
    "server": "mtp.nowabst.net",
    "port": 853,
    "secret": "ee82ce1f84af4033cc7e7b021069be3d5b6164732e78352e7275"
+  },
+  {
+   "server": "mtp.nowabst.net",
+   "port": 853,
+   "secret": "eeceaec97c86b6332adc48b3c081954e60766b2e636f6d"
   },
   {
    "server": "mtp.proxymirron.com",
@@ -1451,5 +1446,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 290
+ "count": 289
 }
