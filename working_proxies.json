@@ -1,72 +1,72 @@
 {
  "proxies": [
   {
-   "server": "br.kingproxynewdomailasiatech.ink",
-   "port": 22,
-   "secret": "dd79e7010200010007f0030386e24c3add",
-   "ping": 39
-  },
-  {
    "server": "34.6.97.246",
    "port": 443,
    "secret": "dde15c0efa2f77bf7378cb3dc8cea5ddde",
-   "ping": 149
+   "ping": 104
   },
   {
    "server": "34.7.181.135",
    "port": 443,
    "secret": "ddebf4e93d8565ca5d242efe5aa70822c3",
-   "ping": 149
+   "ping": 122
   },
   {
    "server": "34.90.36.238",
    "port": 443,
    "secret": "ddeec806d5ceb6ebe2fe47e212f982fe64",
-   "ping": 154
-  },
-  {
-   "server": "brivora.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 166
+   "ping": 124
   },
   {
    "server": "34.51.222.239",
    "port": 443,
    "secret": "ddfb1c51c0125d6c82066dd588f5201849",
-   "ping": 167
-  },
-  {
-   "server": "so-cpu.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 167
-  },
-  {
-   "server": "pmcdin.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 169
+   "ping": 128
   },
   {
    "server": "34.51.227.196",
    "port": 443,
    "secret": "dd3cec606d9be26a99756789121ce87239",
-   "ping": 173
+   "ping": 134
+  },
+  {
+   "server": "brivora.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 147
+  },
+  {
+   "server": "pmcdin.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 155
   },
   {
    "server": "b8rta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 175
+   "ping": 159
+  },
+  {
+   "server": "so-cpu.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 159
   },
   {
    "server": "zinova.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 184
+   "ping": 170
+  },
+  {
+   "server": "br.kingproxynewdomailasiatech.ink",
+   "port": 22,
+   "secret": "dd79e7010200010007f0030386e24c3add",
+   "ping": 456
   }
  ],
  "count": 11,
- "checked": 298
+ "checked": 299
 }

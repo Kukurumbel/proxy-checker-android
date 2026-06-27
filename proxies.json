@@ -658,6 +658,11 @@
   {
    "server": "full-vasl.ir-xyz.gdhbvjshjrf.info.",
    "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "full-vasl.ir-xyz.gdhbvjshjrf.info.",
+   "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
@@ -996,19 +1001,9 @@
    "secret": "eeceaec97c86b6332adc48b3c081954e60766b2e636f6d"
   },
   {
-   "server": "mtp.proxymirron.com",
-   "port": 443,
-   "secret": "eedd43a83b8e5fa88109a03fbcb746bd09636c6f7564666c6172652e636f6d"
-  },
-  {
    "server": "my.jinxandjack.co.uk.",
    "port": 443,
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
-  },
-  {
-   "server": "ne01.proxymirron.com",
-   "port": 7443,
-   "secret": "eeb4b6fa158a16af5ef496a8df064477ed636c6f7564666c6172652e636f6d"
   },
   {
    "server": "net.antitspu.com",
@@ -1373,6 +1368,11 @@
   {
    "server": "secure.medhata.org",
    "port": 443,
+   "secret": "eea19617d5c2e4a7ea104cd317777acd1b7365637572652e6d6564686174612e6f7267"
+  },
+  {
+   "server": "secure.medhata.org",
+   "port": 443,
    "secret": "eecbe98ad15a916cf1027a7bd6c8d11c1f7365637572652e6d6564686174612e6f7267"
   },
   {
@@ -1409,6 +1409,11 @@
    "server": "Strait-of-Hormuz.ir.jursdheks.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "Strait-of-Hormuz.ir.jursdheks.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "subobdoa.co.uk.",
@@ -1491,5 +1496,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 298
+ "count": 299
 }
