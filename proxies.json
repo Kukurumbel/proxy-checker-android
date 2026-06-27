@@ -311,11 +311,6 @@
    "secret": "ee76f45e60e143ee17f0f46416bf313e9e676f6f676c65617069732e636f6d"
   },
   {
-   "server": "95.216.123.224",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "95.85.230.56",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -441,6 +436,11 @@
    "secret": "ee5a281fcc91f7ec3ce293d643395222ad6164732e78352e7275"
   },
   {
+   "server": "brivora.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
    "server": "cdn.kvakzon.top",
    "port": 443,
    "secret": "ee774ecb55b96b5c3302852e6861ada11563646e2e6b76616b7a6f6e2e746f70"
@@ -449,6 +449,11 @@
    "server": "cdn.nowabst.net",
    "port": 853,
    "secret": "7lN1On5sIBlEBmdKGthywfhhZHMueDUucnU"
+  },
+  {
+   "server": "cdn.nowabst.net",
+   "port": 853,
+   "secret": "ee55aabc9752a9d9d379e02943cf811795766b2e636f6d"
   },
   {
    "server": "cdn.savelyev.click",
@@ -694,6 +699,11 @@
    "server": "gate.veltura.digital",
    "port": 443,
    "secret": "eee62bbe980b466e972ecfb5818aaad5ee676174652e76656c747572612e6469676974616c"
+  },
+  {
+   "server": "ge.nowabst.net",
+   "port": 853,
+   "secret": "ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d"
   },
   {
    "server": "ge.nowabst.net",
@@ -1013,6 +1023,11 @@
   {
    "server": "node.nowabst.net",
    "port": 853,
+   "secret": "ee1bbdcdcfd200974bb999813180a12738766b2e636f6d"
+  },
+  {
+   "server": "node.nowabst.net",
+   "port": 853,
    "secret": "eef17eaf287401413739814ccc05a709a66164732e78352e7275"
   },
   {
@@ -1122,6 +1137,11 @@
   },
   {
    "server": "proxy11.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "proxy12.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1261,6 +1281,11 @@
    "secret": "ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275"
   },
   {
+   "server": "relay.nowabst.net",
+   "port": 853,
+   "secret": "ee56b3978999960e7b1612c25557e1b9c1766b2e636f6d"
+  },
+  {
    "server": "rkngoodbye.fsproxy.site",
    "port": 443,
    "secret": "ee49b626faf225cad34ac2f2d23716980862726f777365722e79616e6465782e7275"
@@ -1381,11 +1406,6 @@
    "secret": "ee8b60156255cd03a3201a4af8655e211a6d2e7477697463682e7476"
   },
   {
-   "server": "top.teleproxy.info",
-   "port": 443,
-   "secret": "eeeb6abe77e3fe1207be7f42ea989e923d64726976652e676f6f676c652e636f6d"
-  },
-  {
    "server": "tr.nowabst.net",
    "port": 853,
    "secret": "eeceaec97c86b6332adc48b3c081954e606164732e78352e7275"
@@ -1436,15 +1456,10 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
-   "server": "www2.nilmart.ir",
-   "port": 443,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "zinova.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 289
+ "count": 292
 }

@@ -25,42 +25,42 @@
    "ping": 149
   },
   {
-   "server": "34.51.222.239",
-   "port": 443,
-   "secret": "ddfb1c51c0125d6c82066dd588f5201849",
-   "ping": 164
-  },
-  {
    "server": "34.51.227.196",
    "port": 443,
    "secret": "dd3cec606d9be26a99756789121ce87239",
-   "ping": 167
+   "ping": 165
   },
   {
-   "server": "zinova.co.uk.",
+   "server": "34.51.222.239",
    "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 186
-  },
-  {
-   "server": "pmcdin.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 303
+   "secret": "ddfb1c51c0125d6c82066dd588f5201849",
+   "ping": 168
   },
   {
    "server": "so-cpu.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 312
+   "ping": 170
+  },
+  {
+   "server": "brivora.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 190
+  },
+  {
+   "server": "zinova.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 210
   },
   {
    "server": "b8rta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 1166
+   "ping": 312
   }
  ],
  "count": 10,
- "checked": 289
+ "checked": 292
 }
