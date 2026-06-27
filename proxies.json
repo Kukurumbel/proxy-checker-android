@@ -206,11 +206,6 @@
    "secret": "eeee52288a1c9bf20ef3423488f8418c3f087777772e636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "79.137.196.223",
-   "port": 2443,
-   "secret": "eeeed28dc05b23b7ccba27a3d352abf1467c7777772e636c6f7564666c6172652e636f6d"
-  },
-  {
    "server": "87.120.216.254",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -806,22 +801,12 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "in-vase-to.ir.biobarmesh.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "iran.protocolsix.info",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "iranian-cheetah.ir.the-nice-mtproto.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "junior.ir.the-nice-mtproto.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
@@ -878,11 +863,6 @@
   {
    "server": "login.klyuch1k.org",
    "port": 443,
-   "secret": "ee7fe48cfdec0ea3ef252cabc2fadda0206c6f67696e2e6b6c79756368316b2e6f7267"
-  },
-  {
-   "server": "login.klyuch1k.org",
-   "port": 443,
    "secret": "eecabbd4d9fd4481bbb66bcaf9f424d7c56c6f67696e2e6b6c79756368316b2e6f7267"
   },
   {
@@ -899,11 +879,6 @@
    "server": "login.veltura.digital",
    "port": 443,
    "secret": "ee4c8a0558e2816595cb5fa0718be51a316c6f67696e2e76656c747572612e6469676974616c"
-  },
-  {
-   "server": "login.veltura.digital",
-   "port": 443,
-   "secret": "ee5958726ff7014366a3b70d38ff0c8e456c6f67696e2e76656c747572612e6469676974616c"
   },
   {
    "server": "login.veltura.digital",
@@ -999,6 +974,11 @@
    "server": "mtp.proxymirron.com",
    "port": 443,
    "secret": "eedd43a83b8e5fa88109a03fbcb746bd09636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "my.jinxandjack.co.uk.",
+   "port": 443,
+   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
    "server": "ne01.proxymirron.com",
@@ -1109,11 +1089,6 @@
    "server": "portal.balalaika.click",
    "port": 443,
    "secret": "eed9b57dfbf5b124dd877540301c89c774706f7274616c2e62616c616c61696b612e636c69636b"
-  },
-  {
-   "server": "portal.balalaika.click",
-   "port": 443,
-   "secret": "eefcbdb65a11b00bbfbbd9de6fb0b17099706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
    "server": "portal.jinxandjack.co.uk.",
@@ -1491,5 +1466,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 298
+ "count": 293
 }
