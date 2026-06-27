@@ -36,11 +36,6 @@
    "secret": "FgMBAgABAAH8AxOG4kw63Q"
   },
   {
-   "server": "159.69.26.72",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "167.233.48.222",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -486,11 +481,6 @@
    "secret": "eeb3109e4d758b0eb45731a6ff4d2c12b163646e2e736176656c7965762e636c69636b"
   },
   {
-   "server": "cdn.savelyev.click",
-   "port": 443,
-   "secret": "eedd1174aeeba154742b9b2d722fab283763646e2e736176656c7965762e636c69636b"
-  },
-  {
    "server": "cdn.toconvel.digital",
    "port": 443,
    "secret": "ee40e625d3286a6e8aeab9fa83bea77e1763646e2e746f636f6e76656c2e6469676974616c"
@@ -529,6 +519,11 @@
    "server": "cloud.neoqua.pro",
    "port": 443,
    "secret": "eef570e529904a0963c6bf64b2f0eea428636c6f75642e6e656f7175612e70726f"
+  },
+  {
+   "server": "coffee.sattarbox.co.uk",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "connect.savelyev.click",
@@ -619,6 +614,11 @@
    "server": "ethereal3.arixo.shop",
    "port": 443,
    "secret": "ee1cd35aadd56b62a6b32506cd12a2774e657468657265616c332e617269786f2e73686f70"
+  },
+  {
+   "server": "ethereal4.arixo.shop",
+   "port": 443,
+   "secret": "ee46a1111ddd4e14df06045987bd9c3036657468657265616c342e617269786f2e73686f70"
   },
   {
    "server": "fast.garden-troll.life",
@@ -734,11 +734,6 @@
    "server": "ghtash.co.uk",
    "port": 9965,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "go.antitspu.com",
-   "port": 443,
-   "secret": "ee0d12d8f206a08b06eced9a104734a824676f2e616e7469747370752e636f6d"
   },
   {
    "server": "go.antitspu.com",
@@ -1011,11 +1006,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "news.future.ir.balabolanda.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "node.mishkalapy.life",
    "port": 443,
    "secret": "ee0a90f3b3396f5d29c64a47ef6615078d6e6f64652e6d6973686b616c6170792e6c696665"
@@ -1059,11 +1049,6 @@
    "server": "openhostings.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "persian.gulf.ir.olsjddhf.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "persian.gulf.ir.olsjddhf.info.",
@@ -1137,6 +1122,11 @@
   },
   {
    "server": "proxy10.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "proxy11.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1308,11 +1298,6 @@
   {
    "server": "secure.gorbushkin.click",
    "port": 443,
-   "secret": "ee9021e985e3089e1401dd746820a5e63d7365637572652e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "secure.gorbushkin.click",
-   "port": 443,
    "secret": "eebbf55b9bfecba7ac5fd1e437a7a632447365637572652e676f72627573686b696e2e636c69636b"
   },
   {
@@ -1466,5 +1451,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 293
+ "count": 290
 }
