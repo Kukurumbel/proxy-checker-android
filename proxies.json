@@ -36,11 +36,6 @@
    "secret": "FgMBAgABAAH8AxOG4kw63Q"
   },
   {
-   "server": "167.233.48.222",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "178.215.239.23",
    "port": 443,
    "secret": "ee21d0c5304eaec66add6192801966a7d57275747562652e7275"
@@ -174,6 +169,11 @@
    "server": "79.137.196.223",
    "port": 1443,
    "secret": "eeee52288a1c9bf20ef3423488f8418c3f087777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "81.91.179.74",
+   "port": 443,
+   "secret": "ee9d510af7b8eced7ed5eda1bfb35348f262726f777365722e79616e6465782e636f6d"
   },
   {
    "server": "87.120.216.254",
@@ -361,11 +361,6 @@
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
-   "server": "app.kvakzon.top",
-   "port": 443,
-   "secret": "eebfd3ba9d7fca260c6d9b3b10245ed8386170702e6b76616b7a6f6e2e746f70"
-  },
-  {
    "server": "app.rknwatch.digital",
    "port": 443,
    "secret": "ee17943833438dd4da299c0080a54137f66170702e726b6e77617463682e6469676974616c"
@@ -414,11 +409,6 @@
    "server": "brivora.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "cdn.kvakzon.top",
-   "port": 443,
-   "secret": "ee774ecb55b96b5c3302852e6861ada11563646e2e6b76616b7a6f6e2e746f70"
   },
   {
    "server": "cdn.nowabst.net",
@@ -996,11 +986,6 @@
    "secret": "eefc083cdd43374e05bb52f5ef0992bd836e65742e616e7469747370752e636f6d"
   },
   {
-   "server": "net.freetg.pw",
-   "port": 443,
-   "secret": "eebd79a03bd57944c4830f41e0f2fb94626e65742e6672656574672e7077"
-  },
-  {
    "server": "New-Empire-On-World.ir.heazshddd.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
@@ -1506,5 +1491,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 301
+ "count": 298
 }
