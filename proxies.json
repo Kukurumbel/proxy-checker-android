@@ -96,11 +96,6 @@
    "secret": "dd3cec606d9be26a99756789121ce87239"
   },
   {
-   "server": "34.51.255.77",
-   "port": 443,
-   "secret": "dd111304d9c2b55a043efd8139aaf51ef5"
-  },
-  {
    "server": "34.6.97.246",
    "port": 443,
    "secret": "dde15c0efa2f77bf7378cb3dc8cea5ddde"
@@ -459,11 +454,6 @@
    "server": "connect.savelyev.click",
    "port": 443,
    "secret": "eee7279f581f4c4906fe3eac185c0919b7636f6e6e6563742e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "connect.toconvel.digital",
-   "port": 443,
-   "secret": "ee3a3296f4b555695ea57b9578c3500258636f6e6e6563742e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "connect.toconvel.digital",
@@ -1063,11 +1053,6 @@
   {
    "server": "proxy.garden-troll.life",
    "port": 443,
-   "secret": "ee115cda68b4cc09401106aad10c97475d70726f78792e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
-   "server": "proxy.garden-troll.life",
-   "port": 443,
    "secret": "ee79c23102a1b8dfa85082fec3d7f28b0470726f78792e67617264656e2d74726f6c6c2e6c696665"
   },
   {
@@ -1431,5 +1416,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 286
+ "count": 283
 }
