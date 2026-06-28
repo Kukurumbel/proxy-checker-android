@@ -41,11 +41,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "178.18.147.11",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "178.215.239.23",
    "port": 443,
    "secret": "ee21d0c5304eaec66add6192801966a7d57275747562652e7275"
@@ -601,6 +596,11 @@
    "secret": "ee7db66f5ae075e0fdd3e6b06e301893e5657468657265616c362e617269786f2e73686f70"
   },
   {
+   "server": "ethereal7.arixo.shop",
+   "port": 443,
+   "secret": "ee6fa0d1208ed0d633549861e4d5114270657468657265616c372e617269786f2e73686f70"
+  },
+  {
    "server": "fast.garden-troll.life",
    "port": 443,
    "secret": "ee0c3f91dda87adc073a65d989972871ec666173742e67617264656e2d74726f6c6c2e6c696665"
@@ -679,11 +679,6 @@
    "server": "gate.klyuch1k.org",
    "port": 443,
    "secret": "eea6f42519878ff55cfa5a033e12837a02676174652e6b6c79756368316b2e6f7267"
-  },
-  {
-   "server": "gate.soluqent.pro",
-   "port": 443,
-   "secret": "ee6538b62fe47dff3c068ed861df1f0465676174652e736f6c7571656e742e70726f"
   },
   {
    "server": "gate.veltura.digital",
@@ -1161,6 +1156,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "proxy15.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "proxy2.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1353,11 +1353,6 @@
   {
    "server": "secure.gorbushkin.click",
    "port": 443,
-   "secret": "eecab4484829951a99c587564657b51ad37365637572652e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "secure.gorbushkin.click",
-   "port": 443,
    "secret": "eee90419f865de23f95a859171396bc3d47365637572652e676f72627573686b696e2e636c69636b"
   },
   {
@@ -1511,5 +1506,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 302
+ "count": 301
 }
