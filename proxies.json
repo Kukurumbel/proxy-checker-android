@@ -141,11 +141,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "5.75.203.37",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "51.250.68.4",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -921,16 +916,6 @@
    "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
   },
   {
-   "server": "max.mowork.ru",
-   "port": 443,
-   "secret": "ee13d1a203eb8fa428b44a69aa2c25d8e9636c6f75642e7265672e7275"
-  },
-  {
-   "server": "maxcloud.mowork.ru",
-   "port": 443,
-   "secret": "eececef6563bce080cccda8dcc61cedbf6636c6f75642e7265672e7275"
-  },
-  {
    "server": "mc-ssh.t-proxyru.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -1157,6 +1142,11 @@
   },
   {
    "server": "proxy12.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "proxy13.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1496,5 +1486,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 299
+ "count": 297
 }
