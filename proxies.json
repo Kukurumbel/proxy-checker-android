@@ -121,11 +121,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "51.250.68.4",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "51.250.73.94",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -236,11 +231,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "93.77.178.254",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "93.77.186.177",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -339,11 +329,6 @@
    "server": "api.gorbushkin.click",
    "port": 443,
    "secret": "eeb0f3249f410b7bb9a39b1821400fdf7c6170692e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "api.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
    "server": "app.rknwatch.digital",
@@ -1051,16 +1036,6 @@
    "secret": "eed9b57dfbf5b124dd877540301c89c774706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
-   "server": "portal.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
-  },
-  {
-   "server": "portal.malevich7.top",
-   "port": 443,
-   "secret": "ee1ed92f1fc75ce363d61dd9310b3c1f3b706f7274616c2e6d616c6576696368372e746f70"
-  },
-  {
    "server": "portal.malevich7.top",
    "port": 443,
    "secret": "ee3eb96f42eacd0247864367634aabb927706f7274616c2e6d616c6576696368372e746f70"
@@ -1166,24 +1141,9 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "proxy70.arixo.shop",
-   "port": 443,
-   "secret": "eed4b7509c0cafb248e486429cb088498070726f787937302e617269786f2e73686f70"
-  },
-  {
-   "server": "proxy71.arixo.shop",
-   "port": 443,
-   "secret": "ee2bd0d079ba9a89c23feb0ab8dbc15e4770726f787937312e617269786f2e73686f70"
-  },
-  {
    "server": "proxy72.arixo.shop",
    "port": 443,
    "secret": "eed9daaec0722fbe76dca5c2e92dd5dd7870726f787937322e617269786f2e73686f70"
-  },
-  {
-   "server": "proxy73.arixo.shop",
-   "port": 443,
-   "secret": "eee2285cad7b3cb2727f3bc1605bb63b3970726f787937332e617269786f2e73686f70"
   },
   {
    "server": "proxy76.arixo.shop",
@@ -1476,5 +1436,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 295
+ "count": 287
 }
