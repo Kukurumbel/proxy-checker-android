@@ -4,67 +4,67 @@
    "server": "br.kingproxynewdomailasiatech.ink",
    "port": 22,
    "secret": "dd79e7010200010007f0030386e24c3add",
-   "ping": 70
-  },
-  {
-   "server": "34.90.36.238",
-   "port": 443,
-   "secret": "ddeec806d5ceb6ebe2fe47e212f982fe64",
-   "ping": 87
-  },
-  {
-   "server": "34.6.97.246",
-   "port": 443,
-   "secret": "dde15c0efa2f77bf7378cb3dc8cea5ddde",
-   "ping": 88
+   "ping": 56
   },
   {
    "server": "34.7.181.135",
    "port": 443,
    "secret": "ddebf4e93d8565ca5d242efe5aa70822c3",
-   "ping": 88
+   "ping": 149
   },
   {
-   "server": "34.51.222.239",
+   "server": "34.6.97.246",
    "port": 443,
-   "secret": "ddfb1c51c0125d6c82066dd588f5201849",
-   "ping": 105
+   "secret": "dde15c0efa2f77bf7378cb3dc8cea5ddde",
+   "ping": 150
   },
   {
-   "server": "34.51.227.196",
+   "server": "34.90.36.238",
    "port": 443,
-   "secret": "dd3cec606d9be26a99756789121ce87239",
-   "ping": 105
-  },
-  {
-   "server": "b8rta.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 107
+   "secret": "ddeec806d5ceb6ebe2fe47e212f982fe64",
+   "ping": 150
   },
   {
    "server": "brivora.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 122
+   "ping": 166
   },
   {
-   "server": "zinova.co.uk.",
+   "server": "b8rta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 124
+   "ping": 167
   },
   {
-   "server": "so-cpu.co.uk.",
+   "server": "34.51.222.239",
    "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 305
+   "secret": "ddfb1c51c0125d6c82066dd588f5201849",
+   "ping": 170
   },
   {
    "server": "pmcdin.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 310
+   "ping": 173
+  },
+  {
+   "server": "34.51.227.196",
+   "port": 443,
+   "secret": "dd3cec606d9be26a99756789121ce87239",
+   "ping": 174
+  },
+  {
+   "server": "so-cpu.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 313
+  },
+  {
+   "server": "zinova.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 323
   }
  ],
  "count": 11,
