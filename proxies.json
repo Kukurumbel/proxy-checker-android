@@ -191,11 +191,6 @@
    "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e7777772e676f6f676c652e636f6d"
   },
   {
-   "server": "92.246.87.242",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "92.246.87.243",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -601,6 +596,11 @@
    "secret": "ee60e9cad19900bfefdbd122d82dfcd3d9657468657265616c352e617269786f2e73686f70"
   },
   {
+   "server": "ethereal6.arixo.shop",
+   "port": 443,
+   "secret": "ee7db66f5ae075e0fdd3e6b06e301893e5657468657265616c362e617269786f2e73686f70"
+  },
+  {
    "server": "fast.garden-troll.life",
    "port": 443,
    "secret": "ee0c3f91dda87adc073a65d989972871ec666173742e67617264656e2d74726f6c6c2e6c696665"
@@ -624,6 +624,11 @@
    "server": "For.dear-iranian-people.com.heazshddd.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "free.loveproxy.xyz",
+   "port": 443,
+   "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
   },
   {
    "server": "free1.loveproxy.xyz",
@@ -719,11 +724,6 @@
    "server": "get.utkanos.life",
    "port": 443,
    "secret": "eef09a7a4c51b6bc6caf4d3134b312b0f56765742e75746b616e6f732e6c696665"
-  },
-  {
-   "server": "ghtash.co.uk",
-   "port": 9965,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "go.antitspu.com",
@@ -1111,6 +1111,11 @@
    "secret": "eee9fd052aae932459f210dee7a26c10ea706f7274616c2e6d616c6576696368372e746f70"
   },
   {
+   "server": "predator-artist.top",
+   "port": 853,
+   "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+  },
+  {
    "server": "proxy.garden-troll.life",
    "port": 443,
    "secret": "ee04113f1c6dfba692b4f892588722707870726f78792e67617264656e2d74726f6c6c2e6c696665"
@@ -1286,6 +1291,11 @@
    "secret": "eeec8c9893c4626b4f731052a948a8f0f870726f787939332e617269786f2e73686f70"
   },
   {
+   "server": "public2.mtproxygram.lol",
+   "port": 443,
+   "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d"
+  },
+  {
    "server": "relay.nowabst.net",
    "port": 853,
    "secret": "ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275"
@@ -1304,6 +1314,16 @@
    "server": "rostam-dastan.ir.jhsdkhsds.info.",
    "port": 443,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "ru1.loveproxy.xyz",
+   "port": 443,
+   "secret": "ee10a9bbc28226bf8b41915af388cd4eb562726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "ru2.loveproxy.xyz",
+   "port": 443,
+   "secret": "ee10a9bbc28226bf8b41915af388cd4eb562726f777365722e79616e6465782e7275"
   },
   {
    "server": "rudomain.info.",
@@ -1491,5 +1511,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 298
+ "count": 302
 }
