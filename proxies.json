@@ -111,11 +111,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "51.250.73.94",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "65.108.126.206",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -172,11 +167,6 @@
   },
   {
    "server": "93.77.161.232",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "93.77.163.149",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -806,11 +796,6 @@
    "secret": "eea82a1f90226c525f9ae2d93312e17e766d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
-   "server": "mirror.balalaika.click",
-   "port": 443,
-   "secret": "eeff63bf41c65c54dc297e24e963fa27b86d6972726f722e62616c616c61696b612e636c69636b"
-  },
-  {
    "server": "mirror.malevich7.top",
    "port": 443,
    "secret": "eea022c7ec7cd2643dd62f7d39579df1b06d6972726f722e6d616c6576696368372e746f70"
@@ -859,11 +844,6 @@
    "server": "net.antitspu.com",
    "port": 443,
    "secret": "eeafa60f551fcebccf2bd2727784b750ab6e65742e616e7469747370752e636f6d"
-  },
-  {
-   "server": "net.antitspu.com",
-   "port": 443,
-   "secret": "eec6e87219dcdfeb137917b81aed28e8b76e65742e616e7469747370752e636f6d"
   },
   {
    "server": "net.antitspu.com",
@@ -1066,11 +1046,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "proxy81.arixo.shop",
-   "port": 443,
-   "secret": "ee097eff18246705d744258e4bf76fff3170726f787938312e617269786f2e73686f70"
-  },
-  {
    "server": "proxy85.arixo.shop",
    "port": 443,
    "secret": "eea91538e20e8d5b207fd6240c22e8f65f70726f787938352e617269786f2e73686f70"
@@ -1163,11 +1138,6 @@
   {
    "server": "secure.gorbushkin.click",
    "port": 443,
-   "secret": "ee085e93f8b1609516932d35ace0fe35da7365637572652e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "secure.gorbushkin.click",
-   "port": 443,
    "secret": "eebbf55b9bfecba7ac5fd1e437a7a632447365637572652e676f72627573686b696e2e636c69636b"
   },
   {
@@ -1184,11 +1154,6 @@
    "server": "secure.medhata.org",
    "port": 443,
    "secret": "ee50b26f8744857d1ca0d4f3c94eaf779f7365637572652e6d6564686174612e6f7267"
-  },
-  {
-   "server": "secure.medhata.org",
-   "port": 443,
-   "secret": "ee5e2b1fd30d641d0a1a5f8dbf932d8ce57365637572652e6d6564686174612e6f7267"
   },
   {
    "server": "secure.medhata.org",
@@ -1303,17 +1268,17 @@
   {
    "server": "web.utkanos.life",
    "port": 443,
-   "secret": "ee3c2a43ba64b15e214c3f1813848121a77765622e75746b616e6f732e6c696665"
-  },
-  {
-   "server": "web.utkanos.life",
-   "port": 443,
    "secret": "eec04667c227c3fab6c96b4dbd30366ff77765622e75746b616e6f732e6c696665"
   },
   {
    "server": "web.utkanos.life",
    "port": 443,
    "secret": "eecc8f41227a10051d1c4c325ed9db528b7765622e75746b616e6f732e6c696665"
+  },
+  {
+   "server": "web.utkanos.life",
+   "port": 443,
+   "secret": "eef13cc4df17a0f37e9142315b0bca90707765622e75746b616e6f732e6c696665"
   },
   {
    "server": "webhook.what-ever.co.uk.",
@@ -1331,5 +1296,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 266
+ "count": 259
 }
