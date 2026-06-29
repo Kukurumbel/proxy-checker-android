@@ -306,6 +306,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "cdn.kvakzon.top",
+   "port": 443,
+   "secret": "ee4c9e204ef11de2b7b95e7ea9d11d284063646e2e6b76616b7a6f6e2e746f70"
+  },
+  {
    "server": "cdn.nowabst.net",
    "port": 853,
    "secret": "7lN1On5sIBlEBmdKGthywfhhZHMueDUucnU"
@@ -774,6 +779,11 @@
    "server": "mirror.balalaika.click",
    "port": 443,
    "secret": "ee0b6b360e3435a5d662c6b0eca5a7d87f6d6972726f722e62616c616c61696b612e636c69636b"
+  },
+  {
+   "server": "mirror.balalaika.click",
+   "port": 443,
+   "secret": "ee3e70f30dd6781a4fbd090415863573b46d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
    "server": "mirror.balalaika.click",
@@ -1286,5 +1296,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 257
+ "count": 259
 }
