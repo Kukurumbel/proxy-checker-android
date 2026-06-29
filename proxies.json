@@ -238,12 +238,12 @@
   {
    "server": "api.gorbushkin.click",
    "port": 443,
-   "secret": "ee791652f50256cf7380994506b69223c16170692e676f72627573686b696e2e636c69636b"
+   "secret": "ee2aa0a4a8bc44aff3006a45d30c9e38ab6170692e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "api.gorbushkin.click",
    "port": 443,
-   "secret": "ee9c1246f19034e280229d9d60614b918d6170692e676f72627573686b696e2e636c69636b"
+   "secret": "ee791652f50256cf7380994506b69223c16170692e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "api.gorbushkin.click",
@@ -256,9 +256,9 @@
    "secret": "eeb0f3249f410b7bb9a39b1821400fdf7c6170692e676f72627573686b696e2e636c69636b"
   },
   {
-   "server": "app.rknwatch.digital",
+   "server": "app.kvakzon.top",
    "port": 443,
-   "secret": "ee17943833438dd4da299c0080a54137f66170702e726b6e77617463682e6469676974616c"
+   "secret": "ee5b0fbf6320bd9abf4c494f0a5e5d36a16170702e6b76616b7a6f6e2e746f70"
   },
   {
    "server": "app.rknwatch.digital",
@@ -279,11 +279,6 @@
    "server": "b8rta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "bale-ai.vingardium.co.uk.",
-   "port": 443,
-   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
    "server": "basic.here-funnycloud.co.uk",
@@ -333,11 +328,6 @@
   {
    "server": "cdn.toconvel.digital",
    "port": 443,
-   "secret": "ee4b626208a4a1f7bf6ed78ba01c5a4cd263646e2e746f636f6e76656c2e6469676974616c"
-  },
-  {
-   "server": "cdn.toconvel.digital",
-   "port": 443,
    "secret": "ee7d964536432cb73c6328dcd7439131ff63646e2e746f636f6e76656c2e6469676974616c"
   },
   {
@@ -363,6 +353,11 @@
   {
    "server": "cloud.neoqua.pro",
    "port": 443,
+   "secret": "ee7a5a372eecfa1dbada9b42e7d5cd5521636c6f75642e6e656f7175612e70726f"
+  },
+  {
+   "server": "cloud.neoqua.pro",
+   "port": 443,
    "secret": "eef570e529904a0963c6bf64b2f0eea428636c6f75642e6e656f7175612e70726f"
   },
   {
@@ -374,11 +369,6 @@
    "server": "connect.savelyev.click",
    "port": 443,
    "secret": "ee5043c11a1f6af22fea1a0763ade968f6636f6e6e6563742e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "connect.savelyev.click",
-   "port": 443,
-   "secret": "ee8788698d133d84bda74f6555d6d0412c636f6e6e6563742e736176656c7965762e636c69636b"
   },
   {
    "server": "connect.savelyev.click",
@@ -554,11 +544,6 @@
    "server": "gate.klyuch1k.org",
    "port": 443,
    "secret": "ee90fe2283168fc565dd2bc7e4a5756314676174652e6b6c79756368316b2e6f7267"
-  },
-  {
-   "server": "gate.klyuch1k.org",
-   "port": 443,
-   "secret": "ee9646a4f862169086274ef56c09294c40676174652e6b6c79756368316b2e6f7267"
   },
   {
    "server": "gate.klyuch1k.org",
@@ -813,12 +798,12 @@
   {
    "server": "mt.nowabst.net",
    "port": 853,
-   "secret": "ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275"
+   "secret": "ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d"
   },
   {
-   "server": "mt.nowabst.net",
+   "server": "mtp.nowabst.net",
    "port": 853,
-   "secret": "ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d"
+   "secret": "7oLOH4SvQDPMfnsCEGm-PVthZHMueDUucnU"
   },
   {
    "server": "mtp.nowabst.net",
@@ -849,6 +834,11 @@
    "server": "net.antitspu.com",
    "port": 443,
    "secret": "eefc083cdd43374e05bb52f5ef0992bd836e65742e616e7469747370752e636f6d"
+  },
+  {
+   "server": "net.freetg.pw",
+   "port": 443,
+   "secret": "ee83fa4fde388bf7da767bf4b9333fc8526e65742e6672656574672e7077"
   },
   {
    "server": "node.mishkalapy.life",
@@ -1296,5 +1286,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 259
+ "count": 257
 }
