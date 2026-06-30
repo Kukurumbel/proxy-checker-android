@@ -31,6 +31,11 @@
    "secret": "ee6d6963726f736f66742e636f6dd95c"
   },
   {
+   "server": "155.212.225.56",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+  },
+  {
    "server": "157.90.227.27",
    "port": 85,
    "secret": "FgMBAgABAAH8AxOG4kw63Q"
@@ -211,6 +216,11 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "aca00eb3.etherealvpn.uk",
+   "port": 443,
+   "secret": "ee4ebde057e85dd06ed515c11267d2cde234646338626537362e657468657265616c76706e2e756b"
+  },
+  {
    "server": "ad1.arixo.shop",
    "port": 443,
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
@@ -366,11 +376,6 @@
    "secret": "ee7a5a372eecfa1dbada9b42e7d5cd5521636c6f75642e6e656f7175612e70726f"
   },
   {
-   "server": "cloud.neoqua.pro",
-   "port": 443,
-   "secret": "eef570e529904a0963c6bf64b2f0eea428636c6f75642e6e656f7175612e70726f"
-  },
-  {
    "server": "connect.savelyev.click",
    "port": 443,
    "secret": "ee27b13780696465e25049b0dc7eb7b39f636f6e6e6563742e736176656c7965762e636c69636b"
@@ -409,11 +414,6 @@
    "server": "edge.librava.click",
    "port": 443,
    "secret": "eeb443935baea1033d43b963701f57568d656467652e6c6962726176612e636c69636b"
-  },
-  {
-   "server": "edge.librava.click",
-   "port": 443,
-   "secret": "eefbf1daa1dfac9d57e9931bcb6f600e41656467652e6c6962726176612e636c69636b"
   },
   {
    "server": "edge.rknwatch.digital",
@@ -649,11 +649,6 @@
    "server": "hub.nowabst.net",
    "port": 853,
    "secret": "ee55aabc9752a9d9d379e02943cf8117956164732e78352e7275"
-  },
-  {
-   "server": "hypersonic.ir.hdjsjsjs.info.",
-   "port": 443,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "irancell-mci.ir.gybshdjls.info.",
@@ -1001,6 +996,16 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "proxy20.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "proxy21.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "proxy3.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1143,11 +1148,6 @@
   {
    "server": "secure.medhata.org",
    "port": 443,
-   "secret": "ee50b26f8744857d1ca0d4f3c94eaf779f7365637572652e6d6564686174612e6f7267"
-  },
-  {
-   "server": "secure.medhata.org",
-   "port": 443,
    "secret": "eea19617d5c2e4a7ea104cd317777acd1b7365637572652e6d6564686174612e6f7267"
   },
   {
@@ -1226,11 +1226,6 @@
    "secret": "eeceaec97c86b6332adc48b3c081954e606164732e78352e7275"
   },
   {
-   "server": "turbo-jet.balestic.ir.ghsisncbv.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "tw.turboproxy.pro",
    "port": 443,
    "secret": "ee8b60156255cd03a3201a4af8655e211a72746d702e7477697463682e7476"
@@ -1279,6 +1274,11 @@
    "server": "www2.acientirani-uor4.ir",
    "port": 443,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
+   "server": "zentyo.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "zinova.co.uk.",
