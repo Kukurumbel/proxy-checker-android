@@ -186,11 +186,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "93.77.176.108",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "93.77.186.177",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -244,6 +239,11 @@
    "server": "ad3.arixo.shop",
    "port": 443,
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
+  },
+  {
+   "server": "always.for.you.ir.mausjakaqd.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "Amir-ghalenoei-gq.ir.yfdhjderkig.info.",
@@ -309,6 +309,11 @@
    "server": "best-sellerst.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "Best.for.iran.zydgjdinc.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "br.kingproxynewdomailasiatech.ink",
@@ -426,11 +431,6 @@
    "secret": "ee7af7548a786b6603566172b91f413637656467652e726b6e77617463682e6469676974616c"
   },
   {
-   "server": "ethereal.arixo.shop",
-   "port": 443,
-   "secret": "ee5f8b31d631d413f83f1f6e8da233f69c657468657265616c2e617269786f2e73686f70"
-  },
-  {
    "server": "ethereal1.arixo.shop",
    "port": 443,
    "secret": "eed38044efdfe3e067bbe3e6a683a07de4657468657265616c312e617269786f2e73686f70"
@@ -524,6 +524,11 @@
    "server": "ftp.asiaadomainsshatelhamrahaval.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
+  },
+  {
+   "server": "ftp.jinxandjack.co.uk.",
+   "port": 443,
+   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
    "server": "full-vasl.ir-xyz.gdhbvjshjrf.info.",
@@ -661,11 +666,6 @@
    "secret": "ee9d510af7b8eced7ed5eda1bfb35348f262726f777365722e79616e6465782e636f6d"
   },
   {
-   "server": "kha8shen.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "link.freetg.pw",
    "port": 443,
    "secret": "ee1d89eb222800da9e0dca07e51883b2916c696e6b2e6672656574672e7077"
@@ -694,11 +694,6 @@
    "server": "link.nowabst.net",
    "port": 853,
    "secret": "7hu9zc_SAJdLuZmBMYChJzhhZHMueDUucnU"
-  },
-  {
-   "server": "link.nowabst.net",
-   "port": 853,
-   "secret": "ee1bbdcdcfd200974bb999813180a127386164732e78352e7275"
   },
   {
    "server": "login.kerfilia.info",
@@ -986,11 +981,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "proxy2.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "proxy20.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1206,11 +1196,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "tg.nowabst.net",
-   "port": 853,
-   "secret": "eebfbfb8093b088269716ea5262d483e1d6164732e78352e7275"
-  },
-  {
    "server": "th.turboproxy.pro",
    "port": 443,
    "secret": "ee8b60156255cd03a3201a4af8655e211a6d2e7477697463682e7476"
@@ -1256,6 +1241,11 @@
    "secret": "eef13cc4df17a0f37e9142315b0bca90707765622e75746b616e6f732e6c696665"
   },
   {
+   "server": "webhook.darkmoon.ir.",
+   "port": 443,
+   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+  },
+  {
    "server": "webhook.what-ever.co.uk.",
    "port": 443,
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
@@ -1276,5 +1266,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 255
+ "count": 253
 }
