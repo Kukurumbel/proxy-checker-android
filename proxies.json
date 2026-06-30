@@ -223,11 +223,6 @@
   {
    "server": "api.gorbushkin.click",
    "port": 443,
-   "secret": "eea71b3252c060bf87230e5212149aac2b6170692e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "api.gorbushkin.click",
-   "port": 443,
    "secret": "eeb0f3249f410b7bb9a39b1821400fdf7c6170692e676f72627573686b696e2e636c69636b"
   },
   {
@@ -239,6 +234,11 @@
    "server": "app.rknwatch.digital",
    "port": 443,
    "secret": "ee413cd220b66352a19c5ddfd6a5bda8476170702e726b6e77617463682e6469676974616c"
+  },
+  {
+   "server": "app.rknwatch.digital",
+   "port": 443,
+   "secret": "eea71c6dd2862aae373d33d065ad908bce6170702e726b6e77617463682e6469676974616c"
   },
   {
    "server": "as.mkim.click",
@@ -538,12 +538,12 @@
   {
    "server": "gate.veltura.digital",
    "port": 443,
-   "secret": "ee4a5219514ece921fa0cf2c3c77c29d16676174652e76656c747572612e6469676974616c"
+   "secret": "ee4d50c27f02aa90347059343638293ed7676174652e76656c747572612e6469676974616c"
   },
   {
    "server": "gate.veltura.digital",
    "port": 443,
-   "secret": "ee4d50c27f02aa90347059343638293ed7676174652e76656c747572612e6469676974616c"
+   "secret": "ee9ab004a25339e6a214bcf40141b224c3676174652e76656c747572612e6469676974616c"
   },
   {
    "server": "ge.nowabst.net",
@@ -724,11 +724,6 @@
    "server": "mirror.balalaika.click",
    "port": 443,
    "secret": "ee3e70f30dd6781a4fbd090415863573b46d6972726f722e62616c616c61696b612e636c69636b"
-  },
-  {
-   "server": "mirror.balalaika.click",
-   "port": 443,
-   "secret": "eea82a1f90226c525f9ae2d93312e17e766d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
    "server": "mirror.malevich7.top",
@@ -1196,5 +1191,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 239
+ "count": 238
 }
