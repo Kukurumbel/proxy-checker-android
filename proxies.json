@@ -21,11 +21,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "138.201.192.170",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "144.31.237.144",
    "port": 443,
    "secret": "ee6d6963726f736f66742e636f6dd95c"
@@ -116,19 +111,9 @@
    "secret": "ee4ebde057e85dd06ed515c11267d2cde234646338626537362e657468657265616c76706e2e756b"
   },
   {
-   "server": "5.75.155.1",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "65.108.126.206",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.109.247.142",
-   "port": 85,
-   "secret": "FgMBAgABAAH8AxOG4kw63Q"
   },
   {
    "server": "65.109.255.219",
@@ -172,16 +157,6 @@
   },
   {
    "server": "93.77.161.159",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "93.77.161.232",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "93.77.165.26",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1011,11 +986,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "proxy65.arixo.shop",
-   "port": 443,
-   "secret": "ee3ceb82a3b4254e6e6ae1971021f3c209617669746f2e7275"
-  },
-  {
    "server": "proxy7.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1024,16 +994,6 @@
    "server": "proxy8.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "proxy85.arixo.shop",
-   "port": 443,
-   "secret": "eea91538e20e8d5b207fd6240c22e8f65f70726f787938352e617269786f2e73686f70"
-  },
-  {
-   "server": "proxy86.arixo.shop",
-   "port": 443,
-   "secret": "ee554afae2bfa287e47257235da5e6473e70726f787938362e617269786f2e73686f70"
   },
   {
    "server": "proxy87.arixo.shop",
@@ -1173,11 +1133,6 @@
   {
    "server": "Strait-of-Hormuz.ir.jursdheks.info.",
    "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "Strait-of-Hormuz.ir.jursdheks.info.",
-   "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d"
   },
   {
@@ -1266,5 +1221,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 253
+ "count": 244
 }
