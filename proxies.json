@@ -151,16 +151,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "93.77.161.159",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "93.77.186.177",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "94.249.225.233",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -191,19 +181,9 @@
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
   },
   {
-   "server": "ad1.loveproxy.xyz",
-   "port": 443,
-   "secret": "ee790564eb7681ead5fa55f10c7ee61c3d62726f777365722e79616e6465782e7275"
-  },
-  {
    "server": "ad2.arixo.shop",
    "port": 443,
    "secret": "eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70"
-  },
-  {
-   "server": "ad2.loveproxy.xyz",
-   "port": 443,
-   "secret": "ee790564eb7681ead5fa55f10c7ee61c3d62726f777365722e79616e6465782e7275"
   },
   {
    "server": "ad3.arixo.shop",
@@ -244,11 +224,6 @@
    "server": "app.rknwatch.digital",
    "port": 443,
    "secret": "eea71c6dd2862aae373d33d065ad908bce6170702e726b6e77617463682e6469676974616c"
-  },
-  {
-   "server": "as.mkim.click",
-   "port": 443,
-   "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
   },
   {
    "server": "b8b8e0dc.etherealvpn.uk",
@@ -701,11 +676,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "max.kimt.click",
-   "port": 443,
-   "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
-  },
-  {
    "server": "mc-ssh.t-proxyru.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -956,11 +926,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "proxy87.arixo.shop",
-   "port": 443,
-   "secret": "ee360306c2cbadedc33ed765da6afb1c2970726f787938372e617269786f2e73686f70"
-  },
-  {
    "server": "proxy89.arixo.shop",
    "port": 443,
    "secret": "eeddb1dbf8b26ae01665a152f90029591770726f787938392e617269786f2e73686f70"
@@ -969,11 +934,6 @@
    "server": "proxy9.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "proxy92.arixo.shop",
-   "port": 443,
-   "secret": "ee6cdb57cbb4f03bda88dfb4db2bae2bfe70726f787939322e617269786f2e73686f70"
   },
   {
    "server": "proxy93.arixo.shop",
@@ -1086,6 +1046,11 @@
    "secret": "ee80c85fd744ac529b79af0e72157d90c162726f777365722e79616e6465782e636f6d"
   },
   {
+   "server": "Stand-For-Iran.ir.mausjakaqd.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "stockholm.viking-vibe.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -1099,11 +1064,6 @@
    "server": "subobdoa.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "sum.beatvault.ru",
-   "port": 443,
-   "secret": "eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d"
   },
   {
    "server": "tanzibjf.club.",
@@ -1186,5 +1146,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 237
+ "count": 229
 }
