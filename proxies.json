@@ -41,6 +41,11 @@
    "secret": "ee21d0c5304eaec66add6192801966a7d57275747562652e7275"
   },
   {
+   "server": "1785347b.etherealvpn.uk",
+   "port": 443,
+   "secret": "eed083bcb9b8a3592fa7d6e8060b95992d39643530393933642e657468657265616c76706e2e756b"
+  },
+  {
    "server": "191.44.113.93",
    "port": 443,
    "secret": "ee79616e6465782e727530b9744f0c52"
@@ -521,11 +526,6 @@
    "secret": "ee90fe2283168fc565dd2bc7e4a5756314676174652e6b6c79756368316b2e6f7267"
   },
   {
-   "server": "gate.klyuch1k.org",
-   "port": 443,
-   "secret": "eea6f42519878ff55cfa5a033e12837a02676174652e6b6c79756368316b2e6f7267"
-  },
-  {
    "server": "gate.soluqent.pro",
    "port": 443,
    "secret": "eed66f4a5efedfdb0b2a74cf0596b12d17676174652e736f6c7571656e742e7072"
@@ -574,11 +574,6 @@
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "ee7b0b6d0a2ca27c3d3bd7e33c7f95eb15676f2e616e7469747370752e636f6d"
-  },
-  {
-   "server": "go.pelmeshka.top",
-   "port": 443,
-   "secret": "ee918b4f1ae0570d2ddc8fb627aaa1365e676f2e70656c6d6573686b612e746f70"
   },
   {
    "server": "go.pelmeshka.top",
@@ -768,11 +763,6 @@
   {
    "server": "net.antitspu.com",
    "port": 443,
-   "secret": "eeafa60f551fcebccf2bd2727784b750ab6e65742e616e7469747370752e636f6d"
-  },
-  {
-   "server": "net.antitspu.com",
-   "port": 443,
    "secret": "eefc083cdd43374e05bb52f5ef0992bd836e65742e616e7469747370752e636f6d"
   },
   {
@@ -784,11 +774,6 @@
    "server": "net.freetg.pw",
    "port": 443,
    "secret": "eebd79a03bd57944c4830f41e0f2fb94626e65742e6672656574672e7077"
-  },
-  {
-   "server": "node.mishkalapy.life",
-   "port": 443,
-   "secret": "ee48768a46d726771e9f10a686fae5714e6e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
    "server": "node.nowabst.net",
@@ -932,6 +917,11 @@
   },
   {
    "server": "proxy21.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "proxy22.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1189,7 +1179,12 @@
    "server": "zinova.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "server": "zone.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 238
+ "count": 237
 }
