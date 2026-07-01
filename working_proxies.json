@@ -1,22 +1,16 @@
 {
  "proxies": [
   {
-   "server": "155.212.225.56",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 109
-  },
-  {
    "server": "br.kingproxynewdomailasiatech.ink",
    "port": 22,
    "secret": "dd79e7010200010007f0030386e24c3add",
-   "ping": 118
+   "ping": 21
   },
   {
-   "server": "so-cpu.co.uk.",
+   "server": "155.212.225.56",
    "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 210
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 110
   },
   {
    "server": "pmcdin.co.uk.",
@@ -25,30 +19,30 @@
    "ping": 216
   },
   {
-   "server": "brivora.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 217
-  },
-  {
    "server": "zinova.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 313
+   "ping": 232
+  },
+  {
+   "server": "brivora.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 235
   },
   {
    "server": "zentyo.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 316
+   "ping": 238
   },
   {
    "server": "b8rta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 1293
+   "ping": 1245
   }
  ],
- "count": 8,
- "checked": 229
+ "count": 7,
+ "checked": 224
 }

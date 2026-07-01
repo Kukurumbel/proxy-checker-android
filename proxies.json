@@ -21,9 +21,9 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "144.31.237.144",
-   "port": 443,
-   "secret": "ee6d6963726f736f66742e636f6dd95c"
+   "server": "144.31.25.179",
+   "port": 5223,
+   "secret": "7uao3_adb96sOIzKbSDMtEJ3d3cuYXBwbGUuY29t"
   },
   {
    "server": "155.212.225.56",
@@ -46,19 +46,9 @@
    "secret": "eed083bcb9b8a3592fa7d6e8060b95992d39643530393933642e657468657265616c76706e2e756b"
   },
   {
-   "server": "191.44.113.93",
-   "port": 443,
-   "secret": "ee79616e6465782e727530b9744f0c52"
-  },
-  {
    "server": "194.120.230.120",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "2.26.124.102",
-   "port": 443,
-   "secret": "ee6d6963726f736f66742e636f6dd95c"
   },
   {
    "server": "212.8.250.127",
@@ -106,9 +96,19 @@
    "secret": "ee4ebde057e85dd06ed515c11267d2cde234646338626537362e657468657265616c76706e2e756b"
   },
   {
+   "server": "65.108.123.76",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.108.126.206",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "66a33889.etherealvpn.uk",
+   "port": 443,
+   "secret": "eed083bcb9b8a3592fa7d6e8060b95992d39643530393933642e657468657265616c76706e2e756b"
   },
   {
    "server": "68.209.57.138",
@@ -134,6 +134,11 @@
    "server": "87.58.201.74",
    "port": 853,
    "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e7777772e676f6f676c652e636f6d"
+  },
+  {
+   "server": "91.107.160.196",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "92.246.87.243",
@@ -283,11 +288,6 @@
   {
    "server": "cdn.nowabst.net",
    "port": 853,
-   "secret": "7lN1On5sIBlEBmdKGthywfhhZHMueDUucnU"
-  },
-  {
-   "server": "cdn.nowabst.net",
-   "port": 853,
    "secret": "ee55aabc9752a9d9d379e02943cf811795766b2e636f6d"
   },
   {
@@ -374,11 +374,6 @@
    "server": "edge.rknwatch.digital",
    "port": 443,
    "secret": "ee7af7548a786b6603566172b91f413637656467652e726b6e77617463682e6469676974616c"
-  },
-  {
-   "server": "ethereal1.arixo.shop",
-   "port": 443,
-   "secret": "eed38044efdfe3e067bbe3e6a683a07de4657468657265616c312e617269786f2e73686f70"
   },
   {
    "server": "ethereal10.arixo.shop",
@@ -479,11 +474,6 @@
    "server": "full-vasl.ir-xyz.gdhbvjshjrf.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "gate.klyuch1k.org",
-   "port": 443,
-   "secret": "ee0630f13105feea50003aeed9e5df4df8676174652e6b6c79756368316b2e6f7267"
   },
   {
    "server": "gate.klyuch1k.org",
@@ -614,11 +604,6 @@
    "server": "link.mishkalapy.life",
    "port": 443,
    "secret": "ee8e49b78be8846fc7cc18476081690fa26c696e6b2e6d6973686b616c6170792e6c696665"
-  },
-  {
-   "server": "link.nowabst.net",
-   "port": 853,
-   "secret": "7hu9zc_SAJdLuZmBMYChJzhhZHMueDUucnU"
   },
   {
    "server": "login.kerfilia.info",
@@ -901,6 +886,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "proxy24.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "proxy3.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -929,11 +919,6 @@
    "server": "proxy8.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "proxy89.arixo.shop",
-   "port": 443,
-   "secret": "eeddb1dbf8b26ae01665a152f90029591770726f787938392e617269786f2e73686f70"
   },
   {
    "server": "proxy9.chunkycorp.shop",
@@ -1021,11 +1006,6 @@
    "secret": "eea19617d5c2e4a7ea104cd317777acd1b7365637572652e6d6564686174612e6f7267"
   },
   {
-   "server": "secure.medhata.org",
-   "port": 443,
-   "secret": "eecbe98ad15a916cf1027a7bd6c8d11c1f7365637572652e6d6564686174612e6f7267"
-  },
-  {
    "server": "so-cpu.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1103,11 +1083,6 @@
   {
    "server": "web.utkanos.life",
    "port": 443,
-   "secret": "ee1258feec290ee9a7216a0dfa1fed19117765622e75746b616e6f732e6c696665"
-  },
-  {
-   "server": "web.utkanos.life",
-   "port": 443,
    "secret": "eecc8f41227a10051d1c4c325ed9db528b7765622e75746b616e6f732e6c696665"
   },
   {
@@ -1146,5 +1121,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 229
+ "count": 224
 }
