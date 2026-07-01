@@ -1,11 +1,6 @@
 {
  "proxies": [
   {
-   "server": "103.161.35.23",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "109.122.198.203",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -206,11 +201,6 @@
    "secret": "ee791652f50256cf7380994506b69223c16170692e676f72627573686b696e2e636c69636b"
   },
   {
-   "server": "api.gorbushkin.click",
-   "port": 443,
-   "secret": "eeb0f3249f410b7bb9a39b1821400fdf7c6170692e676f72627573686b696e2e636c69636b"
-  },
-  {
    "server": "app.kvakzon.top",
    "port": 443,
    "secret": "ee5b0fbf6320bd9abf4c494f0a5e5d36a16170702e6b76616b7a6f6e2e746f70"
@@ -318,6 +308,11 @@
   {
    "server": "cloud.neoqua.pro",
    "port": 443,
+   "secret": "ee4c40bfc1c32022e21d85e597be8652f7636c6f75642e6e656f7175612e70726f"
+  },
+  {
+   "server": "cloud.neoqua.pro",
+   "port": 443,
    "secret": "ee677efe7b18986d7d258bd560e63dad6d636c6f75642e6e656f7175612e70726f"
   },
   {
@@ -339,11 +334,6 @@
    "server": "connect.savelyev.click",
    "port": 443,
    "secret": "ee5043c11a1f6af22fea1a0763ade968f6636f6e6e6563742e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "connect.savelyev.click",
-   "port": 443,
-   "secret": "eee7279f581f4c4906fe3eac185c0919b7636f6e6e6563742e736176656c7965762e636c69636b"
   },
   {
    "server": "edge.librava.click",
@@ -374,6 +364,11 @@
    "server": "edge.rknwatch.digital",
    "port": 443,
    "secret": "ee7af7548a786b6603566172b91f413637656467652e726b6e77617463682e6469676974616c"
+  },
+  {
+   "server": "edge.rknwatch.digital",
+   "port": 443,
+   "secret": "eec82cfbad5603b8ce4becedc627922fe9656467652e726b6e77617463682e6469676974616c"
   },
   {
    "server": "ethereal10.arixo.shop",
@@ -488,17 +483,17 @@
   {
    "server": "gate.soluqent.pro",
    "port": 443,
+   "secret": "ee204d0b60a6b41370c66a64551f06b233676174652e736f6c7571656e742e70726f"
+  },
+  {
+   "server": "gate.soluqent.pro",
+   "port": 443,
    "secret": "eed66f4a5efedfdb0b2a74cf0596b12d17676174652e736f6c7571656e742e7072"
   },
   {
    "server": "gate.soluqent.pro",
    "port": 443,
    "secret": "eed66f4a5efedfdb0b2a74cf0596b12d17676174652e736f6c7571656e742e70726f"
-  },
-  {
-   "server": "gate.veltura.digital",
-   "port": 443,
-   "secret": "ee4d50c27f02aa90347059343638293ed7676174652e76656c747572612e6469676974616c"
   },
   {
    "server": "gate.veltura.digital",
@@ -531,9 +526,14 @@
    "secret": "ee7b0b6d0a2ca27c3d3bd7e33c7f95eb15676f2e616e7469747370752e636f6d"
   },
   {
+   "server": "go.antitspu.com",
+   "port": 443,
+   "secret": "eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d"
+  },
+  {
    "server": "go.pelmeshka.top",
    "port": 443,
-   "secret": "eeb8f54c8216d3469768c21c15322d3614676f2e70656c6d6573686b612e746f70"
+   "secret": "ee1d5aebffe8c32f703c1ef9dd6331e473676f2e70656c6d6573686b612e746f70"
   },
   {
    "server": "go.pelmeshka.top",
@@ -566,11 +566,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "hub.nowabst.net",
-   "port": 853,
-   "secret": "ee55aabc9752a9d9d379e02943cf8117956164732e78352e7275"
-  },
-  {
    "server": "irancell-mci.ir.gybshdjls.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
@@ -584,6 +579,11 @@
    "server": "link.freetg.pw",
    "port": 443,
    "secret": "ee1d89eb222800da9e0dca07e51883b2916c696e6b2e6672656574672e7077"
+  },
+  {
+   "server": "link.freetg.pw",
+   "port": 443,
+   "secret": "ee367e9d49996c327ff6684577cf2427fa6c696e6b2e6672656574672e7077"
   },
   {
    "server": "link.freetg.pw",
@@ -778,6 +778,11 @@
   {
    "server": "portal.balalaika.click",
    "port": 443,
+   "secret": "ee26af9299b78ab104b500cc4360d93a91706f7274616c2e62616c616c61696b612e636c69636b"
+  },
+  {
+   "server": "portal.balalaika.click",
+   "port": 443,
    "secret": "ee6a119e12f7d82d45b226b5e48e85c3c5706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
@@ -799,11 +804,6 @@
    "server": "portal.malevich7.top",
    "port": 443,
    "secret": "eec81c41c38a9c5f7dee946eb5392d760f706f7274616c2e6d616c6576696368372e746f70"
-  },
-  {
-   "server": "portal.malevich7.top",
-   "port": 443,
-   "secret": "eee9fd052aae932459f210dee7a26c10ea706f7274616c2e6d616c6576696368372e746f70"
   },
   {
    "server": "predator-artist.top",
@@ -1003,6 +1003,11 @@
   {
    "server": "secure.medhata.org",
    "port": 443,
+   "secret": "ee424a5d237af49be4515bb005582791217365637572652e6d6564686174612e6f7267"
+  },
+  {
+   "server": "secure.medhata.org",
+   "port": 443,
    "secret": "eea19617d5c2e4a7ea104cd317777acd1b7365637572652e6d6564686174612e6f7267"
   },
   {
@@ -1054,11 +1059,6 @@
    "server": "th.turboproxy.pro",
    "port": 443,
    "secret": "ee8b60156255cd03a3201a4af8655e211a6d2e7477697463682e7476"
-  },
-  {
-   "server": "tr.nowabst.net",
-   "port": 853,
-   "secret": "eeceaec97c86b6332adc48b3c081954e606164732e78352e7275"
   },
   {
    "server": "tw.turboproxy.pro",
