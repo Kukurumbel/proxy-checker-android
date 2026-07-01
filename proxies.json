@@ -61,11 +61,6 @@
    "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e7777772e676f6f676c652e636f6d,"
   },
   {
-   "server": "34.51.222.239",
-   "port": 443,
-   "secret": "ddfb1c51c0125d6c82066dd588f5201849"
-  },
-  {
    "server": "34.51.227.196",
    "port": 443,
    "secret": "dd3cec606d9be26a99756789121ce87239"
@@ -306,14 +301,14 @@
    "secret": "ee8914fddd76fcf81589e32f7044f2ef3c63646e2e746f636f6e76656c2e6469676974616c"
   },
   {
-   "server": "cloud.neoqua.pro",
+   "server": "cdn.toconvel.digital",
    "port": 443,
-   "secret": "ee4c40bfc1c32022e21d85e597be8652f7636c6f75642e6e656f7175612e70726f"
+   "secret": "eec406d6236e94c0a93e11e8ddd6cf50e663646e2e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "cloud.neoqua.pro",
    "port": 443,
-   "secret": "ee677efe7b18986d7d258bd560e63dad6d636c6f75642e6e656f7175612e70726f"
+   "secret": "ee4c40bfc1c32022e21d85e597be8652f7636c6f75642e6e656f7175612e70726f"
   },
   {
    "server": "cloud.neoqua.pro",
@@ -603,7 +598,7 @@
   {
    "server": "link.mishkalapy.life",
    "port": 443,
-   "secret": "ee8e49b78be8846fc7cc18476081690fa26c696e6b2e6d6973686b616c6170792e6c696665"
+   "secret": "eebf409b0c0013edc77b19fd55f79a22fc6c696e6b2e6d6973686b616c6170792e6c696665"
   },
   {
    "server": "login.kerfilia.info",
@@ -1121,5 +1116,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 224
+ "count": 223
 }
