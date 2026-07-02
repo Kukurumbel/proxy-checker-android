@@ -86,6 +86,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.83.248",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "66a33889.etherealvpn.uk",
    "port": 443,
    "secret": "eed083bcb9b8a3592fa7d6e8060b95992d39643530393933642e657468657265616c76706e2e756b"
@@ -112,6 +117,11 @@
   },
   {
    "server": "92.246.87.243",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "95.217.193.223",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -364,6 +374,11 @@
    "server": "ethereal12.arixo.shop",
    "port": 443,
    "secret": "eee60dbd356daf7382630aeeebf92e9740657468657265616c31322e617269786f2e73686f70"
+  },
+  {
+   "server": "ethereal13.arixo.shop",
+   "port": 443,
+   "secret": "ee3970007a12a5933f40277d905ecff282657468657265616c31332e617269786f2e73686f70"
   },
   {
    "server": "ethereal2.arixo.shop",
@@ -981,16 +996,6 @@
    "secret": "ee2e5429b41ddb6a22a04da68caeee74cc62726f777365722e79616e6465782e7275"
   },
   {
-   "server": "s1.v6n.tech",
-   "port": 443,
-   "secret": "eee11484d2c8b928f3d5a19f5da8e182037777772e696465616c6f2e6465"
-  },
-  {
-   "server": "s2.v6n.tech",
-   "port": 443,
-   "secret": "ee192e048bfc34b71e27a801fdd15340af7777772e77702e706c"
-  },
-  {
    "server": "secure.gorbushkin.click",
    "port": 443,
    "secret": "ee02b0fe7d8336b262ae74889c88fc4f1c7365637572652e676f72627573686b696e2e636c69636b"
@@ -1054,6 +1059,11 @@
    "server": "tanzibjf.club.",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "tea.hotstbvs.ru",
+   "port": 8443,
+   "secret": "ee9e5bab6c881ddf24aa5bd5612198e3387465612e686f7473746276732e7275"
   },
   {
    "server": "th.turboproxy.pro",
@@ -1131,5 +1141,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 226
+ "count": 228
 }
