@@ -4,34 +4,46 @@
    "server": "34.59.241.15",
    "port": 443,
    "secret": "ddf70b01138c5288162ff480a690a4c45b",
-   "ping": 29
+   "ping": 27
   },
   {
    "server": "34.6.107.226",
    "port": 443,
    "secret": "dd576db7cb0acd36cefd91a4d8aad84ab3",
-   "ping": 84
+   "ping": 88
+  },
+  {
+   "server": "34.6.217.239",
+   "port": 443,
+   "secret": "dd51dc2e5b61a83f2b571aaabbff52c9fc",
+   "ping": 88
   },
   {
    "server": "155.212.225.56",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 114
+   "ping": 106
+  },
+  {
+   "server": "87.120.108.94",
+   "port": 443,
+   "secret": "c40ebb0c21fe41fb96581bf994247f40",
+   "ping": 139
   },
   {
    "server": "stars.tg-proxy.fun",
    "port": 6443,
    "secret": "a545c35eb2bdfa1a93df5ebe69957120",
-   "ping": 207
+   "ping": 253
   },
   {
    "server": "turbo.tg-proxy.fun",
    "port": 9443,
    "secret": "a545c35eb2bdfa1a93df5ebe69957120",
-   "ping": 218
+   "ping": 259
   },
   {
-   "server": "velvory.co.uk.",
+   "server": "so-cpu.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
    "ping": 312
@@ -40,27 +52,33 @@
    "server": "bo9ss.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 317
+   "ping": 313
   },
   {
    "server": "brivora.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 321
+   "ping": 314
+  },
+  {
+   "server": "velvory.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 315
   },
   {
    "server": "b8rta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 336
+   "ping": 320
   },
   {
    "server": "zinova.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 336
+   "ping": 326
   }
  ],
- "count": 10,
- "checked": 228
+ "count": 13,
+ "checked": 226
 }
