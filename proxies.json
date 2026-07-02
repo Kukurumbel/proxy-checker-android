@@ -56,6 +56,16 @@
    "secret": "dd3cec606d9be26a99756789121ce87239"
   },
   {
+   "server": "34.59.241.15",
+   "port": 443,
+   "secret": "ddf70b01138c5288162ff480a690a4c45b"
+  },
+  {
+   "server": "34.6.107.226",
+   "port": 443,
+   "secret": "dd576db7cb0acd36cefd91a4d8aad84ab3"
+  },
+  {
    "server": "34.6.97.246",
    "port": 443,
    "secret": "dde15c0efa2f77bf7378cb3dc8cea5ddde"
@@ -77,6 +87,11 @@
   },
   {
    "server": "5.75.199.104",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "5.75.203.37",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -244,11 +259,6 @@
    "server": "bo9ss.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "br.kingproxynewdomailasiatech.ink",
-   "port": 22,
-   "secret": "dd79e7010200010007f0030386e24c3add"
   },
   {
    "server": "br.nowabst.net",
@@ -586,6 +596,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "i-love.ascel.la",
+   "port": 443,
+   "secret": "eef1a12a129e596c84f0d0edad1ad331c6692d6c6f76652e617363656c2e6c61"
+  },
+  {
    "server": "irancell-mci.ir.gybshdjls.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
@@ -666,11 +681,6 @@
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
-   "server": "mail.muffinnoliershatelcomingsoon.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
    "server": "maxs.mowork.ru",
    "port": 443,
    "secret": "ee881b744aa97b66e190f489c03d6759536d6178732e6d6f776f726b2e7275"
@@ -718,11 +728,6 @@
   {
    "server": "mtp.nowabst.net",
    "port": 853,
-   "secret": "ee82ce1f84af4033cc7e7b021069be3d5b6164732e78352e7275"
-  },
-  {
-   "server": "mtp.nowabst.net",
-   "port": 853,
    "secret": "eeceaec97c86b6332adc48b3c081954e60766b2e636f6d"
   },
   {
@@ -734,6 +739,11 @@
    "server": "nasty.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "net.antitspu.com",
+   "port": 443,
+   "secret": "ee7430e87bc3324e17e44d00c033f428946e65742e616e7469747370752e636f6d"
   },
   {
    "server": "net.antitspu.com",
@@ -1081,11 +1091,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
    "server": "web.asiaadomainsshatelhamrahaval.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
@@ -1131,5 +1136,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 226
+ "count": 227
 }
