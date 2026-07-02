@@ -51,11 +51,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "31.76.251.25",
-   "port": 853,
-   "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e7777772e676f6f676c652e636f6d,"
-  },
-  {
    "server": "34.51.227.196",
    "port": 443,
    "secret": "dd3cec606d9be26a99756789121ce87239"
@@ -101,11 +96,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "79.137.196.223",
-   "port": 1443,
-   "secret": "eeee52288a1c9bf20ef3423488f8418c3f087777772e636c6f7564666c6172652e636f6d"
-  },
-  {
    "server": "81.91.179.74",
    "port": 443,
    "secret": "ee9d510af7b8eced7ed5eda1bfb35348f262726f777365722e79616e6465782e636f6d"
@@ -114,11 +104,6 @@
    "server": "87.120.108.94",
    "port": 443,
    "secret": "c40ebb0c21fe41fb96581bf994247f40"
-  },
-  {
-   "server": "87.58.201.74",
-   "port": 853,
-   "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e7777772e676f6f676c652e636f6d"
   },
   {
    "server": "91.107.160.196",
@@ -216,6 +201,11 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "best-mtproto.ir.balabolanda.info.",
+   "port": 443,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "best-sellerst.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -301,6 +291,11 @@
    "secret": "eec406d6236e94c0a93e11e8ddd6cf50e663646e2e746f636f6e76656c2e6469676974616c"
   },
   {
+   "server": "cdncloud.mowork.ru",
+   "port": 443,
+   "secret": "eececef6563bce080cccda8dcc61cedbf6617669746f2e7275"
+  },
+  {
    "server": "cloud.neoqua.pro",
    "port": 443,
    "secret": "ee4c40bfc1c32022e21d85e597be8652f7636c6f75642e6e656f7175612e70726f"
@@ -359,6 +354,16 @@
    "server": "ethereal10.arixo.shop",
    "port": 443,
    "secret": "ee52ada9f85335089bbe35ba5b706cdaa4657468657265616c31302e617269786f2e73686f70"
+  },
+  {
+   "server": "ethereal11.arixo.shop",
+   "port": 443,
+   "secret": "eecc2edc77e2e4b469a8431380808ef1fd657468657265616c31312e617269786f2e73686f70"
+  },
+  {
+   "server": "ethereal12.arixo.shop",
+   "port": 443,
+   "secret": "eee60dbd356daf7382630aeeebf92e9740657468657265616c31322e617269786f2e73686f70"
   },
   {
    "server": "ethereal2.arixo.shop",
@@ -566,6 +571,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "help2.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "irancell-mci.ir.gybshdjls.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
@@ -651,9 +661,9 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
-   "server": "malmo.viking-vibe.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+   "server": "maxs.mowork.ru",
+   "port": 443,
+   "secret": "ee881b744aa97b66e190f489c03d6759536d6178732e6d6f776f726b2e7275"
   },
   {
    "server": "mc-ssh.t-proxyru.info.",
@@ -901,7 +911,7 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "proxy4.chunkycorp.shop",
+   "server": "proxy26.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1026,11 +1036,6 @@
    "secret": "a545c35eb2bdfa1a93df5ebe69957120"
   },
   {
-   "server": "stockholm.viking-vibe.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "Strait-of-Hormuz.ir.jursdheks.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d"
@@ -1069,6 +1074,11 @@
    "server": "vagon.belotfelipo.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "velvory.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
@@ -1121,5 +1131,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 224
+ "count": 226
 }

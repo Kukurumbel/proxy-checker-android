@@ -1,54 +1,72 @@
 {
  "proxies": [
   {
-   "server": "br.kingproxynewdomailasiatech.ink",
-   "port": 22,
-   "secret": "dd79e7010200010007f0030386e24c3add",
-   "ping": 94
-  },
-  {
-   "server": "bo9ss.co.uk.",
+   "server": "so-cpu.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 114
-  },
-  {
-   "server": "155.212.225.56",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 115
-  },
-  {
-   "server": "zinova.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 137
-  },
-  {
-   "server": "87.120.108.94",
-   "port": 443,
-   "secret": "c40ebb0c21fe41fb96581bf994247f40",
-   "ping": 140
+   "ping": 107
   },
   {
    "server": "pmcdin.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 305
+   "ping": 115
   },
   {
-   "server": "so-cpu.co.uk.",
+   "server": "155.212.225.56",
    "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 310
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 119
+  },
+  {
+   "server": "87.120.108.94",
+   "port": 443,
+   "secret": "c40ebb0c21fe41fb96581bf994247f40",
+   "ping": 148
   },
   {
    "server": "brivora.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 228
+  },
+  {
+   "server": "br.kingproxynewdomailasiatech.ink",
+   "port": 22,
+   "secret": "dd79e7010200010007f0030386e24c3add",
+   "ping": 258
+  },
+  {
+   "server": "turbo.tg-proxy.fun",
+   "port": 9443,
+   "secret": "a545c35eb2bdfa1a93df5ebe69957120",
+   "ping": 270
+  },
+  {
+   "server": "bo9ss.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
    "ping": 313
+  },
+  {
+   "server": "velvory.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 316
+  },
+  {
+   "server": "b8rta.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 317
+  },
+  {
+   "server": "zinova.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 330
   }
  ],
- "count": 8,
- "checked": 224
+ "count": 11,
+ "checked": 226
 }
