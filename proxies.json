@@ -276,6 +276,11 @@
    "secret": "ee4c9e204ef11de2b7b95e7ea9d11d284063646e2e6b76616b7a6f6e2e746f70"
   },
   {
+   "server": "cdn.kvakzon.top",
+   "port": 443,
+   "secret": "eec085c2738cef200b39ee8f29d23095f063646e2e6b76616b7a6f6e2e746f70"
+  },
+  {
    "server": "cdn.nowabst.net",
    "port": 853,
    "secret": "ee55aabc9752a9d9d379e02943cf811795766b2e636f6d"
@@ -339,6 +344,11 @@
    "server": "connect.savelyev.click",
    "port": 443,
    "secret": "ee5043c11a1f6af22fea1a0763ade968f6636f6e6e6563742e736176656c7965762e636c69636b"
+  },
+  {
+   "server": "connect.savelyev.click",
+   "port": 443,
+   "secret": "ee963bdbd49ba8d5207caa95a6cafe3a00636f6e6e6563742e736176656c7965762e636c69636b"
   },
   {
    "server": "edge.librava.click",
@@ -711,6 +721,11 @@
    "secret": "eea022c7ec7cd2643dd62f7d39579df1b06d6972726f722e6d616c6576696368372e746f70"
   },
   {
+   "server": "mizanesgh.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "moh.kingproxynewdomailasiatech.ink",
    "port": 25565,
    "secret": "FgMBAgABAAH8AxOG4kw63Q"
@@ -806,11 +821,6 @@
    "secret": "ee82ce1f84af4033cc7e7b021069be3d5b766b2e636f6d"
   },
   {
-   "server": "pmcdin.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "portal.balalaika.click",
    "port": 443,
    "secret": "ee26af9299b78ab104b500cc4360d93a91706f7274616c2e62616c616c61696b612e636c69636b"
@@ -829,11 +839,6 @@
    "server": "portal.malevich7.top",
    "port": 443,
    "secret": "ee11a238b08b4be3863afe578bcbe7a6f9706f7274616c2e6d616c6576696368372e746f70"
-  },
-  {
-   "server": "portal.malevich7.top",
-   "port": 443,
-   "secret": "ee3eb96f42eacd0247864367634aabb927706f7274616c2e6d616c6576696368372e746f70"
   },
   {
    "server": "portal.malevich7.top",
@@ -1136,5 +1141,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 227
+ "count": 228
 }
