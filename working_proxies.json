@@ -4,43 +4,43 @@
    "server": "br.kingproxynewdomailasiatech.ink",
    "port": 22,
    "secret": "dd79e7010200010007f0030386e24c3add",
-   "ping": 131
+   "ping": 57
   },
   {
    "server": "155.212.225.56",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 167
+   "ping": 171
   },
   {
    "server": "brivora.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 298
+   "ping": 195
   },
   {
    "server": "so-cpu.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 305
-  },
-  {
-   "server": "b8rta.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 311
+   "ping": 307
   },
   {
    "server": "pmcdin.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 311
+   "ping": 310
+  },
+  {
+   "server": "b8rta.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 323
   },
   {
    "server": "zinova.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 328
+   "ping": 354
   }
  ],
  "count": 7,
