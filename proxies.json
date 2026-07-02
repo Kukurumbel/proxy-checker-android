@@ -161,6 +161,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "alpha_fk35xklksl_sfklsomega_chjarl_qwinukkus.proproxies.top",
+   "port": 443,
+   "secret": "ee66c007a679e4bac563190b5525d9a528616c7068615f666b3335786b6c6b736c5f73666b6c736f6d6567615f63686a61726c5f7177696e756b6b75732e70726f70726f786965732e746f70"
+  },
+  {
    "server": "Amir-ghalenoei-gq.ir.yfdhjderkig.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
@@ -309,6 +314,11 @@
    "server": "connect.savelyev.click",
    "port": 443,
    "secret": "ee5043c11a1f6af22fea1a0763ade968f6636f6e6e6563742e736176656c7965762e636c69636b"
+  },
+  {
+   "server": "degori.ir.jhsdkhsds.info.",
+   "port": 443,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "edge.librava.click",
@@ -866,6 +876,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "proxy25.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "proxy3.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1086,6 +1101,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
+   "server": "zagros.ir.ghsisncbv.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "zentyo.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1101,5 +1121,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 220
+ "count": 224
 }
