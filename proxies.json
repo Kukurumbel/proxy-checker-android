@@ -76,6 +76,11 @@
    "secret": "ee4ebde057e85dd06ed515c11267d2cde234646338626537362e657468657265616c76706e2e756b"
   },
   {
+   "server": "5.75.199.104",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.108.123.76",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -86,7 +91,7 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.21.83.248",
+   "server": "65.109.106.132",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -117,11 +122,6 @@
   },
   {
    "server": "92.246.87.243",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "95.217.193.223",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -379,11 +379,6 @@
    "server": "ethereal13.arixo.shop",
    "port": 443,
    "secret": "ee3970007a12a5933f40277d905ecff282657468657265616c31332e617269786f2e73686f70"
-  },
-  {
-   "server": "ethereal2.arixo.shop",
-   "port": 443,
-   "secret": "ee6217ab7cb85436e31984b28fbe64bda7657468657265616c322e617269786f2e73686f70"
   },
   {
    "server": "ethereal3.arixo.shop",
@@ -698,6 +693,11 @@
   {
    "server": "mirror.malevich7.top",
    "port": 443,
+   "secret": "ee4ccaae24cb1e3ecece1d5695478c50446d6972726f722e6d616c6576696368372e746f70"
+  },
+  {
+   "server": "mirror.malevich7.top",
+   "port": 443,
    "secret": "eea022c7ec7cd2643dd62f7d39579df1b06d6972726f722e6d616c6576696368372e746f70"
   },
   {
@@ -779,11 +779,6 @@
    "server": "ns2.what-ever.co.uk.",
    "port": 443,
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
-  },
-  {
-   "server": "o.turboproxy.pro",
-   "port": 443,
-   "secret": "ee8b60156255cd03a3201a4af8655e211a67716c2d31757037643876307a6c6e6f323130782e7477697463682e7476"
   },
   {
    "server": "openhostings.co.uk.",
@@ -931,6 +926,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "proxy27.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "proxy5.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1066,19 +1066,9 @@
    "secret": "ee9e5bab6c881ddf24aa5bd5612198e3387465612e686f7473746276732e7275"
   },
   {
-   "server": "th.turboproxy.pro",
-   "port": 443,
-   "secret": "ee8b60156255cd03a3201a4af8655e211a6d2e7477697463682e7476"
-  },
-  {
    "server": "turbo.tg-proxy.fun",
    "port": 9443,
    "secret": "a545c35eb2bdfa1a93df5ebe69957120"
-  },
-  {
-   "server": "tw.turboproxy.pro",
-   "port": 443,
-   "secret": "ee8b60156255cd03a3201a4af8655e211a72746d702e7477697463682e7476"
   },
   {
    "server": "vagon.belotfelipo.co.uk",
@@ -1141,5 +1131,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 228
+ "count": 226
 }
