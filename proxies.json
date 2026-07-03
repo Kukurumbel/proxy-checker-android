@@ -606,6 +606,11 @@
    "secret": "eef1a12a129e596c84f0d0edad1ad331c6692d6c6f76652e617363656c2e6c61"
   },
   {
+   "server": "iran.hero.ir.balabolanda.info.",
+   "port": 443,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "irancell-mci.ir.gybshdjls.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
@@ -1131,5 +1136,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 226
+ "count": 227
 }
