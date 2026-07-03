@@ -4,69 +4,75 @@
    "server": "34.59.241.15",
    "port": 443,
    "secret": "ddf70b01138c5288162ff480a690a4c45b",
-   "ping": 13
+   "ping": 31
   },
   {
    "server": "34.6.107.226",
    "port": 443,
    "secret": "dd576db7cb0acd36cefd91a4d8aad84ab3",
-   "ping": 97
+   "ping": 91
   },
   {
    "server": "34.6.217.239",
    "port": 443,
    "secret": "dd51dc2e5b61a83f2b571aaabbff52c9fc",
-   "ping": 100
+   "ping": 92
   },
   {
-   "server": "155.212.225.56",
+   "server": "87.120.108.94",
    "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 120
+   "secret": "c40ebb0c21fe41fb96581bf994247f40",
+   "ping": 136
   },
   {
    "server": "brivora.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 139
+   "ping": 137
   },
   {
    "server": "velvory.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 143
+   "ping": 223
   },
   {
    "server": "stars.tg-proxy.fun",
    "port": 6443,
    "secret": "a545c35eb2bdfa1a93df5ebe69957120",
-   "ping": 250
-  },
-  {
-   "server": "bo9ss.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 254
-  },
-  {
-   "server": "zinova.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 261
+   "ping": 265
   },
   {
    "server": "turbo.tg-proxy.fun",
    "port": 9443,
    "secret": "a545c35eb2bdfa1a93df5ebe69957120",
-   "ping": 263
+   "ping": 279
+  },
+  {
+   "server": "so-cpu.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 312
+  },
+  {
+   "server": "bo9ss.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 313
+  },
+  {
+   "server": "zinova.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 331
   },
   {
    "server": "b8rta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 274
+   "ping": 1188
   }
  ],
- "count": 11,
+ "count": 12,
  "checked": 233
 }

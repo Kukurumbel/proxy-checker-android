@@ -56,6 +56,11 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "31.76.94.172",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+  },
+  {
    "server": "34.51.227.196",
    "port": 443,
    "secret": "dd3cec606d9be26a99756789121ce87239"
@@ -229,6 +234,11 @@
    "server": "app.rknwatch.digital",
    "port": 443,
    "secret": "eea71c6dd2862aae373d33d065ad908bce6170702e726b6e77617463682e6469676974616c"
+  },
+  {
+   "server": "ardesvpn1.ru",
+   "port": 8443,
+   "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
   },
   {
    "server": "b.sub-ploter.co.uk",
@@ -426,11 +436,6 @@
    "secret": "ee3970007a12a5933f40277d905ecff282657468657265616c31332e617269786f2e73686f70"
   },
   {
-   "server": "ethereal4.arixo.shop",
-   "port": 443,
-   "secret": "ee46a1111ddd4e14df06045987bd9c3036657468657265616c342e617269786f2e73686f70"
-  },
-  {
    "server": "ethereal5.arixo.shop",
    "port": 443,
    "secret": "ee60e9cad19900bfefdbd122d82dfcd3d9657468657265616c352e617269786f2e73686f70"
@@ -558,11 +563,6 @@
   {
    "server": "go.antitspu.com",
    "port": 443,
-   "secret": "ee6217919fd71929ed6ab41f8d01e20298676f2e616e7469747370752e636f6d"
-  },
-  {
-   "server": "go.antitspu.com",
-   "port": 443,
    "secret": "ee7b0b6d0a2ca27c3d3bd7e33c7f95eb15676f2e616e7469747370752e636f6d"
   },
   {
@@ -617,6 +617,11 @@
   },
   {
    "server": "help3.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "help4.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -859,11 +864,6 @@
    "server": "predator-artist.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
-  },
-  {
-   "server": "proxy.garden-troll.life",
-   "port": 443,
-   "secret": "ee79c23102a1b8dfa85082fec3d7f28b0470726f78792e67617264656e2d74726f6c6c2e6c696665"
   },
   {
    "server": "proxy.lodkirmm.ru",
