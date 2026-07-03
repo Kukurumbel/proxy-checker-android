@@ -16,11 +16,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "135.181.129.178",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "136.114.113.9",
    "port": 443,
    "secret": "dd3c7a20cedbc9c2aa0b8ef04935f1d193"
@@ -79,6 +74,11 @@
    "server": "31.76.94.172",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+  },
+  {
+   "server": "34.13.236.96",
+   "port": 443,
+   "secret": "dd1990c8f14f4298f95a962913e7c1964d"
   },
   {
    "server": "34.42.124.212",
@@ -239,6 +239,11 @@
    "server": "api.gorbushkin.click",
    "port": 443,
    "secret": "ee791652f50256cf7380994506b69223c16170692e676f72627573686b696e2e636c69636b"
+  },
+  {
+   "server": "api.medhata.org",
+   "port": 443,
+   "secret": "eef93ad4b307071b377519e77642bc4dbe6170692e6d6564686174612e6f7267"
   },
   {
    "server": "app.kvakzon.top",
@@ -489,11 +494,6 @@
    "server": "fast.garden-troll.life",
    "port": 443,
    "secret": "ee42859b29c8b90b4c2002356811271472666173742e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
-   "server": "fastproxy.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "fish.babysharkollah.co.uk",
@@ -871,6 +871,11 @@
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
+   "server": "proxy.garden-troll.life",
+   "port": 443,
+   "secret": "eee9b3ba71e9986a0601aaf9d8ec29b57c70726f78792e67617264656e2d74726f6c6c2e6c696665"
+  },
+  {
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
@@ -1166,5 +1171,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 233
+ "count": 234
 }
