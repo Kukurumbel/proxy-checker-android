@@ -408,11 +408,6 @@
   {
    "server": "cloud.neoqua.pro",
    "port": 443,
-   "secret": "ee678ac8f3bc6a69844d9c71e492ee5678636c6f75642e6e656f7175612e70726f"
-  },
-  {
-   "server": "cloud.neoqua.pro",
-   "port": 443,
    "secret": "ee7a5a372eecfa1dbada9b42e7d5cd5521636c6f75642e6e656f7175612e70726f"
   },
   {
@@ -474,11 +469,6 @@
    "server": "ethereal13.arixo.shop",
    "port": 443,
    "secret": "ee3970007a12a5933f40277d905ecff282657468657265616c31332e617269786f2e73686f70"
-  },
-  {
-   "server": "ethereal5.arixo.shop",
-   "port": 443,
-   "secret": "ee60e9cad19900bfefdbd122d82dfcd3d9657468657265616c352e617269786f2e73686f70"
   },
   {
    "server": "ethereal8.arixo.shop",
@@ -826,6 +816,11 @@
    "secret": "eec54c7a89cf194572ed8d7c8ba8867dc770616964312e617269786f2e73686f70"
   },
   {
+   "server": "path.nolags.pw",
+   "port": 443,
+   "secret": "dd7f1ae1d85e061ebd20bd97a022322053"
+  },
+  {
    "server": "persian.gulf.ir.olsjddhf.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -1034,6 +1029,11 @@
    "server": "s03.neo-trading.org",
    "port": 443,
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
+  },
+  {
+   "server": "s04.neo-trading.org",
+   "port": 443,
+   "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
   },
   {
    "server": "s1.postpulse.space",
