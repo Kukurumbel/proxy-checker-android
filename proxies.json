@@ -156,11 +156,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.108.126.206",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.109.106.132",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -184,6 +179,11 @@
    "server": "87.120.108.94",
    "port": 443,
    "secret": "c40ebb0c21fe41fb96581bf994247f40"
+  },
+  {
+   "server": "8f911859.etherealvpn.uk",
+   "port": 443,
+   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
   },
   {
    "server": "91.107.160.196",
@@ -481,11 +481,6 @@
    "secret": "ee60e9cad19900bfefdbd122d82dfcd3d9657468657265616c352e617269786f2e73686f70"
   },
   {
-   "server": "ethereal6.arixo.shop",
-   "port": 443,
-   "secret": "ee7db66f5ae075e0fdd3e6b06e301893e5657468657265616c362e617269786f2e73686f70"
-  },
-  {
    "server": "ethereal7.arixo.shop",
    "port": 443,
    "secret": "ee6fa0d1208ed0d633549861e4d5114270657468657265616c372e617269786f2e73686f70"
@@ -652,6 +647,11 @@
   },
   {
    "server": "help5.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "help6.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1106,6 +1106,11 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "swag.caxero.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+  },
+  {
    "server": "tanzibjf.club.",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -1176,5 +1181,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 235
+ "count": 236
 }
