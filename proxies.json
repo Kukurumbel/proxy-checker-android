@@ -251,11 +251,6 @@
    "secret": "ee2aa0a4a8bc44aff3006a45d30c9e38ab6170692e676f72627573686b696e2e636c69636b"
   },
   {
-   "server": "api.gorbushkin.click",
-   "port": 443,
-   "secret": "ee791652f50256cf7380994506b69223c16170692e676f72627573686b696e2e636c69636b"
-  },
-  {
    "server": "api.medhata.org",
    "port": 443,
    "secret": "eef93ad4b307071b377519e77642bc4dbe6170692e6d6564686174612e6f7267"
@@ -424,11 +419,6 @@
    "server": "connect.savelyev.click",
    "port": 443,
    "secret": "ee27b13780696465e25049b0dc7eb7b39f636f6e6e6563742e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "connect.savelyev.click",
-   "port": 443,
-   "secret": "ee5043c11a1f6af22fea1a0763ade968f6636f6e6e6563742e736176656c7965762e636c69636b"
   },
   {
    "server": "connect.savelyev.click",
@@ -1161,5 +1151,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 232
+ "count": 230
 }
