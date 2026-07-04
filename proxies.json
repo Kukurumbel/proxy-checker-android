@@ -383,6 +383,11 @@
   {
    "server": "cdn.savelyev.click",
    "port": 443,
+   "secret": "ee5098400982be6b8f6bf938e483f64dd463646e2e736176656c7965762e636c69636b"
+  },
+  {
+   "server": "cdn.savelyev.click",
+   "port": 443,
    "secret": "eefcacf4447d2bd244c9c0a8c8b0f4f1a563646e2e736176656c7965762e636c69636b"
   },
   {
@@ -424,11 +429,6 @@
    "server": "connect.savelyev.click",
    "port": 443,
    "secret": "ee963bdbd49ba8d5207caa95a6cafe3a00636f6e6e6563742e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "edge.librava.click",
-   "port": 443,
-   "secret": "ee095f20b4b7605b5cc1f104a55b98eb65656467652e6c6962726176612e636c69636b"
   },
   {
    "server": "edge.librava.click",
@@ -1058,6 +1058,11 @@
   {
    "server": "secure.gorbushkin.click",
    "port": 443,
+   "secret": "eeb45561860b2de5d002ab0a9a23481b2c7365637572652e676f72627573686b696e2e636c69636b"
+  },
+  {
+   "server": "secure.gorbushkin.click",
+   "port": 443,
    "secret": "eee90419f865de23f95a859171396bc3d47365637572652e676f72627573686b696e2e636c69636b"
   },
   {
@@ -1186,5 +1191,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 237
+ "count": 238
 }
