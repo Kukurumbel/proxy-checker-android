@@ -11,11 +11,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "109.122.198.203",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "136.113.246.143",
    "port": 443,
    "secret": "dd76503102a8d65f5870239cb5c54689e5"
@@ -186,6 +181,11 @@
    "secret": "c40ebb0c21fe41fb96581bf994247f40"
   },
   {
+   "server": "8985d91b.etherealvpn.uk",
+   "port": 443,
+   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
+  },
+  {
    "server": "8f911859.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
@@ -204,11 +204,6 @@
    "server": "94.72.126.51",
    "port": 443,
    "secret": "ee76f45e60e143ee17f0f46416bf313e9e676f6f676c65617069732e636f6d"
-  },
-  {
-   "server": "95.85.230.56",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "aca00eb3.etherealvpn.uk",
@@ -484,11 +479,6 @@
    "server": "ethereal5.arixo.shop",
    "port": 443,
    "secret": "ee60e9cad19900bfefdbd122d82dfcd3d9657468657265616c352e617269786f2e73686f70"
-  },
-  {
-   "server": "ethereal7.arixo.shop",
-   "port": 443,
-   "secret": "ee6fa0d1208ed0d633549861e4d5114270657468657265616c372e617269786f2e73686f70"
   },
   {
    "server": "ethereal8.arixo.shop",
@@ -881,11 +871,6 @@
    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
   },
   {
-   "server": "proxy10.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "proxy11.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -993,6 +978,11 @@
   {
    "server": "proxy32.chunkycorp.shop",
    "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e72"
+  },
+  {
+   "server": "proxy32.chunkycorp.shop",
+   "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
@@ -1054,6 +1044,11 @@
    "server": "s2.postpulse.space",
    "port": 443,
    "secret": "ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70"
+  },
+  {
+   "server": "s3.postpulse.space",
+   "port": 443,
+   "secret": "eede09f27f5ed0877907c31d53a7aca5526164332e617269786f2e73686f70"
   },
   {
    "server": "secure.gorbushkin.click",
@@ -1191,5 +1186,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 238
+ "count": 237
 }
