@@ -91,6 +91,11 @@
    "secret": "dd1990c8f14f4298f95a962913e7c1964d"
   },
   {
+   "server": "34.155.165.141",
+   "port": 443,
+   "secret": "dd5661d8bd367197edffcee9305fd054f7"
+  },
+  {
    "server": "34.42.124.212",
    "port": 443,
    "secret": "dd39c3a01ca4d20db7e0391a48e310e5f7"
@@ -176,6 +181,11 @@
    "secret": "ee9d510af7b8eced7ed5eda1bfb35348f262726f777365722e79616e6465782e636f6d"
   },
   {
+   "server": "87.120.108.165",
+   "port": 443,
+   "secret": "cbea07affc92833d14e5df783496a82a"
+  },
+  {
    "server": "87.120.108.94",
    "port": 443,
    "secret": "c40ebb0c21fe41fb96581bf994247f40"
@@ -229,6 +239,11 @@
    "server": "adn.mowork.ru",
    "port": 443,
    "secret": "eececef6563bce080cccda8dcc61cedbf6617669746f2e7275"
+  },
+  {
+   "server": "aerie.sosun4ik.top",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "allah-akbar.ir.zydgjdinc.info.",
@@ -536,11 +551,6 @@
    "secret": "eed66f4a5efedfdb0b2a74cf0596b12d17676174652e736f6c7571656e742e7072"
   },
   {
-   "server": "gate.soluqent.pro",
-   "port": 443,
-   "secret": "eed66f4a5efedfdb0b2a74cf0596b12d17676174652e736f6c7571656e742e70726f"
-  },
-  {
    "server": "gate.veltura.digital",
    "port": 443,
    "secret": "ee9ab004a25339e6a214bcf40141b224c3676174652e76656c747572612e6469676974616c"
@@ -703,11 +713,6 @@
   {
    "server": "mirror.balalaika.click",
    "port": 443,
-   "secret": "ee0b6b360e3435a5d662c6b0eca5a7d87f6d6972726f722e62616c616c61696b612e636c69636b"
-  },
-  {
-   "server": "mirror.balalaika.click",
-   "port": 443,
    "secret": "ee3e70f30dd6781a4fbd090415863573b46d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
@@ -749,11 +754,6 @@
    "server": "net.antitspu.com",
    "port": 443,
    "secret": "ee7430e87bc3324e17e44d00c033f428946e65742e616e7469747370752e636f6d"
-  },
-  {
-   "server": "net.antitspu.com",
-   "port": 443,
-   "secret": "eefc083cdd43374e05bb52f5ef0992bd836e65742e616e7469747370752e636f6d"
   },
   {
    "server": "net.freetg.pw",
@@ -1051,14 +1051,14 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "skein.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "so-cpu.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "spider.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "stars.tg-proxy.fun",
