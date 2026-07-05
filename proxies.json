@@ -151,6 +151,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "54319f61.etherealvpn.uk",
+   "port": 443,
+   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
+  },
+  {
    "server": "62.146.175.135",
    "port": 443,
    "secret": "eebaa6b35ab8606a4f45f40a5b37adae07676f6f676c65617069732e636f6d"
@@ -636,11 +641,6 @@
    "secret": "eef1a12a129e596c84f0d0edad1ad331c6692d6c6f76652e617363656c2e6c61"
   },
   {
-   "server": "irancell-mci.ir.gybshdjls.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "join.mishutkin.click",
    "port": 443,
    "secret": "ee9d510af7b8eced7ed5eda1bfb35348f262726f777365722e79616e6465782e636f6d"
@@ -791,9 +791,9 @@
    "secret": "dd7f1ae1d85e061ebd20bd97a022322053"
   },
   {
-   "server": "persian.gulf.ir.olsjddhf.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+   "server": "petrichor.slarkfat.icu",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "pl.nowabst.net",
