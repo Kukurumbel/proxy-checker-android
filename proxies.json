@@ -371,6 +371,11 @@
    "secret": "eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d"
   },
   {
+   "server": "br8ta.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
    "server": "brivora.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -489,11 +494,6 @@
    "server": "ethereal13.arixo.shop",
    "port": 443,
    "secret": "ee3970007a12a5933f40277d905ecff282657468657265616c31332e617269786f2e73686f70"
-  },
-  {
-   "server": "ethereal9.arixo.shop",
-   "port": 443,
-   "secret": "ee974408a08166600f468fb7e9a9d5fa4b657468657265616c392e617269786f2e73686f70"
   },
   {
    "server": "fas8t.co.uk.",
