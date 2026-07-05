@@ -216,6 +216,11 @@
    "secret": "ee76f45e60e143ee17f0f46416bf313e9e676f6f676c65617069732e636f6d"
   },
   {
+   "server": "95.217.193.214",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "aca00eb3.etherealvpn.uk",
    "port": 443,
    "secret": "ee4ebde057e85dd06ed515c11267d2cde234646338626537362e657468657265616c76706e2e756b"
@@ -459,11 +464,6 @@
    "server": "edge.rknwatch.digital",
    "port": 443,
    "secret": "eec82cfbad5603b8ce4becedc627922fe9656467652e726b6e77617463682e6469676974616c"
-  },
-  {
-   "server": "ethereal10.arixo.shop",
-   "port": 443,
-   "secret": "ee52ada9f85335089bbe35ba5b706cdaa4657468657265616c31302e617269786f2e73686f70"
   },
   {
    "server": "ethereal11.arixo.shop",
@@ -846,11 +846,6 @@
    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
   },
   {
-   "server": "proxy11.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "proxy12.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1084,6 +1079,11 @@
    "server": "swag.caxero.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+  },
+  {
+   "server": "syzygy.sosun4ik.top",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "tanzibjf.club.",
