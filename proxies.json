@@ -96,6 +96,11 @@
    "secret": "dd5661d8bd367197edffcee9305fd054f7"
   },
   {
+   "server": "34.163.197.109",
+   "port": 443,
+   "secret": "dd30906b72b5be98c53e51b604b76e4c1a"
+  },
+  {
    "server": "34.42.124.212",
    "port": 443,
    "secret": "dd39c3a01ca4d20db7e0391a48e310e5f7"
@@ -129,6 +134,11 @@
    "server": "34.7.181.135",
    "port": 443,
    "secret": "ddebf4e93d8565ca5d242efe5aa70822c3"
+  },
+  {
+   "server": "34.7.50.106",
+   "port": 443,
+   "secret": "dd39a22112c392f0cbfb056066b429addd"
   },
   {
    "server": "34.90.36.238",
@@ -841,11 +851,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "proxy13.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "proxy14.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -959,16 +964,6 @@
    "server": "rudomain.info.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "rus1.gram.blog",
-   "port": 443,
-   "secret": "ee2e5429b41ddb6a22a04da68caeee74cc62726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "rus2.gram.blog",
-   "port": 443,
-   "secret": "ee2e5429b41ddb6a22a04da68caeee74cc62726f777365722e79616e6465782e7275"
   },
   {
    "server": "s01.neo-trading.org",
@@ -1146,5 +1141,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 229
+ "count": 228
 }
