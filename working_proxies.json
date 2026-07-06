@@ -4,105 +4,105 @@
    "server": "34.155.165.141",
    "port": 443,
    "secret": "dd5661d8bd367197edffcee9305fd054f7",
-   "ping": 83
+   "ping": 139
   },
   {
    "server": "34.163.125.186",
    "port": 443,
    "secret": "dd045b22038bb255d0ce01db3ed417dc32",
-   "ping": 83
+   "ping": 139
   },
   {
    "server": "34.163.197.109",
    "port": 443,
    "secret": "dd30906b72b5be98c53e51b604b76e4c1a",
-   "ping": 83
-  },
-  {
-   "server": "34.90.139.157",
-   "port": 443,
-   "secret": "ddf8f2a79d23f2a370e609a9c7cbadcb1a",
-   "ping": 88
+   "ping": 143
   },
   {
    "server": "34.7.50.106",
    "port": 443,
    "secret": "dd39a22112c392f0cbfb056066b429addd",
-   "ping": 89
+   "ping": 149
   },
   {
-   "server": "path.nolags.pw",
+   "server": "34.90.139.157",
    "port": 443,
-   "secret": "dd7f1ae1d85e061ebd20bd97a022322053",
-   "ping": 95
-  },
-  {
-   "server": "87.120.108.94",
-   "port": 443,
-   "secret": "c40ebb0c21fe41fb96581bf994247f40",
-   "ping": 96
-  },
-  {
-   "server": "31.76.94.172",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 99
-  },
-  {
-   "server": "brivora.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 102
-  },
-  {
-   "server": "br8ta.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 103
-  },
-  {
-   "server": "zinova.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 120
-  },
-  {
-   "server": "swag.caxero.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 132
+   "secret": "ddf8f2a79d23f2a370e609a9c7cbadcb1a",
+   "ping": 149
   },
   {
    "server": "power.nolags.pw",
    "port": 443,
    "secret": "ddc44116b4d7fbd81392e8978089eec7f4",
-   "ping": 136
+   "ping": 158
   },
   {
-   "server": "bo9ss.co.uk.",
+   "server": "br8ta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 225
+   "ping": 159
   },
   {
-   "server": "stars.tg-proxy.fun",
-   "port": 6443,
-   "secret": "a545c35eb2bdfa1a93df5ebe69957120",
-   "ping": 287
-  },
-  {
-   "server": "fas8t.co.uk.",
+   "server": "path.nolags.pw",
    "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 300
+   "secret": "dd7f1ae1d85e061ebd20bd97a022322053",
+   "ping": 159
+  },
+  {
+   "server": "31.76.94.172",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 162
+  },
+  {
+   "server": "87.120.108.94",
+   "port": 443,
+   "secret": "c40ebb0c21fe41fb96581bf994247f40",
+   "ping": 179
   },
   {
    "server": "so-cpu.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 355
+   "ping": 294
+  },
+  {
+   "server": "fas8t.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 296
+  },
+  {
+   "server": "b8rta.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 298
+  },
+  {
+   "server": "bo9ss.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 304
+  },
+  {
+   "server": "brivora.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 306
+  },
+  {
+   "server": "zinova.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 330
+  },
+  {
+   "server": "stars.tg-proxy.fun",
+   "port": 6443,
+   "secret": "a545c35eb2bdfa1a93df5ebe69957120",
+   "ping": 645
   }
  ],
  "count": 17,
- "checked": 231
+ "checked": 229
 }
