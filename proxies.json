@@ -1,6 +1,11 @@
 {
  "proxies": [
   {
+   "server": "06954244.etherealvpn.uk",
+   "port": 443,
+   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
+  },
+  {
    "server": "0d0c4964.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
@@ -41,6 +46,11 @@
    "secret": "7uao3_adb96sOIzKbSDMtEJ3d3cuYXBwbGUuY29t"
   },
   {
+   "server": "152.232.9.254",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "155.212.225.56",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
@@ -74,6 +84,11 @@
    "server": "2.pro.lunoconnect.com",
    "port": 443,
    "secret": "ee9e61388de8911b3d39196f12bb31011d322e70726f2e6c756e6f636f6e6e6563742e636f6d"
+  },
+  {
+   "server": "2108492e.etherealvpn.uk",
+   "port": 443,
+   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
   },
   {
    "server": "23.229.66.163",
@@ -139,11 +154,6 @@
    "server": "34.6.217.239",
    "port": 443,
    "secret": "dd51dc2e5b61a83f2b571aaabbff52c9fc"
-  },
-  {
-   "server": "34.6.97.246",
-   "port": 443,
-   "secret": "dde15c0efa2f77bf7378cb3dc8cea5ddde"
   },
   {
    "server": "34.7.181.135",
@@ -321,6 +331,11 @@
    "secret": "ee9d85d8bad19d66608e316c7300eed0676170702e6b76616b7a6f6e2e746f70"
   },
   {
+   "server": "app.kvakzon.top",
+   "port": 443,
+   "secret": "eed8c5a0bc36cd4c65fb0ccf24b4309d0f6170702e6b76616b7a6f6e2e746f70"
+  },
+  {
    "server": "app.rknwatch.digital",
    "port": 443,
    "secret": "eea71c6dd2862aae373d33d065ad908bce6170702e726b6e77617463682e6469676974616c"
@@ -359,21 +374,6 @@
    "server": "best-sellerst.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "Best.for.iran.zydgjdinc.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "Best.for.iran.zydgjdinc.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "Best.for.iran.zydgjdinc.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "blond.basicscotch.co.uk",
@@ -701,6 +701,11 @@
    "secret": "eec9a190b323e85637c2cd236cc7b544216c6f67696e2e6b6c79756368316b2e6f7267"
   },
   {
+   "server": "login.klyuch1k.org",
+   "port": 443,
+   "secret": "eecb24cfd140162ae643c8e43b331fa7cb6c6f67696e2e6b6c79756368316b2e6f7267"
+  },
+  {
    "server": "login.veltura.digital",
    "port": 443,
    "secret": "ee381874396c547235c4be1e40cb6132976c6f67696e2e76656c747572612e6469676974616c"
@@ -816,6 +821,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "phloe.slarkfat.icu",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "pl.nowabst.net",
    "port": 853,
    "secret": "ee82ce1f84af4033cc7e7b021069be3d5b766b2e636f6d"
@@ -839,6 +849,11 @@
    "server": "portal.malevich7.top",
    "port": 443,
    "secret": "eec81c41c38a9c5f7dee946eb5392d760f706f7274616c2e6d616c6576696368372e746f70"
+  },
+  {
+   "server": "portal.malevich7.top",
+   "port": 443,
+   "secret": "eee88d425e6bb7750fa9ef99a37432ad16706f7274616c2e6d616c6576696368372e746f70"
   },
   {
    "server": "power.nolags.pw",
@@ -1091,6 +1106,11 @@
    "secret": "a545c35eb2bdfa1a93df5ebe69957120"
   },
   {
+   "server": "veloxnetworks.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
    "server": "velvory.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1099,6 +1119,11 @@
    "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
+  },
+  {
+   "server": "web.utkanos.life",
+   "port": 443,
+   "secret": "ee36fd02bb86fbc4266de3a70114c13a247765622e75746b616e6f732e6c696665"
   },
   {
    "server": "web.utkanos.life",
@@ -1146,5 +1171,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 229
+ "count": 234
 }
