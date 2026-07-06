@@ -46,11 +46,6 @@
    "secret": "eed083bcb9b8a3592fa7d6e8060b95992d39643530393933642e657468657265616c76706e2e756b"
   },
   {
-   "server": "187.124.28.4",
-   "port": 444,
-   "secret": "51ef2d6556619830f0319214c44a3d76"
-  },
-  {
    "server": "194.120.230.120",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -749,6 +744,11 @@
    "server": "mtp.nowabst.net",
    "port": 853,
    "secret": "eeceaec97c86b6332adc48b3c081954e60766b2e636f6d"
+  },
+  {
+   "server": "mtp1.hlebushek.com",
+   "port": 443,
+   "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
   },
   {
    "server": "nasty.chunkycorp.shop",
