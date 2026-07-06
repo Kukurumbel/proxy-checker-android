@@ -156,11 +156,6 @@
    "secret": "dd51dc2e5b61a83f2b571aaabbff52c9fc"
   },
   {
-   "server": "34.7.181.135",
-   "port": 443,
-   "secret": "ddebf4e93d8565ca5d242efe5aa70822c3"
-  },
-  {
    "server": "34.7.50.106",
    "port": 443,
    "secret": "dd39a22112c392f0cbfb056066b429addd"
@@ -338,6 +333,11 @@
   {
    "server": "app.rknwatch.digital",
    "port": 443,
+   "secret": "ee7fb8b71569b0536bb15039e506afb65a6170702e726b6e77617463682e6469676974616c"
+  },
+  {
+   "server": "app.rknwatch.digital",
+   "port": 443,
    "secret": "eea71c6dd2862aae373d33d065ad908bce6170702e726b6e77617463682e6469676974616c"
   },
   {
@@ -438,6 +438,11 @@
   {
    "server": "cdn.savelyev.click",
    "port": 443,
+   "secret": "eec7a0d41c67c2a5d6adf926c20d369ad363646e2e736176656c7965762e636c69636b"
+  },
+  {
+   "server": "cdn.savelyev.click",
+   "port": 443,
    "secret": "eefcacf4447d2bd244c9c0a8c8b0f4f1a563646e2e736176656c7965762e636c69636b"
   },
   {
@@ -524,6 +529,11 @@
    "server": "fas8t.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "server": "fast.garden-troll.life",
+   "port": 443,
+   "secret": "ee02242f5cfccda66733fbae55d4fe628d666173742e67617264656e2d74726f6c6c2e6c696665"
   },
   {
    "server": "fast.garden-troll.life",
@@ -671,6 +681,11 @@
    "secret": "eef1a12a129e596c84f0d0edad1ad331c6692d6c6f76652e617363656c2e6c61"
   },
   {
+   "server": "lie.nolags.pw",
+   "port": 443,
+   "secret": "ddd010db8e9edc5d18d6babf20602d16e5"
+  },
+  {
    "server": "link.freetg.pw",
    "port": 443,
    "secret": "ee367e9d49996c327ff6684577cf2427fa6c696e6b2e6672656574672e7077"
@@ -786,6 +801,11 @@
    "secret": "ee41bf667eb2a3524a55012d25870d6aa56e65742e70656c6d6573686b612e746f70"
   },
   {
+   "server": "net.pelmeshka.top",
+   "port": 443,
+   "secret": "eefe12a66db0212791c3ba09df4f6123806e65742e70656c6d6573686b612e746f70"
+  },
+  {
    "server": "new-for-you.ir.hohoshshs.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
@@ -834,11 +854,6 @@
    "server": "portal.balalaika.click",
    "port": 443,
    "secret": "ee26af9299b78ab104b500cc4360d93a91706f7274616c2e62616c616c61696b612e636c69636b"
-  },
-  {
-   "server": "portal.balalaika.click",
-   "port": 443,
-   "secret": "ee6a119e12f7d82d45b226b5e48e85c3c5706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
    "server": "portal.malevich7.top",
@@ -1028,12 +1043,22 @@
   {
    "server": "secure.gorbushkin.click",
    "port": 443,
+   "secret": "eed670b22b89d073390327d03894d223fa7365637572652e676f72627573686b696e2e636c69636b"
+  },
+  {
+   "server": "secure.gorbushkin.click",
+   "port": 443,
    "secret": "eee90419f865de23f95a859171396bc3d47365637572652e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "secure.medhata.org",
    "port": 443,
    "secret": "ee424a5d237af49be4515bb005582791217365637572652e6d6564686174612e6f7267"
+  },
+  {
+   "server": "secure.medhata.org",
+   "port": 443,
+   "secret": "ee97c440b6fc10d01379a0ca5e7075a9297365637572652e6d6564686174612e6f7267"
   },
   {
    "server": "secure.medhata.org",
@@ -1171,5 +1196,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 234
+ "count": 239
 }
