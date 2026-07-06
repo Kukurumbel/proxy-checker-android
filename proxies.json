@@ -11,6 +11,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "135.181.129.164",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "136.113.246.143",
    "port": 443,
    "secret": "dd76503102a8d65f5870239cb5c54689e5"
@@ -34,6 +39,11 @@
    "server": "155.212.225.56",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+  },
+  {
+   "server": "161.97.167.251",
+   "port": 443,
+   "secret": "eec14b841016ce9b05f48e9ed7f2d9de9e676f6f676c65617069732e636f6d"
   },
   {
    "server": "168.119.142.46",
@@ -141,6 +151,16 @@
    "secret": "dd39a22112c392f0cbfb056066b429addd"
   },
   {
+   "server": "34.90.139.157",
+   "port": 443,
+   "secret": "ddf8f2a79d23f2a370e609a9c7cbadcb1a"
+  },
+  {
+   "server": "3b05bcac.etherealvpn.uk",
+   "port": 443,
+   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
+  },
+  {
    "server": "48cfbf67.etherealvpn.uk",
    "port": 443,
    "secret": "ee4ebde057e85dd06ed515c11267d2cde234646338626537362e657468657265616c76706e2e756b"
@@ -174,6 +194,16 @@
    "server": "65.109.106.132",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.21.234.12",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "66.94.107.23",
+   "port": 443,
+   "secret": "eecfcd09956992b6d4dd0bf6aa2a8f63cd676f6f676c65617069732e636f6d"
   },
   {
    "server": "66a33889.etherealvpn.uk",
@@ -231,11 +261,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "aca00eb3.etherealvpn.uk",
-   "port": 443,
-   "secret": "ee4ebde057e85dd06ed515c11267d2cde234646338626537362e657468657265616c76706e2e756b"
-  },
-  {
    "server": "ad1.arixo.shop",
    "port": 443,
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
@@ -289,11 +314,6 @@
    "server": "api.mowork.ru",
    "port": 443,
    "secret": "eececef6563bce080cccda8dcc61cedbf664726f6d2e7275"
-  },
-  {
-   "server": "app.kvakzon.top",
-   "port": 443,
-   "secret": "ee5b0fbf6320bd9abf4c494f0a5e5d36a16170702e6b76616b7a6f6e2e746f70"
   },
   {
    "server": "app.kvakzon.top",
@@ -394,11 +414,6 @@
    "server": "c4eab88e.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
-  },
-  {
-   "server": "cdn.kvakzon.top",
-   "port": 443,
-   "secret": "ee4c9e204ef11de2b7b95e7ea9d11d284063646e2e6b76616b7a6f6e2e746f70"
   },
   {
    "server": "cdn.kvakzon.top",
@@ -521,11 +536,6 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "free.loveproxy.xyz",
-   "port": 443,
-   "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
-  },
-  {
    "server": "fresh.t-proxy.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -611,6 +621,11 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "gorbeye-7000-sale.asiaadomainsshatelhamrahaval.co.uk.",
+   "port": 443,
+   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
+  },
+  {
    "server": "grow.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -649,11 +664,6 @@
    "server": "i-love.ascel.la",
    "port": 443,
    "secret": "eef1a12a129e596c84f0d0edad1ad331c6692d6c6f76652e617363656c2e6c61"
-  },
-  {
-   "server": "join.mishutkin.click",
-   "port": 443,
-   "secret": "ee9d510af7b8eced7ed5eda1bfb35348f262726f777365722e79616e6465782e636f6d"
   },
   {
    "server": "link.freetg.pw",
@@ -768,11 +778,6 @@
   {
    "server": "net.freetg.pw",
    "port": 443,
-   "secret": "ee83fa4fde388bf7da767bf4b9333fc8526e65742e6672656574672e7077"
-  },
-  {
-   "server": "net.freetg.pw",
-   "port": 443,
    "secret": "eebd79a03bd57944c4830f41e0f2fb94626e65742e6672656574672e7077"
   },
   {
@@ -857,11 +862,6 @@
   },
   {
    "server": "proxy12.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "proxy14.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1106,6 +1106,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
+   "port": 443,
+   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
+  },
+  {
    "server": "web.utkanos.life",
    "port": 443,
    "secret": "eef13cc4df17a0f37e9142315b0bca90707765622e75746b616e6f732e6c696665"
@@ -1151,5 +1156,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 230
+ "count": 231
 }
