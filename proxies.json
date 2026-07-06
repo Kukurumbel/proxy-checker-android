@@ -576,6 +576,11 @@
    "secret": "ee10350e1469e356863088d5e03b9b52f1676174652e6b6c79756368316b2e6f7267"
   },
   {
+   "server": "gate.klyuch1k.org",
+   "port": 443,
+   "secret": "eeae941a76ec4acf04faabaf8a24571080676174652e6b6c79756368316b2e6f7267"
+  },
+  {
    "server": "gate.soluqent.pro",
    "port": 443,
    "secret": "ee204d0b60a6b41370c66a64551f06b233676174652e736f6c7571656e742e70726f"
@@ -604,6 +609,11 @@
    "server": "get.utkanos.life",
    "port": 443,
    "secret": "eef09a7a4c51b6bc6caf4d3134b312b0f56765742e75746b616e6f732e6c696665"
+  },
+  {
+   "server": "go.antitspu.com",
+   "port": 443,
+   "secret": "ee384880aa36690ef47c455bedf049055c676f2e616e7469747370752e636f6d"
   },
   {
    "server": "go.antitspu.com",
@@ -693,6 +703,11 @@
   {
    "server": "link.mishkalapy.life",
    "port": 443,
+   "secret": "ee3f7873753de9de7d62bf4f6e2034b2d66c696e6b2e6d6973686b616c6170792e6c696665"
+  },
+  {
+   "server": "link.mishkalapy.life",
+   "port": 443,
    "secret": "ee4b6b1de597b3b682aadd9133cd774fee6c696e6b2e6d6973686b616c6170792e6c696665"
   },
   {
@@ -749,6 +764,11 @@
    "server": "mirror.balalaika.click",
    "port": 443,
    "secret": "ee3e70f30dd6781a4fbd090415863573b46d6972726f722e62616c616c61696b612e636c69636b"
+  },
+  {
+   "server": "mirror.malevich7.top",
+   "port": 443,
+   "secret": "ee291d58b9456c5824c8675ad904b2386e6d6972726f722e6d616c6576696368372e746f70"
   },
   {
    "server": "mirror.malevich7.top",
@@ -811,6 +831,16 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "node.nowabst.net",
+   "port": 853,
+   "secret": "ee1bbdcdcfd200974bb999813180a12738766b2e636f6d"
+  },
+  {
+   "server": "ocean.babysharkollah.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "one.gram.blog",
    "port": 443,
    "secret": "ee1e500c27b5ca23c07c56738e9309344e62726f777365722e79616e6465782e7275"
@@ -856,6 +886,11 @@
    "secret": "ee26af9299b78ab104b500cc4360d93a91706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
+   "server": "portal.balalaika.click",
+   "port": 443,
+   "secret": "ee5ae5279b60e4b6424d71e8cbd973a347706f7274616c2e62616c616c61696b612e636c69636b"
+  },
+  {
    "server": "portal.malevich7.top",
    "port": 443,
    "secret": "ee11a238b08b4be3863afe578bcbe7a6f9706f7274616c2e6d616c6576696368372e746f70"
@@ -887,11 +922,6 @@
   },
   {
    "server": "proxy12.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "proxy16.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1131,6 +1161,11 @@
    "secret": "a545c35eb2bdfa1a93df5ebe69957120"
   },
   {
+   "server": "vagon.belotfelipo.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "veloxnetworks.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1196,5 +1231,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 239
+ "count": 246
 }
