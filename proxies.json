@@ -26,6 +26,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "135.181.74.178",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "136.113.246.143",
    "port": 443,
    "secret": "dd76503102a8d65f5870239cb5c54689e5"
@@ -191,7 +196,17 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.108.126.241",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.109.106.132",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.109.147.34",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -428,27 +443,12 @@
   {
    "server": "cdn.savelyev.click",
    "port": 443,
-   "secret": "ee0e25d36b89ee532fcc5767a9dae2669e63646e2e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "cdn.savelyev.click",
-   "port": 443,
    "secret": "ee5098400982be6b8f6bf938e483f64dd463646e2e736176656c7965762e636c69636b"
   },
   {
    "server": "cdn.savelyev.click",
    "port": 443,
    "secret": "eec7a0d41c67c2a5d6adf926c20d369ad363646e2e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "cdn.savelyev.click",
-   "port": 443,
-   "secret": "eefcacf4447d2bd244c9c0a8c8b0f4f1a563646e2e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "cdn.toconvel.digital",
-   "port": 443,
-   "secret": "ee7d964536432cb73c6328dcd7439131ff63646e2e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "cdn.toconvel.digital",
@@ -498,17 +498,17 @@
   {
    "server": "edge.rknwatch.digital",
    "port": 443,
-   "secret": "ee1f46fcc7e9b3991677f71d2c1cb2ac92656467652e726b6e77617463682e6469676974616c"
-  },
-  {
-   "server": "edge.rknwatch.digital",
-   "port": 443,
    "secret": "eec82cfbad5603b8ce4becedc627922fe9656467652e726b6e77617463682e6469676974616c"
   },
   {
    "server": "eerie.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "ef287665.etherealvpn.uk",
+   "port": 443,
+   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
   },
   {
    "server": "ethereal11.arixo.shop",
@@ -534,11 +534,6 @@
    "server": "fast.garden-troll.life",
    "port": 443,
    "secret": "ee02242f5cfccda66733fbae55d4fe628d666173742e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
-   "server": "fast.garden-troll.life",
-   "port": 443,
-   "secret": "ee42859b29c8b90b4c2002356811271472666173742e67617264656e2d74726f6c6c2e6c696665"
   },
   {
    "server": "fresh.t-proxy.info.",
@@ -714,11 +709,6 @@
    "server": "login.klyuch1k.org",
    "port": 443,
    "secret": "ee13c922a6f02dc3ecdf8ea79cff5ab7696c6f67696e2e6b6c79756368316b2e6f7267"
-  },
-  {
-   "server": "login.klyuch1k.org",
-   "port": 443,
-   "secret": "eec9a190b323e85637c2cd236cc7b544216c6f67696e2e6b6c79756368316b2e6f7267"
   },
   {
    "server": "login.klyuch1k.org",
@@ -911,11 +901,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "proxy17.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "proxy18.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1048,22 +1033,12 @@
   {
    "server": "secure.gorbushkin.click",
    "port": 443,
-   "secret": "ee02b0fe7d8336b262ae74889c88fc4f1c7365637572652e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "secure.gorbushkin.click",
-   "port": 443,
    "secret": "eeb45561860b2de5d002ab0a9a23481b2c7365637572652e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "secure.gorbushkin.click",
    "port": 443,
    "secret": "eed670b22b89d073390327d03894d223fa7365637572652e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "secure.gorbushkin.click",
-   "port": 443,
-   "secret": "eee90419f865de23f95a859171396bc3d47365637572652e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "secure.medhata.org",
@@ -1216,5 +1191,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 243
+ "count": 238
 }
