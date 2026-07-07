@@ -206,6 +206,16 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.109.247.192",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "65.109.250.114",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "65.21.234.12",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -374,11 +384,6 @@
    "server": "be60e38d.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
-  },
-  {
-   "server": "best-mtproto.ir.balabolanda.info.",
-   "port": 443,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "best-sellerst.co.uk.",
@@ -596,16 +601,6 @@
    "secret": "ee384880aa36690ef47c455bedf049055c676f2e616e7469747370752e636f6d"
   },
   {
-   "server": "go.antitspu.com",
-   "port": 443,
-   "secret": "ee7b0b6d0a2ca27c3d3bd7e33c7f95eb15676f2e616e7469747370752e636f6d"
-  },
-  {
-   "server": "go.antitspu.com",
-   "port": 443,
-   "secret": "eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d"
-  },
-  {
    "server": "go.pelmeshka.top",
    "port": 443,
    "secret": "ee1d5aebffe8c32f703c1ef9dd6331e473676f2e70656c6d6573686b612e746f70"
@@ -789,11 +784,6 @@
    "server": "net.pelmeshka.top",
    "port": 443,
    "secret": "eefe12a66db0212791c3ba09df4f6123806e65742e70656c6d6573686b612e746f70"
-  },
-  {
-   "server": "new-for-you.ir.hohoshshs.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "node.nowabst.net",
@@ -1101,6 +1091,11 @@
    "secret": "ee9e5bab6c881ddf24aa5bd5612198e3387465612e686f7473746276732e7275"
   },
   {
+   "server": "thebestone.nolags.pw",
+   "port": 443,
+   "secret": "dd500852dff560b32a1580986b7f43cd28"
+  },
+  {
    "server": "turbo.tg-proxy.fun",
    "port": 9443,
    "secret": "a545c35eb2bdfa1a93df5ebe69957120"
@@ -1176,5 +1171,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 235
+ "count": 234
 }
