@@ -116,6 +116,11 @@
    "secret": "dd73f5d2e2065737a1d08c085883355e55"
   },
   {
+   "server": "34.155.62.38",
+   "port": 443,
+   "secret": "dd69d25efb5429c95b6a50c8f6cb0b50b4"
+  },
+  {
    "server": "34.163.125.186",
    "port": 443,
    "secret": "dd045b22038bb255d0ce01db3ed417dc32"
@@ -683,11 +688,6 @@
   {
    "server": "link.mishkalapy.life",
    "port": 443,
-   "secret": "ee4b6b1de597b3b682aadd9133cd774fee6c696e6b2e6d6973686b616c6170792e6c696665"
-  },
-  {
-   "server": "link.mishkalapy.life",
-   "port": 443,
    "secret": "eebf409b0c0013edc77b19fd55f79a22fc6c696e6b2e6d6973686b616c6170792e6c696665"
   },
   {
@@ -834,11 +834,6 @@
    "server": "pl.nowabst.net",
    "port": 853,
    "secret": "ee82ce1f84af4033cc7e7b021069be3d5b766b2e636f6d"
-  },
-  {
-   "server": "portal.balalaika.click",
-   "port": 443,
-   "secret": "ee26af9299b78ab104b500cc4360d93a91706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
    "server": "portal.balalaika.click",
@@ -1171,5 +1166,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 234
+ "count": 233
 }
