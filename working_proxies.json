@@ -1,15 +1,21 @@
 {
  "proxies": [
   {
-   "server": "34.155.62.38",
-   "port": 443,
-   "secret": "dd69d25efb5429c95b6a50c8f6cb0b50b4",
-   "ping": 82
-  },
-  {
    "server": "34.155.47.167",
    "port": 443,
    "secret": "dd73f5d2e2065737a1d08c085883355e55",
+   "ping": 82
+  },
+  {
+   "server": "34.155.165.141",
+   "port": 443,
+   "secret": "dd5661d8bd367197edffcee9305fd054f7",
+   "ping": 83
+  },
+  {
+   "server": "34.155.62.38",
+   "port": 443,
+   "secret": "dd69d25efb5429c95b6a50c8f6cb0b50b4",
    "ping": 83
   },
   {
@@ -25,10 +31,16 @@
    "ping": 83
   },
   {
-   "server": "34.155.165.141",
+   "server": "34.90.139.157",
    "port": 443,
-   "secret": "dd5661d8bd367197edffcee9305fd054f7",
-   "ping": 86
+   "secret": "ddf8f2a79d23f2a370e609a9c7cbadcb1a",
+   "ping": 91
+  },
+  {
+   "server": "34.147.98.247",
+   "port": 443,
+   "secret": "dd2d3b774c4cba953aa4f269b4c1a2e854",
+   "ping": 92
   },
   {
    "server": "34.7.50.106",
@@ -37,34 +49,16 @@
    "ping": 92
   },
   {
+   "server": "34.6.122.236",
+   "port": 443,
+   "secret": "dd5ce750c0f6787b81051bc5da67626b0d",
+   "ping": 93
+  },
+  {
    "server": "95.85.237.7",
    "port": 14305,
    "secret": "dd36d988a8d13716c2c3aa9e90b7a8b18a",
    "ping": 94
-  },
-  {
-   "server": "34.90.139.157",
-   "port": 443,
-   "secret": "ddf8f2a79d23f2a370e609a9c7cbadcb1a",
-   "ping": 95
-  },
-  {
-   "server": "34.6.122.236",
-   "port": 443,
-   "secret": "dd5ce750c0f6787b81051bc5da67626b0d",
-   "ping": 96
-  },
-  {
-   "server": "34.147.98.247",
-   "port": 443,
-   "secret": "dd2d3b774c4cba953aa4f269b4c1a2e854",
-   "ping": 97
-  },
-  {
-   "server": "thebestone.nolags.pw",
-   "port": 443,
-   "secret": "dd500852dff560b32a1580986b7f43cd28",
-   "ping": 105
   },
   {
    "server": "31.76.94.172",
@@ -73,15 +67,21 @@
    "ping": 107
   },
   {
-   "server": "path.nolags.pw",
+   "server": "fas8t.co.uk.",
    "port": 443,
-   "secret": "dd7f1ae1d85e061ebd20bd97a022322053",
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 107
+  },
+  {
+   "server": "so-cpu.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
    "ping": 108
   },
   {
-   "server": "br8ta.co.uk.",
+   "server": "wall.nolags.pw",
    "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "secret": "ddfa449aeffc48607e4a0b58ec0c0a3058",
    "ping": 109
   },
   {
@@ -91,54 +91,60 @@
    "ping": 112
   },
   {
+   "server": "lie.nolags.pw",
+   "port": 443,
+   "secret": "ddd010db8e9edc5d18d6babf20602d16e5",
+   "ping": 112
+  },
+  {
    "server": "65.109.247.192",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
    "ping": 113
   },
   {
-   "server": "fas8t.co.uk.",
+   "server": "br8ta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 114
+   "ping": 116
   },
   {
-   "server": "veloxnetworks.co.uk.",
+   "server": "thebestone.nolags.pw",
    "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 118
+   "secret": "dd500852dff560b32a1580986b7f43cd28",
+   "ping": 143
   },
   {
-   "server": "wall.nolags.pw",
+   "server": "path.nolags.pw",
    "port": 443,
-   "secret": "ddfa449aeffc48607e4a0b58ec0c0a3058",
-   "ping": 146
+   "secret": "dd7f1ae1d85e061ebd20bd97a022322053",
+   "ping": 147
   },
   {
    "server": "power.nolags.pw",
    "port": 443,
    "secret": "ddc44116b4d7fbd81392e8978089eec7f4",
-   "ping": 150
-  },
-  {
-   "server": "lie.nolags.pw",
-   "port": 443,
-   "secret": "ddd010db8e9edc5d18d6babf20602d16e5",
-   "ping": 155
-  },
-  {
-   "server": "bo9ss.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 219
+   "ping": 153
   },
   {
    "server": "swag.caxero.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 305
+   "ping": 159
+  },
+  {
+   "server": "veloxnetworks.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 222
+  },
+  {
+   "server": "bo9ss.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 307
   }
  ],
- "count": 23,
+ "count": 24,
  "checked": 232
 }
