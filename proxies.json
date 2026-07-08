@@ -51,6 +51,11 @@
    "secret": "eec14b841016ce9b05f48e9ed7f2d9de9e676f6f676c65617069732e636f6d"
   },
   {
+   "server": "161.97.169.231",
+   "port": 443,
+   "secret": "eecfcd09956992b6d4dd0bf6aa2a8f63cd676f6f676c65617069732e636f6d"
+  },
+  {
    "server": "168.119.142.46",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -66,11 +71,6 @@
    "secret": "eee3727d72c23452d6928e9a5ea16f0940676f6f676c65617069732e636f6d"
   },
   {
-   "server": "194.233.95.205",
-   "port": 443,
-   "secret": "eed0ed90376601d3a5e8a71cfd42d50944676f6f676c65617069732e636f6d"
-  },
-  {
    "server": "2.pro.lunoconnect.com",
    "port": 443,
    "secret": "ee9e61388de8911b3d39196f12bb31011d322e70726f2e6c756e6f636f6e6e6563742e636f6d"
@@ -79,11 +79,6 @@
    "server": "2108492e.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
-  },
-  {
-   "server": "212.56.44.174",
-   "port": 443,
-   "secret": "ee79ba93b4e649ba70dcd191e72539c99e676f6f676c65617069732e636f6d"
   },
   {
    "server": "23.229.66.163",
@@ -211,6 +206,11 @@
    "secret": "eebaa6b35ab8606a4f45f40a5b37adae07676f6f676c65617069732e636f6d"
   },
   {
+   "server": "62.146.175.143",
+   "port": 443,
+   "secret": "ee71db63e1684957c9c39e3723c5980c53676f6f676c65617069732e636f6d"
+  },
+  {
    "server": "65.108.123.76",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -324,6 +324,11 @@
    "server": "Amir-ghalenoei-gq.ir.yfdhjderkig.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "api-web.asiaadomainsshatelhamrahaval.co.uk.",
+   "port": 443,
+   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
    "server": "api.gorbushkin.click",
@@ -891,11 +896,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "proxy20.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "proxy21.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1066,11 +1066,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "stars.tg-proxy.fun",
-   "port": 6443,
-   "secret": "a545c35eb2bdfa1a93df5ebe69957120"
-  },
-  {
    "server": "Strait-of-Hormuz.ir.jursdheks.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -1116,11 +1111,6 @@
    "secret": "dd500852dff560b32a1580986b7f43cd28"
   },
   {
-   "server": "turbo.tg-proxy.fun",
-   "port": 9443,
-   "secret": "a545c35eb2bdfa1a93df5ebe69957120"
-  },
-  {
    "server": "vagon.belotfelipo.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -1152,6 +1142,11 @@
   },
   {
    "server": "webhook.darkmoon.ir.",
+   "port": 443,
+   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+  },
+  {
+   "server": "webhook.jinxandjack.co.uk.",
    "port": 443,
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
@@ -1191,5 +1186,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 238
+ "count": 237
 }
