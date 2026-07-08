@@ -156,11 +156,6 @@
    "secret": "ddf70b01138c5288162ff480a690a4c45b"
   },
   {
-   "server": "34.6.107.226",
-   "port": 443,
-   "secret": "dd576db7cb0acd36cefd91a4d8aad84ab3"
-  },
-  {
    "server": "34.6.122.236",
    "port": 443,
    "secret": "dd5ce750c0f6787b81051bc5da67626b0d"
@@ -189,16 +184,6 @@
    "server": "3b05bcac.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
-  },
-  {
-   "server": "5.75.199.104",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "5.75.203.37",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "51.250.86.244",
@@ -858,11 +843,6 @@
   {
    "server": "portal.malevich7.top",
    "port": 443,
-   "secret": "eec81c41c38a9c5f7dee946eb5392d760f706f7274616c2e6d616c6576696368372e746f70"
-  },
-  {
-   "server": "portal.malevich7.top",
-   "port": 443,
    "secret": "eee88d425e6bb7750fa9ef99a37432ad16706f7274616c2e6d616c6576696368372e746f70"
   },
   {
@@ -1181,5 +1161,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 236
+ "count": 232
 }
