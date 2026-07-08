@@ -46,11 +46,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "155.212.225.56",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
-  },
-  {
    "server": "161.97.167.251",
    "port": 443,
    "secret": "eec14b841016ce9b05f48e9ed7f2d9de9e676f6f676c65617069732e636f6d"
@@ -71,6 +66,11 @@
    "secret": "eee3727d72c23452d6928e9a5ea16f0940676f6f676c65617069732e636f6d"
   },
   {
+   "server": "194.233.95.205",
+   "port": 443,
+   "secret": "eed0ed90376601d3a5e8a71cfd42d50944676f6f676c65617069732e636f6d"
+  },
+  {
    "server": "2.pro.lunoconnect.com",
    "port": 443,
    "secret": "ee9e61388de8911b3d39196f12bb31011d322e70726f2e6c756e6f636f6e6e6563742e636f6d"
@@ -79,6 +79,11 @@
    "server": "2108492e.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
+  },
+  {
+   "server": "212.56.44.174",
+   "port": 443,
+   "secret": "ee79ba93b4e649ba70dcd191e72539c99e676f6f676c65617069732e636f6d"
   },
   {
    "server": "23.229.66.163",
@@ -244,11 +249,6 @@
    "server": "87.120.108.165",
    "port": 443,
    "secret": "cbea07affc92833d14e5df783496a82a"
-  },
-  {
-   "server": "87.120.108.94",
-   "port": 443,
-   "secret": "c40ebb0c21fe41fb96581bf994247f40"
   },
   {
    "server": "8985d91b.etherealvpn.uk",
@@ -776,6 +776,11 @@
    "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
   },
   {
+   "server": "mtp2.hlebushek.com",
+   "port": 443,
+   "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275"
+  },
+  {
    "server": "net.antitspu.com",
    "port": 443,
    "secret": "ee7430e87bc3324e17e44d00c033f428946e65742e616e7469747370752e636f6d"
@@ -1041,6 +1046,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "signin-signout-manager.davazdah.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "sisu.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1084,6 +1094,11 @@
    "server": "syzygy.sosun4ik.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "tabibie.del.davazdah.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "tanzibjf.club.",
@@ -1176,5 +1191,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 235
+ "count": 238
 }
