@@ -136,11 +136,6 @@
    "secret": "dd39c3a01ca4d20db7e0391a48e310e5f7"
   },
   {
-   "server": "34.51.227.196",
-   "port": 443,
-   "secret": "dd3cec606d9be26a99756789121ce87239"
-  },
-  {
    "server": "34.59.241.15",
    "port": 443,
    "secret": "ddf70b01138c5288162ff480a690a4c45b"
@@ -189,6 +184,16 @@
    "server": "5.75.203.37",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "51.250.86.244",
+   "port": 443,
+   "secret": "eeaa8f2cfd941607525db63d42dcc1971d617669746f2e7275"
+  },
+  {
+   "server": "51.250.90.143",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "54319f61.etherealvpn.uk",
@@ -314,11 +319,6 @@
    "server": "allah-akbar.ir.zydgjdinc.info.",
    "port": 443,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "alpha_fk35xklksl_sfklsomega_chjarl_qwinukkus.proproxies.top",
-   "port": 443,
-   "secret": "ee66c007a679e4bac563190b5525d9a528616c7068615f666b3335786b6c6b736c5f73666b6c736f6d6567615f63686a61726c5f7177696e756b6b75732e70726f70726f786965732e746f70"
   },
   {
    "server": "Amir-ghalenoei-gq.ir.yfdhjderkig.info.",
@@ -503,6 +503,11 @@
   {
    "server": "edge.rknwatch.digital",
    "port": 443,
+   "secret": "ee4150a680b9414d8e96ed4a8e7524e2e6656467652e726b6e77617463682e6469676974616c"
+  },
+  {
+   "server": "edge.rknwatch.digital",
+   "port": 443,
    "secret": "eec82cfbad5603b8ce4becedc627922fe9656467652e726b6e77617463682e6469676974616c"
   },
   {
@@ -514,6 +519,11 @@
    "server": "ef287665.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
+  },
+  {
+   "server": "ethereal.arixo.shop",
+   "port": 443,
+   "secret": "ee5f8b31d631d413f83f1f6e8da233f69c657468657265616c2e617269786f2e73686f70"
   },
   {
    "server": "ethereal11.arixo.shop",
@@ -613,6 +623,11 @@
   {
    "server": "go.pelmeshka.top",
    "port": 443,
+   "secret": "ee238184d019311e0e9666994a44ee43ad676f2e70656c6d6573686b612e746f70"
+  },
+  {
+   "server": "go.pelmeshka.top",
+   "port": 443,
    "secret": "eeb96ccdc4ad115ff8415bac6a00126497676f2e70656c6d6573686b612e746f70"
   },
   {
@@ -684,11 +699,6 @@
    "server": "link.mishkalapy.life",
    "port": 443,
    "secret": "ee3f7873753de9de7d62bf4f6e2034b2d66c696e6b2e6d6973686b616c6170792e6c696665"
-  },
-  {
-   "server": "link.mishkalapy.life",
-   "port": 443,
-   "secret": "eebf409b0c0013edc77b19fd55f79a22fc6c696e6b2e6d6973686b616c6170792e6c696665"
   },
   {
    "server": "login.kerfilia.info",
@@ -843,11 +853,6 @@
   {
    "server": "portal.malevich7.top",
    "port": 443,
-   "secret": "ee11a238b08b4be3863afe578bcbe7a6f9706f7274616c2e6d616c6576696368372e746f70"
-  },
-  {
-   "server": "portal.malevich7.top",
-   "port": 443,
    "secret": "eec81c41c38a9c5f7dee946eb5392d760f706f7274616c2e6d616c6576696368372e746f70"
   },
   {
@@ -876,7 +881,7 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "proxy19.chunkycorp.shop",
+   "server": "proxy2.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -954,6 +959,11 @@
    "server": "proxy33.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "proxy68.arixo.shop",
+   "port": 443,
+   "secret": "ee211f4548903f4caa17d9b38727a856f9617669746f2e7275"
   },
   {
    "server": "proxy90.arixo.shop",
@@ -1166,5 +1176,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 233
+ "count": 235
 }
