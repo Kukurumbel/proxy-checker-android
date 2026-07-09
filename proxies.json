@@ -86,11 +86,6 @@
    "secret": "eee3727d72c23452d6928e9a5ea16f0940676f6f676c65617069732e636f6d"
   },
   {
-   "server": "2.pro.lunoconnect.com",
-   "port": 443,
-   "secret": "ee9e61388de8911b3d39196f12bb31011d322e70726f2e6c756e6f636f6e6e6563742e636f6d"
-  },
-  {
    "server": "2108492e.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
@@ -99,11 +94,6 @@
    "server": "253371e8.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
-  },
-  {
-   "server": "31.76.240.157",
-   "port": 443,
-   "secret": "ee9e61388de8911b3d39196f12bb31011d322e70726f2e6c756e6f636f6e6e6563742e636f6d"
   },
   {
    "server": "34.13.236.96",
@@ -321,6 +311,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "always.for.you.ir.mausjakaqd.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "Amir-ghalenoei-gq.ir.yfdhjderkig.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
@@ -431,11 +426,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "c136f538.etherealvpn.uk",
-   "port": 443,
-   "secret": "ee4e021ded813d6f66fdbd0964205ee8aa63313336663533382e657468657265616c76706e2e756b"
-  },
-  {
    "server": "c4eab88e.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
@@ -479,6 +469,11 @@
    "server": "connect.savelyev.click",
    "port": 443,
    "secret": "ee963bdbd49ba8d5207caa95a6cafe3a00636f6e6e6563742e736176656c7965762e636c69636b"
+  },
+  {
+   "server": "connect.savelyev.click",
+   "port": 443,
+   "secret": "eeaa14e427fbb52396a672791cbb730a40636f6e6e6563742e736176656c7965762e636c69636b"
   },
   {
    "server": "dark.basicscotch.co.uk",
@@ -534,6 +529,11 @@
    "server": "fe6bf0c2.koshkaproxy.shop",
    "port": 443,
    "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
+  },
+  {
+   "server": "flare.nolags.pw",
+   "port": 443,
+   "secret": "dd01897df1ee84703efbe1cc1004118fae"
   },
   {
    "server": "fresh.t-proxy.info.",
@@ -648,6 +648,11 @@
   {
    "server": "link.freetg.pw",
    "port": 443,
+   "secret": "ee186ce59c7f89978eae84b1ab591a9d4e6c696e6b2e6672656574672e7077"
+  },
+  {
+   "server": "link.freetg.pw",
+   "port": 443,
    "secret": "ee367e9d49996c327ff6684577cf2427fa6c696e6b2e6672656574672e7077"
   },
   {
@@ -664,11 +669,6 @@
    "server": "login.klyuch1k.org",
    "port": 443,
    "secret": "eecb24cfd140162ae643c8e43b331fa7cb6c6f67696e2e6b6c79756368316b2e6f7267"
-  },
-  {
-   "server": "login.veltura.digital",
-   "port": 443,
-   "secret": "ee381874396c547235c4be1e40cb6132976c6f67696e2e76656c747572612e6469676974616c"
   },
   {
    "server": "login.veltura.digital",
