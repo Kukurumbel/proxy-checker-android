@@ -41,11 +41,6 @@
    "secret": "dd76503102a8d65f5870239cb5c54689e5"
   },
   {
-   "server": "136.114.113.9",
-   "port": 443,
-   "secret": "dd3c7a20cedbc9c2aa0b8ef04935f1d193"
-  },
-  {
    "server": "138.124.33.176",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -196,11 +191,6 @@
    "secret": "ee71db63e1684957c9c39e3723c5980c53676f6f676c65617069732e636f6d"
   },
   {
-   "server": "65.108.123.76",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.108.126.241",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -259,11 +249,6 @@
    "server": "8f911859.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
-  },
-  {
-   "server": "91.107.160.196",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "92.246.87.243",
@@ -453,6 +438,11 @@
   {
    "server": "cdn.toconvel.digital",
    "port": 443,
+   "secret": "eeba0f4b55b6b80f19ec6c24396f97817963646e2e746f636f6e76656c2e6469676974616c"
+  },
+  {
+   "server": "cdn.toconvel.digital",
+   "port": 443,
    "secret": "eec406d6236e94c0a93e11e8ddd6cf50e663646e2e746f636f6e76656c2e6469676974616c"
   },
   {
@@ -579,6 +569,11 @@
    "server": "get.utkanos.life",
    "port": 443,
    "secret": "ee71ec20b7c87e3758d3f2677a4811084e6765742e75746b616e6f732e6c696665"
+  },
+  {
+   "server": "get.utkanos.life",
+   "port": 443,
+   "secret": "ee8d6eb094bca7be4fa93bd5b9e1ca7c5b6765742e75746b616e6f732e6c696665"
   },
   {
    "server": "go.antitspu.com",
@@ -734,6 +729,11 @@
    "server": "mtp2.hlebushek.com",
    "port": 443,
    "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275"
+  },
+  {
+   "server": "my.jinxandjack.co.uk.",
+   "port": 443,
+   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
    "server": "net.antitspu.com",
@@ -1071,6 +1071,11 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
+   "server": "web.jinxandjack.co.uk.",
+   "port": 443,
+   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+  },
+  {
    "server": "web.utkanos.life",
    "port": 443,
    "secret": "ee36fd02bb86fbc4266de3a70114c13a247765622e75746b616e6f732e6c696665"
@@ -1111,5 +1116,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 222
+ "count": 223
 }
