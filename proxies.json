@@ -96,11 +96,6 @@
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
   },
   {
-   "server": "23.229.66.163",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "253371e8.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
@@ -251,6 +246,16 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "6899be3d.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
+  },
+  {
+   "server": "79.137.196.223",
+   "port": 8843,
+   "secret": "eeeecd971a62719a1ccaee3177da037511167777772e636c6f7564666c6172652e636f6d"
+  },
+  {
    "server": "87.120.108.165",
    "port": 443,
    "secret": "cbea07affc92833d14e5df783496a82a"
@@ -338,11 +343,6 @@
   {
    "server": "api.gorbushkin.click",
    "port": 443,
-   "secret": "ee2aa0a4a8bc44aff3006a45d30c9e38ab6170692e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "api.gorbushkin.click",
-   "port": 443,
    "secret": "ee3eb6897f29da96f4e6afb784cd3d749e6170692e676f72627573686b696e2e636c69636b"
   },
   {
@@ -366,14 +366,14 @@
    "secret": "eed8c5a0bc36cd4c65fb0ccf24b4309d0f6170702e6b76616b7a6f6e2e746f70"
   },
   {
-   "server": "app.rknwatch.digital",
+   "server": "app.librava.click",
    "port": 443,
-   "secret": "ee7fb8b71569b0536bb15039e506afb65a6170702e726b6e77617463682e6469676974616c"
+   "secret": "ee5d2b53db8c932b49712fe1d09dae8d656170702e6c6962726176612e636c69636b"
   },
   {
    "server": "app.rknwatch.digital",
    "port": 443,
-   "secret": "eea71c6dd2862aae373d33d065ad908bce6170702e726b6e77617463682e6469676974616c"
+   "secret": "ee7fb8b71569b0536bb15039e506afb65a6170702e726b6e77617463682e6469676974616c"
   },
   {
    "server": "ardesvpn1.ru",
@@ -391,6 +391,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "bale-ai.vingardium.co.uk.",
+   "port": 443,
+   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+  },
+  {
    "server": "basic.here-funnycloud.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -399,6 +404,11 @@
    "server": "be60e38d.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
+  },
+  {
+   "server": "beer.crona-extra.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "best-sellerst.co.uk.",
@@ -496,6 +506,11 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "de4ae020.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "edge.librava.click",
    "port": 443,
    "secret": "ee2f7c7cc0472ee7cb5167b8eea183dfd3656467652e6c6962726176612e636c69636b"
@@ -584,11 +599,6 @@
    "server": "gate.veltura.digital",
    "port": 443,
    "secret": "ee865ce088fdbbb96260e0c4dfb9bfbeca676174652e76656c747572612e6469676974616c"
-  },
-  {
-   "server": "gate.veltura.digital",
-   "port": 443,
-   "secret": "ee9ab004a25339e6a214bcf40141b224c3676174652e76656c747572612e6469676974616c"
   },
   {
    "server": "ge.nowabst.net",
@@ -773,6 +783,11 @@
   {
    "server": "net.freetg.pw",
    "port": 443,
+   "secret": "ee19a40dfa5782992da80010876eeff53c6e65742e6672656574672e7077"
+  },
+  {
+   "server": "net.freetg.pw",
+   "port": 443,
    "secret": "ee5149538ef4476db6e76d74a7a7c8a48b6e65742e6672656574672e7077"
   },
   {
@@ -872,11 +887,6 @@
   },
   {
    "server": "proxy2.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "proxy22.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1166,5 +1176,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 233
+ "count": 235
 }
