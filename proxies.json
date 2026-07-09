@@ -216,11 +216,6 @@
    "secret": "eecfcd09956992b6d4dd0bf6aa2a8f63cd676f6f676c65617069732e636f6d"
   },
   {
-   "server": "68.209.57.138",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "6899be3d.koshkaproxy.shop",
    "port": 443,
    "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
@@ -731,11 +726,6 @@
    "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275"
   },
   {
-   "server": "my.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
-  },
-  {
    "server": "net.antitspu.com",
    "port": 443,
    "secret": "ee7430e87bc3324e17e44d00c033f428946e65742e616e7469747370752e636f6d"
@@ -1071,11 +1061,6 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
-   "server": "web.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
-  },
-  {
    "server": "web.utkanos.life",
    "port": 443,
    "secret": "ee36fd02bb86fbc4266de3a70114c13a247765622e75746b616e6f732e6c696665"
@@ -1116,5 +1101,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 223
+ "count": 220
 }
