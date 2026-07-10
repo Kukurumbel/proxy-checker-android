@@ -231,6 +231,11 @@
    "secret": "eeeecd971a62719a1ccaee3177da037511167777772e636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "7cb901a4.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "87.120.108.165",
    "port": 443,
    "secret": "cbea07affc92833d14e5df783496a82a"
@@ -286,11 +291,6 @@
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
   },
   {
-   "server": "adn.mowork.ru",
-   "port": 443,
-   "secret": "eececef6563bce080cccda8dcc61cedbf6617669746f2e7275"
-  },
-  {
    "server": "aerie.sosun4ik.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -314,11 +314,6 @@
    "server": "api.medhata.org",
    "port": 443,
    "secret": "eef93ad4b307071b377519e77642bc4dbe6170692e6d6564686174612e6f7267"
-  },
-  {
-   "server": "api.mowork.ru",
-   "port": 443,
-   "secret": "eececef6563bce080cccda8dcc61cedbf664726f6d2e7275"
   },
   {
    "server": "app.kvakzon.top",
@@ -431,11 +426,6 @@
    "secret": "eec085c2738cef200b39ee8f29d23095f063646e2e6b76616b7a6f6e2e746f70"
   },
   {
-   "server": "cdn.mowork.ru",
-   "port": 443,
-   "secret": "eececef6563bce080cccda8dcc61cedbf6617669746f2e7275"
-  },
-  {
    "server": "cdn.savelyev.click",
    "port": 443,
    "secret": "ee5098400982be6b8f6bf938e483f64dd463646e2e736176656c7965762e636c69636b"
@@ -464,6 +454,11 @@
    "server": "cloud.neoqua.pro",
    "port": 443,
    "secret": "ee4c40bfc1c32022e21d85e597be8652f7636c6f75642e6e656f7175612e70726f"
+  },
+  {
+   "server": "coffee.chunkystars.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
   {
    "server": "connect.savelyev.click",
@@ -988,11 +983,6 @@
   {
    "server": "secure.medhata.org",
    "port": 443,
-   "secret": "ee424a5d237af49be4515bb005582791217365637572652e6d6564686174612e6f7267"
-  },
-  {
-   "server": "secure.medhata.org",
-   "port": 443,
    "secret": "ee97c440b6fc10d01379a0ca5e7075a9297365637572652e6d6564686174612e6f7267"
   },
   {
@@ -1014,6 +1004,11 @@
    "server": "skein.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "slime.waycdn.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
   {
    "server": "so-cpu.co.uk.",
@@ -1064,6 +1059,11 @@
    "server": "thebestone.nolags.pw",
    "port": 443,
    "secret": "dd500852dff560b32a1580986b7f43cd28"
+  },
+  {
+   "server": "v.vkgosuslugi.ru",
+   "port": 443,
+   "secret": "ee4847c4a4a02cb443e9d470b2f94dbe5077622e7275"
   },
   {
    "server": "vagon.belotfelipo.co.uk",
@@ -1121,6 +1121,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
+   "server": "y.vkgosuslugi.ru",
+   "port": 443,
+   "secret": "ee4e82cdf7c4c847b33f27c5d8f2c4053d77622e7275"
+  },
+  {
    "server": "zinova.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1131,5 +1136,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 226
+ "count": 227
 }
