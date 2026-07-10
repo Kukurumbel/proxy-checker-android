@@ -4,93 +4,99 @@
    "server": "34.155.47.167",
    "port": 443,
    "secret": "dd73f5d2e2065737a1d08c085883355e55",
-   "ping": 143
+   "ping": 83
   },
   {
    "server": "34.155.62.38",
    "port": 443,
    "secret": "dd69d25efb5429c95b6a50c8f6cb0b50b4",
-   "ping": 144
+   "ping": 83
   },
   {
    "server": "34.147.98.247",
    "port": 443,
    "secret": "dd2d3b774c4cba953aa4f269b4c1a2e854",
-   "ping": 147
+   "ping": 93
   },
   {
    "server": "34.6.122.236",
    "port": 443,
    "secret": "dd5ce750c0f6787b81051bc5da67626b0d",
-   "ping": 147
+   "ping": 93
   },
   {
    "server": "34.7.163.1",
    "port": 443,
    "secret": "dd3c078ce4588bbc51df618c597a43347e",
-   "ping": 147
-  },
-  {
-   "server": "95.85.237.7",
-   "port": 14305,
-   "secret": "dd36d988a8d13716c2c3aa9e90b7a8b18a",
-   "ping": 158
-  },
-  {
-   "server": "flare.nolags.pw",
-   "port": 443,
-   "secret": "dd01897df1ee84703efbe1cc1004118fae",
-   "ping": 160
-  },
-  {
-   "server": "fas8t.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 164
-  },
-  {
-   "server": "chelipa.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 171
-  },
-  {
-   "server": "65.109.247.192",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 176
-  },
-  {
-   "server": "so-cpu.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 176
-  },
-  {
-   "server": "swag.caxero.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 271
-  },
-  {
-   "server": "b8rta.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 299
+   "ping": 93
   },
   {
    "server": "bo9ss.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 305
+   "ping": 103
+  },
+  {
+   "server": "so-cpu.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 104
   },
   {
    "server": "br8ta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 309
+   "ping": 112
+  },
+  {
+   "server": "65.109.247.192",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 121
+  },
+  {
+   "server": "flare.nolags.pw",
+   "port": 443,
+   "secret": "dd01897df1ee84703efbe1cc1004118fae",
+   "ping": 144
+  },
+  {
+   "server": "swag.caxero.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 147
+  },
+  {
+   "server": "around.caxero.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 281
+  },
+  {
+   "server": "fas8t.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 313
+  },
+  {
+   "server": "chelipa.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 320
+  },
+  {
+   "server": "crow.anime-fox.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 358
+  },
+  {
+   "server": "95.85.237.7",
+   "port": 14305,
+   "secret": "dd36d988a8d13716c2c3aa9e90b7a8b18a",
+   "ping": 1119
   }
  ],
- "count": 15,
- "checked": 220
+ "count": 16,
+ "checked": 226
 }
