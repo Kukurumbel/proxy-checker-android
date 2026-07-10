@@ -91,6 +91,11 @@
    "secret": "dd1990c8f14f4298f95a962913e7c1964d"
   },
   {
+   "server": "34.141.143.95",
+   "port": 443,
+   "secret": "dd3fca63b4b1816dc78d7d5d66ad6ea177"
+  },
+  {
    "server": "34.147.98.247",
    "port": 443,
    "secret": "dd2d3b774c4cba953aa4f269b4c1a2e854"
@@ -192,6 +197,11 @@
   },
   {
    "server": "65.108.126.241",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.109.147.34",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -898,11 +908,6 @@
   {
    "server": "proxy32.chunkycorp.shop",
    "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e72"
-  },
-  {
-   "server": "proxy32.chunkycorp.shop",
-   "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
@@ -1146,5 +1151,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 229
+ "count": 230
 }
