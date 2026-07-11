@@ -296,6 +296,11 @@
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
   },
   {
+   "server": "aa027d01.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "ad1.arixo.shop",
    "port": 443,
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
@@ -354,11 +359,6 @@
    "server": "api.medhata.org",
    "port": 443,
    "secret": "eef93ad4b307071b377519e77642bc4dbe6170692e6d6564686174612e6f7267"
-  },
-  {
-   "server": "app.kvakzon.top",
-   "port": 443,
-   "secret": "ee9d85d8bad19d66608e316c7300eed0676170702e6b76616b7a6f6e2e746f70"
   },
   {
    "server": "app.kvakzon.top",
@@ -429,11 +429,6 @@
    "server": "bo9ss.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "borj-pooshak-brj.aseman.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "br8ta.co.uk.",
@@ -801,11 +796,6 @@
    "secret": "ee19a40dfa5782992da80010876eeff53c6e65742e6672656574672e7077"
   },
   {
-   "server": "net.freetg.pw",
-   "port": 443,
-   "secret": "ee5149538ef4476db6e76d74a7a7c8a48b6e65742e6672656574672e7077"
-  },
-  {
    "server": "net.pelmeshka.top",
    "port": 443,
    "secret": "ee41bf667eb2a3524a55012d25870d6aa56e65742e70656c6d6573686b612e746f70"
@@ -892,11 +882,6 @@
   },
   {
    "server": "proxy2.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "proxy28.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1086,6 +1071,11 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "tarn.proxytales.life",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "tea.hotstbvs.ru",
    "port": 8443,
    "secret": "ee9e5bab6c881ddf24aa5bd5612198e3387465612e686f7473746276732e7275"
@@ -1181,5 +1171,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 236
+ "count": 234
 }
