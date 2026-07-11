@@ -191,11 +191,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "54319f61.etherealvpn.uk",
-   "port": 443,
-   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
-  },
-  {
    "server": "58500f94.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -264,11 +259,6 @@
    "server": "86d40ff6.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
-   "server": "8985d91b.etherealvpn.uk",
-   "port": 443,
-   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
   },
   {
    "server": "92.246.87.243",
@@ -601,6 +591,11 @@
    "secret": "dd01897df1ee84703efbe1cc1004118fae"
   },
   {
+   "server": "fleet.telehelp.top",
+   "port": 443,
+   "secret": "ee77bbf78a169e505b117bc2c1df39463d666c6565742e74656c6568656c702e746f70"
+  },
+  {
    "server": "fresh.t-proxy.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -719,11 +714,6 @@
    "server": "link.mishkalapy.life",
    "port": 443,
    "secret": "ee3f7873753de9de7d62bf4f6e2034b2d66c696e6b2e6d6973686b616c6170792e6c696665"
-  },
-  {
-   "server": "login.kerfilia.info",
-   "port": 6775,
-   "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "login.klyuch1k.org",
@@ -1186,5 +1176,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 237
+ "count": 235
 }
