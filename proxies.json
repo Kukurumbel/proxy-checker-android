@@ -21,6 +21,11 @@
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
   },
   {
+   "server": "0e8a5864.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "103.161.35.23",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -411,11 +416,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "br.nowabst.net",
-   "port": 853,
-   "secret": "eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d"
-  },
-  {
    "server": "br8ta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -521,6 +521,11 @@
    "secret": "eec82cfbad5603b8ce4becedc627922fe9656467652e726b6e77617463682e6469676974616c"
   },
   {
+   "server": "edge1.waycdn.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+  },
+  {
    "server": "eerie.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -599,11 +604,6 @@
    "server": "gate.veltura.digital",
    "port": 443,
    "secret": "ee865ce088fdbbb96260e0c4dfb9bfbeca676174652e76656c747572612e6469676974616c"
-  },
-  {
-   "server": "ge.nowabst.net",
-   "port": 853,
-   "secret": "ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d"
   },
   {
    "server": "get.utkanos.life",
@@ -741,11 +741,6 @@
    "secret": "FgMBAgABAAH8AxOG4kw63Q"
   },
   {
-   "server": "mt.nowabst.net",
-   "port": 853,
-   "secret": "ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d"
-  },
-  {
    "server": "mtp.nowabst.net",
    "port": 853,
    "secret": "7oLOH4SvQDPMfnsCEGm-PVthZHMueDUucnU"
@@ -867,11 +862,6 @@
   },
   {
    "server": "proxy2.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "proxy27.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1136,5 +1126,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 227
+ "count": 225
 }
