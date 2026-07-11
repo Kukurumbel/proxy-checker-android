@@ -161,11 +161,6 @@
    "secret": "dd3c078ce4588bbc51df618c597a43347e"
   },
   {
-   "server": "34.7.50.106",
-   "port": 443,
-   "secret": "dd39a22112c392f0cbfb056066b429addd"
-  },
-  {
    "server": "34.90.139.157",
    "port": 443,
    "secret": "ddf8f2a79d23f2a370e609a9c7cbadcb1a"
@@ -204,6 +199,11 @@
    "server": "62.146.175.143",
    "port": 443,
    "secret": "ee71db63e1684957c9c39e3723c5980c53676f6f676c65617069732e636f6d"
+  },
+  {
+   "server": "6208454e.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
    "server": "65.108.126.241",
@@ -646,6 +646,11 @@
    "secret": "ee8d6eb094bca7be4fa93bd5b9e1ca7c5b6765742e75746b616e6f732e6c696665"
   },
   {
+   "server": "gloam.shmelproxy.top",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "ee384880aa36690ef47c455bedf049055c676f2e616e7469747370752e636f6d"
@@ -1044,11 +1049,6 @@
    "server": "slime.waycdn.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
-  },
-  {
-   "server": "so-cpu.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "Strait-of-Hormuz.ir.jursdheks.info.",
