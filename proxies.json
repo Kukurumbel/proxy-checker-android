@@ -6,6 +6,11 @@
    "secret": "ee07aab7b328941d73054f2d2bef74a50337633766646332612e6b6f73686b6170726f78792e73686f70"
   },
   {
+   "server": "0424d30b.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "05586875.koshkaproxy.shop",
    "port": 443,
    "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
@@ -89,6 +94,11 @@
    "server": "253371e8.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
+  },
+  {
+   "server": "2ba6d07b.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
    "server": "34.13.236.96",
@@ -311,6 +321,11 @@
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
   },
   {
+   "server": "ad4.arixo.shop",
+   "port": 443,
+   "secret": "eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70"
+  },
+  {
    "server": "adieu.shmelproxy.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -384,6 +399,11 @@
    "server": "b8rta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "server": "bale-ai.vingardium.co.uk.",
+   "port": 443,
+   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
    "server": "be60e38d.etherealvpn.uk",
@@ -756,6 +776,11 @@
    "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275"
   },
   {
+   "server": "my.jinxandjack.co.uk.",
+   "port": 443,
+   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+  },
+  {
    "server": "net.antitspu.com",
    "port": 443,
    "secret": "ee7430e87bc3324e17e44d00c033f428946e65742e616e7469747370752e636f6d"
@@ -854,11 +879,6 @@
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
-  },
-  {
-   "server": "proxy12.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "proxy2.chunkycorp.shop",
@@ -1081,6 +1101,11 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
+   "server": "web.jinxandjack.co.uk.",
+   "port": 443,
+   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+  },
+  {
    "server": "web.utkanos.life",
    "port": 443,
    "secret": "ee36fd02bb86fbc4266de3a70114c13a247765622e75746b616e6f732e6c696665"
@@ -1126,5 +1151,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 225
+ "count": 230
 }
