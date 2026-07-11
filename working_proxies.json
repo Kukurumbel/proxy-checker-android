@@ -1,90 +1,108 @@
 {
  "proxies": [
   {
-   "server": "95.85.237.7",
-   "port": 14305,
-   "secret": "dd36d988a8d13716c2c3aa9e90b7a8b18a",
-   "ping": 109
-  },
-  {
-   "server": "chelipa.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 117
-  },
-  {
-   "server": "bo9ss.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 126
+   "server": "65.109.250.114",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 130
   },
   {
    "server": "65.109.247.192",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 127
+   "ping": 135
+  },
+  {
+   "server": "95.85.237.7",
+   "port": 14305,
+   "secret": "dd36d988a8d13716c2c3aa9e90b7a8b18a",
+   "ping": 136
   },
   {
    "server": "fas8t.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 133
+   "ping": 141
   },
   {
-   "server": "clitor.waycdn.ru",
+   "server": "so-cpu.co.uk.",
    "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 165
-  },
-  {
-   "server": "swag.caxero.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 280
-  },
-  {
-   "server": "coffee.chunkystars.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 284
-  },
-  {
-   "server": "edge1.waycdn.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 309
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 141
   },
   {
    "server": "br8ta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 313
+   "ping": 146
   },
   {
-   "server": "crow.anime-fox.ru",
+   "server": "chelipa.co.uk.",
    "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 334
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 155
   },
   {
-   "server": "edge2.waycdn.ru",
+   "server": "bo9ss.co.uk.",
    "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 364
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 160
   },
   {
-   "server": "slime.waycdn.ru",
+   "server": "edge3.waycdn.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 365
+   "ping": 202
+  },
+  {
+   "server": "edge1.waycdn.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 205
+  },
+  {
+   "server": "swag.caxero.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 207
   },
   {
    "server": "around.caxero.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 375
+   "ping": 209
+  },
+  {
+   "server": "slime.waycdn.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 214
+  },
+  {
+   "server": "edge2.waycdn.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 218
+  },
+  {
+   "server": "crow.anime-fox.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 395
+  },
+  {
+   "server": "coffee.chunkystars.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 406
+  },
+  {
+   "server": "clitor.waycdn.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 589
   }
  ],
- "count": 14,
- "checked": 231
+ "count": 17,
+ "checked": 233
 }
