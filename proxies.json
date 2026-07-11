@@ -151,11 +151,6 @@
    "secret": "dd39c3a01ca4d20db7e0391a48e310e5f7"
   },
   {
-   "server": "34.59.241.15",
-   "port": 443,
-   "secret": "ddf70b01138c5288162ff480a690a4c45b"
-  },
-  {
    "server": "34.6.122.236",
    "port": 443,
    "secret": "dd5ce750c0f6787b81051bc5da67626b0d"
@@ -256,6 +251,11 @@
    "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
   },
   {
+   "server": "7527ec92.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "79.137.196.223",
    "port": 8843,
    "secret": "eeeecd971a62719a1ccaee3177da037511167777772e636c6f7564666c6172652e636f6d"
@@ -264,11 +264,6 @@
    "server": "7cb901a4.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
-   "server": "87.120.108.165",
-   "port": 443,
-   "secret": "cbea07affc92833d14e5df783496a82a"
   },
   {
    "server": "8985d91b.etherealvpn.uk",
@@ -324,6 +319,16 @@
    "server": "ad4.arixo.shop",
    "port": 443,
    "secret": "eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70"
+  },
+  {
+   "server": "ad5.arixo.shop",
+   "port": 443,
+   "secret": "ee995469d4d5a3221f69a1cc24d1cafa506164322e617269786f2e73686f70"
+  },
+  {
+   "server": "ad6.arixo.shop",
+   "port": 443,
+   "secret": "ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70"
   },
   {
    "server": "adieu.shmelproxy.top",
@@ -399,11 +404,6 @@
    "server": "b8rta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "bale-ai.vingardium.co.uk.",
-   "port": 443,
-   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
    "server": "be60e38d.etherealvpn.uk",
@@ -542,6 +542,11 @@
   },
   {
    "server": "edge1.waycdn.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+  },
+  {
+   "server": "edge2.waycdn.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
@@ -1151,5 +1156,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 230
+ "count": 231
 }
