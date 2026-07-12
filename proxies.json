@@ -308,6 +308,11 @@
   {
    "server": "app.librava.click",
    "port": 443,
+   "secret": "ee2dc3787049f48776ee28090e513c22526170702e6c6962726176612e636c69636b"
+  },
+  {
+   "server": "app.librava.click",
+   "port": 443,
    "secret": "ee5d2b53db8c932b49712fe1d09dae8d656170702e6c6962726176612e636c69636b"
   },
   {
@@ -711,9 +716,19 @@
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
+   "server": "main.muffinnoliershatelcomingsoon.co.uk.",
+   "port": 443,
+   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
+  },
+  {
    "server": "mc-ssh.t-proxyru.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "medblock.fit",
+   "port": 443,
+   "secret": "ee748fdca0d7e8f6f2cfb02ec7837b40016d6564626c6f636b2e666974"
   },
   {
    "server": "medblock.ink",
@@ -769,6 +784,11 @@
    "server": "my.jinxandjack.co.uk.",
    "port": 443,
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+  },
+  {
+   "server": "neo-vpn.ink",
+   "port": 443,
+   "secret": "ee7e0e76915a3255d7aaa9f52d91bd8b286e656f2d76706e2e696e6b"
   },
   {
    "server": "net.antitspu.com",
@@ -1126,5 +1146,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 225
+ "count": 229
 }
