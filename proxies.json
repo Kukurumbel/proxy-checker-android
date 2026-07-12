@@ -156,11 +156,6 @@
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
   },
   {
-   "server": "3b05bcac.etherealvpn.uk",
-   "port": 443,
-   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
-  },
-  {
    "server": "4ad666e5.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -531,6 +526,11 @@
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
   {
+   "server": "edge4.guardora.pro",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+  },
+  {
    "server": "eerie.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -579,6 +579,11 @@
    "server": "fe6bf0c2.koshkaproxy.shop",
    "port": 443,
    "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
+  },
+  {
+   "server": "Fighter-Man.ir-proxy.Manege-Desktop-For.Co.Im.",
+   "port": 4443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "flare.nolags.pw",
@@ -779,11 +784,6 @@
    "server": "net.freetg.pw",
    "port": 443,
    "secret": "ee19a40dfa5782992da80010876eeff53c6e65742e6672656574672e7077"
-  },
-  {
-   "server": "net.pelmeshka.top",
-   "port": 443,
-   "secret": "ee41bf667eb2a3524a55012d25870d6aa56e65742e70656c6d6573686b612e746f70"
   },
   {
    "server": "net.pelmeshka.top",
