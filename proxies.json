@@ -616,6 +616,11 @@
    "secret": "ee204d0b60a6b41370c66a64551f06b233676174652e736f6c7571656e742e70726f"
   },
   {
+   "server": "gate.veltura.digital",
+   "port": 443,
+   "secret": "eef46f4b5eb70e4b9481d9e5b91f1386e6676174652e76656c747572612e6469676974616c"
+  },
+  {
    "server": "get.utkanos.life",
    "port": 443,
    "secret": "ee71ec20b7c87e3758d3f2677a4811084e6765742e75746b616e6f732e6c696665"
@@ -674,11 +679,6 @@
    "server": "join.mishutkin.click",
    "port": 443,
    "secret": "ee9d510af7b8eced7ed5eda1bfb35348f262726f777365722e79616e6465782e636f6d"
-  },
-  {
-   "server": "lie.nolags.pw",
-   "port": 443,
-   "secret": "ddd010db8e9edc5d18d6babf20602d16e5"
   },
   {
    "server": "link.freetg.pw",
