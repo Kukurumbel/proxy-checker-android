@@ -316,19 +316,9 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "Amir-ghalenoei-gq.ir.yfdhjderkig.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "api-web.asiaadomainsshatelhamrahaval.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
-   "server": "api.gorbushkin.click",
-   "port": 443,
-   "secret": "ee3eb6897f29da96f4e6afb784cd3d749e6170692e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "app.kvakzon.top",
@@ -521,6 +511,11 @@
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
   {
+   "server": "edge3.guardora.pro",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+  },
+  {
    "server": "edge3.waycdn.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
@@ -629,11 +624,6 @@
    "server": "gate.soluqent.pro",
    "port": 443,
    "secret": "ee204d0b60a6b41370c66a64551f06b233676174652e736f6c7571656e742e70726f"
-  },
-  {
-   "server": "gate.veltura.digital",
-   "port": 443,
-   "secret": "ee865ce088fdbbb96260e0c4dfb9bfbeca676174652e76656c747572612e6469676974616c"
   },
   {
    "server": "get.utkanos.life",
@@ -826,11 +816,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "persian.gulf.ir.olsjddhf.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "petrichor.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -894,11 +879,6 @@
    "server": "proxy9.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "proxy90.arixo.shop",
-   "port": 443,
-   "secret": "eed715e5e741cb3ce98a926b8ee5ac68dc70726f787939302e617269786f2e73686f70"
   },
   {
    "server": "relaywise.co.uk.",
@@ -1146,5 +1126,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 229
+ "count": 225
 }
