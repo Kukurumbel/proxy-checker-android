@@ -61,11 +61,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "2108492e.etherealvpn.uk",
-   "port": 443,
-   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
-  },
-  {
    "server": "2ba6d07b.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -581,6 +576,11 @@
    "secret": "eec13540ab9fa427deef65f881b4309e6f666c656574686f702e6f6e6c696e65"
   },
   {
+   "server": "fleethop.org",
+   "port": 443,
+   "secret": "ee4cb7d7e79e33be42f0c3ae8bfbc994c4666c656574686f702e6f7267"
+  },
+  {
    "server": "fresh.t-proxy.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -714,6 +714,11 @@
    "server": "mc-ssh.t-proxyru.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "medblock.ink",
+   "port": 443,
+   "secret": "ee1d4c807dc5afc0d8481cc6f3e4f175386d6564626c6f636b2e696e6b"
   },
   {
    "server": "mirror.balalaika.click",
@@ -958,6 +963,11 @@
   {
    "server": "secure.gorbushkin.click",
    "port": 443,
+   "secret": "ee02b0fe7d8336b262ae74889c88fc4f1c7365637572652e676f72627573686b696e2e636c69636b"
+  },
+  {
+   "server": "secure.gorbushkin.click",
+   "port": 443,
    "secret": "eed670b22b89d073390327d03894d223fa7365637572652e676f72627573686b696e2e636c69636b"
   },
   {
@@ -1111,15 +1121,10 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "zinova.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "zone.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 224
+ "count": 225
 }
