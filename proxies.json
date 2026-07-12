@@ -21,11 +21,6 @@
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
   },
   {
-   "server": "0d0c4964.etherealvpn.uk",
-   "port": 443,
-   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
-  },
-  {
    "server": "0e8a5864.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -89,11 +84,6 @@
    "server": "2ba6d07b.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
-   "server": "34.13.236.96",
-   "port": 443,
-   "secret": "dd1990c8f14f4298f95a962913e7c1964d"
   },
   {
    "server": "34.141.143.95",
@@ -321,6 +311,11 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
+   "server": "api.gorbushkin.click",
+   "port": 443,
+   "secret": "ee7f4cdb81adf40f18239ce6ce52e53ce36170692e676f72627573686b696e2e636c69636b"
+  },
+  {
    "server": "app.kvakzon.top",
    "port": 443,
    "secret": "eed8c5a0bc36cd4c65fb0ccf24b4309d0f6170702e6b76616b7a6f6e2e746f70"
@@ -364,11 +359,6 @@
    "server": "b8rta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "be60e38d.etherealvpn.uk",
-   "port": 443,
-   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
   },
   {
    "server": "beer.crona-extra.co.uk",
@@ -646,6 +636,11 @@
    "secret": "ee384880aa36690ef47c455bedf049055c676f2e616e7469747370752e636f6d"
   },
   {
+   "server": "go.antitspu.com",
+   "port": 443,
+   "secret": "eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d"
+  },
+  {
    "server": "go.pelmeshka.top",
    "port": 443,
    "secret": "ee1d5aebffe8c32f703c1ef9dd6331e473676f2e70656c6d6573686b612e746f70"
@@ -708,6 +703,11 @@
   {
    "server": "login.veltura.digital",
    "port": 443,
+   "secret": "ee381874396c547235c4be1e40cb6132976c6f67696e2e76656c747572612e6469676974616c"
+  },
+  {
+   "server": "login.veltura.digital",
+   "port": 443,
    "secret": "ee4d94e300e81887ff06746b069e359bb16c6f67696e2e76656c747572612e6469676974616c"
   },
   {
@@ -719,6 +719,11 @@
    "server": "mc-ssh.t-proxyru.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "mirror.balalaika.click",
+   "port": 443,
+   "secret": "ee204fd0f2f4584c289c6aa284e46ed6406d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
    "server": "mirror.balalaika.click",
@@ -852,11 +857,6 @@
   },
   {
    "server": "proxy2.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "proxy31.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
