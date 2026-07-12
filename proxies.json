@@ -536,6 +536,11 @@
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
   {
+   "server": "edge2.guardora.pro",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+  },
+  {
    "server": "edge2.waycdn.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
@@ -669,11 +674,6 @@
    "server": "gorbeye-7000-sale.asiaadomainsshatelhamrahaval.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
-   "server": "help4.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "help5.chunkycorp.shop",
@@ -859,11 +859,6 @@
    "server": "portal.malevich7.top",
    "port": 443,
    "secret": "eee88d425e6bb7750fa9ef99a37432ad16706f7274616c2e6d616c6576696368372e746f70"
-  },
-  {
-   "server": "power.nolags.pw",
-   "port": 443,
-   "secret": "ddc44116b4d7fbd81392e8978089eec7f4"
   },
   {
    "server": "proxy.garden-troll.life",
@@ -1171,5 +1166,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 234
+ "count": 233
 }
