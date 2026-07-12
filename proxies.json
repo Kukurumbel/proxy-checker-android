@@ -16,11 +16,6 @@
    "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "06954244.etherealvpn.uk",
-   "port": 443,
-   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
-  },
-  {
    "server": "0e8a5864.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -44,16 +39,6 @@
    "server": "135.181.74.178",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "138.124.33.176",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "152.232.9.254",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "161.97.167.251",
@@ -139,6 +124,11 @@
    "server": "34.7.163.1",
    "port": 443,
    "secret": "dd3c078ce4588bbc51df618c597a43347e"
+  },
+  {
+   "server": "35.204.159.194",
+   "port": 443,
+   "secret": "dd9cea7850eb43fd1838c435737914ec29"
   },
   {
    "server": "383c6d25.etherealvpn.uk",
@@ -374,6 +364,11 @@
    "server": "Best.Ping.ir.hdhdhfdrde.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "blond.basicscotch.co.uk",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "bo9ss.co.uk.",
@@ -1126,5 +1121,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 225
+ "count": 224
 }
