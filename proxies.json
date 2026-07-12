@@ -86,11 +86,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "194.233.94.9",
-   "port": 443,
-   "secret": "eee3727d72c23452d6928e9a5ea16f0940676f6f676c65617069732e636f6d"
-  },
-  {
    "server": "2108492e.etherealvpn.uk",
    "port": 443,
    "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
@@ -234,11 +229,6 @@
    "server": "65.21.234.12",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "66.94.107.23",
-   "port": 443,
-   "secret": "eecfcd09956992b6d4dd0bf6aa2a8f63cd676f6f676c65617069732e636f6d"
   },
   {
    "server": "6899be3d.koshkaproxy.shop",
@@ -576,6 +566,11 @@
    "secret": "ee6217ab7cb85436e31984b28fbe64bda7657468657265616c322e617269786f2e73686f70"
   },
   {
+   "server": "ethereal5.arixo.shop",
+   "port": 443,
+   "secret": "ee60e9cad19900bfefdbd122d82dfcd3d9657468657265616c352e617269786f2e73686f70"
+  },
+  {
    "server": "f71493c5.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -884,6 +879,11 @@
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
+  },
+  {
+   "server": "proxy13.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "proxy2.chunkycorp.shop",
