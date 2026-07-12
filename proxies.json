@@ -36,6 +36,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "130.193.39.208",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "135.181.129.164",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -356,11 +361,6 @@
    "secret": "ee3eb6897f29da96f4e6afb784cd3d749e6170692e676f72627573686b696e2e636c69636b"
   },
   {
-   "server": "api.medhata.org",
-   "port": 443,
-   "secret": "eef93ad4b307071b377519e77642bc4dbe6170692e6d6564686174612e6f7267"
-  },
-  {
    "server": "app.kvakzon.top",
    "port": 443,
    "secret": "eed8c5a0bc36cd4c65fb0ccf24b4309d0f6170702e6b76616b7a6f6e2e746f70"
@@ -448,12 +448,12 @@
   {
    "server": "cdn.savelyev.click",
    "port": 443,
-   "secret": "ee5098400982be6b8f6bf938e483f64dd463646e2e736176656c7965762e636c69636b"
+   "secret": "eec7a0d41c67c2a5d6adf926c20d369ad363646e2e736176656c7965762e636c69636b"
   },
   {
    "server": "cdn.savelyev.click",
    "port": 443,
-   "secret": "eec7a0d41c67c2a5d6adf926c20d369ad363646e2e736176656c7965762e636c69636b"
+   "secret": "eefcacf4447d2bd244c9c0a8c8b0f4f1a563646e2e736176656c7965762e636c69636b"
   },
   {
    "server": "cdn.toconvel.digital",
@@ -531,6 +531,11 @@
    "secret": "eec82cfbad5603b8ce4becedc627922fe9656467652e726b6e77617463682e6469676974616c"
   },
   {
+   "server": "edge1.guardora.pro",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+  },
+  {
    "server": "edge1.waycdn.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
@@ -581,6 +586,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "fast-proxy.ink",
+   "port": 443,
+   "secret": "ee185c0566a0cee9745212609f2a8d6964666173742d70726f78792e696e6b"
+  },
+  {
    "server": "fast.garden-troll.life",
    "port": 443,
    "secret": "ee02242f5cfccda66733fbae55d4fe628d666173742e67617264656e2d74726f6c6c2e6c696665"
@@ -599,6 +609,11 @@
    "server": "fleet.telehelp.top",
    "port": 443,
    "secret": "ee77bbf78a169e505b117bc2c1df39463d666c6565742e74656c6568656c702e746f70"
+  },
+  {
+   "server": "fleethop.online",
+   "port": 443,
+   "secret": "eec13540ab9fa427deef65f881b4309e6f666c656574686f702e6f6e6c696e65"
   },
   {
    "server": "fresh.t-proxy.info.",
@@ -821,6 +836,11 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "paid1.arixo.shop",
+   "port": 443,
+   "secret": "eec54c7a89cf194572ed8d7c8ba8867dc770616964312e617269786f2e73686f70"
+  },
+  {
    "server": "pathory.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -861,22 +881,12 @@
    "secret": "eee88d425e6bb7750fa9ef99a37432ad16706f7274616c2e6d616c6576696368372e746f70"
   },
   {
-   "server": "proxy.garden-troll.life",
-   "port": 443,
-   "secret": "eee9b3ba71e9986a0601aaf9d8ec29b57c70726f78792e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
   },
   {
    "server": "proxy2.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "proxy30.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -989,11 +999,6 @@
    "server": "salaaam.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "secure.gorbushkin.click",
-   "port": 443,
-   "secret": "eeb45561860b2de5d002ab0a9a23481b2c7365637572652e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "secure.gorbushkin.click",
@@ -1166,5 +1171,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 233
+ "count": 234
 }
