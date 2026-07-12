@@ -4,151 +4,151 @@
    "server": "34.155.199.49",
    "port": 443,
    "secret": "ddc117dc71b6488790c46e6b0e64f8f3ac",
-   "ping": 83
+   "ping": 81
   },
   {
    "server": "35.204.159.194",
    "port": 443,
    "secret": "dd9cea7850eb43fd1838c435737914ec29",
-   "ping": 86
+   "ping": 87
   },
   {
    "server": "95.85.237.7",
    "port": 14305,
    "secret": "dd36d988a8d13716c2c3aa9e90b7a8b18a",
-   "ping": 98
-  },
-  {
-   "server": "br8ta.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 106
-  },
-  {
-   "server": "65.109.247.192",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 108
-  },
-  {
-   "server": "65.109.250.114",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 108
-  },
-  {
-   "server": "bo9ss.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 108
-  },
-  {
-   "server": "edge3.guardora.pro",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 110
-  },
-  {
-   "server": "edge1.guardora.pro",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 111
-  },
-  {
-   "server": "relaywise.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 112
-  },
-  {
-   "server": "chelipa.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 116
-  },
-  {
-   "server": "coffee.chunkystars.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 117
-  },
-  {
-   "server": "swag.caxero.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 120
-  },
-  {
-   "server": "b8rta.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 127
-  },
-  {
-   "server": "around.caxero.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 136
-  },
-  {
-   "server": "clitor.waycdn.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 136
-  },
-  {
-   "server": "edge2.guardora.pro",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 138
-  },
-  {
-   "server": "slime.waycdn.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 146
-  },
-  {
-   "server": "fas8t.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 213
+   "ping": 95
   },
   {
    "server": "pathory.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 213
+   "ping": 104
   },
   {
-   "server": "edge3.waycdn.ru",
+   "server": "relaywise.co.uk.",
    "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 247
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 105
   },
   {
-   "server": "edge1.waycdn.ru",
+   "server": "bo9ss.co.uk.",
    "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 253
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 109
   },
   {
-   "server": "edge4.guardora.pro",
+   "server": "fas8t.co.uk.",
    "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 285
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 109
+  },
+  {
+   "server": "chelipa.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 110
+  },
+  {
+   "server": "65.109.247.192",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 113
+  },
+  {
+   "server": "65.109.250.114",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 114
+  },
+  {
+   "server": "b8rta.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 125
   },
   {
    "server": "crow.anime-fox.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 361
+   "ping": 147
   },
   {
    "server": "edge2.waycdn.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-   "ping": 379
+   "ping": 148
+  },
+  {
+   "server": "edge3.waycdn.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 148
+  },
+  {
+   "server": "coffee.chunkystars.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 149
+  },
+  {
+   "server": "edge1.guardora.pro",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 160
+  },
+  {
+   "server": "edge2.guardora.pro",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 165
+  },
+  {
+   "server": "br8ta.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 216
+  },
+  {
+   "server": "edge3.guardora.pro",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 217
+  },
+  {
+   "server": "edge1.waycdn.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 273
+  },
+  {
+   "server": "slime.waycdn.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 289
+  },
+  {
+   "server": "edge4.guardora.pro",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 297
+  },
+  {
+   "server": "around.caxero.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 368
+  },
+  {
+   "server": "swag.caxero.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 370
+  },
+  {
+   "server": "clitor.waycdn.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+   "ping": 382
   }
  ],
  "count": 25,
