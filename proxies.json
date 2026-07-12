@@ -71,11 +71,6 @@
    "secret": "eecfcd09956992b6d4dd0bf6aa2a8f63cd676f6f676c65617069732e636f6d"
   },
   {
-   "server": "168.119.142.46",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "18907d64.koshkaproxy.shop",
    "port": 443,
    "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
@@ -146,11 +141,6 @@
    "secret": "dd30906b72b5be98c53e51b604b76e4c1a"
   },
   {
-   "server": "34.42.124.212",
-   "port": 443,
-   "secret": "dd39c3a01ca4d20db7e0391a48e310e5f7"
-  },
-  {
    "server": "34.6.122.236",
    "port": 443,
    "secret": "dd5ce750c0f6787b81051bc5da67626b0d"
@@ -159,11 +149,6 @@
    "server": "34.7.163.1",
    "port": 443,
    "secret": "dd3c078ce4588bbc51df618c597a43347e"
-  },
-  {
-   "server": "34.90.139.157",
-   "port": 443,
-   "secret": "ddf8f2a79d23f2a370e609a9c7cbadcb1a"
   },
   {
    "server": "383c6d25.etherealvpn.uk",
@@ -681,11 +666,6 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "gorbeye-7000-sale.asiaadomainsshatelhamrahaval.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
    "server": "help5.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1106,11 +1086,6 @@
    "secret": "ddfa449aeffc48607e4a0b58ec0c0a3058"
   },
   {
-   "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
    "server": "web.jinxandjack.co.uk.",
    "port": 443,
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
@@ -1171,5 +1146,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 234
+ "count": 229
 }
