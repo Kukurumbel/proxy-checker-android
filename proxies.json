@@ -76,11 +76,6 @@
    "secret": "dd2d3b774c4cba953aa4f269b4c1a2e854"
   },
   {
-   "server": "34.155.165.141",
-   "port": 443,
-   "secret": "dd5661d8bd367197edffcee9305fd054f7"
-  },
-  {
    "server": "34.155.199.49",
    "port": 443,
    "secret": "ddc117dc71b6488790c46e6b0e64f8f3ac"
@@ -334,11 +329,6 @@
    "server": "b14ca112.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
-   "server": "b8rta.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "beer.crona-extra.co.uk",
@@ -876,11 +866,6 @@
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
-   "server": "s04.neo-trading.org",
-   "port": 443,
-   "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
-  },
-  {
    "server": "s1.24starsmarket.ru",
    "port": 443,
    "secret": "ee84e22723bf0f87e3838be933e7b91bd973312e323473746172736d61726b65742e7275"
@@ -1091,5 +1076,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 218
+ "count": 215
 }
