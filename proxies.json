@@ -421,11 +421,6 @@
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
   {
-   "server": "cloud.neoqua.pro",
-   "port": 443,
-   "secret": "ee4c40bfc1c32022e21d85e597be8652f7636c6f75642e6e656f7175612e70726f"
-  },
-  {
    "server": "coffee.chunkystars.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
@@ -661,6 +656,11 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "hero.bandar-abbas.ir.juyfufyty.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "idyll.shmelproxy.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -866,11 +866,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "proxy33.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "proxy68.arixo.shop",
    "port": 443,
    "secret": "ee211f4548903f4caa17d9b38727a856f9617669746f2e7275"
@@ -999,6 +994,11 @@
    "server": "slime.waycdn.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+  },
+  {
+   "server": "start.khdhdjyfdjhy.info.",
+   "port": 443,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "Strait-of-Hormuz.ir.jursdheks.info.",
