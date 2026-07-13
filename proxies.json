@@ -91,6 +91,11 @@
    "secret": "dd6efa6d88b486baf028f2c8f965ee89c4"
   },
   {
+   "server": "34.155.208.53",
+   "port": 443,
+   "secret": "dd2e1690137bb26b69718db2b71bb5ae8a"
+  },
+  {
    "server": "34.155.47.167",
    "port": 443,
    "secret": "dd73f5d2e2065737a1d08c085883355e55"
@@ -111,11 +116,6 @@
    "secret": "dd30906b72b5be98c53e51b604b76e4c1a"
   },
   {
-   "server": "34.6.122.236",
-   "port": 443,
-   "secret": "dd5ce750c0f6787b81051bc5da67626b0d"
-  },
-  {
    "server": "34.7.163.1",
    "port": 443,
    "secret": "dd3c078ce4588bbc51df618c597a43347e"
@@ -124,11 +124,6 @@
    "server": "35.204.159.194",
    "port": 443,
    "secret": "dd9cea7850eb43fd1838c435737914ec29"
-  },
-  {
-   "server": "383c6d25.etherealvpn.uk",
-   "port": 443,
-   "secret": "eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b"
   },
   {
    "server": "4ad666e5.koshkaproxy.shop",
@@ -588,17 +583,7 @@
   {
    "server": "gate.klyuch1k.org",
    "port": 443,
-   "secret": "ee0f47794ecd51e01dde1adfc62a25f513676174652e6b6c79756368316b2e6f7267"
-  },
-  {
-   "server": "gate.klyuch1k.org",
-   "port": 443,
    "secret": "eeae941a76ec4acf04faabaf8a24571080676174652e6b6c79756368316b2e6f7267"
-  },
-  {
-   "server": "gate.soluqent.pro",
-   "port": 443,
-   "secret": "ee204d0b60a6b41370c66a64551f06b233676174652e736f6c7571656e742e70726f"
   },
   {
    "server": "gate.veltura.digital",
@@ -649,11 +634,6 @@
    "server": "idyll.shmelproxy.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "join.mishutkin.click",
-   "port": 443,
-   "secret": "ee9d510af7b8eced7ed5eda1bfb35348f262726f777365722e79616e6465782e636f6d"
   },
   {
    "server": "Lashboy.muzanesghy.co.uk",
@@ -729,11 +709,6 @@
    "server": "mirror.malevich7.top",
    "port": 443,
    "secret": "ee291d58b9456c5824c8675ad904b2386e6d6972726f722e6d616c6576696368372e746f70"
-  },
-  {
-   "server": "mirror.malevich7.top",
-   "port": 443,
-   "secret": "ee4ccaae24cb1e3ecece1d5695478c50446d6972726f722e6d616c6576696368372e746f70"
   },
   {
    "server": "mizanesgh.info",
@@ -874,6 +849,11 @@
    "server": "relaywise.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "server": "report.juyfufyty.info.",
+   "port": 443,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "rudomain.info.",
@@ -1081,11 +1061,6 @@
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
-   "server": "webhook.what-ever.co.uk.",
-   "port": 443,
-   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
-  },
-  {
    "server": "whale.babysharkollah.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -1116,5 +1091,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 223
+ "count": 218
 }
