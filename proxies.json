@@ -6,11 +6,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "02feae21.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee07aab7b328941d73054f2d2bef74a50337633766646332612e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "0424d30b.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -89,11 +84,6 @@
    "server": "34.155.62.38",
    "port": 443,
    "secret": "dd69d25efb5429c95b6a50c8f6cb0b50b4"
-  },
-  {
-   "server": "34.163.125.186",
-   "port": 443,
-   "secret": "dd045b22038bb255d0ce01db3ed417dc32"
   },
   {
    "server": "34.7.163.1",
@@ -736,6 +726,11 @@
    "secret": "eefe12a66db0212791c3ba09df4f6123806e65742e70656c6d6573686b612e746f70"
   },
   {
+   "server": "new7.mizanmizanesgh.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "node.mishkalapy.life",
    "port": 443,
    "secret": "ee04949e5deca5d7c98d4bdc309bdb4f406e6f64652e6d6973686b616c6170792e6c696665"
@@ -1056,5 +1051,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 211
+ "count": 210
 }
