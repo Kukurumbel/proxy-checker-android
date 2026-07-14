@@ -51,6 +51,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "268f1163.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "2ba6d07b.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -426,11 +431,6 @@
    "secret": "ee4150a680b9414d8e96ed4a8e7524e2e6656467652e726b6e77617463682e6469676974616c"
   },
   {
-   "server": "edge.rknwatch.digital",
-   "port": 443,
-   "secret": "eec82cfbad5603b8ce4becedc627922fe9656467652e726b6e77617463682e6469676974616c"
-  },
-  {
    "server": "edge1.guardora.pro",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
@@ -469,6 +469,11 @@
    "server": "eerie.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "estable.mokhtarname.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "ethereal2.arixo.shop",
@@ -579,11 +584,6 @@
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d"
-  },
-  {
-   "server": "go.pelmeshka.top",
-   "port": 443,
-   "secret": "ee1d5aebffe8c32f703c1ef9dd6331e473676f2e70656c6d6573686b612e746f70"
   },
   {
    "server": "go.pelmeshka.top",
@@ -991,14 +991,14 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "vds-virtualizer-virito-administrator.mokhtarname.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "veloxnetworks.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "wall.nolags.pw",
-   "port": 443,
-   "secret": "ddfa449aeffc48607e4a0b58ec0c0a3058"
   },
   {
    "server": "web.jinxandjack.co.uk.",
