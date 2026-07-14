@@ -356,11 +356,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "cdn.kvakzon.top",
-   "port": 443,
-   "secret": "eec085c2738cef200b39ee8f29d23095f063646e2e6b76616b7a6f6e2e746f70"
-  },
-  {
    "server": "cdn.savelyev.click",
    "port": 443,
    "secret": "eec7a0d41c67c2a5d6adf926c20d369ad363646e2e736176656c7965762e636c69636b"
@@ -789,6 +784,11 @@
    "server": "pl.nowabst.net",
    "port": 853,
    "secret": "ee82ce1f84af4033cc7e7b021069be3d5b766b2e636f6d"
+  },
+  {
+   "server": "portal.balalaika.click",
+   "port": 443,
+   "secret": "ee26af9299b78ab104b500cc4360d93a91706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
    "server": "portal.balalaika.click",
