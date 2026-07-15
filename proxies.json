@@ -26,22 +26,17 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "135.181.129.164",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "135.181.74.178",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "18907d64.koshkaproxy.shop",
    "port": 443,
    "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "194.120.230.120",
+   "server": "194.120.230.37",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "194.120.230.40",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -86,11 +81,6 @@
    "secret": "dd69d25efb5429c95b6a50c8f6cb0b50b4"
   },
   {
-   "server": "34.7.163.1",
-   "port": 443,
-   "secret": "dd3c078ce4588bbc51df618c597a43347e"
-  },
-  {
    "server": "35.204.159.194",
    "port": 443,
    "secret": "dd9cea7850eb43fd1838c435737914ec29"
@@ -116,16 +106,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "65.108.126.241",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.109.147.34",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.109.247.192",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -134,16 +114,6 @@
    "server": "65.109.250.114",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "65.21.234.12",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.83.228",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "7527ec92.koshkaproxy.shop",
@@ -169,11 +139,6 @@
    "server": "93.77.167.20",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "95.217.193.214",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "95.85.237.7",
@@ -946,7 +911,17 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "tg50c2200a.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "tg984dbd72.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
+   "server": "tgc147dd54.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
@@ -1031,5 +1006,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 206
+ "count": 201
 }
