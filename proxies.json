@@ -141,11 +141,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "95.85.237.7",
-   "port": 14305,
-   "secret": "dd36d988a8d13716c2c3aa9e90b7a8b18a"
-  },
-  {
    "server": "aa027d01.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -449,11 +444,6 @@
    "server": "Fighter-Man.ir-proxy.Manege-Desktop-For.Co.Im.",
    "port": 4443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "flare.nolags.pw",
-   "port": 443,
-   "secret": "dd01897df1ee84703efbe1cc1004118fae"
   },
   {
    "server": "fleet.telehelp.top",
@@ -901,7 +891,17 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "tg1063d841.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "tg50c2200a.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
+   "server": "tg530cca11.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
@@ -944,6 +944,11 @@
    "server": "vpn.primeperformance.space",
    "port": 443,
    "secret": "dd7e3e280965afa8cdaa660a13ba4590c2"
+  },
+  {
+   "server": "vpn2.primeperformance.space",
+   "port": 443,
+   "secret": "dd1aa19d393262ffc3b5cfc8f096a920d4"
   },
   {
    "server": "vpn3.primeperformance.space",
@@ -1006,5 +1011,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 201
+ "count": 202
 }
