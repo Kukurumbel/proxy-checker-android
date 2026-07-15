@@ -951,6 +951,11 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
+   "server": "tgde594f14.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "v.vkgosuslugi.ru",
    "port": 443,
    "secret": "ee4847c4a4a02cb443e9d470b2f94dbe5077622e7275"
@@ -1026,5 +1031,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 205
+ "count": 206
 }
