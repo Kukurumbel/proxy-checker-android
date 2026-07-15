@@ -11,11 +11,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "05586875.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "0e8a5864.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -346,11 +341,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "brivora.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "c46eadf5.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -369,11 +359,6 @@
    "server": "cdn.toconvel.digital",
    "port": 443,
    "secret": "eeba0f4b55b6b80f19ec6c24396f97817963646e2e746f636f6e76656c2e6469676974616c"
-  },
-  {
-   "server": "cdn.toconvel.digital",
-   "port": 443,
-   "secret": "eec406d6236e94c0a93e11e8ddd6cf50e663646e2e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "chelipa.co.uk.",
@@ -563,11 +548,6 @@
   {
    "server": "get.utkanos.life",
    "port": 443,
-   "secret": "ee71ec20b7c87e3758d3f2677a4811084e6765742e75746b616e6f732e6c696665"
-  },
-  {
-   "server": "get.utkanos.life",
-   "port": 443,
    "secret": "ee8d6eb094bca7be4fa93bd5b9e1ca7c5b6765742e75746b616e6f732e6c696665"
   },
   {
@@ -614,11 +594,6 @@
    "server": "link.freetg.pw",
    "port": 443,
    "secret": "ee186ce59c7f89978eae84b1ab591a9d4e6c696e6b2e6672656574672e7077"
-  },
-  {
-   "server": "link.freetg.pw",
-   "port": 443,
-   "secret": "ee367e9d49996c327ff6684577cf2427fa6c696e6b2e6672656574672e7077"
   },
   {
    "server": "link.mishkalapy.life",
@@ -981,6 +956,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "tg984dbd72.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "v.vkgosuslugi.ru",
    "port": 443,
    "secret": "ee4847c4a4a02cb443e9d470b2f94dbe5077622e7275"
@@ -1056,5 +1036,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 211
+ "count": 207
 }
