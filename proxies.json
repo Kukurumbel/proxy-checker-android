@@ -146,19 +146,9 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "6bd49cfd.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "7527ec92.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
-   "server": "79.137.196.223",
-   "port": 8843,
-   "secret": "eeeecd971a62719a1ccaee3177da037511167777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "7cb901a4.koshkaproxy.shop",
@@ -276,11 +266,6 @@
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
-   "server": "ardesvpn1.ru",
-   "port": 8443,
-   "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
-  },
-  {
    "server": "around.caxero.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
@@ -362,6 +347,11 @@
   },
   {
    "server": "choice.simbol.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "class.ir.masnavi.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
@@ -891,6 +881,11 @@
    "secret": "ee97c440b6fc10d01379a0ca5e7075a9297365637572652e6d6564686174612e6f7267"
   },
   {
+   "server": "shaaer.masnavi.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "should.be.wake.up.ir.yfdhjderkig.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -1031,5 +1026,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 206
+ "count": 205
 }
