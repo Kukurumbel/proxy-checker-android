@@ -26,11 +26,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "18907d64.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "194.120.230.37",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -79,6 +74,11 @@
    "server": "34.155.62.38",
    "port": 443,
    "secret": "dd69d25efb5429c95b6a50c8f6cb0b50b4"
+  },
+  {
+   "server": "34.155.80.242",
+   "port": 443,
+   "secret": "ddd8750a324586a595cfd52402900a5dee"
   },
   {
    "server": "35.204.159.194",
@@ -439,11 +439,6 @@
    "server": "fast.garden-troll.life",
    "port": 443,
    "secret": "ee02242f5cfccda66733fbae55d4fe628d666173742e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
-   "server": "fe6bf0c2.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee641c142f443e01b9714404b0ee16ba2133333336653531622e6b6f73686b6170726f78792e73686f70"
   },
   {
    "server": "Fighter-Man.ir-proxy.Manege-Desktop-For.Co.Im.",
@@ -949,6 +944,11 @@
    "server": "veloxnetworks.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "server": "vpn3.primeperformance.space",
+   "port": 443,
+   "secret": "ddbddd5ce2fa540b8a3966a3f6b2fef2eb"
   },
   {
    "server": "web.jinxandjack.co.uk.",
