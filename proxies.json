@@ -71,11 +71,6 @@
    "secret": "dd2e1690137bb26b69718db2b71bb5ae8a"
   },
   {
-   "server": "34.155.47.167",
-   "port": 443,
-   "secret": "dd73f5d2e2065737a1d08c085883355e55"
-  },
-  {
    "server": "34.155.62.38",
    "port": 443,
    "secret": "dd69d25efb5429c95b6a50c8f6cb0b50b4"
@@ -122,11 +117,6 @@
   },
   {
    "server": "7527ec92.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
-   "server": "7cb901a4.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
@@ -231,11 +221,6 @@
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
-   "server": "b.sub-ploter.co.uk",
-   "port": 22,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "b14ca112.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -331,11 +316,6 @@
    "secret": "ee4c40bfc1c32022e21d85e597be8652f7636c6f75642e6e656f7175612e70726f"
   },
   {
-   "server": "coffee.chunkystars.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
-  },
-  {
    "server": "connect.savelyev.click",
    "port": 443,
    "secret": "ee963bdbd49ba8d5207caa95a6cafe3a00636f6e6e6563742e736176656c7965762e636c69636b"
@@ -344,11 +324,6 @@
    "server": "connect.savelyev.click",
    "port": 443,
    "secret": "eeaa14e427fbb52396a672791cbb730a40636f6e6e6563742e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "crow.anime-fox.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
   {
    "server": "edge.librava.click",
@@ -771,11 +746,6 @@
    "secret": "ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70"
   },
   {
-   "server": "s3.24starsmarket.ru",
-   "port": 443,
-   "secret": "eed95970bd8584d336f1b923ab691fa43d73332e323473746172736d61726b65742e7275"
-  },
-  {
    "server": "s3.postpulse.space",
    "port": 443,
    "secret": "eede09f27f5ed0877907c31d53a7aca5526164332e617269786f2e73686f70"
@@ -896,7 +866,17 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
+   "server": "tga06b32d7.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "tga62e85f4.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
+   "server": "tgad2d9795.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
@@ -1006,5 +986,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 201
+ "count": 197
 }
