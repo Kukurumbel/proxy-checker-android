@@ -36,6 +36,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "212.8.229.241",
+   "port": 443,
+   "secret": "eedae109a913467127a2779a47a04080b77275747562652e7275"
+  },
+  {
    "server": "268f1163.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -226,11 +231,6 @@
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
-   "server": "around.caxero.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
-  },
-  {
    "server": "b.sub-ploter.co.uk",
    "port": 22,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -349,11 +349,6 @@
    "server": "crow.anime-fox.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
-  },
-  {
-   "server": "d00405db.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
    "server": "edge.librava.click",
@@ -616,6 +611,11 @@
    "secret": "FgMBAgABAAH8AxOG4kw63Q"
   },
   {
+   "server": "mt1.ddproxy.xyz",
+   "port": 443,
+   "secret": "ee7af7516b15e94579eee7ba8aac58d3aa706574726f766963682e7275"
+  },
+  {
    "server": "my.jinxandjack.co.uk.",
    "port": 443,
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
@@ -756,19 +756,14 @@
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
   },
   {
-   "server": "s1.24starsmarket.ru",
+   "server": "s03.neo-trading.org",
    "port": 443,
-   "secret": "ee84e22723bf0f87e3838be933e7b91bd973312e323473746172736d61726b65742e7275"
+   "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
    "server": "s1.postpulse.space",
    "port": 443,
    "secret": "ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70"
-  },
-  {
-   "server": "s2.24starsmarket.ru",
-   "port": 443,
-   "secret": "ee01cf81bf6907123b8247f8eea3e4288b73322e323473746172736d61726b65742e7275"
   },
   {
    "server": "s2.postpulse.space",
@@ -876,11 +871,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "tanzibjf.club.",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "tarn.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -902,6 +892,11 @@
   },
   {
    "server": "tg984dbd72.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
+   "server": "tga62e85f4.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
@@ -994,6 +989,11 @@
    "server": "y.vkgosuslugi.ru",
    "port": 443,
    "secret": "ee4e82cdf7c4c847b33f27c5d8f2c4053d77622e7275"
+  },
+  {
+   "server": "yrf2.data-edge.fyi",
+   "port": 443,
+   "secret": "ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275"
   },
   {
    "server": "zilch.chunkycorp.shop",
