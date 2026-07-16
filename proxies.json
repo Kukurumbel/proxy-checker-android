@@ -136,11 +136,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "93.77.167.20",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "aa027d01.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -179,6 +174,11 @@
    "server": "adieu.shmelproxy.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "ads.canvas-proxy.com",
+   "port": 443,
+   "secret": "eeb7f10957fcefd87d5e8c336fc9851d8d6c6f6e672e7476"
   },
   {
    "server": "aerie.sosun4ik.top",
@@ -616,11 +616,6 @@
    "secret": "FgMBAgABAAH8AxOG4kw63Q"
   },
   {
-   "server": "mtp.nowabst.net",
-   "port": 853,
-   "secret": "7oLOH4SvQDPMfnsCEGm-PVthZHMueDUucnU"
-  },
-  {
    "server": "my.jinxandjack.co.uk.",
    "port": 443,
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
@@ -1011,5 +1006,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 202
+ "count": 201
 }
