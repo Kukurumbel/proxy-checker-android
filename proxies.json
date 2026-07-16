@@ -81,6 +81,11 @@
    "secret": "ddd8750a324586a595cfd52402900a5dee"
   },
   {
+   "server": "34.178.220.38",
+   "port": 443,
+   "secret": "dd706dfa5dc42ec06475bee1b28952ecc1"
+  },
+  {
    "server": "35.204.159.194",
    "port": 443,
    "secret": "dd9cea7850eb43fd1838c435737914ec29"
@@ -776,6 +781,11 @@
    "secret": "ee97c440b6fc10d01379a0ca5e7075a9297365637572652e6d6564686174612e6f7267"
   },
   {
+   "server": "Sejil.ir.pqrtgdscin.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "shaaer.masnavi.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -986,5 +996,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 197
+ "count": 199
 }
