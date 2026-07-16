@@ -26,6 +26,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "168.119.142.46",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "194.120.230.37",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -71,11 +76,6 @@
    "secret": "dd2e1690137bb26b69718db2b71bb5ae8a"
   },
   {
-   "server": "34.155.62.38",
-   "port": 443,
-   "secret": "dd69d25efb5429c95b6a50c8f6cb0b50b4"
-  },
-  {
    "server": "34.155.80.242",
    "port": 443,
    "secret": "ddd8750a324586a595cfd52402900a5dee"
@@ -91,11 +91,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "4ad666e5.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "58500f94.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -106,6 +101,11 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
+   "server": "65.108.123.76",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.109.247.192",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -114,6 +114,11 @@
    "server": "65.109.250.114",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "65.21.83.228",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "7527ec92.koshkaproxy.shop",
@@ -691,6 +696,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "ru.aiartem.pro",
+   "port": 443,
+   "secret": "dd7440f5871c1e401ad225005d15d662f5"
+  },
+  {
    "server": "rudomain.info.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -699,6 +709,11 @@
    "server": "s01.neo-trading.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
+  },
+  {
+   "server": "s010.neo-trading.org",
+   "port": 8443,
+   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
    "server": "s02.neo-trading.org",
@@ -971,5 +986,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 194
+ "count": 197
 }
