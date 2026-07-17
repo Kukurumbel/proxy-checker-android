@@ -346,11 +346,6 @@
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
   {
-   "server": "edge1.waycdn.ru",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
-  },
-  {
    "server": "edge2.guardora.pro",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
@@ -611,11 +606,6 @@
    "secret": "eeceaec97c86b6332adc48b3c081954e60766b2e636f6d"
   },
   {
-   "server": "my.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
-  },
-  {
    "server": "neo-vpn.ink",
    "port": 443,
    "secret": "ee7e0e76915a3255d7aaa9f52d91bd8b286e656f2d76706e2e696e6b"
@@ -856,6 +846,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "stars.tg-proxy.fun",
+   "port": 6443,
+   "secret": "a545c35eb2bdfa1a93df5ebe69957120"
+  },
+  {
    "server": "status.nolags.pw",
    "port": 443,
    "secret": "ddff6eb6da66f6218001f0d8cb023cbdd8"
@@ -946,6 +941,11 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
+   "server": "turbo.tg-proxy.fun",
+   "port": 9443,
+   "secret": "a545c35eb2bdfa1a93df5ebe69957120"
+  },
+  {
    "server": "v.vkgosuslugi.ru",
    "port": 443,
    "secret": "ee4847c4a4a02cb443e9d470b2f94dbe5077622e7275"
@@ -961,11 +961,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "veloxnetworks.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "vpn.primeperformance.space",
    "port": 443,
    "secret": "dd7e3e280965afa8cdaa660a13ba4590c2"
@@ -979,11 +974,6 @@
    "server": "vpn3.primeperformance.space",
    "port": 443,
    "secret": "ddbddd5ce2fa540b8a3966a3f6b2fef2eb"
-  },
-  {
-   "server": "web.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
    "server": "web.utkanos.life",
@@ -1051,5 +1041,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 210
+ "count": 208
 }
