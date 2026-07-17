@@ -501,6 +501,11 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "hadi-choopan.persian.wolf.ir.aojsnqzcdsc.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "hero.bandar-abbas.ir.juyfufyty.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -594,11 +599,6 @@
    "server": "mizanesgh.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "moh.kingproxynewdomailasiatech.ink",
-   "port": 25565,
-   "secret": "FgMBAgABAAH8AxOG4kw63Q"
   },
   {
    "server": "mt.nowabst.net",
@@ -861,6 +861,11 @@
    "secret": "ee97c440b6fc10d01379a0ca5e7075a9297365637572652e6d6564686174612e6f7267"
   },
   {
+   "server": "Sejil.ir.pqrtgdscin.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "shaaer.masnavi.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -1066,5 +1071,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 213
+ "count": 214
 }
