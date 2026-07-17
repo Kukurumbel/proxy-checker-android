@@ -91,11 +91,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "58500f94.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "6208454e.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -127,11 +122,6 @@
   },
   {
    "server": "86d40ff6.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
-   "server": "9249764d.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
@@ -184,11 +174,6 @@
    "server": "aerie.sosun4ik.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "AjaB_Sorati_Dare",
-   "port": 443,
-   "secret": "BeZaN_RoooSh_Connect"
   },
   {
    "server": "api-web.asiaadomainsshatelhamrahaval.co.uk.",
@@ -254,6 +239,11 @@
    "server": "beer.crona-extra.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "beest-sellerst.co.uk.",
+   "port": 443,
+   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "best-sellerst.co.uk.",
@@ -787,6 +777,11 @@
   },
   {
    "server": "s010.neo-trading.org",
+   "port": 443,
+   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
+  },
+  {
+   "server": "s010.neo-trading.org",
    "port": 8443,
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
@@ -1061,5 +1056,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 212
+ "count": 211
 }
