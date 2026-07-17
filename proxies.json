@@ -66,11 +66,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "34.155.199.49",
-   "port": 443,
-   "secret": "ddc117dc71b6488790c46e6b0e64f8f3ac"
-  },
-  {
    "server": "34.155.207.237",
    "port": 443,
    "secret": "dd6efa6d88b486baf028f2c8f965ee89c4"
@@ -201,14 +196,14 @@
    "secret": "ee7f4cdb81adf40f18239ce6ce52e53ce36170692e676f72627573686b696e2e636c69636b"
   },
   {
+   "server": "api.gorbushkin.click",
+   "port": 443,
+   "secret": "ee9d937ced376c91a1df79a5e5de33805a6170692e676f72627573686b696e2e636c69636b"
+  },
+  {
    "server": "api.groundfloorsolutions.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "app.kvakzon.top",
-   "port": 443,
-   "secret": "eed8c5a0bc36cd4c65fb0ccf24b4309d0f6170702e6b76616b7a6f6e2e746f70"
   },
   {
    "server": "app.librava.click",
@@ -853,6 +848,11 @@
   {
    "server": "secure.gorbushkin.click",
    "port": 443,
+   "secret": "ee22b3219d7bbdddf343ff3ad8c491d5127365637572652e676f72627573686b696e2e636c69636b"
+  },
+  {
+   "server": "secure.gorbushkin.click",
+   "port": 443,
    "secret": "eed670b22b89d073390327d03894d223fa7365637572652e676f72627573686b696e2e636c69636b"
   },
   {
@@ -1011,11 +1011,6 @@
    "secret": "ddbddd5ce2fa540b8a3966a3f6b2fef2eb"
   },
   {
-   "server": "web.utkanos.life",
-   "port": 443,
-   "secret": "ee36fd02bb86fbc4266de3a70114c13a247765622e75746b616e6f732e6c696665"
-  },
-  {
    "server": "webhook.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -1071,5 +1066,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 214
+ "count": 213
 }
