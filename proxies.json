@@ -261,6 +261,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.",
+   "port": 4443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "blond.basicscotch.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -279,6 +284,11 @@
    "server": "c46eadf5.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
+   "server": "cdn.savelyev.click",
+   "port": 443,
+   "secret": "ee289573f97532f1d66fe239efbf0585ad63646e2e736176656c7965762e636c69636b"
   },
   {
    "server": "cdn.savelyev.click",
@@ -323,6 +333,11 @@
   {
    "server": "connect.savelyev.click",
    "port": 443,
+   "secret": "ee66c21a2a4223d77565363a7c85007211636f6e6e6563742e736176656c7965762e636c69636b"
+  },
+  {
+   "server": "connect.savelyev.click",
+   "port": 443,
    "secret": "ee963bdbd49ba8d5207caa95a6cafe3a00636f6e6e6563742e736176656c7965762e636c69636b"
   },
   {
@@ -347,11 +362,6 @@
   },
   {
    "server": "edge2.guardora.pro",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
-  },
-  {
-   "server": "edge2.waycdn.ru",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
@@ -489,11 +499,6 @@
    "server": "googel.alo-otp.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "hadi-choopan.persian.wolf.ir.aojsnqzcdsc.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "hero.bandar-abbas.ir.juyfufyty.info.",
@@ -644,6 +649,11 @@
    "server": "new7.mizanmizanesgh.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "no-problem.ir.aojsnqzcdsc.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "node.mishkalapy.life",
@@ -1051,5 +1061,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 210
+ "count": 212
 }
