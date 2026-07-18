@@ -236,6 +236,11 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
+   "server": "bale-ai.vingardium.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "beer.crona-extra.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -921,6 +926,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "tg.nftauctiontg.online",
+   "port": 443,
+   "secret": "ee82dd6ba1475a9793a9613364fee70e2f74672e6e667461756374696f6e74672e6f6e6c696e65"
+  },
+  {
    "server": "tg1063d841.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -952,6 +962,11 @@
   },
   {
    "server": "tg984dbd72.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
+   "server": "tg98d29b25.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
@@ -1001,6 +1016,11 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "vk.nftauctiontg.online",
+   "port": 8448,
+   "secret": "ee82dd6ba1475a9793a9613364fee70e2f706574726f766963682e7275"
+  },
+  {
    "server": "vpn.primeperformance.space",
    "port": 443,
    "secret": "dd7e3e280965afa8cdaa660a13ba4590c2"
@@ -1029,6 +1049,11 @@
    "server": "webhook.vingardium.co.uk.",
    "port": 443,
    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+  },
+  {
+   "server": "webhook.vingardium.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "webhook.what-ever.co.uk.",
@@ -1061,6 +1086,11 @@
    "secret": "ee4e82cdf7c4c847b33f27c5d8f2c4053d77622e7275"
   },
   {
+   "server": "ya.nftauctiontg.online",
+   "port": 8448,
+   "secret": "ee7a437a509561eb5e63b1caa44dad10a5706574726f766963682e7275"
+  },
+  {
    "server": "yrf2.data-edge.fyi",
    "port": 443,
    "secret": "ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275"
@@ -1076,5 +1106,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 215
+ "count": 221
 }
