@@ -161,6 +161,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "AjaB_Sorati_Dare",
+   "port": 443,
+   "secret": "BeZaN_RoooSh_Connect"
+  },
+  {
    "server": "api-web.asiaadomainsshatelhamrahaval.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
@@ -656,11 +661,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "paid1.arixo.shop",
-   "port": 443,
-   "secret": "eec54c7a89cf194572ed8d7c8ba8867dc770616964312e617269786f2e73686f70"
-  },
-  {
    "server": "paired.duckdns.org",
    "port": 443,
    "secret": "ee7765622e796f74612e72755b744f13"
@@ -921,6 +921,11 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
+   "server": "tg5dd5d6eb.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "tg62940547.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -967,6 +972,11 @@
   },
   {
    "server": "tgde594f14.koshkaproxy.shop",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
+   "server": "tge0a4dd98.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
@@ -1081,5 +1091,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 216
+ "count": 218
 }
