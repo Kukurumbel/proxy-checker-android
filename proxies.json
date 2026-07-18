@@ -283,11 +283,6 @@
   {
    "server": "cdn.savelyev.click",
    "port": 443,
-   "secret": "eec7a0d41c67c2a5d6adf926c20d369ad363646e2e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "cdn.savelyev.click",
-   "port": 443,
    "secret": "eefcacf4447d2bd244c9c0a8c8b0f4f1a563646e2e736176656c7965762e636c69636b"
   },
   {
@@ -581,6 +576,11 @@
    "secret": "ee204fd0f2f4584c289c6aa284e46ed6406d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
+   "server": "mirror.balalaika.click",
+   "port": 443,
+   "secret": "ee36df03ad6ff4b87c535d309f466cefce6d6972726f722e62616c616c61696b612e636c69636b"
+  },
+  {
    "server": "mirror.malevich7.top",
    "port": 443,
    "secret": "ee291d58b9456c5824c8675ad904b2386e6d6972726f722e6d616c6576696368372e746f70"
@@ -684,6 +684,11 @@
    "server": "portal.balalaika.click",
    "port": 443,
    "secret": "ee5ae5279b60e4b6424d71e8cbd973a347706f7274616c2e62616c616c61696b612e636c69636b"
+  },
+  {
+   "server": "portal.balalaika.click",
+   "port": 443,
+   "secret": "eefb569f1568afd1f42683fa218e6d9ebe706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
    "server": "portal.malevich7.top",
@@ -819,11 +824,6 @@
    "server": "secure.gorbushkin.click",
    "port": 443,
    "secret": "ee22b3219d7bbdddf343ff3ad8c491d5127365637572652e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "secure.gorbushkin.click",
-   "port": 443,
-   "secret": "eed670b22b89d073390327d03894d223fa7365637572652e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "secure.medhata.org",
