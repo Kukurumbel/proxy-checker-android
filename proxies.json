@@ -96,11 +96,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "6208454e.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "65.108.123.76",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -134,11 +129,6 @@
    "server": "91.107.160.196",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "aa027d01.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
    "server": "ad1.arixo.shop",
@@ -206,14 +196,14 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "app.librava.click",
+   "server": "app.kvakzon.top",
    "port": 443,
-   "secret": "ee2dc3787049f48776ee28090e513c22526170702e6c6962726176612e636c69636b"
+   "secret": "eed8c5a0bc36cd4c65fb0ccf24b4309d0f6170702e6b76616b7a6f6e2e746f70"
   },
   {
    "server": "app.librava.click",
    "port": 443,
-   "secret": "ee5d2b53db8c932b49712fe1d09dae8d656170702e6c6962726176612e636c69636b"
+   "secret": "ee2dc3787049f48776ee28090e513c22526170702e6c6962726176612e636c69636b"
   },
   {
    "server": "app.rknwatch.digital",
@@ -254,6 +244,11 @@
    "server": "beest-sellerst.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "best-proxy.ink",
+   "port": 443,
+   "secret": "ee3646eba8c65e0e1d4804a7f9caa6531d626573742d70726f78792e696e6b"
   },
   {
    "server": "best-sellerst.co.uk.",
@@ -436,6 +431,11 @@
    "secret": "ee4cb7d7e79e33be42f0c3ae8bfbc994c4666c656574686f702e6f7267"
   },
   {
+   "server": "fleethop.org",
+   "port": 443,
+   "secret": "ee77045055eeb817263b9ee5a84a68a50c666c656574686f702e6f7267"
+  },
+  {
    "server": "fresh.t-proxy.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -586,6 +586,11 @@
    "secret": "ee1d4c807dc5afc0d8481cc6f3e4f175386d6564626c6f636b2e696e6b"
   },
   {
+   "server": "medblock.ink",
+   "port": 443,
+   "secret": "ee8665ca3cc6678d1046ae29d1740ab58a6d6564626c6f636b2e696e6b"
+  },
+  {
    "server": "mirror.balalaika.click",
    "port": 443,
    "secret": "ee204fd0f2f4584c289c6aa284e46ed6406d6972726f722e62616c616c61696b612e636c69636b"
@@ -629,11 +634,6 @@
    "server": "net.antitspu.com",
    "port": 443,
    "secret": "ee7430e87bc3324e17e44d00c033f428946e65742e616e7469747370752e636f6d"
-  },
-  {
-   "server": "net.freetg.pw",
-   "port": 443,
-   "secret": "ee19a40dfa5782992da80010876eeff53c6e65742e6672656574672e7077"
   },
   {
    "server": "net.pelmeshka.top",
@@ -1016,6 +1016,11 @@
    "secret": "ddbddd5ce2fa540b8a3966a3f6b2fef2eb"
   },
   {
+   "server": "web.utkanos.life",
+   "port": 443,
+   "secret": "ee36fd02bb86fbc4266de3a70114c13a247765622e75746b616e6f732e6c696665"
+  },
+  {
    "server": "webhook.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -1071,5 +1076,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 214
+ "count": 215
 }
