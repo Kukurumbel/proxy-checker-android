@@ -211,6 +211,11 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
+   "server": "ardesvpn1.ru",
+   "port": 8443,
+   "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+  },
+  {
    "server": "b14ca112.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -781,6 +786,11 @@
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
+   "server": "s05.neo-trading.org",
+   "port": 443,
+   "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
+  },
+  {
    "server": "s1.postpulse.space",
    "port": 443,
    "secret": "ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70"
@@ -814,6 +824,11 @@
    "server": "salaaam.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "salahodine.ir.",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "secure.gorbushkin.click",
@@ -1016,6 +1031,11 @@
    "secret": "ddbddd5ce2fa540b8a3966a3f6b2fef2eb"
   },
   {
+   "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
+   "port": 443,
+   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
+  },
+  {
    "server": "web.utkanos.life",
    "port": 443,
    "secret": "ee36fd02bb86fbc4266de3a70114c13a247765622e75746b616e6f732e6c696665"
@@ -1086,5 +1106,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 217
+ "count": 221
 }
