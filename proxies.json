@@ -96,16 +96,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.109.247.192",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "65.109.250.114",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "65.21.83.228",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -1101,5 +1091,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 220
+ "count": 218
 }
