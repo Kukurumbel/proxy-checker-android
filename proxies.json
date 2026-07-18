@@ -376,11 +376,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "ethereal5.arixo.shop",
-   "port": 443,
-   "secret": "ee60e9cad19900bfefdbd122d82dfcd3d9657468657265616c352e617269786f2e73686f70"
-  },
-  {
    "server": "fas8t.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -724,11 +719,6 @@
    "server": "proxy.primeperformance.space",
    "port": 443,
    "secret": "dd2f51e880209c05c5e8b223ada0bbc91a"
-  },
-  {
-   "server": "proxy13.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "pysudo.estakhr.info",
@@ -1091,5 +1081,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 218
+ "count": 216
 }
