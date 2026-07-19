@@ -116,6 +116,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "95.85.237.7",
+   "port": 14305,
+   "secret": "dd36d988a8d13716c2c3aa9e90b7a8b18a"
+  },
+  {
    "server": "ad1.arixo.shop",
    "port": 443,
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
@@ -199,11 +204,6 @@
    "server": "app.rknwatch.digital",
    "port": 443,
    "secret": "ee7fb8b71569b0536bb15039e506afb65a6170702e726b6e77617463682e6469676974616c"
-  },
-  {
-   "server": "app.what-ever.co.uk.",
-   "port": 443,
-   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
    "server": "app.what-ever.co.uk.",
@@ -323,6 +323,11 @@
   {
    "server": "cloud.neoqua.pro",
    "port": 443,
+   "secret": "ee17a8c39b61cada586d48df4c790bc178636c6f75642e6e656f7175612e70726f"
+  },
+  {
+   "server": "cloud.neoqua.pro",
+   "port": 443,
    "secret": "ee4c40bfc1c32022e21d85e597be8652f7636c6f75642e6e656f7175612e70726f"
   },
   {
@@ -344,11 +349,6 @@
    "server": "edge.librava.click",
    "port": 443,
    "secret": "eeba0c58ad3c74e7486821f7c0e26f9ef7656467652e6c6962726176612e636c69636b"
-  },
-  {
-   "server": "edge.rknwatch.digital",
-   "port": 443,
-   "secret": "ee4150a680b9414d8e96ed4a8e7524e2e6656467652e726b6e77617463682e6469676974616c"
   },
   {
    "server": "edge1.guardora.pro",
@@ -488,11 +488,6 @@
   {
    "server": "go.antitspu.com",
    "port": 443,
-   "secret": "ee384880aa36690ef47c455bedf049055c676f2e616e7469747370752e636f6d"
-  },
-  {
-   "server": "go.antitspu.com",
-   "port": 443,
    "secret": "eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d"
   },
   {
@@ -554,11 +549,6 @@
    "server": "login.veltura.digital",
    "port": 443,
    "secret": "ee381874396c547235c4be1e40cb6132976c6f67696e2e76656c747572612e6469676974616c"
-  },
-  {
-   "server": "logs.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
    "server": "logs.jinxandjack.co.uk.",
@@ -718,11 +708,6 @@
   {
    "server": "portal.balalaika.click",
    "port": 443,
-   "secret": "ee5ae5279b60e4b6424d71e8cbd973a347706f7274616c2e62616c616c61696b612e636c69636b"
-  },
-  {
-   "server": "portal.balalaika.click",
-   "port": 443,
    "secret": "eefb569f1568afd1f42683fa218e6d9ebe706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
@@ -759,6 +744,11 @@
    "server": "rekrak.nolags.pw",
    "port": 443,
    "secret": "eec2d13ebbc4ab5596c87f99b0928aa1507374726d2e79616e6465782e6e6574"
+  },
+  {
+   "server": "relay.neoqua.pro",
+   "port": 443,
+   "secret": "ee368216360fa09c0c83149537f4ff23b972656c61792e6e656f7175612e70726f"
   },
   {
    "server": "relaywise.co.uk.",
@@ -854,11 +844,6 @@
    "server": "salahodine.ir.",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "secure.gorbushkin.click",
-   "port": 443,
-   "secret": "ee02b0fe7d8336b262ae74889c88fc4f1c7365637572652e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "secure.gorbushkin.click",
@@ -1126,5 +1111,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 225
+ "count": 222
 }
