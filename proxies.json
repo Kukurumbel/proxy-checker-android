@@ -116,6 +116,16 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
+   "server": "76c6f0.corecdn.net",
+   "port": 443,
+   "secret": "eea8f889cdbc9e61f9c6bd15c7e0a2fff23736633666302e636f726563646e2e6e6574"
+  },
+  {
+   "server": "790a24.edgelink.org",
+   "port": 443,
+   "secret": "eecd06e71728b72c25ec8038038f6949f53739306132342e656467656c696e6b2e6f7267"
+  },
+  {
    "server": "86d40ff6.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -346,6 +356,11 @@
    "secret": "ee963bdbd49ba8d5207caa95a6cafe3a00636f6e6e6563742e736176656c7965762e636c69636b"
   },
   {
+   "server": "e9d986.swift-cdn.net",
+   "port": 443,
+   "secret": "ee0523ba55dfc2987db5fc8288e9a67ded6539643938362e73776966742d63646e2e6e6574"
+  },
+  {
    "server": "edge.librava.click",
    "port": 443,
    "secret": "ee1fe214e57ff652407a36f838d7312aba656467652e6c6962726176612e636c69636b"
@@ -406,6 +421,21 @@
    "secret": "ee02242f5cfccda66733fbae55d4fe628d666173742e67617264656e2d74726f6c6c2e6c696665"
   },
   {
+   "server": "fast1.mtproxygram.lol",
+   "port": 443,
+   "secret": "ee25299ae374d339b27f84d86066169e7e62726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "fast2.mtproxygram.lol",
+   "port": 443,
+   "secret": "dd25299ae374d339b27f84d86066169e7e"
+  },
+  {
+   "server": "fast2.mtproxygram.lol",
+   "port": 443,
+   "secret": "ee25299ae374d339b27f84d86066169e7e62726f777365722e79616e6465782e7275"
+  },
+  {
    "server": "Fighter-Man.ir-proxy.Manege-Desktop-For.Co.Im.",
    "port": 4443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -459,11 +489,6 @@
    "server": "gate.klyuch1k.org",
    "port": 443,
    "secret": "eeae941a76ec4acf04faabaf8a24571080676174652e6b6c79756368316b2e6f7267"
-  },
-  {
-   "server": "gate.veltura.digital",
-   "port": 443,
-   "secret": "eef46f4b5eb70e4b9481d9e5b91f1386e6676174652e76656c747572612e6469676974616c"
   },
   {
    "server": "ge.nowabst.net",
@@ -696,6 +721,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "persian.gulf.ir.olsjddhf.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "petrichor.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -904,6 +934,11 @@
    "server": "Strait-of-Hormuz.ir.jursdheks.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "Strait-of-Hormuz.ir.jursdheks.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "subobdoa.co.uk.",
@@ -1131,5 +1166,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 226
+ "count": 233
 }
