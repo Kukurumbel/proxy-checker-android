@@ -61,11 +61,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "34.155.207.237",
-   "port": 443,
-   "secret": "dd6efa6d88b486baf028f2c8f965ee89c4"
-  },
-  {
    "server": "34.155.208.53",
    "port": 443,
    "secret": "dd2e1690137bb26b69718db2b71bb5ae8a"
@@ -533,6 +528,11 @@
   {
    "server": "link.mishkalapy.life",
    "port": 443,
+   "secret": "ee6c83a97e497ca0b690780446497c1e5b6c696e6b2e6d6973686b616c6170792e6c696665"
+  },
+  {
+   "server": "link.mishkalapy.life",
+   "port": 443,
    "secret": "eebf409b0c0013edc77b19fd55f79a22fc6c696e6b2e6d6973686b616c6170792e6c696665"
   },
   {
@@ -659,6 +659,11 @@
    "server": "node.mishkalapy.life",
    "port": 443,
    "secret": "ee04949e5deca5d7c98d4bdc309bdb4f406e6f64652e6d6973686b616c6170792e6c696665"
+  },
+  {
+   "server": "node.mishkalapy.life",
+   "port": 443,
+   "secret": "eeb272afc9c23af66a9234c8aa7ed209ba6e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
    "server": "office.nolags.pw",
@@ -911,6 +916,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "testt1.nolags.pw",
+   "port": 443,
+   "secret": "ddc2d13ebbc4ab5596c87f99b0928aa150"
+  },
+  {
    "server": "tg.nftauctiontg.online",
    "port": 443,
    "secret": "ee82dd6ba1475a9793a9613364fee70e2f74672e6e667461756374696f6e74672e6f6e6c696e65"
@@ -1111,5 +1121,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 222
+ "count": 224
 }
