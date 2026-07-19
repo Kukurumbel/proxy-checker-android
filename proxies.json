@@ -11,11 +11,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "0e8a5864.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "103.161.35.23",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -32,6 +27,11 @@
   },
   {
    "server": "168.119.142.46",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "176.65.128.63",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -106,11 +106,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.109.147.34",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.21.83.228",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -121,27 +116,12 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "76c6f0.corecdn.net",
-   "port": 443,
-   "secret": "eea8f889cdbc9e61f9c6bd15c7e0a2fff23736633666302e636f726563646e2e6e6574"
-  },
-  {
-   "server": "790a24.edgelink.org",
-   "port": 443,
-   "secret": "eecd06e71728b72c25ec8038038f6949f53739306132342e656467656c696e6b2e6f7267"
-  },
-  {
    "server": "86d40ff6.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
    "server": "91.107.160.196",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "95.217.193.214",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -366,11 +346,6 @@
    "secret": "ee963bdbd49ba8d5207caa95a6cafe3a00636f6e6e6563742e736176656c7965762e636c69636b"
   },
   {
-   "server": "e9d986.swift-cdn.net",
-   "port": 443,
-   "secret": "ee0523ba55dfc2987db5fc8288e9a67ded6539643938362e73776966742d63646e2e6e6574"
-  },
-  {
    "server": "edge.librava.click",
    "port": 443,
    "secret": "ee1fe214e57ff652407a36f838d7312aba656467652e6c6962726176612e636c69636b"
@@ -564,6 +539,11 @@
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "lazeyka-1.getvelora.space",
+   "port": 443,
+   "secret": "ee3f558f47bfd43aafffc4c8bb4ffc0130706574726f766963682e7275"
   },
   {
    "server": "link.mishkalapy.life",
@@ -1176,5 +1156,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 235
+ "count": 231
 }
