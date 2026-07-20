@@ -61,11 +61,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "34.155.208.53",
-   "port": 443,
-   "secret": "dd2e1690137bb26b69718db2b71bb5ae8a"
-  },
-  {
    "server": "34.155.80.242",
    "port": 443,
    "secret": "ddd8750a324586a595cfd52402900a5dee"
@@ -79,6 +74,11 @@
    "server": "34.178.220.38",
    "port": 443,
    "secret": "dd706dfa5dc42ec06475bee1b28952ecc1"
+  },
+  {
+   "server": "34.7.50.106",
+   "port": 443,
+   "secret": "dd39a22112c392f0cbfb056066b429addd"
   },
   {
    "server": "65.108.123.76",
@@ -544,11 +544,6 @@
    "server": "login.kerfilia.info",
    "port": 6775,
    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "login.klyuch1k.org",
-   "port": 443,
-   "secret": "eecb24cfd140162ae643c8e43b331fa7cb6c6f67696e2e6b6c79756368316b2e6f7267"
   },
   {
    "server": "login.veltura.digital",
@@ -1136,5 +1131,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 227
+ "count": 226
 }
