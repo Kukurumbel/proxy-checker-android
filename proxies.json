@@ -176,6 +176,11 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
+   "server": "api.medhata.org",
+   "port": 443,
+   "secret": "ee32bc9ea34e230a726f9364c05e4ea2086170692e6d6564686174612e6f7267"
+  },
+  {
    "server": "app.kvakzon.top",
    "port": 443,
    "secret": "eed8c5a0bc36cd4c65fb0ccf24b4309d0f6170702e6b76616b7a6f6e2e746f70"
@@ -304,11 +309,6 @@
    "server": "cloud.neoqua.pro",
    "port": 443,
    "secret": "ee17a8c39b61cada586d48df4c790bc178636c6f75642e6e656f7175612e70726f"
-  },
-  {
-   "server": "cloud.neoqua.pro",
-   "port": 443,
-   "secret": "ee4c40bfc1c32022e21d85e597be8652f7636c6f75642e6e656f7175612e70726f"
   },
   {
    "server": "connect.savelyev.click",
@@ -536,11 +536,6 @@
    "secret": "ee6c83a97e497ca0b690780446497c1e5b6c696e6b2e6d6973686b616c6170792e6c696665"
   },
   {
-   "server": "link.mishkalapy.life",
-   "port": 443,
-   "secret": "eebf409b0c0013edc77b19fd55f79a22fc6c696e6b2e6d6973686b616c6170792e6c696665"
-  },
-  {
    "server": "login.kerfilia.info",
    "port": 6775,
    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
@@ -654,11 +649,6 @@
    "server": "no-problem.ir.aojsnqzcdsc.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "node.mishkalapy.life",
-   "port": 443,
-   "secret": "ee04949e5deca5d7c98d4bdc309bdb4f406e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
    "server": "node.mishkalapy.life",
@@ -1131,5 +1121,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 226
+ "count": 224
 }
