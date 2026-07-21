@@ -86,11 +86,6 @@
    "secret": "ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70"
   },
   {
-   "server": "adieu.shmelproxy.top",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "ads.canvas-proxy.com",
    "port": 443,
    "secret": "eeb7f10957fcefd87d5e8c336fc9851d8d6c6f6e672e7476"
@@ -164,6 +159,11 @@
    "server": "bale-ai.vingardium.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "bayad-barkhast.ir.hasjkhdkjs.info.",
+   "port": 543,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "beer.crona-extra.co.uk",
@@ -276,6 +276,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "downlod.forzajuve.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "edge.librava.click",
    "port": 443,
    "secret": "ee1fe214e57ff652407a36f838d7312aba656467652e6c6962726176612e636c69636b"
@@ -284,21 +289,6 @@
    "server": "edge.librava.click",
    "port": 443,
    "secret": "eeba0c58ad3c74e7486821f7c0e26f9ef7656467652e6c6962726176612e636c69636b"
-  },
-  {
-   "server": "edge2.guardora.pro",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
-  },
-  {
-   "server": "edge3.guardora.pro",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
-  },
-  {
-   "server": "edge4.guardora.pro",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
   {
    "server": "eerie.proxytales.life",
@@ -646,11 +636,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "phloe.slarkfat.icu",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "portal.balalaika.click",
    "port": 443,
    "secret": "ee26af9299b78ab104b500cc4360d93a91706f7274616c2e62616c616c61696b612e636c69636b"
@@ -814,6 +799,11 @@
    "server": "shaaer.masnavi.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "should.be.wake.up.ir.yfdhjderkig.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "sisu.proxytales.life",
@@ -1066,5 +1056,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 213
+ "count": 211
 }
