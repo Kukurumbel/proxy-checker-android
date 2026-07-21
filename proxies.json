@@ -21,11 +21,6 @@
    "secret": "eedae109a913467127a2779a47a04080b77275747562652e7275"
   },
   {
-   "server": "34.155.80.242",
-   "port": 443,
-   "secret": "ddd8750a324586a595cfd52402900a5dee"
-  },
-  {
    "server": "34.163.233.50",
    "port": 443,
    "secret": "dd3df684c8e73e0a0a9c658aabeb89f250"
@@ -266,6 +261,11 @@
    "secret": "ee3e3662218d47ced15c561da06c12bb5a636f6e6e6563742e746f636f6e76656c2e6469676974616c"
   },
   {
+   "server": "cz.nowabst.net",
+   "port": 853,
+   "secret": "ee19f4ad26c65891fd22cf3b7a59f0d103766b2e636f6d"
+  },
+  {
    "server": "download.forzajuve.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -396,6 +396,11 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "gw.nowabst.net",
+   "port": 853,
+   "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6d"
+  },
+  {
    "server": "hadi-choopan.persian.wolf.ir.aojsnqzcdsc.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -469,6 +474,11 @@
    "server": "main.muffinnoliershatelcomingsoon.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
+  },
+  {
+   "server": "mc-ssh.t-proxyru.info.",
+   "port": 25565,
+   "secret": "7hBEYoISSb16xRkTAiDCXQljZG4ueWVrdGFuZXQuY29t"
   },
   {
    "server": "mc-ssh.t-proxyru.info.",
@@ -1051,5 +1061,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 210
+ "count": 212
 }
