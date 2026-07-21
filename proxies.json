@@ -371,6 +371,11 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "ethereal11.arixo.shop",
+   "port": 443,
+   "secret": "7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A"
+  },
+  {
    "server": "fas8t.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -469,11 +474,6 @@
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d"
-  },
-  {
-   "server": "go.pelmeshka.top",
-   "port": 443,
-   "secret": "ee238184d019311e0e9666994a44ee43ad676f2e70656c6d6573686b612e746f70"
   },
   {
    "server": "googel.alo-otp.info.",
@@ -704,11 +704,6 @@
    "server": "portal.balalaika.click",
    "port": 443,
    "secret": "eefb569f1568afd1f42683fa218e6d9ebe706f7274616c2e62616c616c61696b612e636c69636b"
-  },
-  {
-   "server": "portal.malevich7.top",
-   "port": 443,
-   "secret": "eee88d425e6bb7750fa9ef99a37432ad16706f7274616c2e6d616c6576696368372e746f70"
   },
   {
    "server": "proxy.fluxvpnguard.ru",
@@ -1121,5 +1116,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 224
+ "count": 223
 }
