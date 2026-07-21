@@ -56,11 +56,6 @@
    "secret": "eedae109a913467127a2779a47a04080b77275747562652e7275"
   },
   {
-   "server": "268f1163.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "34.155.80.242",
    "port": 443,
    "secret": "ddd8750a324586a595cfd52402900a5dee"
@@ -206,11 +201,6 @@
    "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
   },
   {
-   "server": "b78f2d5e.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "bale-ai.vingardium.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -341,11 +331,6 @@
    "secret": "eeba0c58ad3c74e7486821f7c0e26f9ef7656467652e6c6962726176612e636c69636b"
   },
   {
-   "server": "edge1.guardora.pro",
-   "port": 443,
-   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
-  },
-  {
    "server": "edge2.guardora.pro",
    "port": 443,
    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
@@ -384,11 +369,6 @@
    "server": "fast-proxy.ink",
    "port": 443,
    "secret": "ee185c0566a0cee9745212609f2a8d6964666173742d70726f78792e696e6b"
-  },
-  {
-   "server": "fast.garden-troll.life",
-   "port": 443,
-   "secret": "ee02242f5cfccda66733fbae55d4fe628d666173742e67617264656e2d74726f6c6c2e6c696665"
   },
   {
    "server": "fast1.mtproxygram.lol",
@@ -434,6 +414,11 @@
    "server": "fleethop.org",
    "port": 443,
    "secret": "ee77045055eeb817263b9ee5a84a68a50c666c656574686f702e6f7267"
+  },
+  {
+   "server": "free.tg-proxy.fun",
+   "port": 7443,
+   "secret": "a545c35eb2bdfa1a93df5ebe69957120"
   },
   {
    "server": "fresh.t-proxy.info.",
@@ -671,6 +656,11 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "ops2ops.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
    "server": "option.simbol.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -849,11 +839,6 @@
    "server": "secure.gorbushkin.click",
    "port": 443,
    "secret": "ee22b3219d7bbdddf343ff3ad8c491d5127365637572652e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "secure.medhata.org",
-   "port": 443,
-   "secret": "ee97c440b6fc10d01379a0ca5e7075a9297365637572652e6d6564686174612e6f7267"
   },
   {
    "server": "Sejil.ir.pqrtgdscin.info.",
@@ -1116,5 +1101,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 223
+ "count": 220
 }
