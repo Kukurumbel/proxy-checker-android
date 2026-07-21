@@ -161,11 +161,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "bayad-barkhast.ir.hasjkhdkjs.info.",
-   "port": 543,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "beer.crona-extra.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -391,6 +386,11 @@
    "secret": "eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d"
   },
   {
+   "server": "go.pelmeshka.top",
+   "port": 443,
+   "secret": "eed62d0ddaa394f160c6110be34e8e7fee676f2e70656c6d6573686b612e746f70"
+  },
+  {
    "server": "googel.alo-otp.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -579,6 +579,11 @@
    "server": "net.freetg.pw",
    "port": 443,
    "secret": "eefb41e71c9c52d0c2214fd3d3545fdaf76e65742e6672656574672e7077"
+  },
+  {
+   "server": "net.pelmeshka.top",
+   "port": 443,
+   "secret": "ee2c2bb36f545cc672afc5b80918bc08516e65742e70656c6d6573686b612e746f70"
   },
   {
    "server": "new7.mizanmizanesgh.co.uk",
@@ -776,11 +781,6 @@
    "secret": "ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70"
   },
   {
-   "server": "salaaam.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "salahodine.ir.",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -936,11 +936,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "tgde594f14.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "tge0a4dd98.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -1056,5 +1051,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 211
+ "count": 210
 }
