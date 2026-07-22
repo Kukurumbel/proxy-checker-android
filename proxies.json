@@ -631,6 +631,11 @@
    "secret": "dd4302c78da9a1807cbff7abc876959702"
   },
   {
+   "server": "one.one.one.one.ir.hasjkhdkjs.info.",
+   "port": 1080,
+   "secret": "dd79e344818749bd7ac519130220c25d09"
+  },
+  {
    "server": "one1.mtproxygram.lol",
    "port": 443,
    "secret": "dd563dc88ae5d1c70b18d01472f77a9699"
@@ -1061,5 +1066,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 212
+ "count": 213
 }
