@@ -16,11 +16,6 @@
    "secret": "eeb9f19ee9d43af6a5578b04852aa154fc6f7a6f6e2e7275"
   },
   {
-   "server": "212.8.229.241",
-   "port": 443,
-   "secret": "eedae109a913467127a2779a47a04080b77275747562652e7275"
-  },
-  {
    "server": "34.163.233.50",
    "port": 443,
    "secret": "dd3df684c8e73e0a0a9c658aabeb89f250"
@@ -516,11 +511,6 @@
    "secret": "ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d"
   },
   {
-   "server": "mt1.ddproxy.xyz",
-   "port": 443,
-   "secret": "ee7af7516b15e94579eee7ba8aac58d3aa706574726f766963682e7275"
-  },
-  {
    "server": "mtp.nowabst.net",
    "port": 853,
    "secret": "eeceaec97c86b6332adc48b3c081954e60766b2e636f6d"
@@ -1006,11 +996,6 @@
    "secret": "ee7a437a509561eb5e63b1caa44dad10a5706574726f766963682e7275"
   },
   {
-   "server": "yrf2.data-edge.fyi",
-   "port": 443,
-   "secret": "ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275"
-  },
-  {
    "server": "zilch.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1021,5 +1006,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 204
+ "count": 201
 }
