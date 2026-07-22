@@ -26,11 +26,6 @@
    "secret": "dd3df684c8e73e0a0a9c658aabeb89f250"
   },
   {
-   "server": "34.178.220.38",
-   "port": 443,
-   "secret": "dd706dfa5dc42ec06475bee1b28952ecc1"
-  },
-  {
    "server": "34.7.50.106",
    "port": 443,
    "secret": "dd39a22112c392f0cbfb056066b429addd"
@@ -421,6 +416,11 @@
    "secret": "ee2040ed540bf501ff7924847a265ac05762726f777365722e79616e6465782e7275"
   },
   {
+   "server": "jounob-iran-dar-ghalb-mast.simbol.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -511,6 +511,11 @@
    "secret": "ee36df03ad6ff4b87c535d309f466cefce6d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
+   "server": "mirror.balalaika.click",
+   "port": 443,
+   "secret": "ee82514fa3e992fa79f3fd3bff4db750116d6972726f722e62616c616c61696b612e636c69636b"
+  },
+  {
    "server": "mirror.malevich7.top",
    "port": 443,
    "secret": "ee291d58b9456c5824c8675ad904b2386e6d6972726f722e6d616c6576696368372e746f70"
@@ -566,6 +571,11 @@
    "secret": "ee941827d00b169bd4df5fc7d8dc06d0ad6e656f2d76706e2e696e6b"
   },
   {
+   "server": "neshane-rah.simbol.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "net.antitspu.com",
    "port": 443,
    "secret": "ee6a993b83cd2e872361ed136b4e7b28146e65742e616e7469747370752e636f6d"
@@ -604,6 +614,11 @@
    "server": "no-problem.ir.aojsnqzcdsc.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "node.mishkalapy.life",
+   "port": 443,
+   "secret": "ee05b1fa1cf5ade2ed4052b16971b33ca46e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
    "server": "node.mishkalapy.life",
@@ -1046,5 +1061,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 209
+ "count": 212
 }
