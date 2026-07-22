@@ -81,11 +81,6 @@
    "secret": "ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70"
   },
   {
-   "server": "ads.canvas-proxy.com",
-   "port": 443,
-   "secret": "eeb7f10957fcefd87d5e8c336fc9851d8d6c6f6e672e7476"
-  },
-  {
    "server": "aerie.sosun4ik.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -203,7 +198,7 @@
   {
    "server": "cdn.savelyev.click",
    "port": 443,
-   "secret": "eefcacf4447d2bd244c9c0a8c8b0f4f1a563646e2e736176656c7965762e636c69636b"
+   "secret": "eec7a0d41c67c2a5d6adf926c20d369ad363646e2e736176656c7965762e636c69636b"
   },
   {
    "server": "cdn.toconvel.digital",
@@ -246,11 +241,6 @@
    "secret": "ee66c21a2a4223d77565363a7c85007211636f6e6e6563742e736176656c7965762e636c69636b"
   },
   {
-   "server": "connect.savelyev.click",
-   "port": 443,
-   "secret": "ee963bdbd49ba8d5207caa95a6cafe3a00636f6e6e6563742e736176656c7965762e636c69636b"
-  },
-  {
    "server": "connect.toconvel.digital",
    "port": 443,
    "secret": "ee3e3662218d47ced15c561da06c12bb5a636f6e6e6563742e746f636f6e76656c2e6469676974616c"
@@ -269,6 +259,11 @@
    "server": "downlod.forzajuve.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "edge.librava.click",
+   "port": 443,
+   "secret": "ee04c7943583df74e825282c435f0e04e4656467652e6c6962726176612e636c69636b"
   },
   {
    "server": "edge.librava.click",
@@ -444,6 +439,11 @@
    "server": "login.veltura.digital",
    "port": 443,
    "secret": "ee381874396c547235c4be1e40cb6132976c6f67696e2e76656c747572612e6469676974616c"
+  },
+  {
+   "server": "login.veltura.digital",
+   "port": 443,
+   "secret": "ee4d94e300e81887ff06746b069e359bb16c6f67696e2e76656c747572612e6469676974616c"
   },
   {
    "server": "logs.jinxandjack.co.uk.",
@@ -643,11 +643,6 @@
   {
    "server": "portal.balalaika.click",
    "port": 443,
-   "secret": "ee26af9299b78ab104b500cc4360d93a91706f7274616c2e62616c616c61696b612e636c69636b"
-  },
-  {
-   "server": "portal.balalaika.click",
-   "port": 443,
    "secret": "eefb569f1568afd1f42683fa218e6d9ebe706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
@@ -796,6 +791,11 @@
    "secret": "ee22b3219d7bbdddf343ff3ad8c491d5127365637572652e676f72627573686b696e2e636c69636b"
   },
   {
+   "server": "secure.gorbushkin.click",
+   "port": 443,
+   "secret": "eed670b22b89d073390327d03894d223fa7365637572652e676f72627573686b696e2e636c69636b"
+  },
+  {
    "server": "Sejil.ir.pqrtgdscin.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -844,6 +844,11 @@
    "server": "super.sub-ploter.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "swag.caxero.ru",
+   "port": 443,
+   "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
   {
    "server": "syzygy.sosun4ik.top",
@@ -984,11 +989,6 @@
    "server": "webhook.what-ever.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "whale.babysharkollah.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "www.google.gq.aojsnqzcdsc.info.",
