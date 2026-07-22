@@ -36,12 +36,7 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.21.83.228",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.83.248",
+   "server": "92.246.87.242",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -419,6 +414,11 @@
    "server": "lazeyka-1.getvelora.space",
    "port": 443,
    "secret": "ee3f558f47bfd43aafffc4c8bb4ffc0130706574726f766963682e7275"
+  },
+  {
+   "server": "lazeyka-2-2.getvelora.space",
+   "port": 443,
+   "secret": "eeb881608291eb0eb81c62918d61d5b4166f7a6f6e2e7275"
   },
   {
    "server": "lazeyka-2.getvelora.space",
