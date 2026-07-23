@@ -373,11 +373,6 @@
   {
    "server": "fleethop.org",
    "port": 443,
-   "secret": "ee4cb7d7e79e33be42f0c3ae8bfbc994c4666c656574686f702e6f7267"
-  },
-  {
-   "server": "fleethop.org",
-   "port": 443,
    "secret": "ee77045055eeb817263b9ee5a84a68a50c666c656574686f702e6f7267"
   },
   {
@@ -538,11 +533,6 @@
   {
    "server": "medblock.ink",
    "port": 443,
-   "secret": "ee1d4c807dc5afc0d8481cc6f3e4f175386d6564626c6f636b2e696e6b"
-  },
-  {
-   "server": "medblock.ink",
-   "port": 443,
    "secret": "ee48995b34487bfb1cb562552a585da0ea6d6564626c6f636b2e696e6b"
   },
   {
@@ -624,6 +614,11 @@
    "server": "mtp3.hlebushek.com",
    "port": 443,
    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
+  },
+  {
+   "server": "mtproxy.nolags.pw",
+   "port": 443,
+   "secret": "dd8b89db666c463cce92d4aa6ace95f840"
   },
   {
    "server": "nasaji.estakhr.info",
@@ -996,22 +991,12 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "tg62940547.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "tg98d29b25.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
    "server": "tg9f28144b.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
-   "server": "tgad2d9795.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
@@ -1111,5 +1096,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 222
+ "count": 219
 }
