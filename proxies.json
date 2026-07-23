@@ -11,6 +11,21 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "185.16.38.157",
+   "port": 443,
+   "secret": "084d8568c20eedf3e551af888a91972e"
+  },
+  {
+   "server": "185.16.38.157",
+   "port": 443,
+   "secret": "136d233c4b3c2d9784ab00e5c3dedc7a"
+  },
+  {
+   "server": "185.16.38.157",
+   "port": 443,
+   "secret": "2d4df2434a8d6450d65141fbb73799d5"
+  },
+  {
    "server": "194.113.209.129",
    "port": 443,
    "secret": "eeb9f19ee9d43af6a5578b04852aa154fc6f7a6f6e2e7275"
@@ -203,6 +218,11 @@
   {
    "server": "cdn.savelyev.click",
    "port": 443,
+   "secret": "ee47db8cfb73a38af6c54d8976432e265863646e2e736176656c7965762e636c69636b"
+  },
+  {
+   "server": "cdn.savelyev.click",
+   "port": 443,
    "secret": "eec7a0d41c67c2a5d6adf926c20d369ad363646e2e736176656c7965762e636c69636b"
   },
   {
@@ -222,6 +242,11 @@
   },
   {
    "server": "choice.simbol.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "cinema-hulk.avangement.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
@@ -274,6 +299,11 @@
    "server": "edge.librava.click",
    "port": 443,
    "secret": "ee1fe214e57ff652407a36f838d7312aba656467652e6c6962726176612e636c69636b"
+  },
+  {
+   "server": "edge.librava.click",
+   "port": 443,
+   "secret": "eea12fcf17bd87579f5063dfb4c28e4761656467652e6c6962726176612e636c69636b"
   },
   {
    "server": "edge.librava.click",
@@ -359,11 +389,6 @@
    "server": "ftp.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "gate.klyuch1k.org",
-   "port": 443,
-   "secret": "eeae941a76ec4acf04faabaf8a24571080676174652e6b6c79756368316b2e6f7267"
   },
   {
    "server": "gate.soluqent.pro",
@@ -551,6 +576,21 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "more1.gram.blog",
+   "port": 443,
+   "secret": "dd19407ecec18eebf09a96119ccbe703c4"
+  },
+  {
+   "server": "more1.gram.blog",
+   "port": 443,
+   "secret": "ee19407ecec18eebf09a96119ccbe703c462726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "more2.gram.blog",
+   "port": 443,
+   "secret": "ee19407ecec18eebf09a96119ccbe703c462726f777365722e79616e6465782e7275"
+  },
+  {
    "server": "mt.nowabst.net",
    "port": 853,
    "secret": "ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d"
@@ -574,6 +614,11 @@
    "server": "mtp3.hlebushek.com",
    "port": 443,
    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
+  },
+  {
+   "server": "natasha-romanov.avangement.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "neo-vpn.ink",
@@ -679,11 +724,6 @@
    "server": "option.simbol.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "paired.duckdns.org",
-   "port": 443,
-   "secret": "ee7765622e796f74612e72755b744f13"
   },
   {
    "server": "pathory.co.uk.",
@@ -966,11 +1006,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "tga62e85f4.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "tgad2d9795.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -1076,5 +1111,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 215
+ "count": 222
 }
