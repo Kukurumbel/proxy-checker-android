@@ -163,6 +163,11 @@
   {
    "server": "best-proxy.ink",
    "port": 443,
+   "secret": "ee041a76d99194e7dda929e9379d686cd2626573742d70726f78792e696e6b"
+  },
+  {
+   "server": "best-proxy.ink",
+   "port": 443,
    "secret": "ee3646eba8c65e0e1d4804a7f9caa6531d626573742d70726f78792e696e6b"
   },
   {
@@ -314,6 +319,11 @@
    "server": "fleet.telehelp.top",
    "port": 443,
    "secret": "ee77bbf78a169e505b117bc2c1df39463d666c6565742e74656c6568656c702e746f70"
+  },
+  {
+   "server": "fleethop.online",
+   "port": 443,
+   "secret": "eed82e9162b09c2ddfdbe3ddfe7d28d87a666c656574686f702e6f6e6c696e65"
   },
   {
    "server": "fleethop.online",
@@ -494,6 +504,11 @@
    "server": "medblock.ink",
    "port": 443,
    "secret": "ee1d4c807dc5afc0d8481cc6f3e4f175386d6564626c6f636b2e696e6b"
+  },
+  {
+   "server": "medblock.ink",
+   "port": 443,
+   "secret": "ee48995b34487bfb1cb562552a585da0ea6d6564626c6f636b2e696e6b"
   },
   {
    "server": "medblock.ink",
@@ -1066,5 +1081,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 213
+ "count": 216
 }
