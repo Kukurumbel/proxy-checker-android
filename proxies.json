@@ -751,6 +751,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "PAyDaR.goooalir.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "petrichor.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -799,11 +804,6 @@
    "server": "r1.balebale.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "rekrak.nolags.pw",
-   "port": 443,
-   "secret": "eec2d13ebbc4ab5596c87f99b0928aa1507374726d2e79616e6465782e6e6574"
   },
   {
    "server": "relay.neoqua.pro",
@@ -944,6 +944,11 @@
    "server": "skein.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "soheil.goooalir.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "stars.tg-proxy.fun",
@@ -1096,5 +1101,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 219
+ "count": 220
 }
