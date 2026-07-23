@@ -61,6 +61,21 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.83.228",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.21.83.248",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "91.107.160.196",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "92.246.87.242",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -324,11 +339,6 @@
    "server": "eerie.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "estable.mokhtarname.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "fas8t.co.uk.",
@@ -981,11 +991,6 @@
    "secret": "ee82dd6ba1475a9793a9613364fee70e2f74672e6e667461756374696f6e74672e6f6e6c696e65"
   },
   {
-   "server": "tg4e94dd95.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "tg5dd5d6eb.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -1024,11 +1029,6 @@
    "server": "update.femboylover.org",
    "port": 443,
    "secret": "ee7f302883cf187bb6f9e1906f5fe5f3a57777772e6d6963726f736f66742e636f6d"
-  },
-  {
-   "server": "vds-virtualizer-virito-administrator.mokhtarname.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "vk.nftauctiontg.online",
