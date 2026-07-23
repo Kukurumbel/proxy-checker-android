@@ -6,6 +6,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "167.233.62.57",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "168.119.142.46",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -214,16 +219,6 @@
    "server": "br8ta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "c1.arixo.shop",
-   "port": 443,
-   "secret": "ee30f13f8bc6159688e52c809170622db76164312e617269786f2e73686f70"
-  },
-  {
-   "server": "c2.arixo.shop",
-   "port": 443,
-   "secret": "eec000ab1eff72b14605e23c0f7be9056f6164312e617269786f2e73686f70"
   },
   {
    "server": "cdn.savelyev.click",
@@ -1016,11 +1011,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "tga06b32d7.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "tgad2d9795.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -1121,5 +1111,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 224
+ "count": 222
 }
