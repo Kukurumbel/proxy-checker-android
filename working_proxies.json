@@ -1,150 +1,156 @@
 {
  "proxies": [
   {
-   "server": "ru.aiartem.pro",
-   "port": 443,
-   "secret": "dd7440f5871c1e401ad225005d15d662f5",
-   "ping": 23
-  },
-  {
    "server": "95.85.237.7",
    "port": 14305,
    "secret": "dd36d988a8d13716c2c3aa9e90b7a8b18a",
-   "ping": 155
-  },
-  {
-   "server": "chelipa.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 157
-  },
-  {
-   "server": "fas8t.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 160
-  },
-  {
-   "server": "mtproxy.nolags.pw",
-   "port": 443,
-   "secret": "dd8b89db666c463cce92d4aa6ace95f840",
-   "ping": 160
-  },
-  {
-   "server": "pathory.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 161
+   "ping": 97
   },
   {
    "server": "185.16.38.157",
    "port": 443,
    "secret": "136d233c4b3c2d9784ab00e5c3dedc7a",
-   "ping": 163
+   "ping": 102
   },
   {
-   "server": "br8ta.co.uk.",
+   "server": "185.16.38.157",
+   "port": 443,
+   "secret": "2d4df2434a8d6450d65141fbb73799d5",
+   "ping": 102
+  },
+  {
+   "server": "185.16.38.157",
+   "port": 443,
+   "secret": "084d8568c20eedf3e551af888a91972e",
+   "ping": 108
+  },
+  {
+   "server": "fas8t.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 175
+   "ping": 108
+  },
+  {
+   "server": "mtproxy.nolags.pw",
+   "port": 443,
+   "secret": "dd8b89db666c463cce92d4aa6ace95f840",
+   "ping": 108
   },
   {
    "server": "r1.balebale.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 176
+   "ping": 125
   },
   {
-   "server": "new7.mizanmizanesgh.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 183
-  },
-  {
-   "server": "PAyDaR.goooalir.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 183
-  },
-  {
-   "server": "mizaneshgh2.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 184
-  },
-  {
-   "server": "ops2ops.co.uk.",
+   "server": "ru.aiartem.pro",
    "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 184
-  },
-  {
-   "server": "soheil.goooalir.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 188
-  },
-  {
-   "server": "one1.mtproxygram.lol",
-   "port": 443,
-   "secret": "dd563dc88ae5d1c70b18d01472f77a9699",
-   "ping": 201
-  },
-  {
-   "server": "relaywise.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 298
-  },
-  {
-   "server": "bo9ss.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 300
-  },
-  {
-   "server": "Lashboy.muzanesghy.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 320
-  },
-  {
-   "server": "free.tg-proxy.fun",
-   "port": 7443,
-   "secret": "a545c35eb2bdfa1a93df5ebe69957120",
-   "ping": 335
+   "secret": "dd7440f5871c1e401ad225005d15d662f5",
+   "ping": 137
   },
   {
    "server": "stars.tg-proxy.fun",
    "port": 6443,
    "secret": "a545c35eb2bdfa1a93df5ebe69957120",
-   "ping": 335
+   "ping": 216
   },
   {
-   "server": "turbo.tg-proxy.fun",
-   "port": 9443,
+   "server": "free.tg-proxy.fun",
+   "port": 7443,
    "secret": "a545c35eb2bdfa1a93df5ebe69957120",
-   "ping": 341
-  },
-  {
-   "server": "vpn2.primeperformance.space",
-   "port": 443,
-   "secret": "dd1aa19d393262ffc3b5cfc8f096a920d4",
-   "ping": 346
+   "ping": 262
   },
   {
    "server": "proxy.primeperformance.space",
    "port": 443,
    "secret": "dd2f51e880209c05c5e8b223ada0bbc91a",
-   "ping": 351
+   "ping": 275
   },
   {
-   "server": "proxy.node-access.ru",
+   "server": "vpn2.primeperformance.space",
    "port": 443,
-   "secret": "ddbc6d7a7855c52183d8bc7e826bb82081",
-   "ping": 528
+   "secret": "dd1aa19d393262ffc3b5cfc8f096a920d4",
+   "ping": 304
+  },
+  {
+   "server": "pathory.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 308
+  },
+  {
+   "server": "chelipa.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 310
+  },
+  {
+   "server": "relaywise.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 312
+  },
+  {
+   "server": "br8ta.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 313
+  },
+  {
+   "server": "Lashboy.muzanesghy.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 314
+  },
+  {
+   "server": "ops2ops.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 315
+  },
+  {
+   "server": "one1.mtproxygram.lol",
+   "port": 443,
+   "secret": "dd563dc88ae5d1c70b18d01472f77a9699",
+   "ping": 318
+  },
+  {
+   "server": "new7.mizanmizanesgh.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 319
+  },
+  {
+   "server": "bo9ss.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 321
+  },
+  {
+   "server": "PAyDaR.goooalir.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 322
+  },
+  {
+   "server": "soheil.goooalir.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 326
+  },
+  {
+   "server": "mizaneshgh2.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 328
+  },
+  {
+   "server": "turbo.tg-proxy.fun",
+   "port": 9443,
+   "secret": "a545c35eb2bdfa1a93df5ebe69957120",
+   "ping": 447
   }
  ],
- "count": 24,
+ "count": 25,
  "checked": 225
 }
