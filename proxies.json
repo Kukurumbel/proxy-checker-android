@@ -41,6 +41,11 @@
    "secret": "eeb9f19ee9d43af6a5578b04852aa154fc6f7a6f6e2e7275"
   },
   {
+   "server": "2.28.3.60",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "34.12.229.246",
    "port": 443,
    "secret": "dd2bc98ec562627d4d23f303a558febf39"
@@ -304,6 +309,11 @@
    "server": "cz.nowabst.net",
    "port": 853,
    "secret": "ee19f4ad26c65891fd22cf3b7a59f0d103766b2e636f6d"
+  },
+  {
+   "server": "download.forzajuve.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "download.forzajuve.co.uk.",
@@ -706,6 +716,11 @@
    "secret": "eeb272afc9c23af66a9234c8aa7ed209ba6e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
+   "server": "node.nowabst.net",
+   "port": 853,
+   "secret": "ee1bbdcdcfd200974bb999813180a12738766b2e636f6d"
+  },
+  {
    "server": "office.nolags.pw",
    "port": 443,
    "secret": "dd4302c78da9a1807cbff7abc876959702"
@@ -809,6 +824,11 @@
    "server": "relay.neoqua.pro",
    "port": 443,
    "secret": "ee368216360fa09c0c83149537f4ff23b972656c61792e6e656f7175612e70726f"
+  },
+  {
+   "server": "relay.nowabst.net",
+   "port": 853,
+   "secret": "ee56b3978999960e7b1612c25557e1b9c1766b2e636f6d"
   },
   {
    "server": "relaywise.co.uk.",
@@ -1056,6 +1076,11 @@
    "secret": "ddbddd5ce2fa540b8a3966a3f6b2fef2eb"
   },
   {
+   "server": "vpn4.primeperformance.space",
+   "port": 8443,
+   "secret": "ee4331ae1586ba488e489e092e1783969e76706e342e7072696d65706572666f726d616e63652e7370616365"
+  },
+  {
    "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
@@ -1101,5 +1126,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 220
+ "count": 225
 }
