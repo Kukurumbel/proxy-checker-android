@@ -1,6 +1,11 @@
 {
  "proxies": [
   {
+   "server": "167.233.209.232",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "168.119.142.46",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -191,6 +196,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "biaberim.estakhr.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "blond.basicscotch.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -209,6 +219,11 @@
    "server": "c1.arixo.shop",
    "port": 443,
    "secret": "ee30f13f8bc6159688e52c809170622db76164312e617269786f2e73686f70"
+  },
+  {
+   "server": "c2.arixo.shop",
+   "port": 443,
+   "secret": "eec000ab1eff72b14605e23c0f7be9056f6164312e617269786f2e73686f70"
   },
   {
    "server": "cdn.savelyev.click",
@@ -616,6 +631,11 @@
    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
   },
   {
+   "server": "nasaji.estakhr.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "natasha-romanov.avangement.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -931,11 +951,6 @@
    "secret": "a545c35eb2bdfa1a93df5ebe69957120"
   },
   {
-   "server": "Strait-of-Hormuz.ir.jursdheks.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "street.nolags.pw",
    "port": 443,
    "secret": "dd891dc4d14eef66149fe3e4af1ff6471a"
@@ -1036,11 +1051,6 @@
    "secret": "ee7f302883cf187bb6f9e1906f5fe5f3a57777772e6d6963726f736f66742e636f6d"
   },
   {
-   "server": "vagon.belotfelipo.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "vds-virtualizer-virito-administrator.mokhtarname.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -1111,5 +1121,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 222
+ "count": 224
 }
