@@ -1,6 +1,11 @@
 {
  "proxies": [
   {
+   "server": "135.181.129.178",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "167.233.209.232",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -406,6 +411,11 @@
    "secret": "eec3855cf95ebf1d434cf9b1b6a3ed0d36676174652e736f6c7571656e742e70726f"
   },
   {
+   "server": "gate.veltura.digital",
+   "port": 443,
+   "secret": "eea60d6715700287c45df5e5a97a0d6013676174652e76656c747572612e6469676974616c"
+  },
+  {
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "ee1dfbb22d866e42b61944a398868ca57d676f2e616e7469747370752e636f6d"
@@ -646,9 +656,24 @@
    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
   },
   {
+   "server": "mtproxy.gram.blog",
+   "port": 443,
+   "secret": "dd24c276cf9ec40fce26f9911666d6ad57"
+  },
+  {
+   "server": "mtproxy.gram.blog",
+   "port": 443,
+   "secret": "ee24c276cf9ec40fce26f9911666d6ad5762726f777365722e79616e6465782e7275"
+  },
+  {
    "server": "mtproxy.nolags.pw",
    "port": 443,
    "secret": "dd8b89db666c463cce92d4aa6ace95f840"
+  },
+  {
+   "server": "mtproxy2.gram.blog",
+   "port": 443,
+   "secret": "ee24c276cf9ec40fce26f9911666d6ad5762726f777365722e79616e6465782e7275"
   },
   {
    "server": "nasaji.estakhr.info",
@@ -1121,5 +1146,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 224
+ "count": 229
 }
