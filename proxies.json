@@ -241,6 +241,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "c4.arixo.shop",
+   "port": 443,
+   "secret": "ee00ea878219a4ddb72acfcc02bc046cd66164312e617269786f2e73686f70"
+  },
+  {
    "server": "cdn.savelyev.click",
    "port": 443,
    "secret": "ee289573f97532f1d66fe239efbf0585ad63646e2e736176656c7965762e636c69636b"
@@ -309,11 +314,6 @@
    "server": "cz.nowabst.net",
    "port": 853,
    "secret": "ee19f4ad26c65891fd22cf3b7a59f0d103766b2e636f6d"
-  },
-  {
-   "server": "download.forzajuve.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "download.forzajuve.co.uk.",
@@ -644,11 +644,6 @@
    "server": "mtproxy.nolags.pw",
    "port": 443,
    "secret": "dd8b89db666c463cce92d4aa6ace95f840"
-  },
-  {
-   "server": "my.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "nasaji.estakhr.info",
@@ -1136,5 +1131,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 227
+ "count": 226
 }
