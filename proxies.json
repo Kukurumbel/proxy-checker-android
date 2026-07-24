@@ -51,11 +51,6 @@
    "secret": "dd2bc98ec562627d4d23f303a558febf39"
   },
   {
-   "server": "34.163.233.50",
-   "port": 443,
-   "secret": "dd3df684c8e73e0a0a9c658aabeb89f250"
-  },
-  {
    "server": "34.7.50.106",
    "port": 443,
    "secret": "dd39a22112c392f0cbfb056066b429addd"
@@ -153,6 +148,11 @@
   {
    "server": "app.librava.click",
    "port": 443,
+   "secret": "ee24fadbac9190b1a14de671584ec04b2b6170702e6c6962726176612e636c69636b"
+  },
+  {
+   "server": "app.librava.click",
+   "port": 443,
    "secret": "ee2dc3787049f48776ee28090e513c22526170702e6c6962726176612e636c69636b"
   },
   {
@@ -204,6 +204,11 @@
    "server": "biaberim.estakhr.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "billing.mizbanonline.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "blond.basicscotch.co.uk",
@@ -459,6 +464,11 @@
    "server": "helk2.mtproxygram.lol",
    "port": 443,
    "secret": "ee2040ed540bf501ff7924847a265ac05762726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "host.mizbanonline.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "in-khube.ir.hfkjsdhfksj.info.",
@@ -756,11 +766,6 @@
    "secret": "ee1bbdcdcfd200974bb999813180a12738766b2e636f6d"
   },
   {
-   "server": "office.nolags.pw",
-   "port": 443,
-   "secret": "dd4302c78da9a1807cbff7abc876959702"
-  },
-  {
    "server": "one1.mtproxygram.lol",
    "port": 443,
    "secret": "dd563dc88ae5d1c70b18d01472f77a9699"
@@ -1021,6 +1026,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "tcpdash-local.technom.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "tea.hotstbvs.ru",
    "port": 8443,
    "secret": "eeee1c94f70f49e6a7a2a892f59c8bd9947465612e686f7473746276732e7275"
@@ -1146,5 +1156,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 229
+ "count": 231
 }
