@@ -431,11 +431,6 @@
    "secret": "ee1dfbb22d866e42b61944a398868ca57d676f2e616e7469747370752e636f6d"
   },
   {
-   "server": "go.antitspu.com",
-   "port": 443,
-   "secret": "eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d"
-  },
-  {
    "server": "go.pelmeshka.top",
    "port": 443,
    "secret": "eed62d0ddaa394f160c6110be34e8e7fee676f2e70656c6d6573686b612e746f70"
@@ -504,6 +499,21 @@
    "server": "lazeyka-2-3.getvelora.space",
    "port": 443,
    "secret": "ee47e7ab60d6acf9288e822ca746fd703a6f7a6f6e2e7275"
+  },
+  {
+   "server": "lazeyka-2-4-cor.getvelora.space",
+   "port": 443,
+   "secret": "ee9ba9032466643b3c917f00a8a41033c76f7a6f6e2e7275"
+  },
+  {
+   "server": "lazeyka-2-4-hi.getvelora.space",
+   "port": 443,
+   "secret": "ee697e723e8ba1ff23642036fbf9e84a926f7a6f6e2e7275"
+  },
+  {
+   "server": "lazeyka-2-4.getvelora.space",
+   "port": 443,
+   "secret": "ee4df4e953f31605fe2397dc326cfd8e7f6f7a6f6e2e7275"
   },
   {
    "server": "lazeyka-2.getvelora.space",
@@ -609,11 +619,6 @@
    "server": "media3.happtg.org",
    "port": 443,
    "secret": "ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275"
-  },
-  {
-   "server": "mirror.balalaika.click",
-   "port": 443,
-   "secret": "ee204fd0f2f4584c289c6aa284e46ed6406d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
    "server": "mirror.balalaika.click",
@@ -1176,5 +1181,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 235
+ "count": 236
 }
