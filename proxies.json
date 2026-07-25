@@ -91,6 +91,11 @@
    "secret": "dd36d988a8d13716c2c3aa9e90b7a8b18a"
   },
   {
+   "server": "ad.workingproxy.xyz",
+   "port": 443,
+   "secret": "dd286c761f9f4aada689aaf8ac12acf63e"
+  },
+  {
    "server": "ad1.arixo.shop",
    "port": 443,
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
@@ -1166,5 +1171,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 233
+ "count": 234
 }
