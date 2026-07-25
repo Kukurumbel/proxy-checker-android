@@ -181,11 +181,6 @@
    "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
   },
   {
-   "server": "bale-ai.vingardium.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "beest-sellerst.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -351,6 +346,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "f1.car-race.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "fas8t.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -496,11 +496,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "lazeyka-1.getvelora.space",
-   "port": 443,
-   "secret": "ee3f558f47bfd43aafffc4c8bb4ffc0130706574726f766963682e7275"
-  },
-  {
    "server": "lazeyka-2-2.getvelora.space",
    "port": 443,
    "secret": "eeb881608291eb0eb81c62918d61d5b4166f7a6f6e2e7275"
@@ -554,6 +549,11 @@
    "server": "logs.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "ma.hastim.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "mahanmizban.genuismind.info",
