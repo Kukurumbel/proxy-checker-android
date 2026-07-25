@@ -931,11 +931,6 @@
    "secret": "ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70"
   },
   {
-   "server": "s3.postpulse.space",
-   "port": 443,
-   "secret": "eede09f27f5ed0877907c31d53a7aca5526164332e617269786f2e73686f70"
-  },
-  {
    "server": "s4.postpulse.space",
    "port": 443,
    "secret": "ee4ed06711abba996600b11cd356a7674c6164312e617269786f2e73686f70"
@@ -1161,5 +1156,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 232
+ "count": 231
 }
