@@ -296,6 +296,11 @@
    "secret": "ee19f4ad26c65891fd22cf3b7a59f0d103766b2e636f6d"
   },
   {
+   "server": "deley-del.ir.hfkjsdhfksj.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "download.forzajuve.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -1156,5 +1161,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 231
+ "count": 232
 }
