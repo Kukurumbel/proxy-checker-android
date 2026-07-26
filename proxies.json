@@ -146,11 +146,6 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "api.medhata.org",
-   "port": 443,
-   "secret": "ee32bc9ea34e230a726f9364c05e4ea2086170692e6d6564686174612e6f7267"
-  },
-  {
    "server": "app.librava.click",
    "port": 443,
    "secret": "ee24fadbac9190b1a14de671584ec04b2b6170702e6c6962726176612e636c69636b"
@@ -349,11 +344,6 @@
    "server": "fleethop.online",
    "port": 443,
    "secret": "eed82e9162b09c2ddfdbe3ddfe7d28d87a666c656574686f702e6f6e6c696e65"
-  },
-  {
-   "server": "fleethop.online",
-   "port": 443,
-   "secret": "eee5cdbc9072c35bb42691c201135f0fdd666c656574686f702e6f6e6c696e65"
   },
   {
    "server": "fleethop.org",
@@ -1121,5 +1111,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 224
+ "count": 222
 }
