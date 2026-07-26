@@ -143,11 +143,6 @@
   {
    "server": "api.gorbushkin.click",
    "port": 443,
-   "secret": "ee9d937ced376c91a1df79a5e5de33805a6170692e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "api.gorbushkin.click",
-   "port": 443,
    "secret": "eeefb2b30f5db9fcb750264e9c7beea99f6170692e676f72627573686b696e2e636c69636b"
   },
   {
@@ -491,9 +486,9 @@
    "secret": "ee4df4e953f31605fe2397dc326cfd8e7f6f7a6f6e2e7275"
   },
   {
-   "server": "lazeyka-2.getvelora.space",
+   "server": "lazeyka-2-5.getvelora.space",
    "port": 443,
-   "secret": "ee8f80f0ff5e181820e55c503b6b1b7e046f7a6f6e2e7275"
+   "secret": "ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275"
   },
   {
    "server": "link.freetg.pw",
@@ -938,11 +933,6 @@
   {
    "server": "secure.gorbushkin.click",
    "port": 443,
-   "secret": "ee22b3219d7bbdddf343ff3ad8c491d5127365637572652e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "secure.gorbushkin.click",
-   "port": 443,
    "secret": "ee2566052eb7f98d9601ca0b656f9032177365637572652e676f72627573686b696e2e636c69636b"
   },
   {
@@ -1151,5 +1141,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 230
+ "count": 228
 }
