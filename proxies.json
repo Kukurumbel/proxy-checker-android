@@ -51,11 +51,6 @@
    "secret": "dd2bc98ec562627d4d23f303a558febf39"
   },
   {
-   "server": "34.7.50.106",
-   "port": 443,
-   "secret": "dd39a22112c392f0cbfb056066b429addd"
-  },
-  {
    "server": "65.109.106.132",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -891,11 +886,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "ru.aiartem.pro",
-   "port": 443,
-   "secret": "dd7440f5871c1e401ad225005d15d662f5"
-  },
-  {
    "server": "rudomain.info.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -1131,5 +1121,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 226
+ "count": 224
 }
