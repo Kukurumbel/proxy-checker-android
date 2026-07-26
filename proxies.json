@@ -1,11 +1,6 @@
 {
  "proxies": [
   {
-   "server": "135.181.129.178",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "135.181.74.178",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -62,6 +57,16 @@
   },
   {
    "server": "65.109.106.132",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.109.147.34",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "91.107.160.196",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -129,11 +134,6 @@
    "server": "aerie.sosun4ik.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "always.for.you.ir.mausjakaqd.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "api-web.asiaadomainsshatelhamrahaval.co.uk.",
@@ -251,11 +251,6 @@
    "secret": "eec7a0d41c67c2a5d6adf926c20d369ad363646e2e736176656c7965762e636c69636b"
   },
   {
-   "server": "cdn.toconvel.digital",
-   "port": 443,
-   "secret": "ee663b5fc7e34e5b0ce56906c27ea0bc3063646e2e746f636f6e76656c2e6469676974616c"
-  },
-  {
    "server": "cdn1.bopen.bond",
    "port": 443,
    "secret": "eeb4b54ddf0b9f3b82dd7b4a5a888ea82d77622e7275"
@@ -294,11 +289,6 @@
    "server": "connect.savelyev.click",
    "port": 443,
    "secret": "ee9f2e42d8634c83c9b14511b0d28ed1d1636f6e6e6563742e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "connect.toconvel.digital",
-   "port": 443,
-   "secret": "ee3e3662218d47ced15c561da06c12bb5a636f6e6e6563742e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "cz.nowabst.net",
@@ -444,11 +434,6 @@
    "server": "gw.nowabst.net",
    "port": 853,
    "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6d"
-  },
-  {
-   "server": "hadi-choopan.persian.wolf.ir.aojsnqzcdsc.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "host.mizbanonline.info",
@@ -866,11 +851,6 @@
    "secret": "ddc986c839977fd65cfbc10a931129e311"
   },
   {
-   "server": "proxy.fluxvpnguard.ru",
-   "port": 443,
-   "secret": "ee0a9b43ea17eff45e518fa360979998e770726f78792e666c757876706e67756172642e7275"
-  },
-  {
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
@@ -954,11 +934,6 @@
    "server": "secure.gorbushkin.click",
    "port": 443,
    "secret": "eed670b22b89d073390327d03894d223fa7365637572652e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "Sejil.ir.pqrtgdscin.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "shaaer.masnavi.info",
@@ -1161,5 +1136,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 232
+ "count": 227
 }
