@@ -1,6 +1,11 @@
 {
  "proxies": [
   {
+   "server": "135.181.129.178",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "135.181.74.178",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -74,6 +79,11 @@
    "server": "91.107.190.20",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "92.246.87.243",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "95.217.193.223",
@@ -441,21 +451,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "helk.mtproxygram.lol",
-   "port": 443,
-   "secret": "ee2040ed540bf501ff7924847a265ac05762726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "helk2.mtproxygram.lol",
-   "port": 443,
-   "secret": "dd2040ed540bf501ff7924847a265ac057"
-  },
-  {
-   "server": "helk2.mtproxygram.lol",
-   "port": 443,
-   "secret": "ee2040ed540bf501ff7924847a265ac05762726f777365722e79616e6465782e7275"
-  },
-  {
    "server": "host.mizbanonline.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -634,6 +629,11 @@
    "server": "mizaneshgh2.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "mizban-dade-online.genuismind.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "more1.gram.blog",
@@ -821,6 +821,11 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "panel-portal.managep.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "pathory.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -924,11 +929,6 @@
    "server": "s2.postpulse.space",
    "port": 443,
    "secret": "ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70"
-  },
-  {
-   "server": "s4.postpulse.space",
-   "port": 443,
-   "secret": "ee4ed06711abba996600b11cd356a7674c6164312e617269786f2e73686f70"
   },
   {
    "server": "s5.postpulse.space",
