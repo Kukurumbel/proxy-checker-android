@@ -451,6 +451,11 @@
    "secret": "ddbdf90f2bc94957916e518c887cb95489"
   },
   {
+   "server": "jingil-alisa-hey.ir.ewoiiats.info.",
+   "port": 443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "jounob-iran-dar-ghalb-mast.simbol.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -691,6 +696,11 @@
    "secret": "ee24c276cf9ec40fce26f9911666d6ad5762726f777365722e79616e6465782e7275"
   },
   {
+   "server": "my.jinxandjack.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "nasaji.estakhr.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -921,6 +931,11 @@
    "secret": "ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70"
   },
   {
+   "server": "salamkhodafix.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "secure.gorbushkin.click",
    "port": 443,
    "secret": "ee22b3219d7bbdddf343ff3ad8c491d5127365637572652e676f72627573686b696e2e636c69636b"
@@ -1136,5 +1151,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 227
+ "count": 230
 }
