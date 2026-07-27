@@ -91,11 +91,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "95.85.237.7",
-   "port": 14305,
-   "secret": "dd36d988a8d13716c2c3aa9e90b7a8b18a"
-  },
-  {
    "server": "ad.workingproxy.xyz",
    "port": 443,
    "secret": "dd286c761f9f4aada689aaf8ac12acf63e"
@@ -316,9 +311,19 @@
    "secret": "eea12fcf17bd87579f5063dfb4c28e4761656467652e6c6962726176612e636c69636b"
   },
   {
+   "server": "edge.rknwatch.digital",
+   "port": 443,
+   "secret": "eef9e42a123ee5e91b7132979afc212446656467652e726b6e77617463682e6469676974616c"
+  },
+  {
    "server": "eerie.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "esmchiy.ir",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "f1.car-race.co.uk",
@@ -376,6 +381,11 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
+   "server": "gate.klyuch1k.org",
+   "port": 443,
+   "secret": "ee73b252ed3e663fb93c4a3f6033d13dcb676174652e6b6c79756368316b2e6f7267"
+  },
+  {
    "server": "gate.soluqent.pro",
    "port": 443,
    "secret": "ee96a8aa8b9bb29061b2edc1b0821fd5d5676174652e736f6c7571656e742e70726f"
@@ -409,11 +419,6 @@
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "ee1dfbb22d866e42b61944a398868ca57d676f2e616e7469747370752e636f6d"
-  },
-  {
-   "server": "go.pelmeshka.top",
-   "port": 443,
-   "secret": "eed62d0ddaa394f160c6110be34e8e7fee676f2e70656c6d6573686b612e746f70"
   },
   {
    "server": "googel.alo-otp.info.",
@@ -484,6 +489,11 @@
    "server": "lazeyka-2-5.getvelora.space",
    "port": 443,
    "secret": "ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275"
+  },
+  {
+   "server": "lazeyka-2-6.getvelora.space",
+   "port": 443,
+   "secret": "ee8a085f4b74b7698d5873d2e587c4f22d6f7a6f6e2e7275"
   },
   {
    "server": "link.freetg.pw",
@@ -768,12 +778,17 @@
   {
    "server": "net.pelmeshka.top",
    "port": 443,
-   "secret": "ee2c2bb36f545cc672afc5b80918bc08516e65742e70656c6d6573686b612e746f70"
+   "secret": "eebc8e50c82d7a9cdf66e05eb627e261156e65742e70656c6d6573686b612e746f70"
   },
   {
-   "server": "net.pelmeshka.top",
-   "port": 443,
-   "secret": "eebc8e50c82d7a9cdf66e05eb627e261156e65742e70656c6d6573686b612e746f70"
+   "server": "New.nchnch.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "New1.ugtd8sxxcyt.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "new7.mizanmizanesgh.co.uk",
@@ -981,11 +996,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "should.be.wake.up.ir.yfdhjderkig.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "sisu.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1151,5 +1161,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 230
+ "count": 232
 }
