@@ -471,6 +471,11 @@
    "secret": "ddbdf90f2bc94957916e518c887cb95489"
   },
   {
+   "server": "jadide.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "jingil-alisa-hey.ir.ewoiiats.info.",
    "port": 443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -484,11 +489,6 @@
    "server": "khodeshe.ir.abcyrajslklhga.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "Lashboy.muzanesghy.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "lazeyka-2-2.getvelora.space",
