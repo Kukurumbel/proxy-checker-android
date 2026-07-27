@@ -241,6 +241,11 @@
    "secret": "eec7a0d41c67c2a5d6adf926c20d369ad363646e2e736176656c7965762e636c69636b"
   },
   {
+   "server": "cdn.toconvel.digital",
+   "port": 443,
+   "secret": "ee66662d8b5d623ffda118af7c38d439c163646e2e746f636f6e76656c2e6469676974616c"
+  },
+  {
    "server": "cdn1.bopen.bond",
    "port": 443,
    "secret": "eeb4b54ddf0b9f3b82dd7b4a5a888ea82d77622e7275"
@@ -289,6 +294,11 @@
    "server": "cz.nowabst.net",
    "port": 853,
    "secret": "ee19f4ad26c65891fd22cf3b7a59f0d103766b2e636f6d"
+  },
+  {
+   "server": "downlload.forzajuve.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "download.forzajuve.co.uk.",
@@ -431,6 +441,11 @@
    "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6d"
   },
   {
+   "server": "heats.nolags.pw",
+   "port": 443,
+   "secret": "dd3df51afd9a851e5b9a6719fc88f93833"
+  },
+  {
    "server": "host.mizbanonline.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -454,6 +469,11 @@
    "server": "jounob-iran-dar-ghalb-mast.simbol.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "khodeshe.ir.abcyrajslklhga.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "Lashboy.muzanesghy.co.uk",
@@ -549,11 +569,6 @@
    "server": "manavi.masnavi.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "mc-ssh.t-proxyru.info.",
-   "port": 25565,
-   "secret": "7hBEYoISSb16xRkTAiDCXQljZG4ueWVrdGFuZXQuY29t"
   },
   {
    "server": "mc-ssh.t-proxyru.info.",
@@ -976,6 +991,11 @@
    "secret": "eed670b22b89d073390327d03894d223fa7365637572652e676f72627573686b696e2e636c69636b"
   },
   {
+   "server": "secure.medhata.org",
+   "port": 443,
+   "secret": "ee9631908b49893251e56a84c32b9407ca7365637572652e6d6564686174612e6f7267"
+  },
+  {
    "server": "shaaer.masnavi.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -1096,11 +1116,6 @@
    "secret": "dd1aa19d393262ffc3b5cfc8f096a920d4"
   },
   {
-   "server": "vpn3.primeperformance.space",
-   "port": 443,
-   "secret": "ddbddd5ce2fa540b8a3966a3f6b2fef2eb"
-  },
-  {
    "server": "vpn4.primeperformance.space",
    "port": 8443,
    "secret": "ee4331ae1586ba488e489e092e1783969e76706e342e7072696d65706572666f726d616e63652e7370616365"
@@ -1161,5 +1176,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 232
+ "count": 235
 }
