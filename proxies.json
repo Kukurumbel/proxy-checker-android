@@ -56,6 +56,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "84.201.161.56",
+   "port": 443,
+   "secret": "ee949b2f2741c1b1ebfa03e363547350167777772e6d6963726f736f66742e636f6d"
+  },
+  {
    "server": "91.107.160.196",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -166,6 +171,11 @@
    "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
   },
   {
+   "server": "bala.hastim.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "beest-sellerst.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -179,11 +189,6 @@
    "server": "best-proxy.ink",
    "port": 443,
    "secret": "ee3646eba8c65e0e1d4804a7f9caa6531d626573742d70726f78792e696e6b"
-  },
-  {
-   "server": "best-sellerst.co.uk.",
-   "port": 443,
-   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "Best.Ping.ir.hdhdhfdrde.info.",
@@ -376,11 +381,6 @@
    "secret": "eed82e9162b09c2ddfdbe3ddfe7d28d87a666c656574686f702e6f6e6c696e65"
   },
   {
-   "server": "fleethop.org",
-   "port": 443,
-   "secret": "ee77045055eeb817263b9ee5a84a68a50c666c656574686f702e6f7267"
-  },
-  {
    "server": "fresh.t-proxy.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -434,6 +434,11 @@
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "ee1dfbb22d866e42b61944a398868ca57d676f2e616e7469747370752e636f6d"
+  },
+  {
+   "server": "go.pelmeshka.top",
+   "port": 443,
+   "secret": "eeaa6a6fdb00cbaf8a0c257e6736ece98f676f2e70656c6d6573686b612e746f70"
   },
   {
    "server": "googel.alo-otp.info.",
@@ -614,11 +619,6 @@
    "server": "media3.happtg.org",
    "port": 443,
    "secret": "ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275"
-  },
-  {
-   "server": "mirror.balalaika.click",
-   "port": 443,
-   "secret": "ee36df03ad6ff4b87c535d309f466cefce6d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
    "server": "mirror.balalaika.click",
@@ -896,9 +896,9 @@
    "secret": "eec5e0b6eade04d838e3af484c380745e4706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
-   "server": "portal.balalaika.click",
+   "server": "portal.malevich7.top",
    "port": 443,
-   "secret": "eefb569f1568afd1f42683fa218e6d9ebe706f7274616c2e62616c616c61696b612e636c69636b"
+   "secret": "ee8490b6674d39b57e64c61185f341b742706f7274616c2e6d616c6576696368372e746f70"
   },
   {
    "server": "probably.nolags.pw",
@@ -989,6 +989,11 @@
    "server": "secure.medhata.org",
    "port": 443,
    "secret": "ee9631908b49893251e56a84c32b9407ca7365637572652e6d6564686174612e6f7267"
+  },
+  {
+   "server": "server.nl-arvancloud.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "shaaer.masnavi.info",
@@ -1101,16 +1106,6 @@
    "secret": "ee7f302883cf187bb6f9e1906f5fe5f3a57777772e6d6963726f736f66742e636f6d"
   },
   {
-   "server": "vpn.primeperformance.space",
-   "port": 443,
-   "secret": "dd7e3e280965afa8cdaa660a13ba4590c2"
-  },
-  {
-   "server": "vpn2.primeperformance.space",
-   "port": 443,
-   "secret": "dd1aa19d393262ffc3b5cfc8f096a920d4"
-  },
-  {
    "server": "vpn4.primeperformance.space",
    "port": 8443,
    "secret": "ee4331ae1586ba488e489e092e1783969e76706e342e7072696d65706572666f726d616e63652e7370616365"
@@ -1171,5 +1166,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 234
+ "count": 233
 }
