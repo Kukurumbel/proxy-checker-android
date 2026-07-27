@@ -291,6 +291,11 @@
    "secret": "ee52fab2ac0553bbac57dd124542f285f6636f6e6e6563742e746f636f6e76656c2e6469676974616c"
   },
   {
+   "server": "connect.workingproxy.xyz",
+   "port": 443,
+   "secret": "ddcf4b420258503f6f189db7d39f597b4e"
+  },
+  {
    "server": "cz.nowabst.net",
    "port": 853,
    "secret": "ee19f4ad26c65891fd22cf3b7a59f0d103766b2e636f6d"
@@ -633,11 +638,6 @@
   {
    "server": "mirror.malevich7.top",
    "port": 443,
-   "secret": "ee7c82f41a05f94f839fe2a11af5a7185e6d6972726f722e6d616c6576696368372e746f70"
-  },
-  {
-   "server": "mirror.malevich7.top",
-   "port": 443,
    "secret": "ee9e644ea71d5baf8e5b8d85b6f4db849b6d6972726f722e6d616c6576696368372e746f70"
   },
   {
@@ -899,11 +899,6 @@
    "server": "portal.balalaika.click",
    "port": 443,
    "secret": "eefb569f1568afd1f42683fa218e6d9ebe706f7274616c2e62616c616c61696b612e636c69636b"
-  },
-  {
-   "server": "portal.malevich7.top",
-   "port": 443,
-   "secret": "eee30148fd4521c39485fba4d59705671a706f7274616c2e6d616c6576696368372e746f70"
   },
   {
    "server": "probably.nolags.pw",
@@ -1176,5 +1171,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 235
+ "count": 234
 }
