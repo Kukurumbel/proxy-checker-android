@@ -36,11 +36,6 @@
    "secret": "2d4df2434a8d6450d65141fbb73799d5"
   },
   {
-   "server": "194.113.209.129",
-   "port": 443,
-   "secret": "eeb9f19ee9d43af6a5578b04852aa154fc6f7a6f6e2e7275"
-  },
-  {
    "server": "2.28.3.60",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -79,6 +74,11 @@
    "server": "91.107.190.20",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "92.246.87.242",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "92.246.87.243",
@@ -226,6 +226,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "cdn.kvakzon.top",
+   "port": 443,
+   "secret": "ee95f8fa1c8c5214950a9e26318a286a5a63646e2e6b76616b7a6f6e2e746f70"
+  },
+  {
    "server": "cdn.savelyev.click",
    "port": 443,
    "secret": "ee289573f97532f1d66fe239efbf0585ad63646e2e736176656c7965762e636c69636b"
@@ -281,6 +286,11 @@
    "secret": "ee9f2e42d8634c83c9b14511b0d28ed1d1636f6e6e6563742e736176656c7965762e636c69636b"
   },
   {
+   "server": "connect.toconvel.digital",
+   "port": 443,
+   "secret": "ee52fab2ac0553bbac57dd124542f285f6636f6e6e6563742e746f636f6e76656c2e6469676974616c"
+  },
+  {
    "server": "cz.nowabst.net",
    "port": 853,
    "secret": "ee19f4ad26c65891fd22cf3b7a59f0d103766b2e636f6d"
@@ -289,11 +299,6 @@
    "server": "download.forzajuve.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "download.forzajuve.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "downlod.forzajuve.co.uk.",
@@ -391,6 +396,11 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "get.utkanos.life",
+   "port": 443,
+   "secret": "ee3e4c833a2a06ff206348c21c264e0fa86765742e75746b616e6f732e6c696665"
+  },
+  {
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "ee0608461f74efe871ce9c80067205f13e676f2e616e7469747370752e636f6d"
@@ -481,11 +491,6 @@
    "secret": "ee0130a860a634590d543496ced923a18a6c696e6b2e6672656574672e7077"
   },
   {
-   "server": "link.freetg.pw",
-   "port": 443,
-   "secret": "ee4c0aaae1a7ff2d9e33412599353250fb6c696e6b2e6672656574672e7077"
-  },
-  {
    "server": "link.mishkalapy.life",
    "port": 443,
    "secret": "ee593055789a7706cf0634b2ca4acb8f046c696e6b2e6d6973686b616c6170792e6c696665"
@@ -529,6 +534,11 @@
    "server": "main.muffinnoliershatelcomingsoon.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
+  },
+  {
+   "server": "manavi.masnavi.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "mc-ssh.t-proxyru.info.",
@@ -601,6 +611,11 @@
    "secret": "ee7c82f41a05f94f839fe2a11af5a7185e6d6972726f722e6d616c6576696368372e746f70"
   },
   {
+   "server": "mirror.malevich7.top",
+   "port": 443,
+   "secret": "ee9e644ea71d5baf8e5b8d85b6f4db849b6d6972726f722e6d616c6576696368372e746f70"
+  },
+  {
    "server": "mizaneshgh2.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -609,6 +624,11 @@
    "server": "mizban-dade-online.genuismind.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "molavi.masnavi.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "more1.gram.blog",
@@ -624,6 +644,11 @@
    "server": "more2.gram.blog",
    "port": 443,
    "secret": "ee19407ecec18eebf09a96119ccbe703c462726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "most.karshenasi.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "motasel.co.uk",
@@ -741,14 +766,14 @@
    "secret": "ee274f39871728289d47ac1318434218c16e65742e6672656574672e7077"
   },
   {
-   "server": "net.freetg.pw",
+   "server": "net.pelmeshka.top",
    "port": 443,
-   "secret": "eefb41e71c9c52d0c2214fd3d3545fdaf76e65742e6672656574672e7077"
+   "secret": "ee2c2bb36f545cc672afc5b80918bc08516e65742e70656c6d6573686b612e746f70"
   },
   {
    "server": "net.pelmeshka.top",
    "port": 443,
-   "secret": "ee2c2bb36f545cc672afc5b80918bc08516e65742e70656c6d6573686b612e746f70"
+   "secret": "eebc8e50c82d7a9cdf66e05eb627e261156e65742e70656c6d6573686b612e746f70"
   },
   {
    "server": "new7.mizanmizanesgh.co.uk",
@@ -1001,6 +1026,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "takhasos.karshenasi.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "tcpdash-local.technom.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -1076,6 +1106,11 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
+   "server": "web.utkanos.life",
+   "port": 443,
+   "secret": "ee8ae027f2d25e7ebe6dfae4001a9bf4d87765622e75746b616e6f732e6c696665"
+  },
+  {
    "server": "webhook.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -1116,5 +1151,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 223
+ "count": 230
 }
