@@ -161,6 +161,11 @@
    "secret": "ee24fadbac9190b1a14de671584ec04b2b6170702e6c6962726176612e636c69636b"
   },
   {
+   "server": "app.rknwatch.digital",
+   "port": 443,
+   "secret": "ee2a830e2b3d40853e9799515a616d3f4d6170702e726b6e77617463682e6469676974616c"
+  },
+  {
    "server": "app.what-ever.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -189,6 +194,11 @@
    "server": "best-proxy.ink",
    "port": 443,
    "secret": "ee3646eba8c65e0e1d4804a7f9caa6531d626573742d70726f78792e696e6b"
+  },
+  {
+   "server": "best-proxy.ink",
+   "port": 443,
+   "secret": "eecd52b1146f6670de19bc5bf189d1ab58626573742d70726f78792e696e6b"
   },
   {
    "server": "Best.Ping.ir.hdhdhfdrde.info.",
@@ -361,6 +371,11 @@
    "secret": "ee95674c99428c9e894c09d9567f963e33666173742d70726f78792e696e6b"
   },
   {
+   "server": "fast-proxy.ink",
+   "port": 443,
+   "secret": "ee98e83ac6806491b9501d3a61cdd59c71666173742d70726f78792e696e6b"
+  },
+  {
    "server": "fast.garden-troll.life",
    "port": 443,
    "secret": "eecf1c1606226e0962ad67b541a145b9c6666173742e67617264656e2d74726f6c6c2e6c696665"
@@ -429,11 +444,6 @@
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "ee0608461f74efe871ce9c80067205f13e676f2e616e7469747370752e636f6d"
-  },
-  {
-   "server": "go.antitspu.com",
-   "port": 443,
-   "secret": "ee1dfbb22d866e42b61944a398868ca57d676f2e616e7469747370752e636f6d"
   },
   {
    "server": "go.pelmeshka.top",
@@ -633,11 +643,6 @@
   {
    "server": "mirror.malevich7.top",
    "port": 443,
-   "secret": "ee291d58b9456c5824c8675ad904b2386e6d6972726f722e6d616c6576696368372e746f70"
-  },
-  {
-   "server": "mirror.malevich7.top",
-   "port": 443,
    "secret": "ee9e644ea71d5baf8e5b8d85b6f4db849b6d6972726f722e6d616c6576696368372e746f70"
   },
   {
@@ -774,11 +779,6 @@
    "server": "net.antitspu.com",
    "port": 443,
    "secret": "ee6a993b83cd2e872361ed136b4e7b28146e65742e616e7469747370752e636f6d"
-  },
-  {
-   "server": "net.antitspu.com",
-   "port": 443,
-   "secret": "eea71cdd9ed1a23bf4c3c67d6786d524416e65742e616e7469747370752e636f6d"
   },
   {
    "server": "net.antitspu.com",
