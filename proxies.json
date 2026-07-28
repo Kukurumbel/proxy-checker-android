@@ -181,6 +181,11 @@
    "secret": "ee24fadbac9190b1a14de671584ec04b2b6170702e6c6962726176612e636c69636b"
   },
   {
+   "server": "app.librava.click",
+   "port": 443,
+   "secret": "eea1eceac9a9088b02d582d0ca99d9365e6170702e6c6962726176612e636c69636b"
+  },
+  {
    "server": "app.rknwatch.digital",
    "port": 443,
    "secret": "ee2a830e2b3d40853e9799515a616d3f4d6170702e726b6e77617463682e6469676974616c"
@@ -501,6 +506,11 @@
    "secret": "ddbdf90f2bc94957916e518c887cb95489"
   },
   {
+   "server": "iran.click-master.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "jadide.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -614,11 +624,6 @@
    "server": "mc-ssh.t-proxyru.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "medblock.fit",
-   "port": 443,
-   "secret": "ee42c68d1f568a3ce918f926dd7d1283c66d6564626c6f636b2e666974"
   },
   {
    "server": "medblock.fit",
@@ -791,11 +796,6 @@
    "secret": "ee7e0e76915a3255d7aaa9f52d91bd8b286e656f2d76706e2e696e6b03:00"
   },
   {
-   "server": "neo-vpn.ink",
-   "port": 443,
-   "secret": "ee941827d00b169bd4df5fc7d8dc06d0ad6e656f2d76706e2e696e6b"
-  },
-  {
    "server": "neshane-rah.simbol.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -814,6 +814,11 @@
    "server": "net.freetg.pw",
    "port": 443,
    "secret": "ee274f39871728289d47ac1318434218c16e65742e6672656574672e7077"
+  },
+  {
+   "server": "net.freetg.pw",
+   "port": 443,
+   "secret": "ee8b72221452c3545c5a1fe1a9358cf4996e65742e6672656574672e7077"
   },
   {
    "server": "net.pelmeshka.top",
@@ -1141,5 +1146,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 228
+ "count": 229
 }
