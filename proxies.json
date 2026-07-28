@@ -76,6 +76,11 @@
    "secret": "ee949b2f2741c1b1ebfa03e363547350167777772e6d6963726f736f66742e636f6d"
   },
   {
+   "server": "91.107.144.16",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "91.107.160.196",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -276,11 +281,6 @@
    "secret": "ee66662d8b5d623ffda118af7c38d439c163646e2e746f636f6e76656c2e6469676974616c"
   },
   {
-   "server": "cdn1.bopen.bond",
-   "port": 443,
-   "secret": "eeb4b54ddf0b9f3b82dd7b4a5a888ea82d77622e7275"
-  },
-  {
    "server": "chelipa.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -451,6 +451,11 @@
    "secret": "ee0608461f74efe871ce9c80067205f13e676f2e616e7469747370752e636f6d"
   },
   {
+   "server": "go.antitspu.com",
+   "port": 443,
+   "secret": "ee7e32ec95420179a00a86424a4a971b5a676f2e616e7469747370752e636f6d"
+  },
+  {
    "server": "go.pelmeshka.top",
    "port": 443,
    "secret": "eeaa6a6fdb00cbaf8a0c257e6736ece98f676f2e70656c6d6573686b612e746f70"
@@ -499,6 +504,11 @@
    "server": "jounob-iran-dar-ghalb-mast.simbol.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "julyy.nolags.pw",
+   "port": 443,
+   "secret": "dddb2f3df5d8f4fb7aa8e2192eff0aae98"
   },
   {
    "server": "khodeshe.ir.abcyrajslklhga.info.",
@@ -811,21 +821,6 @@
    "secret": "ee1bbdcdcfd200974bb999813180a12738766b2e636f6d"
   },
   {
-   "server": "one1.mtproxygram.lol",
-   "port": 443,
-   "secret": "dd563dc88ae5d1c70b18d01472f77a9699"
-  },
-  {
-   "server": "one1.mtproxygram.lol",
-   "port": 443,
-   "secret": "ee563dc88ae5d1c70b18d01472f77a969962726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "one2.mtproxygram.lol",
-   "port": 443,
-   "secret": "ee563dc88ae5d1c70b18d01472f77a969962726f777365722e79616e6465782e7275"
-  },
-  {
    "server": "opeenhostings.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -869,6 +864,11 @@
    "server": "phoenix.v6n.tech",
    "port": 443,
    "secret": "eefcb2991c4adf04502f025e7e73c7dd367777772e626f6f6b696e672e636f6d"
+  },
+  {
+   "server": "portal.balalaika.click",
+   "port": 443,
+   "secret": "ee3c7b046d6a7b00b2c910cd755314eb2e706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
    "server": "portal.balalaika.click",
@@ -1051,11 +1051,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "tone-mahi.jonoub.hasjkhdkjs.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "update.femboylover.org",
    "port": 443,
    "secret": "ee7f302883cf187bb6f9e1906f5fe5f3a57777772e6d6963726f736f66742e636f6d"
@@ -1121,5 +1116,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 224
+ "count": 223
 }
