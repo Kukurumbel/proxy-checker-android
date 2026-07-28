@@ -258,6 +258,11 @@
   {
    "server": "cdn.kvakzon.top",
    "port": 443,
+   "secret": "ee8c9511c54296c007462dfa294a6130b363646e2e6b76616b7a6f6e2e746f70"
+  },
+  {
+   "server": "cdn.kvakzon.top",
+   "port": 443,
    "secret": "ee95f8fa1c8c5214950a9e26318a286a5a63646e2e6b76616b7a6f6e2e746f70"
   },
   {
@@ -391,6 +396,11 @@
    "secret": "eecf1c1606226e0962ad67b541a145b9c6666173742e67617264656e2d74726f6c6c2e6c696665"
   },
   {
+   "server": "fast.workingproxy.xyz",
+   "port": 443,
+   "secret": "dddb688a36cd7c7b24fa0604392645bd82"
+  },
+  {
    "server": "Fighter-Man.ir-proxy.Manege-Desktop-For.Co.Im.",
    "port": 4443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -516,6 +526,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "Lashboy.muzanesghy.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "lazeyka-2-3.getvelora.space",
    "port": 443,
    "secret": "ee47e7ab60d6acf9288e822ca746fd703a6f7a6f6e2e7275"
@@ -608,12 +623,22 @@
   {
    "server": "medblock.fit",
    "port": 443,
+   "secret": "ee56f78cfdeedfc4562c048fe36e92f8976d6564626c6f636b2e666974"
+  },
+  {
+   "server": "medblock.fit",
+   "port": 443,
    "secret": "ee8a3ea77a695f1a249d693078446a137a6d6564626c6f636b2e666974"
   },
   {
    "server": "medblock.ink",
    "port": 443,
    "secret": "ee48995b34487bfb1cb562552a585da0ea6d6564626c6f636b2e696e6b"
+  },
+  {
+   "server": "medblock.ink",
+   "port": 443,
+   "secret": "ee81bcf42079b8aea4608000f6d77285f36d6564626c6f636b2e696e6b"
   },
   {
    "server": "media1.happtg.org",
@@ -888,6 +913,11 @@
   {
    "server": "proxy.garden-troll.life",
    "port": 443,
+   "secret": "ee44e44615787238844c492fb9e94eebc370726f78792e67617264656e2d74726f6c6c2e6c696665"
+  },
+  {
+   "server": "proxy.garden-troll.life",
+   "port": 443,
    "secret": "ee82abb47cb1f18c94d59ccc3cfee60ae670726f78792e67617264656e2d74726f6c6c2e6c696665"
   },
   {
@@ -1051,11 +1081,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "update.femboylover.org",
-   "port": 443,
-   "secret": "ee7f302883cf187bb6f9e1906f5fe5f3a57777772e6d6963726f736f66742e636f6d"
-  },
-  {
    "server": "vpn4.primeperformance.space",
    "port": 8443,
    "secret": "ee4331ae1586ba488e489e092e1783969e76706e342e7072696d65706572666f726d616e63652e7370616365"
@@ -1116,5 +1141,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 223
+ "count": 228
 }
