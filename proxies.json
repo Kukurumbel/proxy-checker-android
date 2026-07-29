@@ -388,6 +388,11 @@
   {
    "server": "edge.librava.click",
    "port": 443,
+   "secret": "ee0ebef71c35ce1a4a44b6f47e86877c88656467652e6c6962726176612e636c69636b"
+  },
+  {
+   "server": "edge.librava.click",
+   "port": 443,
    "secret": "eea12fcf17bd87579f5063dfb4c28e4761656467652e6c6962726176612e636c69636b"
   },
   {
@@ -671,6 +676,11 @@
    "secret": "ee4d94e300e81887ff06746b069e359bb16c6f67696e2e76656c747572612e6469676974616c"
   },
   {
+   "server": "login.veltura.digital",
+   "port": 443,
+   "secret": "eee302579f093caf175b1b74c8b8aa521e6c6f67696e2e76656c747572612e6469676974616c"
+  },
+  {
    "server": "logs.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -906,6 +916,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "no.nolagsproxy.space",
+   "port": 443,
+   "secret": "dda0156514d55581d3bd4b86a324dfabde"
+  },
+  {
    "server": "node.mishkalapy.life",
    "port": 443,
    "secret": "ee05b1fa1cf5ade2ed4052b16971b33ca46e6f64652e6d6973686b616c6170792e6c696665"
@@ -1022,6 +1037,11 @@
   },
   {
    "server": "response.aseman.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "rootssh.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
@@ -1226,5 +1246,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 249
 }
