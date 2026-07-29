@@ -41,6 +41,11 @@
    "secret": "eee5ed93c4aa547fe71230ff7253c8a5c9676f6f676c65617069732e636f6d"
   },
   {
+   "server": "207pana.denatara.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "34.12.229.246",
    "port": 443,
    "secret": "dd2bc98ec562627d4d23f303a558febf39"
@@ -263,7 +268,7 @@
   {
    "server": "cdn.savelyev.click",
    "port": 443,
-   "secret": "ee289573f97532f1d66fe239efbf0585ad63646e2e736176656c7965762e636c69636b"
+   "secret": "ee2d9508afda3c91ec2ce75e2e0916437c63646e2e736176656c7965762e636c69636b"
   },
   {
    "server": "cdn.savelyev.click",
@@ -301,9 +306,9 @@
    "secret": "ee3fa2666ad08eb559375e0772a379be32636c6f75642e6e656f7175612e70726f"
   },
   {
-   "server": "connect.savelyev.click",
+   "server": "company.avacloud.info",
    "port": 443,
-   "secret": "ee66c21a2a4223d77565363a7c85007211636f6e6e6563742e736176656c7965762e636c69636b"
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "connect.savelyev.click",
@@ -511,6 +516,11 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "ikco.denatara.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "in-khube.ir.hfkjsdhfksj.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -519,6 +529,11 @@
    "server": "ipv4.nolags.pw",
    "port": 443,
    "secret": "ddbdf90f2bc94957916e518c887cb95489"
+  },
+  {
+   "server": "iran-khodro.denatara.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "iran.click-master.co.uk",
@@ -946,6 +961,11 @@
    "secret": "ee0c80d60043ece7878d15059a1a3180ae72656c61792e6e656f7175612e70726f"
   },
   {
+   "server": "relay.neoqua.pro",
+   "port": 443,
+   "secret": "ee435cece0e7e4d6eed7bcce13ab6e03ca72656c61792e6e656f7175612e70726f"
+  },
+  {
    "server": "relay.nowabst.net",
    "port": 853,
    "secret": "ee56b3978999960e7b1612c25557e1b9c1766b2e636f6d"
@@ -994,6 +1014,11 @@
    "server": "secure.gorbushkin.click",
    "port": 443,
    "secret": "eed670b22b89d073390327d03894d223fa7365637572652e676f72627573686b696e2e636c69636b"
+  },
+  {
+   "server": "secure.gorbushkin.click",
+   "port": 443,
+   "secret": "eeed4571b8d9273dcfacc0d1f23062ad627365637572652e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "secure.medhata.org",
@@ -1059,11 +1084,6 @@
    "server": "tcpdash-local.technom.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "tea.hotstbvs.ru",
-   "port": 8443,
-   "secret": "eeee1c94f70f49e6a7a2a892f59c8bd9947465612e686f7473746276732e7275"
   },
   {
    "server": "tg5dd5d6eb.koshkaproxy.shop",
@@ -1156,5 +1176,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 231
+ "count": 235
 }
