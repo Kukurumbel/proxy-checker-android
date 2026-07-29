@@ -206,6 +206,11 @@
    "secret": "ee2a830e2b3d40853e9799515a616d3f4d6170702e726b6e77617463682e6469676974616c"
   },
   {
+   "server": "app.rknwatch.digital",
+   "port": 443,
+   "secret": "ee8d10c3b786b7ced3ad9d55ae882b08c36170702e726b6e77617463682e6469676974616c"
+  },
+  {
    "server": "app.what-ever.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -269,6 +274,11 @@
    "server": "bo9ss.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "server": "borj-pooshak-brj.aseman.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "br8ta.co.uk.",
@@ -753,6 +763,11 @@
   {
    "server": "mirror.balalaika.click",
    "port": 443,
+   "secret": "eea0398370ab267aa0164231325beb48866d6972726f722e62616c616c61696b612e636c69636b"
+  },
+  {
+   "server": "mirror.balalaika.click",
+   "port": 443,
    "secret": "eee4b4eaf07c9633ab6f87dfc5b48151cf6d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
@@ -899,6 +914,11 @@
    "server": "net.freetg.pw",
    "port": 443,
    "secret": "ee8b72221452c3545c5a1fe1a9358cf4996e65742e6672656574672e7077"
+  },
+  {
+   "server": "net.pelmeshka.top",
+   "port": 443,
+   "secret": "ee2e70efdb3ae33dd0c1d1db1ae6930b986e65742e70656c6d6573686b612e746f70"
   },
   {
    "server": "net.pelmeshka.top",
@@ -1141,6 +1161,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "tabibie.del.davazdah.info",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "takhasos.karshenasi.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -1246,5 +1271,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 249
+ "count": 254
 }
