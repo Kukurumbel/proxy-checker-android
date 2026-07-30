@@ -51,12 +51,12 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "34.12.229.246",
-   "port": 443,
-   "secret": "dd2bc98ec562627d4d23f303a558febf39"
+   "server": "46.225.26.227",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "46.225.26.227",
+   "server": "62.238.35.31",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
@@ -576,6 +576,16 @@
    "secret": "dd3df51afd9a851e5b9a6719fc88f93833"
   },
   {
+   "server": "hello.nolagsproxy.space",
+   "port": 443,
+   "secret": "dd23c4f3442902ef41986fda3e819c1417"
+  },
+  {
+   "server": "hide.he6fhd.ru",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "host.mizbanonline.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -584,11 +594,6 @@
    "server": "ikco.denatara.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "ipv4.nolags.pw",
-   "port": 443,
-   "secret": "ddbdf90f2bc94957916e518c887cb95489"
   },
   {
    "server": "iran-khodro.denatara.info",
@@ -1271,5 +1276,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 254
+ "count": 255
 }
