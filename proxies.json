@@ -36,6 +36,11 @@
    "secret": "eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d"
   },
   {
+   "server": "194.120.230.26",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "2.28.3.60",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -72,11 +77,6 @@
   },
   {
    "server": "65.109.147.34",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.205.29",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -304,6 +304,11 @@
    "server": "cdn.savelyev.click",
    "port": 443,
    "secret": "ee47db8cfb73a38af6c54d8976432e265863646e2e736176656c7965762e636c69636b"
+  },
+  {
+   "server": "cdn.toconvel.digital",
+   "port": 443,
+   "secret": "ee4595f21d721fd1bcce9bad30d444a8e963646e2e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "cdn.toconvel.digital",
@@ -559,6 +564,11 @@
    "server": "groupe.avacloud.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "gw.nowabst.net",
+   "port": 853,
+   "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6d"
   },
   {
    "server": "heats.nolags.pw",
@@ -986,6 +996,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "persian.gulf.ir.olsjddhf.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "petrichor.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1116,6 +1131,11 @@
    "secret": "ee9631908b49893251e56a84c32b9407ca7365637572652e6d6564686174612e6f7267"
   },
   {
+   "server": "secure.medhata.org",
+   "port": 443,
+   "secret": "eedf3956f76ab923f6f432a06cd6f9ab537365637572652e6d6564686174612e6f7267"
+  },
+  {
    "server": "server.nl-arvancloud.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -1131,16 +1151,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "shir.dokhtar.hedoit.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "shir.pesar.hedoit.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "sisu.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1149,6 +1159,11 @@
    "server": "skein.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "Strait-of-Hormuz.ir.jursdheks.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "subobdoa.co.uk.",
@@ -1261,5 +1276,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 252
+ "count": 255
 }
