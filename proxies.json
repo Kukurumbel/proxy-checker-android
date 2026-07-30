@@ -251,6 +251,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "best7uer.co.uk",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
    "server": "Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.",
    "port": 4443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -263,11 +268,6 @@
   {
    "server": "billing.mizbanonline.info",
    "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "blond.basicscotch.co.uk",
-   "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
@@ -388,17 +388,17 @@
   {
    "server": "edge.librava.click",
    "port": 443,
-   "secret": "ee04c7943583df74e825282c435f0e04e4656467652e6c6962726176612e636c69636b"
-  },
-  {
-   "server": "edge.librava.click",
-   "port": 443,
    "secret": "ee0ebef71c35ce1a4a44b6f47e86877c88656467652e6c6962726176612e636c69636b"
   },
   {
    "server": "edge.librava.click",
    "port": 443,
    "secret": "eea12fcf17bd87579f5063dfb4c28e4761656467652e6c6962726176612e636c69636b"
+  },
+  {
+   "server": "edge.rknwatch.digital",
+   "port": 443,
+   "secret": "ee4227e9ce17eeaa6676f85ec9528417bd656467652e726b6e77617463682e6469676974616c"
   },
   {
    "server": "edge.rknwatch.digital",
@@ -424,11 +424,6 @@
    "server": "fas8t.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "fast-proxy.ink",
-   "port": 443,
-   "secret": "ee95674c99428c9e894c09d9567f963e33666173742d70726f78792e696e6b"
   },
   {
    "server": "fast-proxy.ink",
@@ -479,6 +474,11 @@
    "server": "full-vasl.ir-xyz.gdhbvjshjrf.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "gate.klyuch1k.org",
+   "port": 443,
+   "secret": "ee6a1dd0bd4f3bfd9536133cbed1465908676174652e6b6c79756368316b2e6f7267"
   },
   {
    "server": "gate.klyuch1k.org",
@@ -661,6 +661,11 @@
    "secret": "ee943031c5687da2dc848bf7582bf801496c696e6b2e6d6973686b616c6170792e6c696665"
   },
   {
+   "server": "login.kerfilia.info",
+   "port": 6775,
+   "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "login.klyuch1k.org",
    "port": 443,
    "secret": "ee5255cf5762ec00f92e2bb5c9656bf1866c6f67696e2e6b6c79756368316b2e6f7267"
@@ -669,11 +674,6 @@
    "server": "login.veltura.digital",
    "port": 443,
    "secret": "ee48a0b26b638c58ad97859fba41e9c21a6c6f67696e2e76656c747572612e6469676974616c"
-  },
-  {
-   "server": "login.veltura.digital",
-   "port": 443,
-   "secret": "ee4d94e300e81887ff06746b069e359bb16c6f67696e2e76656c747572612e6469676974616c"
   },
   {
    "server": "login.veltura.digital",
@@ -1103,11 +1103,6 @@
   {
    "server": "secure.gorbushkin.click",
    "port": 443,
-   "secret": "eed670b22b89d073390327d03894d223fa7365637572652e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "secure.gorbushkin.click",
-   "port": 443,
    "secret": "eeed4571b8d9273dcfacc0d1f23062ad627365637572652e676f72627573686b696e2e636c69636b"
   },
   {
@@ -1154,11 +1149,6 @@
    "server": "subobdoa.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "super.sub-ploter.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "syzygy.sosun4ik.top",
@@ -1276,5 +1266,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 255
+ "count": 253
 }
