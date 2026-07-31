@@ -61,11 +61,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "65.109.106.132",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.109.147.34",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -74,6 +69,16 @@
    "server": "65.109.218.48",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "65.21.205.29",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.21.83.248",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "84.201.161.56",
@@ -961,6 +966,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "night.workingproxy.xyz",
+   "port": 443,
+   "secret": "dde5d60707998c23e890e00e0bbe5eacdd"
+  },
+  {
    "server": "no.nolagsproxy.space",
    "port": 443,
    "secret": "dda0156514d55581d3bd4b86a324dfabde"
@@ -1271,5 +1281,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 254
+ "count": 256
 }
