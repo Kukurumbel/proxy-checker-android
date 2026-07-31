@@ -91,12 +91,22 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "92.246.87.242",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+   "server": "91.107.165.77",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "92.246.87.243",
+   "server": "91.107.172.15",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "91.107.172.189",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "92.246.87.242",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -244,11 +254,6 @@
    "server": "best-proxy.ink",
    "port": 443,
    "secret": "eecd52b1146f6670de19bc5bf189d1ab58626573742d70726f78792e696e6b"
-  },
-  {
-   "server": "Best.Ping.ir.hdhdhfdrde.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "best7uer.co.uk",
@@ -636,11 +641,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "jingil-alisa-hey.ir.ewoiiats.info.",
-   "port": 443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "jounob-iran-dar-ghalb-mast.simbol.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -799,11 +799,6 @@
    "server": "mirror.balalaika.click",
    "port": 443,
    "secret": "eea0398370ab267aa0164231325beb48866d6972726f722e62616c616c61696b612e636c69636b"
-  },
-  {
-   "server": "mirror.balalaika.click",
-   "port": 443,
-   "secret": "eee4b4eaf07c9633ab6f87dfc5b48151cf6d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
    "server": "mirror.malevich7.top",
@@ -1271,5 +1266,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 254
+ "count": 253
 }
