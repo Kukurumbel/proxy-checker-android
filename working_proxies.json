@@ -7,172 +7,172 @@
    "ping": 125
   },
   {
-   "server": "62.238.35.31",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 136
+   "server": "heats.nolags.pw",
+   "port": 443,
+   "secret": "dd3df51afd9a851e5b9a6719fc88f93833",
+   "ping": 139
+  },
+  {
+   "server": "hello.nolagsproxy.space",
+   "port": 443,
+   "secret": "dd23c4f3442902ef41986fda3e819c1417",
+   "ping": 141
   },
   {
    "server": "New1.ugtd8sxxcyt.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 140
-  },
-  {
-   "server": "62.238.40.18",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
    "ping": 146
-  },
-  {
-   "server": "julyy.nolags.pw",
-   "port": 443,
-   "secret": "dddb2f3df5d8f4fb7aa8e2192eff0aae98",
-   "ping": 148
-  },
-  {
-   "server": "heats.nolags.pw",
-   "port": 443,
-   "secret": "dd3df51afd9a851e5b9a6719fc88f93833",
-   "ping": 149
-  },
-  {
-   "server": "pathory.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 152
   },
   {
    "server": "best7uer.co.uk",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 147
+  },
+  {
+   "server": "bo9ss.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 149
+  },
+  {
+   "server": "62.238.35.31",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 150
+  },
+  {
+   "server": "62.238.40.18",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 150
+  },
+  {
+   "server": "chelipa.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 151
+  },
+  {
+   "server": "connect.workingproxy.xyz",
+   "port": 443,
+   "secret": "ddcf4b420258503f6f189db7d39f597b4e",
+   "ping": 151
+  },
+  {
+   "server": "no.nolagsproxy.space",
+   "port": 443,
+   "secret": "dda0156514d55581d3bd4b86a324dfabde",
    "ping": 153
   },
   {
    "server": "fast.workingproxy.xyz",
    "port": 443,
    "secret": "dddb688a36cd7c7b24fa0604392645bd82",
-   "ping": 153
-  },
-  {
-   "server": "chelipa.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 156
-  },
-  {
-   "server": "no.nolagsproxy.space",
-   "port": 443,
-   "secret": "dda0156514d55581d3bd4b86a324dfabde",
-   "ping": 158
-  },
-  {
-   "server": "come.workingproxy.xyz",
-   "port": 443,
-   "secret": "dd7957f0892ff649d9649ae30df67f9b6e",
-   "ping": 166
+   "ping": 154
   },
   {
    "server": "options.nolags.pw",
    "port": 443,
    "secret": "dd1cfd25e7607e8ede7cc49b925165728a",
-   "ping": 167
-  },
-  {
-   "server": "mtproto.workingproxy.xyz",
-   "port": 443,
-   "secret": "dd28d1629617423db1e80a7b4a00de6032",
-   "ping": 169
-  },
-  {
-   "server": "Lashboy.muzanesghy.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 171
-  },
-  {
-   "server": "hello.nolagsproxy.space",
-   "port": 443,
-   "secret": "dd23c4f3442902ef41986fda3e819c1417",
-   "ping": 172
-  },
-  {
-   "server": "love.workingproxy.xyz",
-   "port": 443,
-   "secret": "dd275f670cdf5716dcbcf9d920645a03eb",
-   "ping": 173
-  },
-  {
-   "server": "mizaneshgh2.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 173
-  },
-  {
-   "server": "ops2ops.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 174
+   "ping": 154
   },
   {
    "server": "zon-b0z.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 174
+   "ping": 154
   },
   {
-   "server": "bo9ss.co.uk.",
+   "server": "love.workingproxy.xyz",
    "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 178
+   "secret": "dd275f670cdf5716dcbcf9d920645a03eb",
+   "ping": 157
   },
   {
-   "server": "connect.workingproxy.xyz",
+   "server": "julyy.nolags.pw",
    "port": 443,
-   "secret": "ddcf4b420258503f6f189db7d39f597b4e",
-   "ping": 192
+   "secret": "dddb2f3df5d8f4fb7aa8e2192eff0aae98",
+   "ping": 159
   },
   {
    "server": "fas8t.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 261
+   "ping": 160
   },
   {
-   "server": "hide.he6fhd.ru",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 310
+   "server": "come.workingproxy.xyz",
+   "port": 443,
+   "secret": "dd7957f0892ff649d9649ae30df67f9b6e",
+   "ping": 162
   },
   {
-   "server": "relaywise.co.uk.",
+   "server": "mtproto.workingproxy.xyz",
+   "port": 443,
+   "secret": "dd28d1629617423db1e80a7b4a00de6032",
+   "ping": 164
+  },
+  {
+   "server": "pathory.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 314
-  },
-  {
-   "server": "New.nchnch.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 328
+   "ping": 164
   },
   {
    "server": "br8ta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 329
+   "ping": 166
+  },
+  {
+   "server": "ops2ops.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 168
+  },
+  {
+   "server": "relaywise.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 168
+  },
+  {
+   "server": "New.nchnch.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 173
   },
   {
    "server": "new7.mizanmizanesgh.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 329
+   "ping": 175
+  },
+  {
+   "server": "Lashboy.muzanesghy.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 185
+  },
+  {
+   "server": "mizaneshgh2.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 187
+  },
+  {
+   "server": "hide.he6fhd.ru",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 299
   },
   {
    "server": "r1.balebale.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 330
+   "ping": 327
   }
  ],
  "count": 29,
