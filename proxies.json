@@ -66,11 +66,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "65.109.147.34",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.109.218.48",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -89,21 +84,6 @@
    "server": "91.107.160.196",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "91.107.165.77",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "91.107.172.15",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "91.107.172.189",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "92.246.87.242",
@@ -129,6 +109,11 @@
    "server": "ad1.arixo.shop",
    "port": 443,
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
+  },
+  {
+   "server": "ad1.fluxvpnguard.ru",
+   "port": 443,
+   "secret": "eef783c9e53b90b92a084bb3e50e028baa6164312e666c757876706e67756172642e7275"
   },
   {
    "server": "ad2.arixo.shop",
@@ -249,6 +234,11 @@
    "server": "best-proxy.ink",
    "port": 443,
    "secret": "ee041a76d99194e7dda929e9379d686cd2626573742d70726f78792e696e6b"
+  },
+  {
+   "server": "best-proxy.ink",
+   "port": 443,
+   "secret": "ee3646eba8c65e0e1d4804a7f9caa6531d626573742d70726f78792e696e6b"
   },
   {
    "server": "best-proxy.ink",
@@ -394,6 +384,11 @@
    "server": "developer.davazdah.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "did-domak.ir.hadihoda.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "downlload.forzajuve.co.uk.",
@@ -1101,11 +1096,6 @@
    "secret": "ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70"
   },
   {
-   "server": "salamkhodafix.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "secure.gorbushkin.click",
    "port": 443,
    "secret": "ee2566052eb7f98d9601ca0b656f9032177365637572652e676f72627573686b696e2e636c69636b"
@@ -1256,5 +1246,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 251
+ "count": 249
 }
