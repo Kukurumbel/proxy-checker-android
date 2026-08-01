@@ -976,11 +976,6 @@
    "secret": "ee75d9c434c4709d2c8f218a8a0c86b9b86e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
-   "server": "node.nowabst.net",
-   "port": 853,
-   "secret": "ee1bbdcdcfd200974bb999813180a12738766b2e636f6d"
-  },
-  {
    "server": "opeenhostings.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -1059,11 +1054,6 @@
    "server": "relay.neoqua.pro",
    "port": 443,
    "secret": "ee435cece0e7e4d6eed7bcce13ab6e03ca72656c61792e6e656f7175612e70726f"
-  },
-  {
-   "server": "relay.nowabst.net",
-   "port": 853,
-   "secret": "ee56b3978999960e7b1612c25557e1b9c1766b2e636f6d"
   },
   {
    "server": "relaywise.co.uk.",
@@ -1266,5 +1256,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 253
+ "count": 251
 }
