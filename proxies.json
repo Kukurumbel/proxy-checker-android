@@ -131,6 +131,11 @@
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
   },
   {
+   "server": "ad3.fluxvpnguard.ru",
+   "port": 443,
+   "secret": "ee1a23dbc042a9ad90a7ef4e5a4f04e1486164332e666c757876706e67756172642e7275"
+  },
+  {
    "server": "ad4.arixo.shop",
    "port": 443,
    "secret": "eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70"
@@ -674,6 +679,11 @@
    "server": "lazeyka-2-6.getvelora.space",
    "port": 443,
    "secret": "ee8a085f4b74b7698d5873d2e587c4f22d6f7a6f6e2e7275"
+  },
+  {
+   "server": "lazeyka-3.getvelora.space",
+   "port": 443,
+   "secret": "ee1dd78b7b5132effe70cb01bef69a351a6f7a6f6e2e7275"
   },
   {
    "server": "link.freetg.pw",
@@ -1246,5 +1256,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 249
+ "count": 251
 }
