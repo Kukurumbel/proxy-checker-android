@@ -151,6 +151,11 @@
    "secret": "ee995469d4d5a3221f69a1cc24d1cafa506164322e617269786f2e73686f70"
   },
   {
+   "server": "ad5.fluxvpnguard.ru",
+   "port": 443,
+   "secret": "ee07a0a81521da4854c2cdb837cfdaf3a46164352e666c757876706e67756172642e7275"
+  },
+  {
    "server": "aerie.sosun4ik.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -886,11 +891,6 @@
    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
   },
   {
-   "server": "mtproto.workingproxy.xyz",
-   "port": 443,
-   "secret": "dd28d1629617423db1e80a7b4a00de6032"
-  },
-  {
    "server": "nasaji.estakhr.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -989,11 +989,6 @@
    "server": "ops2ops.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "options.nolags.pw",
-   "port": 443,
-   "secret": "dd1cfd25e7607e8ede7cc49b925165728a"
   },
   {
    "server": "panel-portal.managep.info",
@@ -1256,5 +1251,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 251
+ "count": 250
 }
