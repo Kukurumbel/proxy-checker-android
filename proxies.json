@@ -1,11 +1,6 @@
 {
  "proxies": [
   {
-   "server": "135.181.129.178",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "135.181.74.178",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -81,14 +76,14 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "65.109.147.34",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.109.218.48",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "65.21.205.29",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "84.201.161.56",
@@ -99,6 +94,11 @@
    "server": "91.107.144.16",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "91.107.160.196",
+   "port": 443,
+   "secret": "104462821249bd7ac519130220c25d09"
   },
   {
    "server": "91.107.160.196",
@@ -216,6 +216,11 @@
    "secret": "ee5c217c92452f93b4fdad6a1146ba74a56170692e6d6564686174612e6f7267"
   },
   {
+   "server": "api.nowabst.net",
+   "port": 853,
+   "secret": "ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d"
+  },
+  {
    "server": "app.kvakzon.top",
    "port": 443,
    "secret": "eedd90b91e8304294087bca47546df99f16170702e6b76616b7a6f6e2e746f70"
@@ -304,11 +309,6 @@
    "server": "biaberim.estakhr.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "billing.mizbanonline.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "bo9ss.co.uk.",
@@ -424,6 +424,11 @@
    "server": "cz.nowabst.net",
    "port": 853,
    "secret": "ee19f4ad26c65891fd22cf3b7a59f0d103766b2e636f6d"
+  },
+  {
+   "server": "dev.nowabst.net",
+   "port": 853,
+   "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
   },
   {
    "server": "developer.davazdah.info",
@@ -646,11 +651,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "host.mizbanonline.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "icon.davazdah.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -699,6 +699,11 @@
    "server": "khodeshe.ir.abcyrajslklhga.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "lab.nowabst.net",
+   "port": 853,
+   "secret": "eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d"
   },
   {
    "server": "Lashboy.muzanesghy.co.uk",
@@ -1271,5 +1276,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 254
+ "count": 255
 }
