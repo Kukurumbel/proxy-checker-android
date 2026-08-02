@@ -91,11 +91,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "84.201.161.56",
-   "port": 443,
-   "secret": "ee949b2f2741c1b1ebfa03e363547350167777772e6d6963726f736f66742e636f6d"
-  },
-  {
    "server": "91.107.144.16",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -251,11 +246,6 @@
    "secret": "ee1f2a9e2f72b01e9f39aae711ed6ea7c063646e2e79616e6465782e7275"
   },
   {
-   "server": "bala.hastim.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "bastani.mikham.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -399,11 +389,6 @@
    "server": "connect.toconvel.digital",
    "port": 443,
    "secret": "ee52fab2ac0553bbac57dd124542f285f6636f6e6e6563742e746f636f6e76656c2e6469676974616c"
-  },
-  {
-   "server": "connect.workingproxy.xyz",
-   "port": 443,
-   "secret": "ddcf4b420258503f6f189db7d39f597b4e"
   },
   {
    "server": "cz.nowabst.net",
@@ -1146,6 +1131,11 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "sync.fleethop.online",
+   "port": 443,
+   "secret": "ee5d12530b3304850a75f79585e946b73073796e632e666c656574686f702e6f6e6c696e65"
+  },
+  {
    "server": "syzygy.sosun4ik.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1191,6 +1181,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "uploi1on.ir",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "we.are.iran.ir.abcyrajslklhga.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -1231,5 +1226,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 246
+ "count": 245
 }
