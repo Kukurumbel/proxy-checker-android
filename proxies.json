@@ -1,6 +1,11 @@
 {
  "proxies": [
   {
+   "server": "135.181.129.178",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "135.181.74.178",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -57,6 +62,16 @@
   },
   {
    "server": "65.108.123.76",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.108.230.201",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "65.109.147.34",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -306,11 +321,6 @@
    "secret": "ee8c9511c54296c007462dfa294a6130b363646e2e6b76616b7a6f6e2e746f70"
   },
   {
-   "server": "cdn.kvakzon.top",
-   "port": 443,
-   "secret": "ee95f8fa1c8c5214950a9e26318a286a5a63646e2e6b76616b7a6f6e2e746f70"
-  },
-  {
    "server": "cdn.savelyev.click",
    "port": 443,
    "secret": "ee2d9508afda3c91ec2ce75e2e0916437c63646e2e736176656c7965762e636c69636b"
@@ -426,6 +436,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "download-iran.dinocol.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "download.strawberrybarn.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -454,6 +469,11 @@
    "server": "eerie.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "empire-of-west-asia.ir.abcyrajslklhga.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "Empire-persia.iran.hey-gardash.info.",
@@ -561,19 +581,9 @@
    "secret": "ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d"
   },
   {
-   "server": "genuismind.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "get.utkanos.life",
    "port": 443,
    "secret": "ee224ba1832c132b3c61d3ab5772a9c2776765742e75746b616e6f732e6c696665"
-  },
-  {
-   "server": "get.utkanos.life",
-   "port": 443,
-   "secret": "ee3e4c833a2a06ff206348c21c264e0fa86765742e75746b616e6f732e6c696665"
   },
   {
    "server": "go.antitspu.com",
@@ -747,11 +757,6 @@
   },
   {
    "server": "ma.hastim.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "mahanmizban.genuismind.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
@@ -1241,5 +1246,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 248
+ "count": 249
 }
