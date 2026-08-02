@@ -86,6 +86,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "79.137.196.223",
+   "port": 443,
+   "secret": "eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d"
+  },
+  {
    "server": "84.201.161.56",
    "port": 443,
    "secret": "ee949b2f2741c1b1ebfa03e363547350167777772e6d6963726f736f66742e636f6d"
@@ -326,11 +331,6 @@
    "secret": "ee4595f21d721fd1bcce9bad30d444a8e963646e2e746f636f6e76656c2e6469676974616c"
   },
   {
-   "server": "cdn.toconvel.digital",
-   "port": 443,
-   "secret": "ee66662d8b5d623ffda118af7c38d439c163646e2e746f636f6e76656c2e6469676974616c"
-  },
-  {
    "server": "chat.avacloud.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -454,11 +454,6 @@
    "server": "edge.rknwatch.digital",
    "port": 443,
    "secret": "eef9e42a123ee5e91b7132979afc212446656467652e726b6e77617463682e6469676974616c"
-  },
-  {
-   "server": "eerie.proxytales.life",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "empire-of-west-asia.ir.abcyrajslklhga.info.",
@@ -611,11 +606,6 @@
    "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6d"
   },
   {
-   "server": "heats.nolags.pw",
-   "port": 443,
-   "secret": "dd3df51afd9a851e5b9a6719fc88f93833"
-  },
-  {
    "server": "hello.nolagsproxy.space",
    "port": 443,
    "secret": "dd23c4f3442902ef41986fda3e819c1417"
@@ -624,6 +614,11 @@
    "server": "hide.he6fhd.ru",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "hub.utkanos.life",
+   "port": 443,
+   "secret": "eee1d83173973b66435714792849c716dc6875622e75746b616e6f732e6c696665"
   },
   {
    "server": "icon.davazdah.info",
@@ -824,11 +819,6 @@
    "server": "miz.tashkilat.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "mizaneshgh2.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "mizban-dade-online.genuismind.info",
@@ -1131,6 +1121,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "srv.utkanos.life",
+   "port": 443,
+   "secret": "eee2a089ccf624e674b3ef3d3638a715017372762e75746b616e6f732e6c696665"
+  },
+  {
    "server": "subobdoa.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -1226,5 +1221,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 245
+ "count": 244
 }
