@@ -6,6 +6,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "138.124.113.201",
+   "port": 443,
+   "secret": "ee3aff3c6ac00f9a9b6bfe90449249953f636c6f7564666c6172652e636f6d"
+  },
+  {
    "server": "169.58.86.18",
    "port": 443,
    "secret": "ee85dc3d6c2900e59b6f97f68ee7d1e349676f6f676c65617069732e636f6d"
@@ -84,11 +89,6 @@
    "server": "65.21.83.248",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "79.137.196.223",
-   "port": 443,
-   "secret": "eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "84.201.161.56",
@@ -256,6 +256,11 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "bastani.mikham.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "beer.crona-extra.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -329,6 +334,11 @@
    "server": "cdn.toconvel.digital",
    "port": 443,
    "secret": "ee4595f21d721fd1bcce9bad30d444a8e963646e2e746f636f6e76656c2e6469676974616c"
+  },
+  {
+   "server": "chai.mikham.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "chat.avacloud.info",
@@ -616,6 +626,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "hub.neo-vpn.ink",
+   "port": 443,
+   "secret": "eea29dda982c54198f00ea8d440fa6f8ce6875622e6e656f2d76706e2e696e6b"
+  },
+  {
    "server": "hub.utkanos.life",
    "port": 443,
    "secret": "eee1d83173973b66435714792849c716dc6875622e75746b616e6f732e6c696665"
@@ -761,11 +776,6 @@
    "secret": "ee56f78cfdeedfc4562c048fe36e92f8976d6564626c6f636b2e666974"
   },
   {
-   "server": "medblock.fit",
-   "port": 443,
-   "secret": "ee8a3ea77a695f1a249d693078446a137a6d6564626c6f636b2e666974"
-  },
-  {
    "server": "medblock.ink",
    "port": 443,
    "secret": "ee48995b34487bfb1cb562552a585da0ea6d6564626c6f636b2e696e6b"
@@ -884,11 +894,6 @@
    "server": "natasha-romanov.avangement.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "neo-vpn.ink",
-   "port": 443,
-   "secret": "ee0581778381eb30c9f9403b6178b212c46e656f2d76706e2e696e6b"
   },
   {
    "server": "neo-vpn.ink",
@@ -1121,6 +1126,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "srv.medblock.fit",
+   "port": 443,
+   "secret": "eeec4689270e8be04e90051b374792331e7372762e6d6564626c6f636b2e666974"
+  },
+  {
    "server": "srv.utkanos.life",
    "port": 443,
    "secret": "eee2a089ccf624e674b3ef3d3638a715017372762e75746b616e6f732e6c696665"
@@ -1221,5 +1231,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 244
+ "count": 246
 }
