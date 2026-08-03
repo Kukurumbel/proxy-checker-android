@@ -41,11 +41,6 @@
    "secret": "ee9e80d7b4d8395848062bf981d13fb3d3706c7567696e732e6a6574627261696e732e636f6d"
   },
   {
-   "server": "46.224.105.71",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "46.225.26.227",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -496,11 +491,6 @@
    "secret": "eecf1c1606226e0962ad67b541a145b9c6666173742e67617264656e2d74726f6c6c2e6c696665"
   },
   {
-   "server": "fast.workingproxy.xyz",
-   "port": 443,
-   "secret": "dddb688a36cd7c7b24fa0604392645bd82"
-  },
-  {
    "server": "feed.fast-proxy.ink",
    "port": 443,
    "secret": "ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b"
@@ -539,6 +529,11 @@
    "server": "fresh.t-proxy.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "ftp.jinxandjack.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "full-vasl.ir-xyz.gdhbvjshjrf.info.",
@@ -621,6 +616,11 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "gw.medblock.ink",
+   "port": 443,
+   "secret": "ee41e23c396b97e4e44caaed70ec230b3e67772e6d6564626c6f636b2e696e6b"
+  },
+  {
    "server": "gw.nowabst.net",
    "port": 853,
    "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6d"
@@ -676,14 +676,14 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "irane-man.ir.torasgskwi.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "jounob-iran-dar-ghalb-mast.simbol.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "julyy.nolags.pw",
-   "port": 443,
-   "secret": "dddb2f3df5d8f4fb7aa8e2192eff0aae98"
   },
   {
    "server": "just.hedoit.info",
@@ -771,6 +771,11 @@
    "secret": "eee302579f093caf175b1b74c8b8aa521e6c6f67696e2e76656c747572612e6469676974616c"
   },
   {
+   "server": "logs.jinxandjack.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "love.workingproxy.xyz",
    "port": 443,
    "secret": "dd275f670cdf5716dcbcf9d920645a03eb"
@@ -829,6 +834,11 @@
    "server": "media3.happtg.org",
    "port": 443,
    "secret": "ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275"
+  },
+  {
+   "server": "miravox.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "mirror.balalaika.click",
@@ -1201,6 +1211,11 @@
    "secret": "ee6b56378bbf49f5bd8552fa1e9d63bab773796e632e736176656c7965762e636c69636b"
   },
   {
+   "server": "sync.utkanos.life",
+   "port": 443,
+   "secret": "eef79990aed856d00b3f7f71bc53e19c8a73796e632e75746b616e6f732e6c696665"
+  },
+  {
    "server": "syzygy.sosun4ik.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1281,6 +1296,11 @@
    "secret": "ee8ae027f2d25e7ebe6dfae4001a9bf4d87765622e75746b616e6f732e6c696665"
   },
   {
+   "server": "webhook.jinxandjack.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "webhook.vingardium.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -1301,5 +1321,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 260
+ "count": 264
 }
