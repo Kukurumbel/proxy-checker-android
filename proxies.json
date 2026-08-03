@@ -41,6 +41,11 @@
    "secret": "ee9e80d7b4d8395848062bf981d13fb3d3706c7567696e732e6a6574627261696e732e636f6d"
   },
   {
+   "server": "46.224.105.71",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "46.225.26.227",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -149,6 +154,11 @@
    "server": "ad5.fluxvpnguard.ru",
    "port": 443,
    "secret": "ee07a0a81521da4854c2cdb837cfdaf3a46164352e666c757876706e67756172642e7275"
+  },
+  {
+   "server": "ad6.fluxvpnguard.ru",
+   "port": 443,
+   "secret": "eeb471ae1aa2e8a185ed77a4d024dd3b7f6164362e666c757876706e67756172642e7275"
   },
   {
    "server": "aerie.sosun4ik.top",
@@ -394,6 +404,11 @@
    "server": "data.savelyev.click",
    "port": 443,
    "secret": "ee4a2d96b1f28e7ceb3ca477c79fc54f8f646174612e736176656c7965762e636c69636b"
+  },
+  {
+   "server": "data.utkanos.life",
+   "port": 443,
+   "secret": "ee7a38aee8fa82112dd91b9258b059413e646174612e75746b616e6f732e6c696665"
   },
   {
    "server": "dev.nowabst.net",
@@ -674,11 +689,6 @@
    "server": "iran.click-master.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "irane-man.ir.torasgskwi.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "jounob-iran-dar-ghalb-mast.simbol.info",
@@ -1116,11 +1126,6 @@
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
-   "server": "s5.postpulse.space",
-   "port": 443,
-   "secret": "ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70"
-  },
-  {
    "server": "s6.postpulse.space",
    "port": 443,
    "secret": "ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70"
@@ -1321,5 +1326,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 264
+ "count": 265
 }
