@@ -366,6 +366,11 @@
    "secret": "dd7957f0892ff649d9649ae30df67f9b6e"
   },
   {
+   "server": "comet.veltura.digital",
+   "port": 443,
+   "secret": "eef1687354a91e481ea54138a2b17ff828636f6d65742e76656c747572612e6469676974616c"
+  },
+  {
    "server": "company.avacloud.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
@@ -684,11 +689,6 @@
    "server": "iran-khodro.denatara.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "iran.click-master.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "jounob-iran-dar-ghalb-mast.simbol.info",
@@ -1036,6 +1036,11 @@
    "secret": "ee47f87c645b2d4f5c2c2392657a7a56046f726269742e6d6564686174612e6f7267"
   },
   {
+   "server": "panel.neo-vpn.ink",
+   "port": 443,
+   "secret": "eeb4ea209a41744fcfe544c552c134b0a670616e656c2e6e656f2d76706e2e696e6b"
+  },
+  {
    "server": "pathory.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1074,6 +1079,11 @@
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
+  },
+  {
+   "server": "pulse.librava.click",
+   "port": 443,
+   "secret": "eec9f92da1377dbb1865918eb4508fc04370756c73652e6c6962726176612e636c69636b"
   },
   {
    "server": "r1.balebale.co.uk",
@@ -1124,11 +1134,6 @@
    "server": "s010.neo-trading.org",
    "port": 443,
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
-  },
-  {
-   "server": "s6.postpulse.space",
-   "port": 443,
-   "secret": "ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70"
   },
   {
    "server": "secure.gorbushkin.click",
@@ -1326,5 +1331,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 265
+ "count": 266
 }
