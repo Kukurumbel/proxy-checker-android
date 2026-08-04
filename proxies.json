@@ -41,17 +41,7 @@
    "secret": "ee9e80d7b4d8395848062bf981d13fb3d3706c7567696e732e6a6574627261696e732e636f6d"
   },
   {
-   "server": "46.225.26.227",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "62.238.35.31",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "62.238.40.18",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
@@ -74,6 +64,11 @@
    "server": "65.21.83.248",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "79.137.196.223",
+   "port": 10443,
+   "secret": "ee63fccdeb9951e5f99d66d274148278b97777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "91.107.144.16",
@@ -169,11 +164,6 @@
    "server": "api.groundfloorsolutions.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "api.medhata.org",
-   "port": 443,
-   "secret": "ee45d09a6a4d71a7c6106a95406d1063b46170692e6d6564686174612e6f7267"
   },
   {
    "server": "api.medhata.org",
@@ -801,11 +791,6 @@
    "secret": "eed9cf709eb48bb5a37471fba84864bd7e766b2e7275"
   },
   {
-   "server": "media1.happtg.org",
-   "port": 443,
-   "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
-  },
-  {
    "server": "media2.happtg.org",
    "port": 443,
    "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
@@ -1036,11 +1021,6 @@
    "secret": "ee44e44615787238844c492fb9e94eebc370726f78792e67617264656e2d74726f6c6c2e6c696665"
   },
   {
-   "server": "proxy.garden-troll.life",
-   "port": 443,
-   "secret": "ee82abb47cb1f18c94d59ccc3cfee60ae670726f78792e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
@@ -1054,11 +1034,6 @@
    "server": "r1.balebale.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "relay.neoqua.pro",
-   "port": 443,
-   "secret": "ee0c80d60043ece7878d15059a1a3180ae72656c61792e6e656f7175612e70726f"
   },
   {
    "server": "relay.neoqua.pro",
@@ -1077,11 +1052,6 @@
   },
   {
    "server": "response.aseman.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "rootssh.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
@@ -1159,6 +1129,11 @@
    "server": "srv.utkanos.life",
    "port": 443,
    "secret": "eee2a089ccf624e674b3ef3d3638a715017372762e75746b616e6f732e6c696665"
+  },
+  {
+   "server": "store.medblock.fit",
+   "port": 443,
+   "secret": "eed1ff26b13b32dfb2bbb66ac0ce3d24a373746f72652e6d6564626c6f636b2e666974"
   },
   {
    "server": "storm.gorbushkin.click",
@@ -1296,5 +1271,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 259
+ "count": 254
 }
