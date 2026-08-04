@@ -201,11 +201,6 @@
    "secret": "ee2a830e2b3d40853e9799515a616d3f4d6170702e726b6e77617463682e6469676974616c"
   },
   {
-   "server": "app.rknwatch.digital",
-   "port": 443,
-   "secret": "ee8d10c3b786b7ced3ad9d55ae882b08c36170702e726b6e77617463682e6469676974616c"
-  },
-  {
    "server": "app.what-ever.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -261,6 +256,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "blond.basicscotch.co.uk",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "bo9ss.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -274,6 +274,11 @@
    "server": "borj-pooshak-brj.aseman.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "br.nowabst.net",
+   "port": 443,
+   "secret": "eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d"
   },
   {
    "server": "br8ta.co.uk.",
@@ -1086,6 +1091,11 @@
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
+   "server": "s03.neo-trading.org",
+   "port": 443,
+   "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
+  },
+  {
    "server": "s1.postpulse.space",
    "port": 443,
    "secret": "ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70"
@@ -1149,6 +1159,11 @@
    "server": "store.garden-troll.life",
    "port": 443,
    "secret": "ee48cf7e3bd66be26a63a9215416ce776a73746f72652e67617264656e2d74726f6c6c2e6c696665"
+  },
+  {
+   "server": "store.gorbushkin.click",
+   "port": 443,
+   "secret": "ee68aa681fac5a2afac775c9e176c5cc7e73746f72652e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "storm.gorbushkin.click",
@@ -1281,5 +1296,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 256
+ "count": 259
 }
