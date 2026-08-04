@@ -186,11 +186,6 @@
    "secret": "eedd90b91e8304294087bca47546df99f16170702e6b76616b7a6f6e2e746f70"
   },
   {
-   "server": "app.kvakzon.top",
-   "port": 443,
-   "secret": "eee1a7ecfa4735b48106c11db0bd9d301e6170702e6b76616b7a6f6e2e746f70"
-  },
-  {
    "server": "app.librava.click",
    "port": 443,
    "secret": "ee24fadbac9190b1a14de671584ec04b2b6170702e6c6962726176612e636c69636b"
@@ -356,11 +351,6 @@
    "secret": "ee3fa2666ad08eb559375e0772a379be32636c6f75642e6e656f7175612e70726f"
   },
   {
-   "server": "come.workingproxy.xyz",
-   "port": 443,
-   "secret": "dd7957f0892ff649d9649ae30df67f9b6e"
-  },
-  {
    "server": "comet.veltura.digital",
    "port": 443,
    "secret": "eef1687354a91e481ea54138a2b17ff828636f6d65742e76656c747572612e6469676974616c"
@@ -384,6 +374,11 @@
    "server": "cz.nowabst.net",
    "port": 853,
    "secret": "ee19f4ad26c65891fd22cf3b7a59f0d103766b2e636f6d"
+  },
+  {
+   "server": "Damege-in.Travel-esf.manege-desktop-for.co.im.",
+   "port": 4443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "data.fast-proxy.ink",
@@ -766,11 +761,6 @@
    "secret": "ee34034689006bea8f7a157472c7403b466c6f67696e2e6b6c79756368316b2e6f7267"
   },
   {
-   "server": "login.klyuch1k.org",
-   "port": 443,
-   "secret": "ee5255cf5762ec00f92e2bb5c9656bf1866c6f67696e2e6b6c79756368316b2e6f7267"
-  },
-  {
    "server": "login.veltura.digital",
    "port": 443,
    "secret": "eee302579f093caf175b1b74c8b8aa521e6c6f67696e2e76656c747572612e6469676974616c"
@@ -978,11 +968,6 @@
   {
    "server": "node.mishkalapy.life",
    "port": 443,
-   "secret": "ee05b1fa1cf5ade2ed4052b16971b33ca46e6f64652e6d6973686b616c6170792e6c696665"
-  },
-  {
-   "server": "node.mishkalapy.life",
-   "port": 443,
    "secret": "ee75d9c434c4709d2c8f218a8a0c86b9b86e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
@@ -1004,6 +989,11 @@
    "server": "panel.neo-vpn.ink",
    "port": 443,
    "secret": "eeb4ea209a41744fcfe544c552c134b0a670616e656c2e6e656f2d76706e2e696e6b"
+  },
+  {
+   "server": "panel.toconvel.digital",
+   "port": 443,
+   "secret": "ee8c4fb86b7af800185c4811f25232d4b570616e656c2e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "pathory.co.uk.",
@@ -1079,6 +1069,11 @@
    "server": "rootssh2.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "Rudmoain.co.uk.",
+   "port": 443,
+   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "rudomain.info.",
@@ -1239,6 +1234,11 @@
    "server": "view.fleethop.online",
    "port": 443,
    "secret": "ee05a819f41fd784d0a3ad0f67013fb7a9766965772e666c656574686f702e6f6e6c696e65"
+  },
+  {
+   "server": "view.toconvel.digital",
+   "port": 443,
+   "secret": "eebf8b8e61e9360293b4c1b9e7a445861c766965772e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "wave.savelyev.click",
