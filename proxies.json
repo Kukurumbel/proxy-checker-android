@@ -67,8 +67,8 @@
   },
   {
    "server": "79.137.196.223",
-   "port": 14443,
-   "secret": "ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d"
+   "port": 15443,
+   "secret": "ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "91.107.144.16",
@@ -216,6 +216,11 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
+   "server": "app2.soluqent.pro",
+   "port": 443,
+   "secret": "eebdd28b4acf995109a0e3bba5f1d1b77c617070322e736f6c7571656e742e70726f"
+  },
+  {
    "server": "ardesvpn1.ru",
    "port": 8443,
    "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
@@ -279,6 +284,11 @@
    "server": "br8ta.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "server": "bshejsjeiwi.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "cache.fleethop.org",
@@ -371,11 +381,6 @@
    "secret": "ee411b111ad1b466245228335110a30f54636f6e6e6563742e746f636f6e76656c2e6469676974616c"
   },
   {
-   "server": "connect.toconvel.digital",
-   "port": 443,
-   "secret": "ee52fab2ac0553bbac57dd124542f285f6636f6e6e6563742e746f636f6e76656c2e6469676974616c"
-  },
-  {
    "server": "cz.nowabst.net",
    "port": 853,
    "secret": "ee19f4ad26c65891fd22cf3b7a59f0d103766b2e636f6d"
@@ -419,11 +424,6 @@
    "server": "download-iran.dinocol.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "download.lv426.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "download.strawberrybarn.co.uk.",
@@ -696,6 +696,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "lazeyka-2-5.getvelora.space",
+   "port": 443,
+   "secret": "ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275"
+  },
+  {
    "server": "lazeyka-3.getvelora.space",
    "port": 443,
    "secret": "ee1dd78b7b5132effe70cb01bef69a351a6f7a6f6e2e7275"
@@ -876,11 +881,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "most.karshenasi.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "motasel.co.uk",
    "port": 443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -976,11 +976,6 @@
    "secret": "dde5d60707998c23e890e00e0bbe5eacdd"
   },
   {
-   "server": "no.nolagsproxy.space",
-   "port": 443,
-   "secret": "dda0156514d55581d3bd4b86a324dfabde"
-  },
-  {
    "server": "node.mishkalapy.life",
    "port": 443,
    "secret": "ee05b1fa1cf5ade2ed4052b16971b33ca46e6f64652e6d6973686b616c6170792e6c696665"
@@ -1019,6 +1014,11 @@
    "server": "petrichor.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "por-tavan.ir.bsdatqodh.info.",
+   "port": 443,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "portal.balalaika.click",
@@ -1151,6 +1151,11 @@
    "secret": "eee2a089ccf624e674b3ef3d3638a715017372762e75746b616e6f732e6c696665"
   },
   {
+   "server": "store.garden-troll.life",
+   "port": 443,
+   "secret": "ee48cf7e3bd66be26a63a9215416ce776a73746f72652e67617264656e2d74726f6c6c2e6c696665"
+  },
+  {
    "server": "storm.gorbushkin.click",
    "port": 443,
    "secret": "eeaa87b45b1b713023db2c57c90ac9e1d173746f726d2e676f72627573686b696e2e636c69636b"
@@ -1192,11 +1197,6 @@
   },
   {
    "server": "tabibie.del.davazdah.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "takhasos.karshenasi.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
@@ -1256,11 +1256,6 @@
    "secret": "ee331ae197830a753bd9afd0c956fac4f37765622e75746b616e6f732e6c696665"
   },
   {
-   "server": "web.utkanos.life",
-   "port": 443,
-   "secret": "ee8ae027f2d25e7ebe6dfae4001a9bf4d87765622e75746b616e6f732e6c696665"
-  },
-  {
    "server": "webhook.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -1286,5 +1281,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 257
+ "count": 256
 }
