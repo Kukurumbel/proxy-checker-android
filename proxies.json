@@ -41,11 +41,6 @@
    "secret": "ee9e80d7b4d8395848062bf981d13fb3d3706c7567696e732e6a6574627261696e732e636f6d"
   },
   {
-   "server": "46.224.105.71",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "46.225.26.227",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -64,16 +59,6 @@
    "server": "65.108.123.76",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.108.230.201",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "65.109.218.48",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "65.21.205.29",
@@ -179,11 +164,6 @@
    "server": "api.gorbushkin.click",
    "port": 443,
    "secret": "eebeda39dcb3b3bea0da3843853002fe5a6170692e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "api.gorbushkin.click",
-   "port": 443,
-   "secret": "eeefb2b30f5db9fcb750264e9c7beea99f6170692e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "api.groundfloorsolutions.co.uk.",
@@ -306,6 +286,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "cache.fleethop.org",
+   "port": 443,
+   "secret": "ee9d2bf87ab356f3062b7d9317ebbe66b563616368652e666c656574686f702e6f7267"
+  },
+  {
    "server": "cdn.kvakzon.top",
    "port": 443,
    "secret": "ee8c9511c54296c007462dfa294a6130b363646e2e6b76616b7a6f6e2e746f70"
@@ -334,11 +319,6 @@
    "server": "chat.avacloud.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "chehsmat.ir.hadihoda.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "chelipa.co.uk.",
@@ -374,11 +354,6 @@
    "server": "company.avacloud.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "connect.savelyev.click",
-   "port": 443,
-   "secret": "ee9f2e42d8634c83c9b14511b0d28ed1d1636f6e6e6563742e736176656c7965762e636c69636b"
   },
   {
    "server": "connect.savelyev.click",
@@ -426,11 +401,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "did-domak.ir.hadihoda.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "downlload.forzajuve.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -476,11 +446,6 @@
    "secret": "eef9e42a123ee5e91b7132979afc212446656467652e726b6e77617463682e6469676974616c"
   },
   {
-   "server": "empire-of-west-asia.ir.abcyrajslklhga.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "Empire-persia.iran.hey-gardash.info.",
    "port": 1080,
    "secret": "79e344818749bd7ac519130220c25d09"
@@ -521,11 +486,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "first.iran.ir.torasgskwi.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "fleethop.online",
    "port": 443,
    "secret": "ee7b65b9f92173a83dcd4d1c5b8c1031f7666c656574686f702e6f6e6c696e65"
@@ -554,11 +514,6 @@
    "server": "ftp.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "full-vasl.ir-xyz.gdhbvjshjrf.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "gate.klyuch1k.org",
@@ -706,6 +661,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "king-of-the-world.ir.bishdhaep.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "lab.nowabst.net",
    "port": 853,
    "secret": "eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d"
@@ -789,6 +749,11 @@
    "server": "love.workingproxy.xyz",
    "port": 443,
    "secret": "dd275f670cdf5716dcbcf9d920645a03eb"
+  },
+  {
+   "server": "lunavane.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "ma.hastim.co.uk",
@@ -1176,6 +1141,11 @@
    "secret": "ee5e2379a5be43d244bd55c9b911874ec8737061726b2e6b6c79756368316b2e6f7267"
   },
   {
+   "server": "Speed-speed.co.uk.",
+   "port": 443,
+   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
    "server": "srv.medblock.fit",
    "port": 443,
    "secret": "eeec4689270e8be04e90051b374792331e7372762e6d6564626c6f636b2e666974"
@@ -1266,11 +1236,6 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "turbo-jet.balestic.ir.ghsisncbv.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "uploi1on.ir",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -1289,11 +1254,6 @@
    "server": "wave.savelyev.click",
    "port": 443,
    "secret": "eeba2e1341a08483c2cede6818498348ff776176652e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "we.are.iran.ir.abcyrajslklhga.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "web.utkanos.life",
@@ -1331,5 +1291,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 266
+ "count": 258
 }
