@@ -21,6 +21,11 @@
    "secret": "ee3aff3c6ac00f9a9b6bfe90449249953f636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "167-233-163-149.nip.io",
+   "port": 443,
+   "secret": "ee93bd45ba1c67dd629f27c65c2a222ca1646967696b616c612e636f6d"
+  },
+  {
    "server": "194.120.230.26",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -241,6 +246,11 @@
    "secret": "eecd52b1146f6670de19bc5bf189d1ab58626573742d70726f78792e696e6b"
   },
   {
+   "server": "best.router.iran.ir.bishdhaep.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "best7uer.co.uk",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -334,11 +344,6 @@
    "server": "cloud.neoqua.pro",
    "port": 443,
    "secret": "ee030089cc0dcc47eab9137c31a92a8ad9636c6f75642e6e656f7175612e70726f"
-  },
-  {
-   "server": "cloud.neoqua.pro",
-   "port": 443,
-   "secret": "ee3fa2666ad08eb559375e0772a379be32636c6f75642e6e656f7175612e70726f"
   },
   {
    "server": "comet.veltura.digital",
@@ -514,11 +519,6 @@
    "server": "gate.klyuch1k.org",
    "port": 443,
    "secret": "ee6a1dd0bd4f3bfd9536133cbed1465908676174652e6b6c79756368316b2e6f7267"
-  },
-  {
-   "server": "gate.soluqent.pro",
-   "port": 443,
-   "secret": "ee96a8aa8b9bb29061b2edc1b0821fd5d5676174652e736f6c7571656e742e70726f"
   },
   {
    "server": "gate.soluqent.pro",
@@ -703,11 +703,6 @@
   {
    "server": "link.mishkalapy.life",
    "port": 443,
-   "secret": "ee593055789a7706cf0634b2ca4acb8f046c696e6b2e6d6973686b616c6170792e6c696665"
-  },
-  {
-   "server": "link.mishkalapy.life",
-   "port": 443,
    "secret": "ee943031c5687da2dc848bf7582bf801496c696e6b2e6d6973686b616c6170792e6c696665"
   },
   {
@@ -801,14 +796,14 @@
    "secret": "ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275"
   },
   {
+   "server": "milion.users.ir.bishdhaep.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "miravox.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "mirror.balalaika.click",
-   "port": 443,
-   "secret": "ee82514fa3e992fa79f3fd3bff4db750116d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
    "server": "mirror.balalaika.click",
@@ -888,11 +883,6 @@
   {
    "server": "net.antitspu.com",
    "port": 443,
-   "secret": "ee6a993b83cd2e872361ed136b4e7b28146e65742e616e7469747370752e636f6d"
-  },
-  {
-   "server": "net.antitspu.com",
-   "port": 443,
    "secret": "ee7430e87bc3324e17e44d00c033f428946e65742e616e7469747370752e636f6d"
   },
   {
@@ -959,11 +949,6 @@
    "server": "portal.balalaika.click",
    "port": 443,
    "secret": "ee3c7b046d6a7b00b2c910cd755314eb2e706f7274616c2e62616c616c61696b612e636c69636b"
-  },
-  {
-   "server": "portal.balalaika.click",
-   "port": 443,
-   "secret": "eec5e0b6eade04d838e3af484c380745e4706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
    "server": "portal.malevich7.top",
@@ -1151,6 +1136,11 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "tg2.goingflux.online",
+   "port": 8443,
+   "secret": "ee39f2f36ec93338eae372566cb078c0aa7467322e676f696e67666c75782e6f6e6c696e65"
+  },
+  {
    "server": "tg5dd5d6eb.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
@@ -1174,16 +1164,6 @@
    "server": "tge0a4dd98.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
-   "server": "ultra.iran.1.ir.bsdatqodh.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "ultra.iran.2.ir.bsdatqodh.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "uploi1on.ir",
@@ -1251,5 +1231,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 250
+ "count": 246
 }
