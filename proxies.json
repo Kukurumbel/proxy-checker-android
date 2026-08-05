@@ -261,6 +261,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "bezan-roo.connectina.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "blond.basicscotch.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -431,11 +436,6 @@
    "secret": "ee0ebef71c35ce1a4a44b6f47e86877c88656467652e6c6962726176612e636c69636b"
   },
   {
-   "server": "edge.librava.click",
-   "port": 443,
-   "secret": "eea12fcf17bd87579f5063dfb4c28e4761656467652e6c6962726176612e636c69636b"
-  },
-  {
    "server": "edge.rknwatch.digital",
    "port": 443,
    "secret": "ee4227e9ce17eeaa6676f85ec9528417bd656467652e726b6e77617463682e6469676974616c"
@@ -459,11 +459,6 @@
    "server": "fast.garden-troll.life",
    "port": 443,
    "secret": "eea1b3e6109d6c26deab710db432bc7a39666173742e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
-   "server": "fast.garden-troll.life",
-   "port": 443,
-   "secret": "eecf1c1606226e0962ad67b541a145b9c6666173742e67617264656e2d74726f6c6c2e6c696665"
   },
   {
    "server": "feed.fast-proxy.ink",
@@ -636,9 +631,19 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "iran-download.shentaichiacademy.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "iran-khodro.denatara.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "iran.lv426.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "just.hedoit.info",
@@ -689,11 +694,6 @@
    "server": "lazeyka-6.getvelora.space",
    "port": 443,
    "secret": "ee46da8bea792f6be81e42e3afff691a006f7a6f6e2e7275"
-  },
-  {
-   "server": "link.freetg.pw",
-   "port": 443,
-   "secret": "ee0130a860a634590d543496ced923a18a6c696e6b2e6672656574672e7077"
   },
   {
    "server": "link.freetg.pw",
@@ -1028,17 +1028,17 @@
   {
    "server": "secure.medhata.org",
    "port": 443,
-   "secret": "ee9631908b49893251e56a84c32b9407ca7365637572652e6d6564686174612e6f7267"
-  },
-  {
-   "server": "secure.medhata.org",
-   "port": 443,
    "secret": "eedf3956f76ab923f6f432a06cd6f9ab537365637572652e6d6564686174612e6f7267"
   },
   {
    "server": "server.nl-arvancloud.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "siri.rhymeslive.online",
+   "port": 443,
+   "secret": "ddaed7c30ad0cf4a3cd27eca1a649de5d2"
   },
   {
    "server": "sisu.proxytales.life",
@@ -1226,10 +1226,15 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "zomb0m.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
    "server": "zon-b0z.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 246
+ "count": 247
 }
