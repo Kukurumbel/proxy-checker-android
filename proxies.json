@@ -51,11 +51,6 @@
    "secret": "ee9e80d7b4d8395848062bf981d13fb3d3706c7567696e732e6a6574627261696e732e636f6d"
   },
   {
-   "server": "62.238.35.31",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "65.108.123.76",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -196,11 +191,6 @@
    "secret": "eea1eceac9a9088b02d582d0ca99d9365e6170702e6c6962726176612e636c69636b"
   },
   {
-   "server": "app.rknwatch.digital",
-   "port": 443,
-   "secret": "ee2a830e2b3d40853e9799515a616d3f4d6170702e726b6e77617463682e6469676974616c"
-  },
-  {
    "server": "app.what-ever.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -314,11 +304,6 @@
    "server": "cdn.savelyev.click",
    "port": 443,
    "secret": "ee2d9508afda3c91ec2ce75e2e0916437c63646e2e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "cdn.savelyev.click",
-   "port": 443,
-   "secret": "ee47db8cfb73a38af6c54d8976432e265863646e2e736176656c7965762e636c69636b"
   },
   {
    "server": "cdn.toconvel.digital",
@@ -596,11 +581,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "hello.nolagsproxy.space",
-   "port": 443,
-   "secret": "dd23c4f3442902ef41986fda3e819c1417"
-  },
-  {
    "server": "hide.he6fhd.ru",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -751,14 +731,14 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "love.workingproxy.xyz",
-   "port": 443,
-   "secret": "dd275f670cdf5716dcbcf9d920645a03eb"
-  },
-  {
    "server": "lunavane.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "server": "ma.hastim.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "main.muffinnoliershatelcomingsoon.co.uk.",
@@ -826,19 +806,9 @@
    "secret": "ee8a3854e4a2195faa6e10297354425e3e6d6972726f722e6d616c6576696368372e746f70"
   },
   {
-   "server": "miz.tashkilat.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "mizaneshgh2.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "mobleman.tashkilat.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "Mohsen.mtprotonewniceasiashatel.co.uk",
@@ -1246,5 +1216,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 249
+ "count": 243
 }
