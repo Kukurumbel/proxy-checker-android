@@ -26,6 +26,11 @@
    "secret": "ee93bd45ba1c67dd629f27c65c2a222ca1646967696b616c612e636f6d"
   },
   {
+   "server": "194.120.230.106",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "194.120.230.26",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -74,11 +79,6 @@
    "server": "79.137.196.223",
    "port": 15443,
    "secret": "ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "91.107.144.16",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "95.217.193.223",
@@ -649,11 +649,6 @@
    "server": "just.hedoit.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "khodeshe.ir.abcyrajslklhga.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "king-of-the-world.ir.bishdhaep.info.",
@@ -1236,5 +1231,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 247
+ "count": 246
 }
