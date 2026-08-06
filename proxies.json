@@ -67,6 +67,11 @@
   },
   {
    "server": "79.137.196.223",
+   "port": 13443,
+   "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "79.137.196.223",
    "port": 15443,
    "secret": "ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d"
   },
@@ -131,6 +136,11 @@
    "secret": "ee07a0a81521da4854c2cdb837cfdaf3a46164352e666c757876706e67756172642e7275"
   },
   {
+   "server": "ad6.arixo.shop",
+   "port": 443,
+   "secret": "ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70"
+  },
+  {
    "server": "ad6.fluxvpnguard.ru",
    "port": 443,
    "secret": "eeb471ae1aa2e8a185ed77a4d024dd3b7f6164362e666c757876706e67756172642e7275"
@@ -171,6 +181,11 @@
    "secret": "ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d"
   },
   {
+   "server": "api2.librava.click",
+   "port": 443,
+   "secret": "eefe7ba3f6b7394b86e9d451e0070f5ffa617069322e6c6962726176612e636c69636b"
+  },
+  {
    "server": "app.kvakzon.top",
    "port": 443,
    "secret": "eedd90b91e8304294087bca47546df99f16170702e6b76616b7a6f6e2e746f70"
@@ -181,14 +196,14 @@
    "secret": "eea1eceac9a9088b02d582d0ca99d9365e6170702e6c6962726176612e636c69636b"
   },
   {
+   "server": "app2.balalaika.click",
+   "port": 443,
+   "secret": "eed9b0b0ac3fd7e46156e587054280b119617070322e62616c616c61696b612e636c69636b"
+  },
+  {
    "server": "app2.soluqent.pro",
    "port": 443,
    "secret": "eebdd28b4acf995109a0e3bba5f1d1b77c617070322e736f6c7571656e742e70726f"
-  },
-  {
-   "server": "ardesvpn1.ru",
-   "port": 8443,
-   "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
   },
   {
    "server": "bastani.mikham.co.uk",
@@ -289,6 +304,11 @@
    "server": "cdn.toconvel.digital",
    "port": 443,
    "secret": "ee4595f21d721fd1bcce9bad30d444a8e963646e2e746f636f6e76656c2e6469676974616c"
+  },
+  {
+   "server": "cdn2.librava.click",
+   "port": 443,
+   "secret": "ee949089dd5eebdb2db7a13f24e981b7d563646e322e6c6962726176612e636c69636b"
   },
   {
    "server": "chai.mikham.co.uk",
@@ -651,6 +671,11 @@
    "secret": "ee46da8bea792f6be81e42e3afff691a006f7a6f6e2e7275"
   },
   {
+   "server": "lazeyka-7.getvelora.space",
+   "port": 443,
+   "secret": "ee6217d45aebe10e6574ed4638d84a55016f7a6f6e2e7275"
+  },
+  {
    "server": "link.freetg.pw",
    "port": 443,
    "secret": "ee4e7876eb70f44497a42304458f56d36c6c696e6b2e6672656574672e7077"
@@ -866,9 +891,9 @@
    "secret": "ee0bbeba170f295eef00b7b9be814e218b6e6f6465322e6c6962726176612e636c69636b"
   },
   {
-   "server": "OH.OH.Speed-proxy.com",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+   "server": "offers.wrenshire.co.uk",
+   "port": 7980,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "opeenhostings.co.uk.",
@@ -1121,17 +1146,7 @@
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-   "server": "tg9f28144b.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
    "server": "tgb92cf27d.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
-   "server": "tge0a4dd98.koshkaproxy.shop",
    "port": 443,
    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
@@ -1156,6 +1171,11 @@
    "secret": "eebf8b8e61e9360293b4c1b9e7a445861c766965772e746f636f6e76656c2e6469676974616c"
   },
   {
+   "server": "w.bestproxy.icu",
+   "port": 8443,
+   "secret": "ee27b0ae91a7a96aa0c1359f5fa060d1ee772e6265737470726f78792e696375"
+  },
+  {
    "server": "wave.savelyev.click",
    "port": 443,
    "secret": "eeba2e1341a08483c2cede6818498348ff776176652e736176656c7965762e636c69636b"
@@ -1171,9 +1191,24 @@
    "secret": "ee331ae197830a753bd9afd0c956fac4f37765622e75746b616e6f732e6c696665"
   },
   {
+   "server": "web2.balalaika.click",
+   "port": 443,
+   "secret": "ee850cfafb13d00ecd5403073cecec2de0776562322e62616c616c61696b612e636c69636b"
+  },
+  {
    "server": "webhook.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "webhook.what-ever.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "wisp.slarkfat.icu",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "yes.nolagsproxy.space",
@@ -1196,5 +1231,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 239
+ "count": 246
 }
