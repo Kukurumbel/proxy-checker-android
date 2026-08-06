@@ -146,11 +146,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "aghaye.aseman.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "api-web.asiaadomainsshatelhamrahaval.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
@@ -197,11 +192,6 @@
   },
   {
    "server": "bastani.mikham.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "beer.crona-extra.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
@@ -401,6 +391,16 @@
    "secret": "ee4227e9ce17eeaa6676f85ec9528417bd656467652e726b6e77617463682e6469676974616c"
   },
   {
+   "server": "edge2.librava.click",
+   "port": 443,
+   "secret": "ee4cac1442f878b9c522cf77e7cc47dd8765646765322e6c6962726176612e636c69636b"
+  },
+  {
+   "server": "eerie.proxytales.life",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "Empire-persia.iran.hey-gardash.info.",
    "port": 1080,
    "secret": "79e344818749bd7ac519130220c25d09"
@@ -434,6 +434,11 @@
    "server": "feed.toconvel.digital",
    "port": 443,
    "secret": "eef27d554138e7e6b9551f34438ce2a307666565642e746f636f6e76656c2e6469676974616c"
+  },
+  {
+   "server": "feed.veltura.digital",
+   "port": 443,
+   "secret": "eedf74bc084ecbb6a09e9b8e00815673a2666565642e76656c747572612e6469676974616c"
   },
   {
    "server": "Fighter-Man.ir-proxy.Manege-Desktop-For.Co.Im.",
@@ -856,6 +861,16 @@
    "secret": "ee75d9c434c4709d2c8f218a8a0c86b9b86e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
+   "server": "node2.librava.click",
+   "port": 443,
+   "secret": "ee0bbeba170f295eef00b7b9be814e218b6e6f6465322e6c6962726176612e636c69636b"
+  },
+  {
+   "server": "OH.OH.Speed-proxy.com",
+   "port": 443,
+   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
    "server": "opeenhostings.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -936,14 +951,14 @@
    "secret": "eeb15329fb8c778aeb1b5fdd0b9d79786972656c6179322e746f636f6e76656c2e6469676974616c"
   },
   {
+   "server": "relay2.veltura.digital",
+   "port": 443,
+   "secret": "ee7a7b5085a44f96351b778848356e89f172656c6179322e76656c747572612e6469676974616c"
+  },
+  {
    "server": "relaywise.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "response.aseman.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "Rudmoain.co.uk.",
@@ -1181,5 +1196,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 236
+ "count": 239
 }
