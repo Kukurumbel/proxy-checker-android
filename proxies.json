@@ -381,6 +381,11 @@
    "secret": "ee7a38aee8fa82112dd91b9258b059413e646174612e75746b616e6f732e6c696665"
   },
   {
+   "server": "delbaz.wrenshire.co.uk",
+   "port": 9870,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "dev.nowabst.net",
    "port": 853,
    "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
@@ -391,16 +396,6 @@
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "downlload.forzajuve.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "downloaad.forzajuve.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "download-iran.dinocol.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -409,11 +404,6 @@
    "server": "download.brettanderson.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "download.strawberrybarn.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "drift.garden-troll.life",
@@ -571,11 +561,6 @@
    "secret": "ee41e23c396b97e4e44caaed70ec230b3e67772e6d6564626c6f636b2e696e6b"
   },
   {
-   "server": "gw.nowabst.net",
-   "port": 853,
-   "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6d"
-  },
-  {
    "server": "Hel-hi.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -604,6 +589,11 @@
    "server": "icon.davazdah.info",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "idyll.shmelproxy.top",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "ikco.denatara.info",
@@ -1001,6 +991,11 @@
    "secret": "ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70"
   },
   {
+   "server": "s2.postpulse.space",
+   "port": 443,
+   "secret": "ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70"
+  },
+  {
    "server": "secure.gorbushkin.click",
    "port": 443,
    "secret": "eeed4571b8d9273dcfacc0d1f23062ad627365637572652e676f72627573686b696e2e636c69636b"
@@ -1216,5 +1211,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 243
+ "count": 242
 }
