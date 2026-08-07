@@ -41,16 +41,6 @@
    "secret": "eed6662c1fb60871326543681c1fce09c93330613164652e636f726563646e2e6e6574"
   },
   {
-   "server": "31.77.170.81",
-   "port": 443,
-   "secret": "0ba74e43242b21bcd12a344e514de930"
-  },
-  {
-   "server": "31.77.170.81",
-   "port": 2443,
-   "secret": "ee9e80d7b4d8395848062bf981d13fb3d3706c7567696e732e6a6574627261696e732e636f6d"
-  },
-  {
    "server": "500245.hopwire.io",
    "port": 443,
    "secret": "ee06342713da7e66863b8d0f70d93d145a3530303234352e686f70776972652e696f"
@@ -329,6 +319,16 @@
    "server": "cdn.toconvel.digital",
    "port": 443,
    "secret": "ee4595f21d721fd1bcce9bad30d444a8e963646e2e746f636f6e76656c2e6469676974616c"
+  },
+  {
+   "server": "cdn1.legacdn.com",
+   "port": 443,
+   "secret": "eea990d0794c43c68cdd51caea31e4e957706574726f766963682e7275"
+  },
+  {
+   "server": "cdn2.legacdn.com",
+   "port": 443,
+   "secret": "ee4746d4ee69873099c9d0abd64656c261706574726f766963682e7275"
   },
   {
    "server": "cdn2.librava.click",
@@ -801,11 +801,6 @@
    "secret": "eea0398370ab267aa0164231325beb48866d6972726f722e62616c616c61696b612e636c69636b"
   },
   {
-   "server": "mirror.malevich7.top",
-   "port": 443,
-   "secret": "ee8a3854e4a2195faa6e10297354425e3e6d6972726f722e6d616c6576696368372e746f70"
-  },
-  {
    "server": "mizaneshgh2.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1221,5 +1216,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 244
+ "count": 243
 }
