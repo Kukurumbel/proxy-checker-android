@@ -651,11 +651,6 @@
    "secret": "ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275"
   },
   {
-   "server": "lazeyka-3.getvelora.space",
-   "port": 443,
-   "secret": "ee1dd78b7b5132effe70cb01bef69a351a6f7a6f6e2e7275"
-  },
-  {
    "server": "lazeyka-4.getvelora.space",
    "port": 443,
    "secret": "ee8cb9b7ded45502a4f153299a621a9d3d6f7a6f6e2e7275"
@@ -854,11 +849,6 @@
    "server": "net.freetg.pw",
    "port": 443,
    "secret": "ee8b72221452c3545c5a1fe1a9358cf4996e65742e6672656574672e7077"
-  },
-  {
-   "server": "net.pelmeshka.top",
-   "port": 443,
-   "secret": "ee2e70efdb3ae33dd0c1d1db1ae6930b986e65742e70656c6d6573686b612e746f70"
   },
   {
    "server": "net2.balalaika.click",
@@ -1156,6 +1146,11 @@
    "secret": "eebf8b8e61e9360293b4c1b9e7a445861c766965772e746f636f6e76656c2e6469676974616c"
   },
   {
+   "server": "ving.mozitop.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "w.bestproxy.icu",
    "port": 8443,
    "secret": "ee27b0ae91a7a96aa0c1359f5fa060d1ee772e6265737470726f78792e696375"
@@ -1211,5 +1206,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 242
+ "count": 241
 }
