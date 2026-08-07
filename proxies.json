@@ -77,6 +77,11 @@
   },
   {
    "server": "79.137.196.223",
+   "port": 3443,
+   "secret": "eeee33159ebd0ee0dcafef811a9bc7c2ab8d7777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "79.137.196.223",
    "port": 13443,
    "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
   },
@@ -274,6 +279,11 @@
    "server": "blond.basicscotch.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "bo0ji.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "bolt.utkanos.life",
@@ -971,6 +981,11 @@
    "secret": "eec9f92da1377dbb1865918eb4508fc04370756c73652e6c6962726176612e636c69636b"
   },
   {
+   "server": "puot.mozitop.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "relay.neoqua.pro",
    "port": 443,
    "secret": "ee435cece0e7e4d6eed7bcce13ab6e03ca72656c61792e6e656f7175612e70726f"
@@ -1216,5 +1231,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 243
+ "count": 246
 }
