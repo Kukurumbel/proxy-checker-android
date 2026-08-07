@@ -156,6 +156,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "alo.clare-flare-ow.store.",
+   "port": 25565,
+   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
    "server": "api-web.asiaadomainsshatelhamrahaval.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
@@ -261,11 +266,6 @@
    "secret": "eef95e045a22aaf9eb151db0e053c664a1626f6c742e75746b616e6f732e6c696665"
   },
   {
-   "server": "borj-pooshak-brj.aseman.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "br.nowabst.net",
    "port": 443,
    "secret": "eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d"
@@ -346,11 +346,6 @@
    "secret": "ee411b111ad1b466245228335110a30f54636f6e6e6563742e746f636f6e76656c2e6469676974616c"
   },
   {
-   "server": "cz.nowabst.net",
-   "port": 853,
-   "secret": "ee19f4ad26c65891fd22cf3b7a59f0d103766b2e636f6d"
-  },
-  {
    "server": "Damege-in.Travel-esf.manege-desktop-for.co.im.",
    "port": 4443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -411,6 +406,11 @@
    "secret": "ee4227e9ce17eeaa6676f85ec9528417bd656467652e726b6e77617463682e6469676974616c"
   },
   {
+   "server": "edge2.kvakzon.top",
+   "port": 443,
+   "secret": "ee20bbcc380fdac84955f282e9bbbf2fe665646765322e6b76616b7a6f6e2e746f70"
+  },
+  {
    "server": "edge2.librava.click",
    "port": 443,
    "secret": "ee4cac1442f878b9c522cf77e7cc47dd8765646765322e6c6962726176612e636c69636b"
@@ -439,6 +439,11 @@
    "server": "fast.garden-troll.life",
    "port": 443,
    "secret": "eea1b3e6109d6c26deab710db432bc7a39666173742e67617264656e2d74726f6c6c2e6c696665"
+  },
+  {
+   "server": "fast.proxygo.fun",
+   "port": 8443,
+   "secret": "eef30fe399bee638d966119d832d41c95f666173742e70726f7879676f2e66756e"
   },
   {
    "server": "feed.fast-proxy.ink",
@@ -511,11 +516,6 @@
    "secret": "ee2b6ff159a6a5c04594a65f07f2915ceb676174652e76656c747572612e6469676974616c"
   },
   {
-   "server": "ge.nowabst.net",
-   "port": 853,
-   "secret": "ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d"
-  },
-  {
    "server": "get.utkanos.life",
    "port": 443,
    "secret": "ee224ba1832c132b3c61d3ab5772a9c2776765742e75746b616e6f732e6c696665"
@@ -574,6 +574,11 @@
    "server": "hide.he6fhd.ru",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "hub.malevich7.top",
+   "port": 443,
+   "secret": "ee70a15655ef1b039280d02dde202d40126875622e6d616c6576696368372e746f70"
   },
   {
    "server": "hub.neo-vpn.ink",
@@ -741,11 +746,6 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "medblock.fit",
-   "port": 443,
-   "secret": "ee56f78cfdeedfc4562c048fe36e92f8976d6564626c6f636b2e666974"
-  },
-  {
    "server": "medblock.ink",
    "port": 443,
    "secret": "ee48995b34487bfb1cb562552a585da0ea6d6564626c6f636b2e696e6b"
@@ -846,6 +846,11 @@
    "secret": "eea40b9cca8c9d1e4eba3c50c16d38358a6e656f2d76706e2e696e6b"
   },
   {
+   "server": "neo.nowabst.net",
+   "port": 853,
+   "secret": "eef1a6f37d0802344061235bb7d60f3fa4766b2e636f6d"
+  },
+  {
    "server": "net.antitspu.com",
    "port": 443,
    "secret": "ee24918e3782cee00f652c0018f2867ffd6e65742e616e7469747370752e636f6d"
@@ -876,11 +881,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "night.workingproxy.xyz",
-   "port": 443,
-   "secret": "dde5d60707998c23e890e00e0bbe5eacdd"
-  },
-  {
    "server": "node.mishkalapy.life",
    "port": 443,
    "secret": "ee75d9c434c4709d2c8f218a8a0c86b9b86e6f64652e6d6973686b616c6170792e6c696665"
@@ -909,6 +909,11 @@
    "server": "orbit.medhata.org",
    "port": 443,
    "secret": "ee47f87c645b2d4f5c2c2392657a7a56046f726269742e6d6564686174612e6f7267"
+  },
+  {
+   "server": "panel.freetg.pw",
+   "port": 443,
+   "secret": "ee0d18bcfe9171e107485beab84de36de670616e656c2e6672656574672e7077"
   },
   {
    "server": "panel.neo-vpn.ink",
@@ -1126,29 +1131,9 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "tabibie.del.davazdah.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "tg2.goingflux.online",
    "port": 8443,
    "secret": "ee39f2f36ec93338eae372566cb078c0aa7467322e676f696e67666c75782e6f6e6c696e65"
-  },
-  {
-   "server": "tg5dd5d6eb.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
-   "server": "tg98d29b25.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
-  },
-  {
-   "server": "tgb92cf27d.koshkaproxy.shop",
-   "port": 443,
-   "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
    "server": "uploi1on.ir",
@@ -1231,5 +1216,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 246
+ "count": 243
 }
