@@ -1036,6 +1036,11 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "severjadid.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "siri.rhymeslive.online",
    "port": 443,
    "secret": "ddaed7c30ad0cf4a3cd27eca1a649de5d2"
@@ -1194,11 +1199,6 @@
    "server": "wisp.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "yes.nolagsproxy.space",
-   "port": 443,
-   "secret": "ddf171e4eef563774e776868281d3f51ef"
   },
   {
    "server": "zilch.chunkycorp.shop",
