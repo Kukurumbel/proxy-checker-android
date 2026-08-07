@@ -186,11 +186,6 @@
    "secret": "eebeda39dcb3b3bea0da3843853002fe5a6170692e676f72627573686b696e2e636c69636b"
   },
   {
-   "server": "api.groundfloorsolutions.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "api.medhata.org",
    "port": 443,
    "secret": "ee5c217c92452f93b4fdad6a1146ba74a56170692e6d6564686174612e6f7267"
@@ -1214,6 +1209,11 @@
    "server": "wisp.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "yundex-pro.cat-beutifull-sirooss.co.im.",
+   "port": 4443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "zilch.chunkycorp.shop",
