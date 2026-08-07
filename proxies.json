@@ -691,6 +691,11 @@
    "secret": "ee6217d45aebe10e6574ed4638d84a55016f7a6f6e2e7275"
   },
   {
+   "server": "lazeyka-8.getvelora.space",
+   "port": 443,
+   "secret": "ee45ce57c60e086edc76190ab6879abc136f7a6f6e2e7275"
+  },
+  {
    "server": "link.freetg.pw",
    "port": 443,
    "secret": "ee4e7876eb70f44497a42304458f56d36c6c696e6b2e6672656574672e7077"
@@ -1036,6 +1041,11 @@
    "secret": "ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70"
   },
   {
+   "server": "s5.postpulse.space",
+   "port": 443,
+   "secret": "ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70"
+  },
+  {
    "server": "secure.gorbushkin.click",
    "port": 443,
    "secret": "eeed4571b8d9273dcfacc0d1f23062ad627365637572652e676f72627573686b696e2e636c69636b"
@@ -1119,11 +1129,6 @@
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "super.sub-ploter.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "surge.antitspu.com",
@@ -1231,5 +1236,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 246
+ "count": 247
 }
