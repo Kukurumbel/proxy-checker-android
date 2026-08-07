@@ -181,11 +181,6 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
-   "server": "api.gorbushkin.click",
-   "port": 443,
-   "secret": "eebeda39dcb3b3bea0da3843853002fe5a6170692e676f72627573686b696e2e636c69636b"
-  },
-  {
    "server": "api.medhata.org",
    "port": 443,
    "secret": "ee5c217c92452f93b4fdad6a1146ba74a56170692e6d6564686174612e6f7267"
@@ -396,11 +391,6 @@
    "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
   },
   {
-   "server": "developer.davazdah.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "download-iran.dinocol.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -609,11 +599,6 @@
    "server": "hub.utkanos.life",
    "port": 443,
    "secret": "eee1d83173973b66435714792849c716dc6875622e75746b616e6f732e6c696665"
-  },
-  {
-   "server": "icon.davazdah.info",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "idyll.shmelproxy.top",
@@ -1226,5 +1211,5 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
  ],
- "count": 245
+ "count": 242
 }
