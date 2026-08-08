@@ -201,11 +201,6 @@
    "secret": "eedd90b91e8304294087bca47546df99f16170702e6b76616b7a6f6e2e746f70"
   },
   {
-   "server": "app.librava.click",
-   "port": 443,
-   "secret": "eea1eceac9a9088b02d582d0ca99d9365e6170702e6c6962726176612e636c69636b"
-  },
-  {
    "server": "app2.balalaika.click",
    "port": 443,
    "secret": "eed9b0b0ac3fd7e46156e587054280b119617070322e62616c616c61696b612e636c69636b"
@@ -396,11 +391,6 @@
    "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
   },
   {
-   "server": "download-iran.dinocol.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "download.brettanderson.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -491,11 +481,6 @@
    "secret": "eebdbd1f66a7c00e7bf92c6436d457861d676174652e736f6c7571656e742e70726f"
   },
   {
-   "server": "gate.veltura.digital",
-   "port": 443,
-   "secret": "ee2b6ff159a6a5c04594a65f07f2915ceb676174652e76656c747572612e6469676974616c"
-  },
-  {
    "server": "get.utkanos.life",
    "port": 443,
    "secret": "ee224ba1832c132b3c61d3ab5772a9c2776765742e75746b616e6f732e6c696665"
@@ -574,11 +559,6 @@
    "server": "idyll.shmelproxy.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "iran-download.dinocol.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "iran-download.fourie.co.uk.",
@@ -946,6 +926,11 @@
    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
   },
   {
+   "server": "proxy.whiteproxy.baby",
+   "port": 443,
+   "secret": "dd7815244840ab293a65f83fc16bb0234e"
+  },
+  {
    "server": "pulse.librava.click",
    "port": 443,
    "secret": "eec9f92da1377dbb1865918eb4508fc04370756c73652e6c6962726176612e636c69636b"
@@ -1216,5 +1201,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 243
+ "count": 240
 }
