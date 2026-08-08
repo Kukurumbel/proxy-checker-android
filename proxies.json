@@ -411,11 +411,6 @@
    "secret": "eeb72b1155b05bca4426d88e55585983e464726966742e67617264656e2d74726f6c6c2e6c696665"
   },
   {
-   "server": "edge.librava.click",
-   "port": 443,
-   "secret": "ee0ebef71c35ce1a4a44b6f47e86877c88656467652e6c6962726176612e636c69636b"
-  },
-  {
    "server": "edge2.kvakzon.top",
    "port": 443,
    "secret": "ee20bbcc380fdac84955f282e9bbbf2fe665646765322e6b76616b7a6f6e2e746f70"
@@ -704,11 +699,6 @@
    "server": "login.klyuch1k.org",
    "port": 443,
    "secret": "ee34034689006bea8f7a157472c7403b466c6f67696e2e6b6c79756368316b2e6f7267"
-  },
-  {
-   "server": "login.veltura.digital",
-   "port": 443,
-   "secret": "eee302579f093caf175b1b74c8b8aa521e6c6f67696e2e76656c747572612e6469676974616c"
   },
   {
    "server": "logs.jinxandjack.co.uk.",
@@ -1226,5 +1216,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 243
 }
