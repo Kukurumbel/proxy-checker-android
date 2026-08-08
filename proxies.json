@@ -16,14 +16,14 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "138.124.113.201",
-   "port": 443,
-   "secret": "ee3aff3c6ac00f9a9b6bfe90449249953f636c6f7564666c6172652e636f6d"
-  },
-  {
    "server": "167-233-163-149.nip.io",
    "port": 443,
    "secret": "ee93bd45ba1c67dd629f27c65c2a222ca1646967696b616c612e636f6d"
+  },
+  {
+   "server": "168.119.142.41",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "194.120.230.106",
@@ -239,11 +239,6 @@
    "server": "best-proxy.ink",
    "port": 443,
    "secret": "ee041a76d99194e7dda929e9379d686cd2626573742d70726f78792e696e6b"
-  },
-  {
-   "server": "best-proxy.ink",
-   "port": 443,
-   "secret": "ee3646eba8c65e0e1d4804a7f9caa6531d626573742d70726f78792e696e6b"
   },
   {
    "server": "best.router.iran.ir.bishdhaep.info.",
@@ -1216,5 +1211,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 243
+ "count": 242
 }
