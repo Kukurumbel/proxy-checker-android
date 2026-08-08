@@ -286,11 +286,6 @@
    "secret": "eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d"
   },
   {
-   "server": "br8ta.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "c12dfd.vpngate-cloud.net",
    "port": 443,
    "secret": "eed10acacf18fc72b11dc0b166d72a68536331326466642e76706e676174652d636c6f75642e6e6574"
@@ -1236,5 +1231,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 247
+ "count": 246
 }
