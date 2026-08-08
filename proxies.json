@@ -16,14 +16,14 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "135.181.74.178",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "167-233-163-149.nip.io",
    "port": 443,
    "secret": "ee93bd45ba1c67dd629f27c65c2a222ca1646967696b616c612e636f6d"
-  },
-  {
-   "server": "168.119.142.41",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "194.120.230.106",
@@ -299,11 +299,6 @@
    "server": "cdf419.mtpfast.com",
    "port": 443,
    "secret": "ee83c4a8430423b9e487366817979d585a6364663431392e6d7470666173742e636f6d"
-  },
-  {
-   "server": "cdn.kvakzon.top",
-   "port": 443,
-   "secret": "ee8c9511c54296c007462dfa294a6130b363646e2e6b76616b7a6f6e2e746f70"
   },
   {
    "server": "cdn.toconvel.digital",
@@ -919,6 +914,11 @@
    "server": "phloe.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "please.workingproxy.xyz",
+   "port": 443,
+   "secret": "dd82072d16cfe4355b088c61cd897d0533"
   },
   {
    "server": "portal.balalaika.click",
