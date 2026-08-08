@@ -36,6 +36,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "21.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "30a1de.corecdn.net",
    "port": 443,
    "secret": "eed6662c1fb60871326543681c1fce09c93330613164652e636f726563646e2e6e6574"
@@ -681,6 +686,21 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "lwsite.top",
+   "port": 443,
+   "secret": "8d4a38291bd244150ccf97f0acac64f8"
+  },
+  {
+   "server": "lwsite.top",
+   "port": 443,
+   "secret": "dafa8248f6c6d8f69241d8bfb1278793"
+  },
+  {
+   "server": "M.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk",
+   "port": 80,
+   "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ=="
+  },
+  {
    "server": "ma.hastim.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -846,6 +866,16 @@
    "secret": "ee0bbeba170f295eef00b7b9be814e218b6e6f6465322e6c6962726176612e636c69636b"
   },
   {
+   "server": "noise.hajikalashatelservieshamrahavalcandy.co.uk",
+   "port": 80,
+   "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ%3D%3D"
+  },
+  {
+   "server": "noise.hajikalashatelservieshamrahavalcandy.co.uk",
+   "port": 80,
+   "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ=="
+  },
+  {
    "server": "offers.wrenshire.co.uk",
    "port": 7980,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -994,11 +1024,6 @@
    "server": "secure.medhata.org",
    "port": 443,
    "secret": "eedf3956f76ab923f6f432a06cd6f9ab537365637572652e6d6564686174612e6f7267"
-  },
-  {
-   "server": "server.nl-arvancloud.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "severjadid.co.uk",
@@ -1191,5 +1216,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 238
+ "count": 243
 }
