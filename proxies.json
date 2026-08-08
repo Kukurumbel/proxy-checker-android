@@ -211,6 +211,11 @@
    "secret": "eebdd28b4acf995109a0e3bba5f1d1b77c617070322e736f6c7571656e742e70726f"
   },
   {
+   "server": "ardesvpn1.ru",
+   "port": 8443,
+   "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+  },
+  {
    "server": "bala.hastim.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -416,11 +421,6 @@
    "secret": "ee0ebef71c35ce1a4a44b6f47e86877c88656467652e6c6962726176612e636c69636b"
   },
   {
-   "server": "edge.rknwatch.digital",
-   "port": 443,
-   "secret": "ee4227e9ce17eeaa6676f85ec9528417bd656467652e726b6e77617463682e6469676974616c"
-  },
-  {
    "server": "edge2.kvakzon.top",
    "port": 443,
    "secret": "ee20bbcc380fdac84955f282e9bbbf2fe665646765322e6b76616b7a6f6e2e746f70"
@@ -439,11 +439,6 @@
    "server": "Empire-persia.iran.hey-gardash.info.",
    "port": 1080,
    "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "esmchiy.ir",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "fast-proxy.ink",
@@ -611,6 +606,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "iran-download.fourie.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "iran-download.goaphrodite.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -622,6 +622,11 @@
   },
   {
    "server": "iran.brettanderson.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "iran.fourie.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
@@ -1214,7 +1219,12 @@
    "server": "zon-b0z.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "server": "zone.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 243
+ "count": 245
 }
