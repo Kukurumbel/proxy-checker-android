@@ -16,11 +16,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "135.181.74.178",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "138.124.113.201",
    "port": 443,
    "secret": "ee3aff3c6ac00f9a9b6bfe90449249953f636c6f7564666c6172652e636f6d"
@@ -319,11 +314,6 @@
    "server": "cdn.kvakzon.top",
    "port": 443,
    "secret": "ee8c9511c54296c007462dfa294a6130b363646e2e6b76616b7a6f6e2e746f70"
-  },
-  {
-   "server": "cdn.savelyev.click",
-   "port": 443,
-   "secret": "ee2d9508afda3c91ec2ce75e2e0916437c63646e2e736176656c7965762e636c69636b"
   },
   {
    "server": "cdn.toconvel.digital",
@@ -674,6 +664,11 @@
    "server": "lazeyka-8.getvelora.space",
    "port": 443,
    "secret": "ee45ce57c60e086edc76190ab6879abc136f7a6f6e2e7275"
+  },
+  {
+   "server": "lazeyka-9.getvelora.space",
+   "port": 443,
+   "secret": "ee776b5df47854c0f3438de44b40ddcc846f7a6f6e2e7275"
   },
   {
    "server": "link.freetg.pw",
@@ -1031,11 +1026,6 @@
    "secret": "ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70"
   },
   {
-   "server": "secure.gorbushkin.click",
-   "port": 443,
-   "secret": "eeed4571b8d9273dcfacc0d1f23062ad627365637572652e676f72627573686b696e2e636c69636b"
-  },
-  {
    "server": "secure.medhata.org",
    "port": 443,
    "secret": "eedf3956f76ab923f6f432a06cd6f9ab537365637572652e6d6564686174612e6f7267"
@@ -1236,5 +1226,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 247
+ "count": 245
 }
