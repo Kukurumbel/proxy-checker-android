@@ -26,6 +26,11 @@
    "secret": "ee93bd45ba1c67dd629f27c65c2a222ca1646967696b616c612e636f6d"
   },
   {
+   "server": "168.119.142.41",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "194.120.230.106",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -52,6 +57,11 @@
   },
   {
    "server": "65.108.123.76",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.108.126.199",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -94,6 +104,11 @@
    "server": "79.137.196.223",
    "port": 15443,
    "secret": "ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "95.217.193.214",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "95.217.193.223",
@@ -931,11 +946,6 @@
    "secret": "ee581fe7a67822287a191d54675fa00956706f7274616c2e6d616c6576696368372e746f70"
   },
   {
-   "server": "proxy.garden-troll.life",
-   "port": 443,
-   "secret": "ee44e44615787238844c492fb9e94eebc370726f78792e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
@@ -1206,5 +1216,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 241
+ "count": 243
 }
