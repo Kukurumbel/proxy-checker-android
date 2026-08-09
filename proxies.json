@@ -413,11 +413,6 @@
   {
    "server": "fast.garden-troll.life",
    "port": 443,
-   "secret": "eea1b3e6109d6c26deab710db432bc7a39666173742e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
-   "server": "fast.garden-troll.life",
-   "port": 443,
    "secret": "eecf1c1606226e0962ad67b541a145b9c6666173742e67617264656e2d74726f6c6c2e6c696665"
   },
   {
@@ -611,11 +606,6 @@
    "secret": "ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275"
   },
   {
-   "server": "lazeyka-5.getvelora.space",
-   "port": 443,
-   "secret": "ee3e0dff728bbad2c7b56124815fa1492d6f7a6f6e2e7275"
-  },
-  {
    "server": "lazeyka-6.getvelora.space",
    "port": 443,
    "secret": "ee46da8bea792f6be81e42e3afff691a006f7a6f6e2e7275"
@@ -721,11 +711,6 @@
    "secret": "ee48995b34487bfb1cb562552a585da0ea6d6564626c6f636b2e696e6b"
   },
   {
-   "server": "medblock.ink",
-   "port": 443,
-   "secret": "ee81bcf42079b8aea4608000f6d77285f36d6564626c6f636b2e696e6b"
-  },
-  {
    "server": "media.happtg.org",
    "port": 443,
    "secret": "eed9cf709eb48bb5a37471fba84864bd7e766b2e7275"
@@ -794,11 +779,6 @@
    "server": "naro.guguli.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "neo-vpn.ink",
-   "port": 443,
-   "secret": "eea40b9cca8c9d1e4eba3c50c16d38358a6e656f2d76706e2e696e6b"
   },
   {
    "server": "neo.nowabst.net",
@@ -941,11 +921,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "relay.neoqua.pro",
-   "port": 443,
-   "secret": "ee435cece0e7e4d6eed7bcce13ab6e03ca72656c61792e6e656f7175612e70726f"
-  },
-  {
    "server": "relay2.toconvel.digital",
    "port": 443,
    "secret": "eeb15329fb8c778aeb1b5fdd0b9d79786972656c6179322e746f636f6e76656c2e6469676974616c"
@@ -1006,11 +981,6 @@
    "secret": "ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70"
   },
   {
-   "server": "secure.medhata.org",
-   "port": 443,
-   "secret": "eedf3956f76ab923f6f432a06cd6f9ab537365637572652e6d6564686174612e6f7267"
-  },
-  {
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1029,6 +999,11 @@
    "server": "skein.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "smile.workingproxy.xyz",
+   "port": 443,
+   "secret": "dd6767547c5dd848f55281e391e0153eae"
   },
   {
    "server": "spark.klyuch1k.org",
@@ -1196,5 +1171,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 239
+ "count": 234
 }
