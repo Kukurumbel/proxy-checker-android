@@ -346,11 +346,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "cloud.neoqua.pro",
-   "port": 443,
-   "secret": "ee030089cc0dcc47eab9137c31a92a8ad9636c6f75642e6e656f7175612e70726f"
-  },
-  {
    "server": "comet.veltura.digital",
    "port": 443,
    "secret": "eef1687354a91e481ea54138a2b17ff828636f6d65742e76656c747572612e6469676974616c"
@@ -476,11 +471,6 @@
    "secret": "eed82e9162b09c2ddfdbe3ddfe7d28d87a666c656574686f702e6f6e6c696e65"
   },
   {
-   "server": "flux.balalaika.click",
-   "port": 443,
-   "secret": "ee6a7f849183817e1361401fb9de32bd35666c75782e62616c616c61696b612e636c69636b"
-  },
-  {
    "server": "fresh.t-proxy.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -489,11 +479,6 @@
    "server": "ftp.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "gate.soluqent.pro",
-   "port": 443,
-   "secret": "eebdbd1f66a7c00e7bf92c6436d457861d676174652e736f6c7571656e742e70726f"
   },
   {
    "server": "get.utkanos.life",
@@ -624,6 +609,11 @@
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "lazeyka-10.getvelora.space",
+   "port": 443,
+   "secret": "ee96d021f5d09ab9f210b7548a15b980d66f7a6f6e2e7275"
   },
   {
    "server": "lazeyka-2-5.getvelora.space",
@@ -776,11 +766,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "mirror.balalaika.click",
-   "port": 443,
-   "secret": "eea0398370ab267aa0164231325beb48866d6972726f722e62616c616c61696b612e636c69636b"
-  },
-  {
    "server": "mizaneshgh2.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -889,11 +874,6 @@
    "server": "opeenhostings.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "ops2ops.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "orbit.medhata.org",
@@ -1121,11 +1101,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "surge.antitspu.com",
-   "port": 443,
-   "secret": "ee685550b95ea37738b83fc880bc93493473757267652e616e7469747370752e636f6d"
-  },
-  {
    "server": "sync.fleethop.online",
    "port": 443,
    "secret": "ee5d12530b3304850a75f79585e946b73073796e632e666c656574686f702e6f6e6c696e65"
@@ -1246,5 +1221,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 249
+ "count": 244
 }
