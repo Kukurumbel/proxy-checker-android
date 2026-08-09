@@ -196,6 +196,11 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
+   "server": "api.groundfloorsolutions.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "api.medhata.org",
    "port": 443,
    "secret": "ee5c217c92452f93b4fdad6a1146ba74a56170692e6d6564686174612e6f7267"
@@ -416,9 +421,9 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "Empire-persia.iran.hey-gardash.info.",
-   "port": 1080,
-   "secret": "79e344818749bd7ac519130220c25d09"
+   "server": "fast.data.strobox.info",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "fast.garden-troll.life",
@@ -504,11 +509,6 @@
    "server": "go.antitspu.com",
    "port": 443,
    "secret": "ee1dfbb22d866e42b61944a398868ca57d676f2e616e7469747370752e636f6d"
-  },
-  {
-   "server": "go.antitspu.com",
-   "port": 443,
-   "secret": "ee7e32ec95420179a00a86424a4a971b5a676f2e616e7469747370752e636f6d"
   },
   {
    "server": "go2.balalaika.click",
@@ -834,11 +834,6 @@
    "server": "net.antitspu.com",
    "port": 443,
    "secret": "ee7430e87bc3324e17e44d00c033f428946e65742e616e7469747370752e636f6d"
-  },
-  {
-   "server": "net.freetg.pw",
-   "port": 443,
-   "secret": "ee8b72221452c3545c5a1fe1a9358cf4996e65742e6672656574672e7077"
   },
   {
    "server": "net2.balalaika.click",
@@ -1251,5 +1246,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 250
+ "count": 249
 }
