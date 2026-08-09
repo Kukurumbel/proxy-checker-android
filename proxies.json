@@ -92,6 +92,11 @@
   },
   {
    "server": "79.137.196.223",
+   "port": 12443,
+   "secret": "eebc63866dd7a052dbd741a691486a82127777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "79.137.196.223",
    "port": 13443,
    "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
   },
@@ -199,11 +204,6 @@
    "server": "api.groundfloorsolutions.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "api.medhata.org",
-   "port": 443,
-   "secret": "ee5c217c92452f93b4fdad6a1146ba74a56170692e6d6564686174612e6f7267"
   },
   {
    "server": "api.nowabst.net",
@@ -349,11 +349,6 @@
    "server": "comet.veltura.digital",
    "port": 443,
    "secret": "eef1687354a91e481ea54138a2b17ff828636f6d65742e76656c747572612e6469676974616c"
-  },
-  {
-   "server": "connect.toconvel.digital",
-   "port": 443,
-   "secret": "ee411b111ad1b466245228335110a30f54636f6e6e6563742e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "Damege-in.Travel-esf.manege-desktop-for.co.im.",
@@ -1221,5 +1216,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 244
+ "count": 243
 }
