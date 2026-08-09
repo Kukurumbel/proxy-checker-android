@@ -321,11 +321,6 @@
    "secret": "ee83c4a8430423b9e487366817979d585a6364663431392e6d7470666173742e636f6d"
   },
   {
-   "server": "cdn.toconvel.digital",
-   "port": 443,
-   "secret": "ee4595f21d721fd1bcce9bad30d444a8e963646e2e746f636f6e76656c2e6469676974616c"
-  },
-  {
    "server": "cdn1.legacdn.com",
    "port": 443,
    "secret": "eea990d0794c43c68cdd51caea31e4e957706574726f766963682e7275"
@@ -474,11 +469,6 @@
    "server": "ftp.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "get.utkanos.life",
-   "port": 443,
-   "secret": "ee224ba1832c132b3c61d3ab5772a9c2776765742e75746b616e6f732e6c696665"
   },
   {
    "server": "glide.toconvel.digital",
@@ -856,6 +846,11 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "ops2ops.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
    "server": "orbit.medhata.org",
    "port": 443,
    "secret": "ee47f87c645b2d4f5c2c2392657a7a56046f726269742e6d6564686174612e6f7267"
@@ -1031,11 +1026,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "srv.medblock.fit",
-   "port": 443,
-   "secret": "eeec4689270e8be04e90051b374792331e7372762e6d6564626c6f636b2e666974"
-  },
-  {
    "server": "srv.savelyev.click",
    "port": 443,
    "secret": "ee966bd27e82ca84e00f7dcf1eecd7237c7372762e736176656c7965762e636c69636b"
@@ -1181,5 +1171,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 236
+ "count": 234
 }
