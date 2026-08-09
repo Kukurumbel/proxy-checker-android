@@ -361,11 +361,6 @@
    "secret": "eef1687354a91e481ea54138a2b17ff828636f6d65742e76656c747572612e6469676974616c"
   },
   {
-   "server": "connect.savelyev.click",
-   "port": 443,
-   "secret": "eeca0f83c381d3ec1cce3ec079bf072c85636f6e6e6563742e736176656c7965762e636c69636b"
-  },
-  {
    "server": "connect.toconvel.digital",
    "port": 443,
    "secret": "ee411b111ad1b466245228335110a30f54636f6e6e6563742e746f636f6e76656c2e6469676974616c"
@@ -399,6 +394,11 @@
    "server": "dev.nowabst.net",
    "port": 853,
    "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
+  },
+  {
+   "server": "dns.speed-benz.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "download.brettanderson.co.uk.",
@@ -664,11 +664,6 @@
    "server": "lazeyka-9.getvelora.space",
    "port": 443,
    "secret": "ee776b5df47854c0f3438de44b40ddcc846f7a6f6e2e7275"
-  },
-  {
-   "server": "link.freetg.pw",
-   "port": 443,
-   "secret": "ee4e7876eb70f44497a42304458f56d36c6c696e6b2e6672656574672e7077"
   },
   {
    "server": "link.mishkalapy.life",
@@ -966,6 +961,16 @@
    "secret": "ee581fe7a67822287a191d54675fa00956706f7274616c2e6d616c6576696368372e746f70"
   },
   {
+   "server": "premium.speed-benz.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "proxy.lodkirmm.ru",
+   "port": 8443,
+   "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
+  },
+  {
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
@@ -1256,5 +1261,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 251
+ "count": 252
 }
