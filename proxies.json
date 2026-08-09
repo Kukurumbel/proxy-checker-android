@@ -46,6 +46,16 @@
    "secret": "eed6662c1fb60871326543681c1fce09c93330613164652e636f726563646e2e6e6574"
   },
   {
+   "server": "31.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "41.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "500245.hopwire.io",
    "port": 443,
    "secret": "ee06342713da7e66863b8d0f70d93d145a3530303234352e686f70776972652e696f"
@@ -406,19 +416,9 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "eu.fluxvpnguard.ru",
-   "port": 443,
-   "secret": "9f8e7d6c5b4a392817160504030201ab"
-  },
-  {
    "server": "fast.data.strobox.info",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "fast.fluxvpnguard.ru",
-   "port": 443,
-   "secret": "abcdef1234567890fedcba0987654321"
   },
   {
    "server": "fast.garden-troll.life",
@@ -698,6 +698,11 @@
   {
    "server": "M.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk",
    "port": 80,
+   "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ%3D%3D"
+  },
+  {
+   "server": "M.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk",
+   "port": 80,
    "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ=="
   },
   {
@@ -921,11 +926,6 @@
    "secret": "dd7815244840ab293a65f83fc16bb0234e"
   },
   {
-   "server": "proxy1.fluxvpnguard.ru",
-   "port": 443,
-   "secret": "1a2b3c4d5e6f708192a3b4c5d6e7f809"
-  },
-  {
    "server": "pulse.librava.click",
    "port": 443,
    "secret": "eec9f92da1377dbb1865918eb4508fc04370756c73652e6c6962726176612e636c69636b"
@@ -1146,11 +1146,6 @@
    "secret": "ee850cfafb13d00ecd5403073cecec2de0776562322e62616c616c61696b612e636c69636b"
   },
   {
-   "server": "webhook.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "wisp.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1186,5 +1181,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 237
+ "count": 236
 }
