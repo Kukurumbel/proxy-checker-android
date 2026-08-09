@@ -636,6 +636,11 @@
    "secret": "ee776b5df47854c0f3438de44b40ddcc846f7a6f6e2e7275"
   },
   {
+   "server": "life.whiteproxy.baby",
+   "port": 443,
+   "secret": "dd775fa5684b6f92e462eb88c1307d338d"
+  },
+  {
    "server": "link.mishkalapy.life",
    "port": 443,
    "secret": "ee943031c5687da2dc848bf7582bf801496c696e6b2e6d6973686b616c6170792e6c696665"
@@ -829,11 +834,6 @@
    "server": "node.mishkalapy.life",
    "port": 443,
    "secret": "ee05b1fa1cf5ade2ed4052b16971b33ca46e6f64652e6d6973686b616c6170792e6c696665"
-  },
-  {
-   "server": "node.mishkalapy.life",
-   "port": 443,
-   "secret": "ee75d9c434c4709d2c8f218a8a0c86b9b86e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
    "server": "node2.librava.click",
