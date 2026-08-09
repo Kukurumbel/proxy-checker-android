@@ -216,11 +216,6 @@
    "secret": "eefe7ba3f6b7394b86e9d451e0070f5ffa617069322e6c6962726176612e636c69636b"
   },
   {
-   "server": "app.kvakzon.top",
-   "port": 443,
-   "secret": "eedd90b91e8304294087bca47546df99f16170702e6b76616b7a6f6e2e746f70"
-  },
-  {
    "server": "app2.balalaika.click",
    "port": 443,
    "secret": "eed9b0b0ac3fd7e46156e587054280b119617070322e62616c616c61696b612e636c69636b"
@@ -766,11 +761,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "Mohsen.mtprotonewniceasiashatel.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "motasel.co.uk",
    "port": 443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1121,11 +1111,6 @@
    "secret": "ee39f2f36ec93338eae372566cb078c0aa7467322e676f696e67666c75782e6f6e6c696e65"
   },
   {
-   "server": "uploi1on.ir",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "uptime.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1164,11 +1149,6 @@
    "server": "web.asiaadomainsshatelhamrahaval.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
-   "server": "web.utkanos.life",
-   "port": 443,
-   "secret": "ee331ae197830a753bd9afd0c956fac4f37765622e75746b616e6f732e6c696665"
   },
   {
    "server": "web2.balalaika.click",
@@ -1216,5 +1196,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 243
+ "count": 239
 }
