@@ -991,11 +991,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "s010.neo-trading.org",
-   "port": 443,
-   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
-  },
-  {
    "server": "s03.neo-trading.org",
    "port": 443,
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
@@ -1211,5 +1206,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 242
+ "count": 241
 }
