@@ -406,9 +406,19 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "eu.fluxvpnguard.ru",
+   "port": 443,
+   "secret": "9f8e7d6c5b4a392817160504030201ab"
+  },
+  {
    "server": "fast.data.strobox.info",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "server": "fast.fluxvpnguard.ru",
+   "port": 443,
+   "secret": "abcdef1234567890fedcba0987654321"
   },
   {
    "server": "fast.garden-troll.life",
@@ -911,6 +921,11 @@
    "secret": "dd7815244840ab293a65f83fc16bb0234e"
   },
   {
+   "server": "proxy1.fluxvpnguard.ru",
+   "port": 443,
+   "secret": "1a2b3c4d5e6f708192a3b4c5d6e7f809"
+  },
+  {
    "server": "pulse.librava.click",
    "port": 443,
    "secret": "eec9f92da1377dbb1865918eb4508fc04370756c73652e6c6962726176612e636c69636b"
@@ -1171,5 +1186,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 234
+ "count": 237
 }
