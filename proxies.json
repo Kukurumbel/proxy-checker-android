@@ -36,11 +36,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "194.120.230.26",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "195.254.165.224",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -132,8 +127,8 @@
   },
   {
    "server": "79.137.196.223",
-   "port": 15443,
-   "secret": "ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d"
+   "port": 14443,
+   "secret": "ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "91.107.144.16",
@@ -296,11 +291,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "bolt.utkanos.life",
-   "port": 443,
-   "secret": "eef95e045a22aaf9eb151db0e053c664a1626f6c742e75746b616e6f732e6c696665"
-  },
-  {
    "server": "br.nowabst.net",
    "port": 443,
    "secret": "eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d"
@@ -426,11 +416,6 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "drift.garden-troll.life",
-   "port": 443,
-   "secret": "eeb72b1155b05bca4426d88e55585983e464726966742e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
    "server": "edge2.kvakzon.top",
    "port": 443,
    "secret": "ee20bbcc380fdac84955f282e9bbbf2fe665646765322e6b76616b7a6f6e2e746f70"
@@ -519,11 +504,6 @@
    "server": "ftp.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "glide.toconvel.digital",
-   "port": 443,
-   "secret": "ee508d704e03133ea4a8df51bc3bd76170676c6964652e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "go2.balalaika.click",
@@ -916,11 +896,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "orbit.medhata.org",
-   "port": 443,
-   "secret": "ee47f87c645b2d4f5c2c2392657a7a56046f726269742e6d6564686174612e6f7267"
-  },
-  {
    "server": "panel.freetg.pw",
    "port": 443,
    "secret": "ee0d18bcfe9171e107485beab84de36de670616e656c2e6672656574672e7077"
@@ -1206,5 +1181,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 241
+ "count": 236
 }
