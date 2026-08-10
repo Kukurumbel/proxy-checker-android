@@ -181,11 +181,6 @@
    "secret": "ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70"
   },
   {
-   "server": "ad6.fluxvpnguard.ru",
-   "port": 443,
-   "secret": "eeb471ae1aa2e8a185ed77a4d024dd3b7f6164362e666c757876706e67756172642e7275"
-  },
-  {
    "server": "adieu.shmelproxy.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -616,6 +611,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "kurd.tryzub-it.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "lab.nowabst.net",
    "port": 853,
    "secret": "eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d"
@@ -676,6 +676,11 @@
    "secret": "ee35e031f41ae8bb68b6d517e706ccdfb06c6976652e67617264656e2d74726f6c6c2e6c696665"
   },
   {
+   "server": "live.garden-troll.life",
+   "port": 443,
+   "secret": "ee58f2c2441f45e38f6b03bf7abc0e5d446c6976652e67617264656e2d74726f6c6c2e6c696665"
+  },
+  {
    "server": "live.gorbushkin.click",
    "port": 443,
    "secret": "eec85666282a2a3091eb56c31302da3c9f6c6976652e676f72627573686b696e2e636c69636b"
@@ -686,9 +691,9 @@
    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "logs.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+   "server": "lor.barhousefarm.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "love.wrenshire.co.uk",
@@ -1116,6 +1121,11 @@
    "secret": "ee39f2f36ec93338eae372566cb078c0aa7467322e676f696e67666c75782e6f6e6c696e65"
   },
   {
+   "server": "turk.dasy2k1.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "uptime.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1181,5 +1191,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 236
+ "count": 238
 }
