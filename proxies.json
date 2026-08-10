@@ -11,6 +11,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "135.181.74.154",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "135.181.74.178",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -86,6 +91,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.205.41",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.21.83.228",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -141,11 +151,6 @@
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
   },
   {
-   "server": "ad1.fluxvpnguard.ru",
-   "port": 443,
-   "secret": "eef783c9e53b90b92a084bb3e50e028baa6164312e666c757876706e67756172642e7275"
-  },
-  {
    "server": "ad2.arixo.shop",
    "port": 443,
    "secret": "eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70"
@@ -154,11 +159,6 @@
    "server": "ad3.arixo.shop",
    "port": 443,
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
-  },
-  {
-   "server": "ad3.fluxvpnguard.ru",
-   "port": 443,
-   "secret": "ee1a23dbc042a9ad90a7ef4e5a4f04e1486164332e666c757876706e67756172642e7275"
   },
   {
    "server": "ad4.arixo.shop",
@@ -196,11 +196,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "aerie.sosun4ik.top",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "alo.clare-flare-ow.store.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -234,6 +229,11 @@
    "server": "app2.balalaika.click",
    "port": 443,
    "secret": "eed9b0b0ac3fd7e46156e587054280b119617070322e62616c616c61696b612e636c69636b"
+  },
+  {
+   "server": "app2.klyuch1k.org",
+   "port": 443,
+   "secret": "eea7829bb257995a5d0e83f5345b7033ae617070322e6b6c79756368316b2e6f7267"
   },
   {
    "server": "app2.soluqent.pro",
@@ -486,6 +486,11 @@
    "secret": "eed82e9162b09c2ddfdbe3ddfe7d28d87a666c656574686f702e6f6e6c696e65"
   },
   {
+   "server": "freeinternet.skin",
+   "port": 2052,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "fresh.t-proxy.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -504,6 +509,11 @@
    "server": "go2.balalaika.click",
    "port": 443,
    "secret": "ee19e867bdb9a6ae0b1341b008e9dd0ed1676f322e62616c616c61696b612e636c69636b"
+  },
+  {
+   "server": "go2.klyuch1k.org",
+   "port": 443,
+   "secret": "eea23f4f6ebfd072d53f10ea25a9059b57676f322e6b6c79756368316b2e6f7267"
   },
   {
    "server": "googel.alo-otp.info.",
@@ -681,11 +691,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "lunavane.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "lwsite.top",
    "port": 443,
    "secret": "8d4a38291bd244150ccf97f0acac64f8"
@@ -774,11 +779,6 @@
    "server": "mio.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "miravox.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "mizaneshgh2.co.uk",
