@@ -6,11 +6,6 @@
    "secret": "ee7b867e2553478b4434adbed1539ebed23032336162622e76706e676174652d636c6f75642e6e6574"
   },
   {
-   "server": "1.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "103.161.35.23",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -251,11 +246,6 @@
    "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
   },
   {
-   "server": "avavavavav.mohearn.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
    "server": "bala.hastim.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -289,6 +279,11 @@
    "server": "bezan-roo.connectina.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "bia-ba-ham.peachsoft.co.uk.",
+   "port": 443,
+   "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
    "server": "blond.basicscotch.co.uk",
@@ -441,6 +436,11 @@
    "secret": "ee20bbcc380fdac84955f282e9bbbf2fe665646765322e6b76616b7a6f6e2e746f70"
   },
   {
+   "server": "edge2.kvakzon.top",
+   "port": 443,
+   "secret": "eed6962c6820fac66c942ad857b7072ae265646765322e6b76616b7a6f6e2e746f70"
+  },
+  {
    "server": "edge2.librava.click",
    "port": 443,
    "secret": "ee4cac1442f878b9c522cf77e7cc47dd8765646765322e6c6962726176612e636c69636b"
@@ -534,6 +534,11 @@
    "server": "go2.klyuch1k.org",
    "port": 443,
    "secret": "eea23f4f6ebfd072d53f10ea25a9059b57676f322e6b6c79756368316b2e6f7267"
+  },
+  {
+   "server": "god-mode-on.peachsoft.co.uk.",
+   "port": 443,
+   "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
    "server": "googel.alo-otp.info.",
@@ -644,6 +649,11 @@
    "server": "lazeyka-10.getvelora.space",
    "port": 443,
    "secret": "ee96d021f5d09ab9f210b7548a15b980d66f7a6f6e2e7275"
+  },
+  {
+   "server": "lazeyka-11.getvelora.space",
+   "port": 443,
+   "secret": "ee048ee919fa78d81fd68e9ee9ff2d82446f7a6f6e2e7275"
   },
   {
    "server": "lazeyka-2-5.getvelora.space",
@@ -866,6 +876,11 @@
    "secret": "ee05b1fa1cf5ade2ed4052b16971b33ca46e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
+   "server": "node2.kvakzon.top",
+   "port": 443,
+   "secret": "eed8ddbd288df6384bafd70313afa19dd56e6f6465322e6b76616b7a6f6e2e746f70"
+  },
+  {
    "server": "node2.librava.click",
    "port": 443,
    "secret": "ee0bbeba170f295eef00b7b9be814e218b6e6f6465322e6c6962726176612e636c69636b"
@@ -1056,11 +1071,6 @@
    "secret": "dd6767547c5dd848f55281e391e0153eae"
   },
   {
-   "server": "spark.klyuch1k.org",
-   "port": 443,
-   "secret": "ee5e2379a5be43d244bd55c9b911874ec8737061726b2e6b6c79756368316b2e6f7267"
-  },
-  {
    "server": "Speed-speed.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -1136,11 +1146,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "vibe.rknwatch.digital",
-   "port": 443,
-   "secret": "ee8bd6fa17a29b86f94af187bf1c0d8460766962652e726b6e77617463682e6469676974616c"
-  },
-  {
    "server": "view.fleethop.online",
    "port": 443,
    "secret": "ee05a819f41fd784d0a3ad0f67013fb7a9766965772e666c656574686f702e6f6e6c696e65"
@@ -1201,5 +1206,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 240
+ "count": 241
 }
