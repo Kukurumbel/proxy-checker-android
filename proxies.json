@@ -151,11 +151,6 @@
    "secret": "eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70"
   },
   {
-   "server": "ad2.fluxvpnguard.ru",
-   "port": 443,
-   "secret": "ee4f43452511fc19da8a32ad7a3f0530e46164322e666c757876706e67756172642e7275"
-  },
-  {
    "server": "ad3.arixo.shop",
    "port": 443,
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
@@ -318,6 +313,11 @@
   {
    "server": "cache.garden-troll.life",
    "port": 443,
+   "secret": "ee790a214885e717994b0ad7c5df727bf863616368652e67617264656e2d74726f6c6c2e6c696665"
+  },
+  {
+   "server": "cache.garden-troll.life",
+   "port": 443,
    "secret": "eeb224a50f790ff91d0bd4bac78ce1709b63616368652e67617264656e2d74726f6c6c2e6c696665"
   },
   {
@@ -431,6 +431,11 @@
    "secret": "ee4cac1442f878b9c522cf77e7cc47dd8765646765322e6c6962726176612e636c69636b"
   },
   {
+   "server": "edge2.medhata.org",
+   "port": 443,
+   "secret": "ee6e0e00da4fd30ef9b6adeff20593ba6765646765322e6d6564686174612e6f7267"
+  },
+  {
    "server": "eerie.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -449,11 +454,6 @@
    "server": "fast.proxygo.fun",
    "port": 8443,
    "secret": "eef30fe399bee638d966119d832d41c95f666173742e70726f7879676f2e66756e"
-  },
-  {
-   "server": "feed.fast-proxy.ink",
-   "port": 443,
-   "secret": "ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b"
   },
   {
    "server": "feed.freetg.pw",
@@ -501,11 +501,6 @@
    "secret": "ee508d704e03133ea4a8df51bc3bd76170676c6964652e746f636f6e76656c2e6469676974616c"
   },
   {
-   "server": "go.antitspu.com",
-   "port": 443,
-   "secret": "ee1dfbb22d866e42b61944a398868ca57d676f2e616e7469747370752e636f6d"
-  },
-  {
    "server": "go2.balalaika.click",
    "port": 443,
    "secret": "ee19e867bdb9a6ae0b1341b008e9dd0ed1676f322e62616c616c61696b612e636c69636b"
@@ -514,6 +509,11 @@
    "server": "googel.alo-otp.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "gw.garden-troll.life",
+   "port": 443,
+   "secret": "eeecf2513dfe9aff53159e3ff39bc1571d67772e67617264656e2d74726f6c6c2e6c696665"
   },
   {
    "server": "gw.garden-troll.life",
@@ -651,11 +651,6 @@
    "secret": "dd775fa5684b6f92e462eb88c1307d338d"
   },
   {
-   "server": "link.mishkalapy.life",
-   "port": 443,
-   "secret": "ee943031c5687da2dc848bf7582bf801496c696e6b2e6d6973686b616c6170792e6c696665"
-  },
-  {
    "server": "live.best-proxy.ink",
    "port": 443,
    "secret": "eee49c0c36df83f06e456ffbe5b7b3a73c6c6976652e626573742d70726f78792e696e6b"
@@ -674,11 +669,6 @@
    "server": "login.kerfilia.info",
    "port": 6775,
    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "login.klyuch1k.org",
-   "port": 443,
-   "secret": "ee34034689006bea8f7a157472c7403b466c6f67696e2e6b6c79756368316b2e6f7267"
   },
   {
    "server": "logs.jinxandjack.co.uk.",
@@ -746,6 +736,11 @@
    "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
   },
   {
+   "server": "media10.happtg.org",
+   "port": 443,
+   "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
+  },
+  {
    "server": "media2.happtg.org",
    "port": 443,
    "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
@@ -754,6 +749,21 @@
    "server": "media3.happtg.org",
    "port": 443,
    "secret": "ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275"
+  },
+  {
+   "server": "media5.happtg.org",
+   "port": 443,
+   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
+  },
+  {
+   "server": "media9.happtg.org",
+   "port": 443,
+   "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
+  },
+  {
+   "server": "megaconnect.click",
+   "port": 2083,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "milion.users.ir.bishdhaep.info.",
@@ -846,6 +856,11 @@
    "secret": "ee0bbeba170f295eef00b7b9be814e218b6e6f6465322e6c6962726176612e636c69636b"
   },
   {
+   "server": "node2.medhata.org",
+   "port": 443,
+   "secret": "eed9235bacb93c7beb6fd45b3205c7aba36e6f6465322e6d6564686174612e6f7267"
+  },
+  {
    "server": "noise.hajikalashatelservieshamrahavalcandy.co.uk",
    "port": 80,
    "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ%3D%3D"
@@ -909,16 +924,6 @@
    "server": "please.workingproxy.xyz",
    "port": 443,
    "secret": "dd82072d16cfe4355b088c61cd897d0533"
-  },
-  {
-   "server": "portal.balalaika.click",
-   "port": 443,
-   "secret": "ee3c7b046d6a7b00b2c910cd755314eb2e706f7274616c2e62616c616c61696b612e636c69636b"
-  },
-  {
-   "server": "portal.malevich7.top",
-   "port": 443,
-   "secret": "ee581fe7a67822287a191d54675fa00956706f7274616c2e6d616c6576696368372e746f70"
   },
   {
    "server": "premium.speed-benz.co.uk",
@@ -1196,5 +1201,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 239
+ "count": 240
 }
