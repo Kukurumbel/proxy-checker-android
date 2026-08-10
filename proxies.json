@@ -371,11 +371,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "comet.veltura.digital",
-   "port": 443,
-   "secret": "eef1687354a91e481ea54138a2b17ff828636f6d65742e76656c747572612e6469676974616c"
-  },
-  {
    "server": "Damege-in.Travel-esf.manege-desktop-for.co.im.",
    "port": 4443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -956,6 +951,11 @@
    "secret": "dd82072d16cfe4355b088c61cd897d0533"
   },
   {
+   "server": "premium.proxygo.fun",
+   "port": 8443,
+   "secret": "eef30fe399bee638d966119d832d41c95f7072656d69756d2e70726f7879676f2e66756e"
+  },
+  {
    "server": "premium.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -974,11 +974,6 @@
    "server": "proxy.whiteproxy.baby",
    "port": 443,
    "secret": "dd7815244840ab293a65f83fc16bb0234e"
-  },
-  {
-   "server": "pulse.librava.click",
-   "port": 443,
-   "secret": "eec9f92da1377dbb1865918eb4508fc04370756c73652e6c6962726176612e636c69636b"
   },
   {
    "server": "puot.mozitop.co.uk",
@@ -1116,11 +1111,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "subobdoa.co.uk.",
-   "port": 443,
-   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -1226,5 +1216,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 243
 }
