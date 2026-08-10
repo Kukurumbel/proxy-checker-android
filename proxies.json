@@ -136,6 +136,16 @@
    "secret": "ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "91.107.144.16",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "91.107.155.246",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "95.217.193.214",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -164,11 +174,6 @@
    "server": "ad4.arixo.shop",
    "port": 443,
    "secret": "eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70"
-  },
-  {
-   "server": "ad4.fluxvpnguard.ru",
-   "port": 443,
-   "secret": "ee0c002a9452cc7922f86bf4bfaa6b1a8d6164342e666c757876706e67756172642e7275"
   },
   {
    "server": "ad5.arixo.shop",
@@ -204,11 +209,6 @@
    "server": "aparat.com--rozblog.ir-yahoo.com-bmi.ir.mihanwebhost.izogampashmeshishe.ir.",
    "port": 443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "api-web.asiaadomainsshatelhamrahaval.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
    "server": "api.groundfloorsolutions.co.uk.",
@@ -549,11 +549,6 @@
    "server": "hi.wrenshire.co.uk",
    "port": 7980,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "hide.he6fhd.ru",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "hub.malevich7.top",
@@ -1021,6 +1016,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "should.be.wake.up.ir.yfdhjderkig.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "siri.rhymeslive.online",
    "port": 443,
    "secret": "ddaed7c30ad0cf4a3cd27eca1a649de5d2"
@@ -1069,11 +1069,6 @@
    "server": "store.gorbushkin.click",
    "port": 443,
    "secret": "ee68aa681fac5a2afac775c9e176c5cc7e73746f72652e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "storm.gorbushkin.click",
-   "port": 443,
-   "secret": "eeaa87b45b1b713023db2c57c90ac9e1d173746f726d2e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "Strait-of-Hormuz.ir.jursdheks.info.",
@@ -1151,16 +1146,6 @@
    "secret": "ee27b0ae91a7a96aa0c1359f5fa060d1ee772e6265737470726f78792e696375"
   },
   {
-   "server": "wave.savelyev.click",
-   "port": 443,
-   "secret": "eeba2e1341a08483c2cede6818498348ff776176652e736176656c7965762e636c69636b"
-  },
-  {
-   "server": "web.asiaadomainsshatelhamrahaval.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
    "server": "web2.balalaika.click",
    "port": 443,
    "secret": "ee850cfafb13d00ecd5403073cecec2de0776562322e62616c616c61696b612e636c69636b"
@@ -1201,5 +1186,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 240
+ "count": 237
 }
