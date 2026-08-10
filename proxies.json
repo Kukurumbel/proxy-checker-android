@@ -346,9 +346,19 @@
    "secret": "ee949089dd5eebdb2db7a13f24e981b7d563646e322e6c6962726176612e636c69636b"
   },
   {
-   "server": "chai.mikham.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
+   "server": "cdn6.cdnwave.org",
+   "port": 443,
+   "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
+  },
+  {
+   "server": "cdn7.cdnwave.org",
+   "port": 443,
+   "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
+  },
+  {
+   "server": "cdn8.cdnwave.org",
+   "port": 443,
+   "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
    "server": "chelipa.co.uk.",
@@ -374,6 +384,11 @@
    "server": "data.savelyev.click",
    "port": 443,
    "secret": "ee4a2d96b1f28e7ceb3ca477c79fc54f8f646174612e736176656c7965762e636c69636b"
+  },
+  {
+   "server": "data.utkanos.life",
+   "port": 443,
+   "secret": "ee63f12c1c005215ca4f5a5c3102fee7e7646174612e75746b616e6f732e6c696665"
   },
   {
    "server": "data.utkanos.life",
@@ -534,11 +549,6 @@
    "server": "hub.malevich7.top",
    "port": 443,
    "secret": "ee70a15655ef1b039280d02dde202d40126875622e6d616c6576696368372e746f70"
-  },
-  {
-   "server": "hub.neo-vpn.ink",
-   "port": 443,
-   "secret": "eea29dda982c54198f00ea8d440fa6f8ce6875622e6e656f2d76706e2e696e6b"
   },
   {
    "server": "hub.savelyev.click",
@@ -1088,6 +1098,11 @@
   {
    "server": "sync.utkanos.life",
    "port": 443,
+   "secret": "ee7ec715e77560ef88c218519df53ddd0c73796e632e75746b616e6f732e6c696665"
+  },
+  {
+   "server": "sync.utkanos.life",
+   "port": 443,
    "secret": "eef79990aed856d00b3f7f71bc53e19c8a73796e632e75746b616e6f732e6c696665"
   },
   {
@@ -1181,5 +1196,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 236
+ "count": 239
 }
