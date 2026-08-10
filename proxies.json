@@ -216,6 +216,11 @@
    "secret": "eefe7ba3f6b7394b86e9d451e0070f5ffa617069322e6c6962726176612e636c69636b"
   },
   {
+   "server": "api2.medhata.org",
+   "port": 443,
+   "secret": "eebed8d6488d13d1f171a5787c010efa9e617069322e6d6564686174612e6f7267"
+  },
+  {
    "server": "app2.balalaika.click",
    "port": 443,
    "secret": "eed9b0b0ac3fd7e46156e587054280b119617070322e62616c616c61696b612e636c69636b"
@@ -246,14 +251,14 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "beer.crona-extra.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "beest-sellerst.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "best-proxy.ink",
-   "port": 443,
-   "secret": "ee041a76d99194e7dda929e9379d686cd2626573742d70726f78792e696e6b"
   },
   {
    "server": "best.router.iran.ir.bishdhaep.info.",
@@ -339,6 +344,11 @@
    "server": "cdn2.librava.click",
    "port": 443,
    "secret": "ee949089dd5eebdb2db7a13f24e981b7d563646e322e6c6962726176612e636c69636b"
+  },
+  {
+   "server": "cdn2.medhata.org",
+   "port": 443,
+   "secret": "ee2cc683617eec3aad5f3f195bb8c1091a63646e322e6d6564686174612e6f7267"
   },
   {
    "server": "cdn6.cdnwave.org",
@@ -479,11 +489,6 @@
    "server": "fine.wrenshire.co.uk",
    "port": 7980,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "fleethop.online",
-   "port": 443,
-   "secret": "eed82e9162b09c2ddfdbe3ddfe7d28d87a666c656574686f702e6f6e6c696e65"
   },
   {
    "server": "freeinternet.skin",
@@ -704,6 +709,11 @@
    "server": "lor.barhousefarm.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "love.neverspy.online",
+   "port": 443,
+   "secret": "ee24b3e49b9d33101f2c34e5e893bd90d17777772e6d6963726f736f66742e636f6d"
   },
   {
    "server": "love.wrenshire.co.uk",
@@ -1088,6 +1098,11 @@
   {
    "server": "store.garden-troll.life",
    "port": 443,
+   "secret": "ee140066337d99c1a319ceee2b2e85036b73746f72652e67617264656e2d74726f6c6c2e6c696665"
+  },
+  {
+   "server": "store.garden-troll.life",
+   "port": 443,
    "secret": "ee48cf7e3bd66be26a63a9215416ce776a73746f72652e67617264656e2d74726f6c6c2e6c696665"
   },
   {
@@ -1211,5 +1226,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 242
+ "count": 245
 }
