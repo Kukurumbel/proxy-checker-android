@@ -76,6 +76,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.108.126.199",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.108.230.201",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -112,6 +117,11 @@
   },
   {
    "server": "79.137.196.223",
+   "port": 10443,
+   "secret": "ee63fccdeb9951e5f99d66d274148278b97777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "79.137.196.223",
    "port": 11443,
    "secret": "ee8a160975fad14b21992a65e0db4b7cfa7777772e636c6f7564666c6172652e636f6d"
   },
@@ -139,6 +149,11 @@
    "server": "91.107.155.246",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "91.107.160.196",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "95.217.193.214",
@@ -1236,5 +1251,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 247
+ "count": 250
 }
