@@ -846,11 +846,6 @@
    "secret": "eef1a6f37d0802344061235bb7d60f3fa4766b2e636f6d"
   },
   {
-   "server": "net.antitspu.com",
-   "port": 443,
-   "secret": "ee7430e87bc3324e17e44d00c033f428946e65742e616e7469747370752e636f6d"
-  },
-  {
    "server": "net2.balalaika.click",
    "port": 443,
    "secret": "ee14828e5115e5868e2271f149db44bd366e6574322e62616c616c61696b612e636c69636b"
@@ -1004,6 +999,16 @@
    "server": "s01.neo-trading.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
+  },
+  {
+   "server": "s010.neo-trading.org",
+   "port": 8443,
+   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580647a656e2e7275"
+  },
+  {
+   "server": "s02.neo-trading.org",
+   "port": 443,
+   "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
   },
   {
    "server": "s03.neo-trading.org",
@@ -1216,5 +1221,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 243
+ "count": 244
 }
