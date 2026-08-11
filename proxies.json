@@ -918,6 +918,11 @@
   {
    "server": "panel.toconvel.digital",
    "port": 443,
+   "secret": "ee0c461c6832df3f66d29a448492a5259b70616e656c2e746f636f6e76656c2e6469676974616c"
+  },
+  {
+   "server": "panel.toconvel.digital",
+   "port": 443,
    "secret": "ee8c4fb86b7af800185c4811f25232d4b570616e656c2e746f636f6e76656c2e6469676974616c"
   },
   {
@@ -1071,6 +1076,11 @@
    "secret": "dd6767547c5dd848f55281e391e0153eae"
   },
   {
+   "server": "something.nolagsproxy.space",
+   "port": 443,
+   "secret": "ddc37865906f67acf72c1ec56241721d56"
+  },
+  {
    "server": "sorry.workingproxy.xyz",
    "port": 443,
    "secret": "dd2fea54ae589357ef6657bf0c057a593a"
@@ -1221,5 +1231,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 244
+ "count": 246
 }
