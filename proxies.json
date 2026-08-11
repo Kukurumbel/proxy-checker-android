@@ -201,11 +201,6 @@
    "secret": "eea7829bb257995a5d0e83f5345b7033ae617070322e6b6c79756368316b2e6f7267"
   },
   {
-   "server": "app2.soluqent.pro",
-   "port": 443,
-   "secret": "eebdd28b4acf995109a0e3bba5f1d1b77c617070322e736f6c7571656e742e70726f"
-  },
-  {
    "server": "ardesvpn1.ru",
    "port": 8443,
    "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
@@ -346,6 +341,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "cloud.click-master.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "Damege-in.Travel-esf.manege-desktop-for.co.im.",
    "port": 4443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -387,6 +387,11 @@
   },
   {
    "server": "download.brettanderson.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "download.lv426.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
@@ -439,11 +444,6 @@
    "server": "fast.proxygo.fun",
    "port": 8443,
    "secret": "eef30fe399bee638d966119d832d41c95f666173742e70726f7879676f2e66756e"
-  },
-  {
-   "server": "feed.freetg.pw",
-   "port": 443,
-   "secret": "eeb25b1095cc4e82ec714e45898bd9740f666565642e6672656574672e7077"
   },
   {
    "server": "feed.toconvel.digital",
@@ -589,6 +589,11 @@
    "server": "iran.lv426.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "jadid.zhigool.co.uk",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "kima.rabotaet.online",
@@ -851,6 +856,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "node.easyproxy.cfd",
+   "port": 443,
+   "secret": "ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664"
+  },
+  {
    "server": "node.mishkalapy.life",
    "port": 443,
    "secret": "ee05b1fa1cf5ade2ed4052b16971b33ca46e6f64652e6d6973686b616c6170792e6c696665"
@@ -879,6 +889,11 @@
    "server": "noise.hajikalashatelservieshamrahavalcandy.co.uk",
    "port": 80,
    "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ=="
+  },
+  {
+   "server": "nyakawai.shop",
+   "port": 2053,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "offers.wrenshire.co.uk",
@@ -1071,11 +1086,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "srv.savelyev.click",
-   "port": 443,
-   "secret": "ee966bd27e82ca84e00f7dcf1eecd7237c7372762e736176656c7965762e636c69636b"
-  },
-  {
    "server": "srv.utkanos.life",
    "port": 443,
    "secret": "eec3f59ac6ee4ae5f57bc581a1fb321bbf7372762e75746b616e6f732e6c696665"
@@ -1176,11 +1186,6 @@
    "secret": "ee850cfafb13d00ecd5403073cecec2de0776562322e62616c616c61696b612e636c69636b"
   },
   {
-   "server": "webhook.vingardium.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "wisp.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1221,5 +1226,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 244
+ "count": 245
 }
