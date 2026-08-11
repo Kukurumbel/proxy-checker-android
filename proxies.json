@@ -626,6 +626,11 @@
    "secret": "ee048ee919fa78d81fd68e9ee9ff2d82446f7a6f6e2e7275"
   },
   {
+   "server": "lazeyka-12.getvelora.space",
+   "port": 443,
+   "secret": "ee7120934f81f74bd49de13efd8ec49d126f7a6f6e2e7275"
+  },
+  {
    "server": "lazeyka-2-5.getvelora.space",
    "port": 443,
    "secret": "ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275"
@@ -926,6 +931,11 @@
    "secret": "dd82072d16cfe4355b088c61cd897d0533"
   },
   {
+   "server": "premium.bestproxy.icu",
+   "port": 8443,
+   "secret": "ee27b0ae91a7a96aa0c1359f5fa060d1ee7072656d69756d2e6265737470726f78792e696375"
+  },
+  {
    "server": "premium.proxygo.fun",
    "port": 8443,
    "secret": "eef30fe399bee638d966119d832d41c95f7072656d69756d2e70726f7879676f2e66756e"
@@ -1029,11 +1039,6 @@
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "siri.rhymeslive.online",
-   "port": 443,
-   "secret": "ddaed7c30ad0cf4a3cd27eca1a649de5d2"
   },
   {
    "server": "sisu.proxytales.life",
@@ -1171,6 +1176,11 @@
    "secret": "ee850cfafb13d00ecd5403073cecec2de0776562322e62616c616c61696b612e636c69636b"
   },
   {
+   "server": "webhook.vingardium.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "wisp.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1211,5 +1221,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 242
+ "count": 244
 }
