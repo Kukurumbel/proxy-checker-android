@@ -506,6 +506,11 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
+   "server": "gate.24starsmarket.ru",
+   "port": 443,
+   "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
+  },
+  {
    "server": "go2.balalaika.click",
    "port": 443,
    "secret": "ee19e867bdb9a6ae0b1341b008e9dd0ed1676f322e62616c616c61696b612e636c69636b"
@@ -534,11 +539,6 @@
    "server": "gw.garden-troll.life",
    "port": 443,
    "secret": "eefd552db7ae2bffd2eeb377fe841d3b8b67772e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
-   "server": "gw.gorbushkin.click",
-   "port": 443,
-   "secret": "eeb9865739e5a263379e88c6156abbb4c567772e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "gw.medblock.ink",
@@ -961,6 +961,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "proxtstar.live",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
@@ -1231,5 +1236,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 246
+ "count": 247
 }
