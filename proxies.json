@@ -16,11 +16,6 @@
    "secret": "ee93bd45ba1c67dd629f27c65c2a222ca1646967696b616c612e636f6d"
   },
   {
-   "server": "194.120.230.106",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "195.254.165.224",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -431,6 +426,11 @@
    "secret": "79e344818749bd7ac519130220c25d09"
   },
   {
+   "server": "evening.whiteproxy.baby",
+   "port": 443,
+   "secret": "ddc27a8e4e92e2ad536c3f80d7c0809ef8"
+  },
+  {
    "server": "fast.data.strobox.info",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -679,11 +679,6 @@
    "server": "live.garden-troll.life",
    "port": 443,
    "secret": "ee58f2c2441f45e38f6b03bf7abc0e5d446c6976652e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
-   "server": "live.gorbushkin.click",
-   "port": 443,
-   "secret": "eec85666282a2a3091eb56c31302da3c9f6c6976652e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "login.kerfilia.info",
@@ -1226,5 +1221,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 244
 }
