@@ -341,11 +341,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "Damege-in.Travel-esf.manege-desktop-for.co.im.",
-   "port": 4443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "data.fast-proxy.ink",
    "port": 443,
    "secret": "eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b"
@@ -1241,5 +1236,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 248
+ "count": 247
 }
