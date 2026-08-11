@@ -4,94 +4,64 @@
    "server": "195.254.165.224",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 139
+   "ping": 93
   },
   {
    "server": "proxy.whiteproxy.baby",
    "port": 443,
    "secret": "dd7815244840ab293a65f83fc16bb0234e",
-   "ping": 150
-  },
-  {
-   "server": "lwsite.top",
-   "port": 443,
-   "secret": "dafa8248f6c6d8f69241d8bfb1278793",
-   "ping": 160
-  },
-  {
-   "server": "smile.workingproxy.xyz",
-   "port": 443,
-   "secret": "dd6767547c5dd848f55281e391e0153eae",
-   "ping": 173
-  },
-  {
-   "server": "zon-b0z.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 181
-  },
-  {
-   "server": "siri.rhymeslive.online",
-   "port": 443,
-   "secret": "ddaed7c30ad0cf4a3cd27eca1a649de5d2",
-   "ping": 182
-  },
-  {
-   "server": "please.workingproxy.xyz",
-   "port": 443,
-   "secret": "dd82072d16cfe4355b088c61cd897d0533",
-   "ping": 186
+   "ping": 102
   },
   {
    "server": "sorry.workingproxy.xyz",
    "port": 443,
    "secret": "dd2fea54ae589357ef6657bf0c057a593a",
-   "ping": 186
+   "ping": 110
   },
   {
-   "server": "lwsite.top",
+   "server": "smile.workingproxy.xyz",
    "port": 443,
-   "secret": "8d4a38291bd244150ccf97f0acac64f8",
-   "ping": 188
+   "secret": "dd6767547c5dd848f55281e391e0153eae",
+   "ping": 113
   },
   {
-   "server": "new7.mizanmizanesgh.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 204
-  },
-  {
-   "server": "bo0ji.co.uk.",
+   "server": "please.workingproxy.xyz",
    "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 217
-  },
-  {
-   "server": "mizaneshgh2.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 218
-  },
-  {
-   "server": "severjadid.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 253
+   "secret": "dd82072d16cfe4355b088c61cd897d0533",
+   "ping": 118
   },
   {
    "server": "life.whiteproxy.baby",
    "port": 443,
    "secret": "dd775fa5684b6f92e462eb88c1307d338d",
-   "ping": 277
+   "ping": 157
+  },
+  {
+   "server": "siri.rhymeslive.online",
+   "port": 443,
+   "secret": "ddaed7c30ad0cf4a3cd27eca1a649de5d2",
+   "ping": 160
+  },
+  {
+   "server": "happy.whiteproxy.baby",
+   "port": 443,
+   "secret": "ddf1284a8137961061b01ca4ace364b422",
+   "ping": 259
   },
   {
    "server": "fast.data.strobox.info",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 282
+   "ping": 275
   },
   {
-   "server": "ops2ops.co.uk.",
+   "server": "zon-b0z.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 303
+  },
+  {
+   "server": "bo0ji.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
    "ping": 327
@@ -100,33 +70,51 @@
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 354
+   "ping": 329
   },
   {
-   "server": "New1.ugtd8sxxcyt.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 359
-  },
-  {
-   "server": "happy.whiteproxy.baby",
+   "server": "ops2ops.co.uk.",
    "port": 443,
-   "secret": "ddf1284a8137961061b01ca4ace364b422",
-   "ping": 453
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 334
   },
   {
    "server": "New.nchnch.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 483
+   "ping": 526
+  },
+  {
+   "server": "new7.mizanmizanesgh.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 537
+  },
+  {
+   "server": "New1.ugtd8sxxcyt.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 538
+  },
+  {
+   "server": "mizaneshgh2.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 541
+  },
+  {
+   "server": "severjadid.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 552
   },
   {
    "server": "yarypple.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 510
+   "ping": 556
   }
  ],
- "count": 21,
- "checked": 244
+ "count": 19,
+ "checked": 246
 }
