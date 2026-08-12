@@ -11,11 +11,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "167-233-163-149.nip.io",
-   "port": 443,
-   "secret": "ee93bd45ba1c67dd629f27c65c2a222ca1646967696b616c612e636f6d"
-  },
-  {
    "server": "195.254.165.224",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1266,5 +1261,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 253
+ "count": 252
 }
