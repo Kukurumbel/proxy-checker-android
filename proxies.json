@@ -241,6 +241,11 @@
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
+   "server": "bia.guguli.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "blond.basicscotch.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -384,11 +389,6 @@
    "server": "edge.catsproxy.shop",
    "port": 443,
    "secret": "ee77e833a4cf612b12af5c86614cc5291a656467652e6361747370726f78792e73686f70"
-  },
-  {
-   "server": "edge2.kvakzon.top",
-   "port": 443,
-   "secret": "ee20bbcc380fdac84955f282e9bbbf2fe665646765322e6b76616b7a6f6e2e746f70"
   },
   {
    "server": "edge2.kvakzon.top",
@@ -556,11 +556,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "hub.malevich7.top",
-   "port": 443,
-   "secret": "ee70a15655ef1b039280d02dde202d40126875622e6d616c6576696368372e746f70"
-  },
-  {
    "server": "hub.neo-vpn.ink",
    "port": 443,
    "secret": "eea29dda982c54198f00ea8d440fa6f8ce6875622e6e656f2d76706e2e696e6b"
@@ -619,6 +614,11 @@
    "server": "iran.lv426.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "iran.vanitydomain.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "jadid.zhigool.co.uk",
@@ -946,11 +946,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "panel.freetg.pw",
-   "port": 443,
-   "secret": "ee0d18bcfe9171e107485beab84de36de670616e656c2e6672656574672e7077"
-  },
-  {
    "server": "panel.toconvel.digital",
    "port": 443,
    "secret": "ee0c461c6832df3f66d29a448492a5259b70616e656c2e746f636f6e76656c2e6469676974616c"
@@ -1271,5 +1266,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 254
+ "count": 253
 }
