@@ -281,6 +281,11 @@
    "secret": "eeb224a50f790ff91d0bd4bac78ce1709b63616368652e67617264656e2d74726f6c6c2e6c696665"
   },
   {
+   "server": "ccc.horizon555.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "cdf419.mtpfast.com",
    "port": 443,
    "secret": "ee83c4a8430423b9e487366817979d585a6364663431392e6d7470666173742e636f6d"
@@ -329,6 +334,11 @@
    "server": "chai.mikham.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "cheetah-proxy.ir.hey-gardash.info.",
+   "port": 1080,
+   "secret": "79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "chelipa.co.uk.",
@@ -414,6 +424,11 @@
    "server": "eerie.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "Empire-persia.iran.hey-gardash.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "Empire-persia.iran.hey-gardash.info.",
@@ -571,6 +586,11 @@
    "secret": "eee1d83173973b66435714792849c716dc6875622e75746b616e6f732e6c696665"
   },
   {
+   "server": "hunna.helloworld.surf",
+   "port": 443,
+   "secret": "dd8348f17544c6a17a74ba9a8ee001e006"
+  },
+  {
    "server": "idyll.shmelproxy.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -619,6 +639,11 @@
    "server": "king-of-the-world.ir.bishdhaep.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "Kingdom-persia.ir.hey-gardash.info.",
+   "port": 1080,
+   "secret": "79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "kurd.tryzub-it.co.uk.",
@@ -931,6 +956,16 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "one.horizon555.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "ooo.horizon555.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "opeenhostings.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -1081,6 +1116,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "shop.startnetwork.shop",
+   "port": 443,
+   "secret": "dd56771eb41fb312ed11c1993f341aa923"
+  },
+  {
    "server": "sisu.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1154,11 +1194,6 @@
    "server": "sync.fleethop.online",
    "port": 443,
    "secret": "ee5d12530b3304850a75f79585e946b73073796e632e666c656574686f702e6f6e6c696e65"
-  },
-  {
-   "server": "sync.savelyev.click",
-   "port": 443,
-   "secret": "ee6b56378bbf49f5bd8552fa1e9d63bab773796e632e736176656c7965762e636c69636b"
   },
   {
    "server": "sync.utkanos.life",
@@ -1266,5 +1301,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 253
+ "count": 260
 }
