@@ -361,6 +361,11 @@
    "secret": "ee7a38aee8fa82112dd91b9258b059413e646174612e75746b616e6f732e6c696665"
   },
   {
+   "server": "delbar.wrenshire.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "delbaz.wrenshire.co.uk",
    "port": 9870,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -734,6 +739,11 @@
    "server": "mc-ssh.t-proxyru.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "me.wrenshire.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "medblock.ink",
@@ -1196,6 +1206,11 @@
    "secret": "ee27b0ae91a7a96aa0c1359f5fa060d1ee772e6265737470726f78792e696375"
   },
   {
+   "server": "we.wrenshire.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "web2.balalaika.click",
    "port": 443,
    "secret": "ee850cfafb13d00ecd5403073cecec2de0776562322e62616c616c61696b612e636c69636b"
@@ -1241,5 +1256,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 248
+ "count": 251
 }
