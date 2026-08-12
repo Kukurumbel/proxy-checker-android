@@ -56,6 +56,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "65.109.147.34",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.21.83.228",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -936,11 +941,6 @@
    "secret": "ee0d18bcfe9171e107485beab84de36de670616e656c2e6672656574672e7077"
   },
   {
-   "server": "panel.neo-vpn.ink",
-   "port": 443,
-   "secret": "eeb4ea209a41744fcfe544c552c134b0a670616e656c2e6e656f2d76706e2e696e6b"
-  },
-  {
    "server": "panel.toconvel.digital",
    "port": 443,
    "secret": "ee0c461c6832df3f66d29a448492a5259b70616e656c2e746f636f6e76656c2e6469676974616c"
@@ -949,11 +949,6 @@
    "server": "panel.toconvel.digital",
    "port": 443,
    "secret": "ee8c4fb86b7af800185c4811f25232d4b570616e656c2e746f636f6e76656c2e6469676974616c"
-  },
-  {
-   "server": "pathory.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "petrichor.slarkfat.icu",
@@ -1116,6 +1111,11 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "speed2.luna-tun.site",
+   "port": 443,
+   "secret": "ee6e53ed117b401c54bc880b545089e6276f7a6f6e2e7275"
+  },
+  {
    "server": "srv.utkanos.life",
    "port": 443,
    "secret": "eec3f59ac6ee4ae5f57bc581a1fb321bbf7372762e75746b616e6f732e6c696665"
@@ -1181,6 +1181,11 @@
    "secret": "ee39f2f36ec93338eae372566cb078c0aa7467322e676f696e67666c75782e6f6e6c696e65"
   },
   {
+   "server": "toptop2.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "turk.dasy2k1.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -1189,11 +1194,6 @@
    "server": "uptime.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "view.fleethop.online",
-   "port": 443,
-   "secret": "ee05a819f41fd784d0a3ad0f67013fb7a9766965772e666c656574686f702e6f6e6c696e65"
   },
   {
    "server": "view.toconvel.digital",
