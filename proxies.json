@@ -226,11 +226,6 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
-   "server": "best.router.iran.ir.bishdhaep.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.",
    "port": 4443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -254,11 +249,6 @@
    "server": "bo0ji.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "br.nowabst.net",
-   "port": 443,
-   "secret": "eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d"
   },
   {
    "server": "c12dfd.vpngate-cloud.net",
@@ -626,6 +616,11 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
+   "server": "iran.vanitydomain.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "jadid.zhigool.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -831,11 +826,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "milion.users.ir.bishdhaep.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "mio.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -886,14 +876,14 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "neo.nowabst.net",
-   "port": 853,
-   "secret": "eef1a6f37d0802344061235bb7d60f3fa4766b2e636f6d"
-  },
-  {
    "server": "net2.balalaika.click",
    "port": 443,
    "secret": "ee14828e5115e5868e2271f149db44bd366e6574322e62616c616c61696b612e636c69636b"
+  },
+  {
+   "server": "nevspy.corph.ru",
+   "port": 443,
+   "secret": "eeb84c4dd66de8cfc70f103d43748431ec7777772e6d6963726f736f66742e636f6d"
   },
   {
    "server": "New.nchnch.co.uk",
@@ -1301,5 +1291,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 260
+ "count": 258
 }
