@@ -166,11 +166,6 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "aparat.com--rozblog.ir-yahoo.com-bmi.ir.mihanwebhost.izogampashmeshishe.ir.",
-   "port": 443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "api.groundfloorsolutions.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -356,11 +351,6 @@
    "secret": "eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b"
   },
   {
-   "server": "data.savelyev.click",
-   "port": 443,
-   "secret": "ee4a2d96b1f28e7ceb3ca477c79fc54f8f646174612e736176656c7965762e636c69636b"
-  },
-  {
    "server": "data.utkanos.life",
    "port": 443,
    "secret": "ee63f12c1c005215ca4f5a5c3102fee7e7646174612e75746b616e6f732e6c696665"
@@ -489,6 +479,11 @@
    "server": "ftp.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "gamerpr.cfd",
+   "port": 8880,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "gate.24starsmarket.ru",
@@ -649,6 +644,11 @@
    "server": "lazeyka-12.getvelora.space",
    "port": 443,
    "secret": "ee7120934f81f74bd49de13efd8ec49d126f7a6f6e2e7275"
+  },
+  {
+   "server": "lazeyka-13.getvelora.space",
+   "port": 443,
+   "secret": "ee46a32561a355dd2e25ffc2bc75f5c1c36f7a6f6e2e7275"
   },
   {
    "server": "lazeyka-2-5.getvelora.space",
