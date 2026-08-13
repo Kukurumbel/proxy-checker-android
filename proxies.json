@@ -26,11 +26,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "30a1de.corecdn.net",
-   "port": 443,
-   "secret": "eed6662c1fb60871326543681c1fce09c93330613164652e636f726563646e2e6e6574"
-  },
-  {
    "server": "31.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -39,11 +34,6 @@
    "server": "41.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "500245.hopwire.io",
-   "port": 443,
-   "secret": "ee06342713da7e66863b8d0f70d93d145a3530303234352e686f70776972652e696f"
   },
   {
    "server": "65.108.123.76",
@@ -254,11 +244,6 @@
    "server": "bo0ji.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "c12dfd.vpngate-cloud.net",
-   "port": 443,
-   "secret": "eed10acacf18fc72b11dc0b166d72a68536331326466642e76706e676174652d636c6f75642e6e6574"
   },
   {
    "server": "cache.fleethop.org",
@@ -701,11 +686,6 @@
    "secret": "ee58f2c2441f45e38f6b03bf7abc0e5d446c6976652e67617264656e2d74726f6c6c2e6c696665"
   },
   {
-   "server": "login.kerfilia.info",
-   "port": 6775,
-   "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "lor.barhousefarm.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -784,6 +764,21 @@
    "server": "media5.happtg.org",
    "port": 443,
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
+  },
+  {
+   "server": "media6.happtg.org",
+   "port": 443,
+   "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
+  },
+  {
+   "server": "media7.happtg.org",
+   "port": 443,
+   "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
+  },
+  {
+   "server": "media8.happtg.org",
+   "port": 443,
+   "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
    "server": "media9.happtg.org",
@@ -1256,5 +1251,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 251
+ "count": 250
 }
