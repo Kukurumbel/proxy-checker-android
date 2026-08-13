@@ -171,11 +171,6 @@
    "secret": "eebed8d6488d13d1f171a5787c010efa9e617069322e6d6564686174612e6f7267"
   },
   {
-   "server": "app2.balalaika.click",
-   "port": 443,
-   "secret": "eed9b0b0ac3fd7e46156e587054280b119617070322e62616c616c61696b612e636c69636b"
-  },
-  {
    "server": "app2.klyuch1k.org",
    "port": 443,
    "secret": "eea7829bb257995a5d0e83f5345b7033ae617070322e6b6c79756368316b2e6f7267"
@@ -624,11 +619,6 @@
    "server": "lazeyka-14.getvelora.space",
    "port": 443,
    "secret": "ee84654917aa6c012ee32e6fe5980aa5236f7a6f6e2e7275"
-  },
-  {
-   "server": "lazeyka-7.getvelora.space",
-   "port": 443,
-   "secret": "ee6217d45aebe10e6574ed4638d84a55016f7a6f6e2e7275"
   },
   {
    "server": "lazeyka-8.getvelora.space",
@@ -1181,11 +1171,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "web2.balalaika.click",
-   "port": 443,
-   "secret": "ee850cfafb13d00ecd5403073cecec2de0776562322e62616c616c61696b612e636c69636b"
-  },
-  {
    "server": "wisp.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1226,5 +1211,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 242
 }
