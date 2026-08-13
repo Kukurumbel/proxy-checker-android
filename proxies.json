@@ -11,6 +11,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "144.31.141.34",
+   "port": 443,
+   "secret": "6a13fc062ccc469afedf8299e715faed"
+  },
+  {
    "server": "176.65.135.69",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -116,6 +121,16 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "95.135.125.61",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "server": "95.135.125.62",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
    "server": "ad1.arixo.shop",
    "port": 443,
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
@@ -149,11 +164,6 @@
    "server": "adieu.shmelproxy.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "alo.clare-flare-ow.store.",
-   "port": 25565,
-   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "api.groundfloorsolutions.co.uk.",
@@ -244,6 +254,11 @@
    "server": "cache.garden-troll.life",
    "port": 443,
    "secret": "eeb224a50f790ff91d0bd4bac78ce1709b63616368652e67617264656e2d74726f6c6c2e6c696665"
+  },
+  {
+   "server": "Capital-of-iranian.cat-beutifull-sirooss.co.im",
+   "port": 4443,
+   "secret": "7hBEYoISSb16xRkTAiDI3QljYXQtYmV1dGlmdWxsLXNpcm9vc3MuY28uaW0="
   },
   {
    "server": "ccc.horizon555.co.uk",
@@ -906,6 +921,11 @@
    "secret": "dd82072d16cfe4355b088c61cd897d0533"
   },
   {
+   "server": "portal.malevich7.top",
+   "port": 443,
+   "secret": "ee581fe7a67822287a191d54675fa00956706f7274616c2e6d616c6576696368372e746f70"
+  },
+  {
    "server": "premium.bestproxy.icu",
    "port": 8443,
    "secret": "ee27b0ae91a7a96aa0c1359f5fa060d1ee7072656d69756d2e6265737470726f78792e696375"
@@ -949,11 +969,6 @@
    "server": "relay2.best-proxy.ink",
    "port": 443,
    "secret": "eee751f2db32edcfc86330057749a3ab9472656c6179322e626573742d70726f78792e696e6b"
-  },
-  {
-   "server": "relay2.toconvel.digital",
-   "port": 443,
-   "secret": "eeb15329fb8c778aeb1b5fdd0b9d79786972656c6179322e746f636f6e76656c2e6469676974616c"
   },
   {
    "server": "relaywise.co.uk.",
@@ -1201,5 +1216,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 240
+ "count": 243
 }
