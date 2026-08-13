@@ -11,6 +11,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "176.65.135.69",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "195.254.165.224",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -51,7 +56,7 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.21.205.41",
+   "server": "65.21.83.228",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -96,11 +101,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "91.107.160.196",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "91.98.137.162",
    "port": 443,
    "secret": "dd80e344818749bd7ac519130220c25d38"
@@ -114,11 +114,6 @@
    "server": "95.135.125.50",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "95.217.193.223",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "ad1.arixo.shop",
@@ -364,11 +359,6 @@
    "server": "edge2.kvakzon.top",
    "port": 443,
    "secret": "eed6962c6820fac66c942ad857b7072ae265646765322e6b76616b7a6f6e2e746f70"
-  },
-  {
-   "server": "edge2.librava.click",
-   "port": 443,
-   "secret": "ee4cac1442f878b9c522cf77e7cc47dd8765646765322e6c6962726176612e636c69636b"
   },
   {
    "server": "edge2.medhata.org",
@@ -841,11 +831,6 @@
    "secret": "eed8ddbd288df6384bafd70313afa19dd56e6f6465322e6b76616b7a6f6e2e746f70"
   },
   {
-   "server": "node2.librava.click",
-   "port": 443,
-   "secret": "ee0bbeba170f295eef00b7b9be814e218b6e6f6465322e6c6962726176612e636c69636b"
-  },
-  {
    "server": "node2.medhata.org",
    "port": 443,
    "secret": "eed9235bacb93c7beb6fd45b3205c7aba36e6f6465322e6d6564686174612e6f7267"
@@ -949,6 +934,11 @@
    "server": "proxy.whiteproxy.baby",
    "port": 443,
    "secret": "dd7815244840ab293a65f83fc16bb0234e"
+  },
+  {
+   "server": "proxyy.startnetwork.shop",
+   "port": 443,
+   "secret": "dd2be934a8a9ee10e16397981246715435"
   },
   {
    "server": "puot.mozitop.co.uk",
@@ -1081,6 +1071,11 @@
    "secret": "eee2a089ccf624e674b3ef3d3638a715017372762e75746b616e6f732e6c696665"
   },
   {
+   "server": "stable.rkn.lat",
+   "port": 443,
+   "secret": "ee63cd87a492fff3595fd75c82d0ec9afa636c6f756463646e2d6d392d362e63646e2e79616e6465782e6e6574"
+  },
+  {
    "server": "store.garden-troll.life",
    "port": 443,
    "secret": "ee140066337d99c1a319ceee2b2e85036b73746f72652e67617264656e2d74726f6c6c2e6c696665"
@@ -1206,5 +1201,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 241
+ "count": 240
 }
