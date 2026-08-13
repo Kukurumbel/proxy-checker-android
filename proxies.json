@@ -561,11 +561,6 @@
    "secret": "eea29dda982c54198f00ea8d440fa6f8ce6875622e6e656f2d76706e2e696e6b"
   },
   {
-   "server": "hub.savelyev.click",
-   "port": 443,
-   "secret": "ee609a2ad7e277c6eb2dd39767e12777b86875622e736176656c7965762e636c69636b"
-  },
-  {
    "server": "hub.utkanos.life",
    "port": 443,
    "secret": "ee40854ff173077abb80426160a84a19e56875622e75746b616e6f732e6c696665"
@@ -759,11 +754,6 @@
    "server": "me.wrenshire.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "medblock.ink",
-   "port": 443,
-   "secret": "ee48995b34487bfb1cb562552a585da0ea6d6564626c6f636b2e696e6b"
   },
   {
    "server": "media.happtg.org",
@@ -1266,5 +1256,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 253
+ "count": 251
 }
