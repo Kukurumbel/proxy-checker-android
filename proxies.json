@@ -436,11 +436,6 @@
    "secret": "eef27d554138e7e6b9551f34438ce2a307666565642e746f636f6e76656c2e6469676974616c"
   },
   {
-   "server": "feed.veltura.digital",
-   "port": 443,
-   "secret": "eedf74bc084ecbb6a09e9b8e00815673a2666565642e76656c747572612e6469676974616c"
-  },
-  {
    "server": "Fighter-Man.ir-proxy.Manege-Desktop-For.Co.Im.",
    "port": 4443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -459,11 +454,6 @@
    "server": "fresh.t-proxy.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "ftp.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "gamerpr.cfd",
@@ -576,11 +566,6 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "iran.lv426.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "iran.vanitydomain.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -634,6 +619,11 @@
    "server": "lazeyka-13.getvelora.space",
    "port": 443,
    "secret": "ee46a32561a355dd2e25ffc2bc75f5c1c36f7a6f6e2e7275"
+  },
+  {
+   "server": "lazeyka-14.getvelora.space",
+   "port": 443,
+   "secret": "ee84654917aa6c012ee32e6fe5980aa5236f7a6f6e2e7275"
   },
   {
    "server": "lazeyka-7.getvelora.space",
@@ -991,11 +981,6 @@
    "secret": "eeb15329fb8c778aeb1b5fdd0b9d79786972656c6179322e746f636f6e76656c2e6469676974616c"
   },
   {
-   "server": "relay2.veltura.digital",
-   "port": 443,
-   "secret": "ee7a7b5085a44f96351b778848356e89f172656c6179322e76656c747572612e6469676974616c"
-  },
-  {
    "server": "relaywise.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1241,5 +1226,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 248
+ "count": 245
 }
