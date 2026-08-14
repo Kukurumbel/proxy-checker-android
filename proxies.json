@@ -61,6 +61,21 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.205.41",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.21.227.204",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.21.234.20",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.21.83.228",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -606,11 +621,6 @@
    "secret": "eeb7c7ecd2c1bcd4d648db4ce2d01063cf6f7a6f6e2e7275"
   },
   {
-   "server": "lazeyka-8.getvelora.space",
-   "port": 443,
-   "secret": "ee45ce57c60e086edc76190ab6879abc136f7a6f6e2e7275"
-  },
-  {
    "server": "lazeyka-9.getvelora.space",
    "port": 443,
    "secret": "ee776b5df47854c0f3438de44b40ddcc846f7a6f6e2e7275"
@@ -931,11 +941,6 @@
    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
   },
   {
-   "server": "proxy.whiteproxy.baby",
-   "port": 443,
-   "secret": "dd7815244840ab293a65f83fc16bb0234e"
-  },
-  {
    "server": "proxyy.startnetwork.shop",
    "port": 443,
    "secret": "dd2be934a8a9ee10e16397981246715435"
@@ -1191,6 +1196,11 @@
    "secret": "ee7a29d29b78fc18e2841ad9c38d38c0197777772e626f6f6b696e672e636f6d"
   },
   {
+   "server": "whitelist.startnetwork.shop",
+   "port": 443,
+   "secret": "ddaa8133d8cd5e986848e2f6119ab126ff"
+  },
+  {
    "server": "wisp.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1226,5 +1236,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 247
 }
