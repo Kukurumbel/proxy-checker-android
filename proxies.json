@@ -146,11 +146,6 @@
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
   },
   {
-   "server": "ad5.arixo.shop",
-   "port": 443,
-   "secret": "ee995469d4d5a3221f69a1cc24d1cafa506164322e617269786f2e73686f70"
-  },
-  {
    "server": "ad6.arixo.shop",
    "port": 443,
    "secret": "ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70"
@@ -1151,6 +1146,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "vetka.v6n.tech",
+   "port": 443,
+   "secret": "ee4a6cc3ea1d2fba9f1f6194333b6e6acf7777772e626f6f6b696e672e636f6d"
+  },
+  {
    "server": "view.toconvel.digital",
    "port": 443,
    "secret": "eebf8b8e61e9360293b4c1b9e7a445861c766965772e746f636f6e76656c2e6469676974616c"
@@ -1181,6 +1181,16 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
+   "server": "welcome.v6n.tech",
+   "port": 443,
+   "secret": "ee56b6cceda2b0d2297a75046f8cda124c7777772e626f6f6b696e672e636f6d"
+  },
+  {
+   "server": "welcome2.v6n.tech",
+   "port": 443,
+   "secret": "ee7a29d29b78fc18e2841ad9c38d38c0197777772e626f6f6b696e672e636f6d"
+  },
+  {
    "server": "wisp.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1201,11 +1211,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "zilch.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "zomb0m.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1221,5 +1226,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 244
+ "count": 245
 }
