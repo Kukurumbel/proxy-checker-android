@@ -496,11 +496,6 @@
    "secret": "eefd552db7ae2bffd2eeb377fe841d3b8b67772e67617264656e2d74726f6c6c2e6c696665"
   },
   {
-   "server": "gw.medblock.ink",
-   "port": 443,
-   "secret": "ee41e23c396b97e4e44caaed70ec230b3e67772e6d6564626c6f636b2e696e6b"
-  },
-  {
    "server": "haji.biabala.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -1241,5 +1236,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 248
+ "count": 247
 }
