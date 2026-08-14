@@ -72,11 +72,6 @@
   },
   {
    "server": "79.137.196.223",
-   "port": 11443,
-   "secret": "ee8a160975fad14b21992a65e0db4b7cfa7777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "79.137.196.223",
    "port": 12443,
    "secret": "eebc63866dd7a052dbd741a691486a82127777772e636c6f7564666c6172652e636f6d"
   },
@@ -144,16 +139,6 @@
    "server": "ad3.arixo.shop",
    "port": 443,
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
-  },
-  {
-   "server": "ad6.arixo.shop",
-   "port": 443,
-   "secret": "ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70"
-  },
-  {
-   "server": "adieu.shmelproxy.top",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "api.groundfloorsolutions.co.uk.",
@@ -611,6 +596,11 @@
    "secret": "ee84654917aa6c012ee32e6fe5980aa5236f7a6f6e2e7275"
   },
   {
+   "server": "lazeyka-15.getvelora.space",
+   "port": 443,
+   "secret": "eeb7c7ecd2c1bcd4d648db4ce2d01063cf6f7a6f6e2e7275"
+  },
+  {
    "server": "lazeyka-8.getvelora.space",
    "port": 443,
    "secret": "ee45ce57c60e086edc76190ab6879abc136f7a6f6e2e7275"
@@ -864,11 +854,6 @@
    "server": "nyakawai.shop",
    "port": 2053,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "offers.wrenshire.co.uk",
-   "port": 7980,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "one.horizon555.co.uk",
@@ -1231,5 +1216,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 246
+ "count": 243
 }
