@@ -1,11 +1,6 @@
 {
  "proxies": [
   {
-   "server": "023abb.vpngate-cloud.net",
-   "port": 443,
-   "secret": "ee7b867e2553478b4434adbed1539ebed23032336162622e76706e676174652d636c6f75642e6e6574"
-  },
-  {
    "server": "135.181.74.154",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -69,11 +64,6 @@
    "server": "65.21.83.248",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "6997f5.swift-cdn.net",
-   "port": 443,
-   "secret": "ee77da8983d77f29210da791d3a3ace4ce3639393766352e73776966742d63646e2e6e6574"
   },
   {
    "server": "79.137.196.223",
@@ -269,11 +259,6 @@
    "server": "ccc.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "cdf419.mtpfast.com",
-   "port": 443,
-   "secret": "ee83c4a8430423b9e487366817979d585a6364663431392e6d7470666173742e636f6d"
   },
   {
    "server": "cdn2.kvakzon.top",
@@ -511,6 +496,11 @@
    "secret": "ee41e23c396b97e4e44caaed70ec230b3e67772e6d6564626c6f636b2e696e6b"
   },
   {
+   "server": "haji.biabala.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "happy.whiteproxy.baby",
    "port": 443,
    "secret": "ddf1284a8137961061b01ca4ace364b422"
@@ -572,6 +562,11 @@
   },
   {
    "server": "iran.fourie.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "iran.lv426.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
@@ -694,6 +689,11 @@
    "server": "M.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk",
    "port": 80,
    "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ=="
+  },
+  {
+   "server": "mashti.biabala.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "max.kimt.click",
@@ -1052,11 +1052,6 @@
   },
   {
    "server": "skein.chunkycorp.shop",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "skein.chunkycorp.shop",
    "port": 8443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -1241,5 +1236,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 248
+ "count": 247
 }
