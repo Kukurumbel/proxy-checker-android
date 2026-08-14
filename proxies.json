@@ -336,11 +336,6 @@
    "secret": "ee6e0e00da4fd30ef9b6adeff20593ba6765646765322e6d6564686174612e6f7267"
   },
   {
-   "server": "eerie.proxytales.life",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "Empire-persia.iran.hey-gardash.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -1216,5 +1211,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 243
+ "count": 242
 }
