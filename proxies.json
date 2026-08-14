@@ -266,19 +266,9 @@
    "secret": "ee83c4a8430423b9e487366817979d585a6364663431392e6d7470666173742e636f6d"
   },
   {
-   "server": "cdn1.legacdn.com",
-   "port": 443,
-   "secret": "eea990d0794c43c68cdd51caea31e4e957706574726f766963682e7275"
-  },
-  {
    "server": "cdn2.kvakzon.top",
    "port": 443,
    "secret": "eed885bc652307c8aefb476d484c87b5be63646e322e6b76616b7a6f6e2e746f70"
-  },
-  {
-   "server": "cdn2.legacdn.com",
-   "port": 443,
-   "secret": "ee4746d4ee69873099c9d0abd64656c261706574726f766963682e7275"
   },
   {
    "server": "cdn2.medhata.org",
@@ -474,6 +464,11 @@
    "server": "ge.nowabst.net",
    "port": 853,
    "secret": "ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d"
+  },
+  {
+   "server": "go.pelmeshka.top",
+   "port": 443,
+   "secret": "ee25ef6959e1bbc328d55d6238d836056d676f2e70656c6d6573686b612e746f70"
   },
   {
    "server": "go2.klyuch1k.org",
@@ -1236,5 +1231,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 247
+ "count": 246
 }
