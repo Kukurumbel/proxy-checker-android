@@ -1026,6 +1026,11 @@
    "secret": "dd56771eb41fb312ed11c1993f341aa923"
   },
   {
+   "server": "sioms.co.uk",
+   "port": 25565,
+   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
    "server": "sisu.proxytales.life",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1226,5 +1231,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 246
 }
