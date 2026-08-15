@@ -21,11 +21,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "194.120.230.26",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "195.254.165.224",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -57,11 +52,6 @@
   },
   {
    "server": "65.109.147.34",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.227.204",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -1071,6 +1061,11 @@
    "secret": "ee63cd87a492fff3595fd75c82d0ec9afa636c6f756463646e2d6d392d362e63646e2e79616e6465782e6e6574"
   },
   {
+   "server": "starstg.neverspy.tech",
+   "port": 443,
+   "secret": "eee19ef78b188ec248d8187c787a46ccca647a656e2e7275"
+  },
+  {
    "server": "store.garden-troll.life",
    "port": 443,
    "secret": "ee140066337d99c1a319ceee2b2e85036b73746f72652e67617264656e2d74726f6c6c2e6c696665"
@@ -1211,5 +1206,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 242
+ "count": 241
 }
