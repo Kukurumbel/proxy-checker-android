@@ -166,6 +166,11 @@
    "secret": "eebed8d6488d13d1f171a5787c010efa9e617069322e6d6564686174612e6f7267"
   },
   {
+   "server": "app.what-ever.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "app2.klyuch1k.org",
    "port": 443,
    "secret": "eea7829bb257995a5d0e83f5345b7033ae617070322e6b6c79756368316b2e6f7267"
@@ -204,11 +209,6 @@
    "server": "Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.",
    "port": 4443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "bezan-roo.connectina.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "bfesedv.uk.",
@@ -556,19 +556,9 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "iran-download.shentaichiacademy.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "iran.brettanderson.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "iran.connectina.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "iran.fourie.co.uk.",
@@ -1171,6 +1161,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "webhook.jinxandjack.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "webhook.vingardium.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -1231,5 +1226,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 246
+ "count": 245
 }
