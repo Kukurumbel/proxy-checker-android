@@ -626,11 +626,6 @@
    "secret": "ee776b5df47854c0f3438de44b40ddcc846f7a6f6e2e7275"
   },
   {
-   "server": "life.whiteproxy.baby",
-   "port": 443,
-   "secret": "dd775fa5684b6f92e462eb88c1307d338d"
-  },
-  {
    "server": "live.best-proxy.ink",
    "port": 443,
    "secret": "eee49c0c36df83f06e456ffbe5b7b3a73c6c6976652e626573742d70726f78792e696e6b"
@@ -1211,5 +1206,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 242
+ "count": 241
 }
