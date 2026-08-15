@@ -1176,11 +1176,6 @@
    "secret": "ddaa8133d8cd5e986848e2f6119ab126ff"
   },
   {
-   "server": "wisp.slarkfat.icu",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "yarypple.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1206,5 +1201,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 241
+ "count": 240
 }
