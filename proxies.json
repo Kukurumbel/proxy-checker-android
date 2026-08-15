@@ -616,6 +616,11 @@
    "secret": "eeb7c7ecd2c1bcd4d648db4ce2d01063cf6f7a6f6e2e7275"
   },
   {
+   "server": "lazeyka-16.getvelora.space",
+   "port": 443,
+   "secret": "ee2c6166046e02e05d774fd2eece6a93966f7a6f6e2e7275"
+  },
+  {
    "server": "lazeyka-9.getvelora.space",
    "port": 443,
    "secret": "ee776b5df47854c0f3438de44b40ddcc846f7a6f6e2e7275"
@@ -824,11 +829,6 @@
    "server": "node.easyproxy.cfd",
    "port": 443,
    "secret": "ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664"
-  },
-  {
-   "server": "node.mishkalapy.life",
-   "port": 443,
-   "secret": "ee05b1fa1cf5ade2ed4052b16971b33ca46e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
    "server": "node2.kvakzon.top",
@@ -1191,11 +1191,6 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
-   "server": "yundex-pro.cat-beutifull-sirooss.co.im.",
-   "port": 4443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "zomb0m.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1211,5 +1206,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 242
+ "count": 241
 }
