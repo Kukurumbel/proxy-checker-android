@@ -166,11 +166,6 @@
    "secret": "eebed8d6488d13d1f171a5787c010efa9e617069322e6d6564686174612e6f7267"
   },
   {
-   "server": "app.what-ever.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "app2.klyuch1k.org",
    "port": 443,
    "secret": "eea7829bb257995a5d0e83f5345b7033ae617070322e6b6c79756368316b2e6f7267"
@@ -274,6 +269,11 @@
    "server": "cdn2.medhata.org",
    "port": 443,
    "secret": "ee2cc683617eec3aad5f3f195bb8c1091a63646e322e6d6564686174612e6f7267"
+  },
+  {
+   "server": "cdn5.cdnwave.org",
+   "port": 443,
+   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
    "server": "cdn6.cdnwave.org",
@@ -546,22 +546,12 @@
    "secret": "dd8348f17544c6a17a74ba9a8ee001e006"
   },
   {
-   "server": "iran-download.fourie.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "iran-download.goaphrodite.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "iran.brettanderson.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "iran.fourie.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
@@ -966,11 +956,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "s01.neo-trading.org",
-   "port": 443,
-   "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
-  },
-  {
    "server": "s010.neo-trading.org",
    "port": 443,
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
@@ -986,11 +971,6 @@
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
   },
   {
-   "server": "s03.neo-trading.org",
-   "port": 443,
-   "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
-  },
-  {
    "server": "s05.neo-trading.org",
    "port": 443,
    "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
@@ -1004,6 +984,11 @@
    "server": "s2.postpulse.space",
    "port": 443,
    "secret": "ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70"
+  },
+  {
+   "server": "s3.assetflux.org",
+   "port": 443,
+   "secret": "ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275"
   },
   {
    "server": "s5.postpulse.space",
@@ -1226,5 +1211,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 242
 }
