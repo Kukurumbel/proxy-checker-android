@@ -166,6 +166,11 @@
    "secret": "eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70"
   },
   {
+   "server": "api2.kvakzon.top",
+   "port": 2443,
+   "secret": "eeb2a0e3b5fba31d961cba1437805cf950617069322e6b76616b7a6f6e2e746f70"
+  },
+  {
    "server": "api2.medhata.org",
    "port": 443,
    "secret": "eebed8d6488d13d1f171a5787c010efa9e617069322e6d6564686174612e6f7267"
@@ -269,6 +274,11 @@
    "server": "cdn2.kvakzon.top",
    "port": 443,
    "secret": "eed885bc652307c8aefb476d484c87b5be63646e322e6b76616b7a6f6e2e746f70"
+  },
+  {
+   "server": "cdn2.kvakzon.top",
+   "port": 2443,
+   "secret": "eea3046b756505c4772f1041996e592d2663646e322e6b76616b7a6f6e2e746f70"
   },
   {
    "server": "cdn2.medhata.org",
@@ -1226,5 +1236,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 247
 }
