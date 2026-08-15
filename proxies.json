@@ -546,11 +546,6 @@
    "secret": "dd8348f17544c6a17a74ba9a8ee001e006"
   },
   {
-   "server": "idyll.shmelproxy.top",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "iran-download.fourie.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -1026,11 +1021,6 @@
    "secret": "ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70"
   },
   {
-   "server": "s6.postpulse.space",
-   "port": 443,
-   "secret": "ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70"
-  },
-  {
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1241,5 +1231,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 248
+ "count": 246
 }
