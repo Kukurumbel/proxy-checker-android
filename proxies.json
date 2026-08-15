@@ -51,11 +51,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.108.230.201",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "65.109.147.34",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -341,6 +336,11 @@
    "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
   },
   {
+   "server": "dis.connectina.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "dns.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -569,6 +569,11 @@
    "server": "iran.brettanderson.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "iran.connectina.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "iran.fourie.co.uk.",
@@ -1104,11 +1109,6 @@
    "server": "store.garden-troll.life",
    "port": 443,
    "secret": "ee48cf7e3bd66be26a63a9215416ce776a73746f72652e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
-   "server": "Strait-of-Hormuz.ir.jursdheks.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "Suodbo.co.uk.",
