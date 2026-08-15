@@ -1156,11 +1156,6 @@
    "secret": "ee4a6cc3ea1d2fba9f1f6194333b6e6acf7777772e626f6f6b696e672e636f6d"
   },
   {
-   "server": "view.toconvel.digital",
-   "port": 443,
-   "secret": "eebf8b8e61e9360293b4c1b9e7a445861c766965772e746f636f6e76656c2e6469676974616c"
-  },
-  {
    "server": "ving.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1236,5 +1231,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 247
+ "count": 246
 }
