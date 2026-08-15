@@ -151,11 +151,6 @@
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
   },
   {
-   "server": "api.groundfloorsolutions.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "api2.kvakzon.top",
    "port": 443,
    "secret": "eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70"
@@ -544,11 +539,6 @@
    "server": "hunna.helloworld.surf",
    "port": 443,
    "secret": "dd8348f17544c6a17a74ba9a8ee001e006"
-  },
-  {
-   "server": "iran-download.goaphrodite.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "iran.brettanderson.co.uk.",
@@ -1221,5 +1211,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 244
+ "count": 242
 }
