@@ -76,6 +76,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "77.110.127.72",
+   "port": 443,
+   "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
+  },
+  {
    "server": "79.137.196.223",
    "port": 10443,
    "secret": "ee63fccdeb9951e5f99d66d274148278b97777772e636c6f7564666c6172652e636f6d"
@@ -289,21 +294,6 @@
    "server": "cdn5.cdnwave.org",
    "port": 443,
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
-  },
-  {
-   "server": "cdn6.cdnwave.org",
-   "port": 443,
-   "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
-  },
-  {
-   "server": "cdn7.cdnwave.org",
-   "port": 443,
-   "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
-  },
-  {
-   "server": "cdn8.cdnwave.org",
-   "port": 443,
-   "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
    "server": "chai.mikham.co.uk",
@@ -826,6 +816,11 @@
    "secret": "eeb84c4dd66de8cfc70f103d43748431ec7777772e6d6963726f736f66742e636f6d"
   },
   {
+   "server": "new.bestbattle.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "New.nchnch.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1241,5 +1236,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 248
+ "count": 247
 }
