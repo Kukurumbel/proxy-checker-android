@@ -181,11 +181,6 @@
    "secret": "eebed8d6488d13d1f171a5787c010efa9e617069322e6d6564686174612e6f7267"
   },
   {
-   "server": "app.what-ever.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "app2.klyuch1k.org",
    "port": 443,
    "secret": "eea7829bb257995a5d0e83f5345b7033ae617070322e6b6c79756368316b2e6f7267"
@@ -197,11 +192,6 @@
   },
   {
    "server": "bastani.mikham.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "beer.crona-extra.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
@@ -229,16 +219,6 @@
    "server": "bfesedv.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "bia-ba-ham.peachsoft.co.uk.",
-   "port": 443,
-   "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
-  },
-  {
-   "server": "bia.guguli.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "bibbib.wrenshire.co.uk",
@@ -311,11 +291,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "cloud.click-master.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "data.fast-proxy.ink",
    "port": 443,
    "secret": "eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b"
@@ -361,6 +336,11 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
+   "server": "download.konstruktion.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "download.lv426.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -379,6 +359,11 @@
    "server": "edge2.medhata.org",
    "port": 443,
    "secret": "ee6e0e00da4fd30ef9b6adeff20593ba6765646765322e6d6564686174612e6f7267"
+  },
+  {
+   "server": "edge2.medhata.org",
+   "port": 2443,
+   "secret": "ee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267"
   },
   {
    "server": "Empire-persia.iran.hey-gardash.info.",
@@ -561,9 +546,9 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "jadid.zhigool.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+   "server": "irancell-mci-rightel-adsl.connectina.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "jeremy.helloworld.surf",
@@ -781,11 +766,6 @@
    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
   },
   {
-   "server": "naro.guguli.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "neo.nowabst.net",
    "port": 853,
    "secret": "eef1a6f37d0802344061235bb7d60f3fa4766b2e636f6d"
@@ -829,6 +809,11 @@
    "server": "node2.medhata.org",
    "port": 443,
    "secret": "eed9235bacb93c7beb6fd45b3205c7aba36e6f6465322e6d6564686174612e6f7267"
+  },
+  {
+   "server": "node2.medhata.org",
+   "port": 2443,
+   "secret": "eeb19b644ed4a6c923d57abf3c7a52d1746e6f6465322e6d6564686174612e6f7267"
   },
   {
    "server": "null.wrenshire.co.uk",
@@ -1126,6 +1111,11 @@
    "secret": "ee39f2f36ec93338eae372566cb078c0aa7467322e676f696e67666c75782e6f6e6c696e65"
   },
   {
+   "server": "tg3.uniq.care",
+   "port": 8443,
+   "secret": "7swcOHh7aWFN6hqGnDPq5RF0ZzMudW5pcS5jYXJl"
+  },
+  {
    "server": "toptop2.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -1221,5 +1211,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 244
+ "count": 242
 }
