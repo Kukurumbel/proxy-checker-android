@@ -386,11 +386,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "fast.garden-troll.life",
-   "port": 443,
-   "secret": "eecf1c1606226e0962ad67b541a145b9c6666173742e67617264656e2d74726f6c6c2e6c696665"
-  },
-  {
    "server": "fast.proxygo.fun",
    "port": 8443,
    "secret": "eef30fe399bee638d966119d832d41c95f666173742e70726f7879676f2e66756e"
@@ -1174,6 +1169,11 @@
    "server": "yarypple.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "yeh.topbelka.ru",
+   "port": 443,
+   "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
   },
   {
    "server": "yeke-jahan.mohearn.co.uk.",
