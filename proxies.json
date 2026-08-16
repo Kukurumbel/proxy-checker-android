@@ -726,6 +726,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "mesh.lumious.org",
+   "port": 443,
+   "secret": "eed134e62e4fe0ba56f5b5a2bc7459786c6d6573682e6c756d696f75732e6f7267"
+  },
+  {
    "server": "migmig.wrenshire.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1216,5 +1221,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 243
+ "count": 244
 }
