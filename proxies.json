@@ -442,6 +442,11 @@
   },
   {
    "server": "gamerpr.cfd",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "gamerpr.cfd",
    "port": 8880,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
@@ -621,6 +626,11 @@
    "secret": "ee2c6166046e02e05d774fd2eece6a93966f7a6f6e2e7275"
   },
   {
+   "server": "lazeyka-17.getvelora.space",
+   "port": 443,
+   "secret": "eebc5b6769ff4b96a0ab0ac0aeffc156706f7a6f6e2e7275"
+  },
+  {
    "server": "live.garden-troll.life",
    "port": 443,
    "secret": "ee35e031f41ae8bb68b6d517e706ccdfb06c6976652e67617264656e2d74726f6c6c2e6c696665"
@@ -729,11 +739,6 @@
    "server": "mizaneshgh2.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "motasel.co.uk",
-   "port": 443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "mt.nowabst.net",
@@ -1211,5 +1216,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 242
+ "count": 243
 }
