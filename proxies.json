@@ -66,6 +66,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.234.20",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.21.83.228",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -159,6 +164,11 @@
    "server": "ad3.arixo.shop",
    "port": 443,
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
+  },
+  {
+   "server": "api.gorbushkin.click",
+   "port": 443,
+   "secret": "eebeda39dcb3b3bea0da3843853002fe5a6170692e676f72627573686b696e2e636c69636b"
   },
   {
    "server": "api.nowabst.net",
@@ -851,11 +861,6 @@
    "secret": "eed9235bacb93c7beb6fd45b3205c7aba36e6f6465322e6d6564686174612e6f7267"
   },
   {
-   "server": "noise.hajikalashatelservieshamrahavalcandy.co.uk",
-   "port": 80,
-   "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ%3D%3D"
-  },
-  {
    "server": "null.wrenshire.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1236,5 +1241,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 247
+ "count": 248
 }
