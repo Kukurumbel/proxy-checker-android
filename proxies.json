@@ -711,11 +711,6 @@
    "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
   },
   {
-   "server": "media10.happtg.org",
-   "port": 443,
-   "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
-  },
-  {
    "server": "media2.happtg.org",
    "port": 443,
    "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
@@ -724,11 +719,6 @@
    "server": "media3.happtg.org",
    "port": 443,
    "secret": "ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275"
-  },
-  {
-   "server": "media5.happtg.org",
-   "port": 443,
-   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
    "server": "media6.happtg.org",
@@ -744,11 +734,6 @@
    "server": "media8.happtg.org",
    "port": 443,
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
-  },
-  {
-   "server": "media9.happtg.org",
-   "port": 443,
-   "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
   },
   {
    "server": "megaconnect.click",
@@ -1031,6 +1016,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "shared.ddproxy.xyz",
+   "port": 443,
+   "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
+  },
+  {
    "server": "shop.startnetwork.shop",
    "port": 443,
    "secret": "dd56771eb41fb312ed11c1993f341aa923"
@@ -1241,5 +1231,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 248
+ "count": 246
 }
