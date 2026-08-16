@@ -181,6 +181,11 @@
    "secret": "eebed8d6488d13d1f171a5787c010efa9e617069322e6d6564686174612e6f7267"
   },
   {
+   "server": "api2.medhata.org",
+   "port": 2443,
+   "secret": "ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267"
+  },
+  {
    "server": "app2.klyuch1k.org",
    "port": 443,
    "secret": "eea7829bb257995a5d0e83f5345b7033ae617070322e6b6c79756368316b2e6f7267"
@@ -274,6 +279,11 @@
    "server": "cdn2.medhata.org",
    "port": 443,
    "secret": "ee2cc683617eec3aad5f3f195bb8c1091a63646e322e6d6564686174612e6f7267"
+  },
+  {
+   "server": "cdn2.medhata.org",
+   "port": 2443,
+   "secret": "ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267"
   },
   {
    "server": "cdn5.cdnwave.org",
@@ -1211,5 +1221,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 242
+ "count": 244
 }
