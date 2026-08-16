@@ -281,11 +281,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "chelipa.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "data.fast-proxy.ink",
    "port": 443,
    "secret": "eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b"
@@ -303,11 +298,6 @@
   {
    "server": "delbar.wrenshire.co.uk",
    "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "delbaz.wrenshire.co.uk",
-   "port": 9870,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -926,11 +916,6 @@
    "secret": "eee751f2db32edcfc86330057749a3ab9472656c6179322e626573742d70726f78792e696e6b"
   },
   {
-   "server": "relaywise.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "rootssh2.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1216,5 +1201,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 243
+ "count": 240
 }
