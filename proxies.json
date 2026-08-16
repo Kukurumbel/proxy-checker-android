@@ -181,6 +181,11 @@
    "secret": "eebed8d6488d13d1f171a5787c010efa9e617069322e6d6564686174612e6f7267"
   },
   {
+   "server": "app.what-ever.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "app2.klyuch1k.org",
    "port": 443,
    "secret": "eea7829bb257995a5d0e83f5345b7033ae617070322e6b6c79756368316b2e6f7267"
@@ -354,11 +359,6 @@
    "server": "download.brettanderson.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "download.konstruktion.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "download.lv426.co.uk.",
@@ -557,11 +557,6 @@
   },
   {
    "server": "iran.vanitydomain.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "irancell-mci-rightel-adsl.connectina.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -1226,5 +1221,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 244
 }
