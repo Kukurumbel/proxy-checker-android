@@ -6,11 +6,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "135.181.74.154",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "144.31.141.34",
    "port": 443,
    "secret": "6a13fc062ccc469afedf8299e715faed"
@@ -1231,5 +1226,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 246
+ "count": 245
 }
