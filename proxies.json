@@ -931,6 +931,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "qadim.zhigool.co.uk",
+   "port": 22,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "redflag.yazaebalsyadelatproxy.cc",
    "port": 443,
    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
@@ -1226,5 +1231,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 246
 }
