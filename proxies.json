@@ -166,6 +166,11 @@
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
+   "server": "anti.rkn.lat",
+   "port": 443,
+   "secret": "ee5ad5e4caef72b74d57ffb9781b3e5f04636c6f756463646e2d6d392d362e63646e2e79616e6465782e6e6574"
+  },
+  {
    "server": "api.gorbushkin.click",
    "port": 443,
    "secret": "eebeda39dcb3b3bea0da3843853002fe5a6170692e676f72627573686b696e2e636c69636b"
@@ -254,11 +259,6 @@
    "server": "bibbib.wrenshire.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "bo0ji.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "br.nowabst.net",
@@ -439,6 +439,11 @@
    "server": "free1.gram.blog",
    "port": 443,
    "secret": "eeeb46ebb806e03733786c662fdb27dac062726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "free2.gram.blog",
+   "port": 443,
+   "secret": "eee7edfdda71f1dd44c4714fed482a0a1b62726f777365722e79616e6465782e7275"
   },
   {
    "server": "freeconnect.lol",
@@ -1221,5 +1226,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 244
+ "count": 245
 }
