@@ -51,6 +51,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "484732.proxyhub.co",
+   "port": 443,
+   "secret": "ee5de76052d3430f237337281a95e9cea23438343733322e70726f78796875622e636f"
+  },
+  {
    "server": "65.108.123.76",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -211,6 +216,11 @@
    "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
   },
   {
+   "server": "b8af0e.hopwire.io",
+   "port": 443,
+   "secret": "ee9983e26fda53ed1459d75e3ff9dec9c56238616630652e686f70776972652e696f"
+  },
+  {
    "server": "bastani.mikham.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -321,6 +331,11 @@
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
+   "server": "d438cd.nodeflare.net",
+   "port": 443,
+   "secret": "ee9b614f2a8f633f582b011b71dba760966434333863642e6e6f6465666c6172652e6e6574"
+  },
+  {
    "server": "data.fast-proxy.ink",
    "port": 443,
    "secret": "eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b"
@@ -359,11 +374,6 @@
    "server": "download.konstruktion.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "download.lv426.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "edge.catsproxy.shop",
@@ -646,9 +656,9 @@
    "secret": "eebc5b6769ff4b96a0ab0ac0aeffc156706f7a6f6e2e7275"
   },
   {
-   "server": "live.garden-troll.life",
+   "server": "lazeyka-18.getvelora.space",
    "port": 443,
-   "secret": "ee35e031f41ae8bb68b6d517e706ccdfb06c6976652e67617264656e2d74726f6c6c2e6c696665"
+   "secret": "ee9d8875ade1930e8ae1fd7350efaf487b6f7a6f6e2e7275"
   },
   {
    "server": "live.garden-troll.life",
@@ -1136,11 +1146,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "turk.dasy2k1.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "uptime.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1226,5 +1231,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 246
 }
