@@ -601,11 +601,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "lazeyka-10.getvelora.space",
-   "port": 443,
-   "secret": "ee96d021f5d09ab9f210b7548a15b980d66f7a6f6e2e7275"
-  },
-  {
    "server": "lazeyka-11.getvelora.space",
    "port": 443,
    "secret": "ee048ee919fa78d81fd68e9ee9ff2d82446f7a6f6e2e7275"
@@ -1109,6 +1104,11 @@
    "server": "tea.hotstbvs.ru",
    "port": 8843,
    "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275"
+  },
+  {
+   "server": "tg.goingflux.online",
+   "port": 443,
+   "secret": "7oYgMPWHV6iCWjwHzCFOQu50Zy5nb2luZ2ZsdXgub25saW5l"
   },
   {
    "server": "tg2.goingflux.online",
