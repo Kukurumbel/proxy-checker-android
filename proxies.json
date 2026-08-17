@@ -21,6 +21,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "176.124.207.237",
+   "port": 443,
+   "secret": "fad015155defc3a8bd8ebc16b5d2b300"
+  },
+  {
    "server": "176.65.135.69",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -321,11 +326,6 @@
    "secret": "ee63f12c1c005215ca4f5a5c3102fee7e7646174612e75746b616e6f732e6c696665"
   },
   {
-   "server": "data.utkanos.life",
-   "port": 443,
-   "secret": "ee7a38aee8fa82112dd91b9258b059413e646174612e75746b616e6f732e6c696665"
-  },
-  {
    "server": "delbar.wrenshire.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -484,6 +484,11 @@
    "server": "ge.nowabst.net",
    "port": 853,
    "secret": "ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d"
+  },
+  {
+   "server": "ggru3.mtproxygram.lol",
+   "port": 443,
+   "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
   },
   {
    "server": "go.pelmeshka.top",
@@ -1231,5 +1236,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 246
+ "count": 247
 }
