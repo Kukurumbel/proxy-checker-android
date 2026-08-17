@@ -426,11 +426,6 @@
    "secret": "ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b"
   },
   {
-   "server": "Fighter-Man.ir-proxy.Manege-Desktop-For.Co.Im.",
-   "port": 4443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "fine.wrenshire.co.uk",
    "port": 7980,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -444,6 +439,11 @@
    "server": "free1.gram.blog",
    "port": 443,
    "secret": "eeeb46ebb806e03733786c662fdb27dac062726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "freeconnect.lol",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "freeinternet.skin",
@@ -544,11 +544,6 @@
    "server": "hub.utkanos.life",
    "port": 443,
    "secret": "ee40854ff173077abb80426160a84a19e56875622e75746b616e6f732e6c696665"
-  },
-  {
-   "server": "hub.utkanos.life",
-   "port": 443,
-   "secret": "eee1d83173973b66435714792849c716dc6875622e75746b616e6f732e6c696665"
   },
   {
    "server": "hunna.helloworld.surf",
@@ -866,6 +861,11 @@
    "secret": "ee8c4fb86b7af800185c4811f25232d4b570616e656c2e746f636f6e76656c2e6469676974616c"
   },
   {
+   "server": "persian.gulf.ir.olsjddhf.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "petrichor.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1096,11 +1096,6 @@
    "secret": "ee7ec715e77560ef88c218519df53ddd0c73796e632e75746b616e6f732e6c696665"
   },
   {
-   "server": "sync.utkanos.life",
-   "port": 443,
-   "secret": "eef79990aed856d00b3f7f71bc53e19c8a73796e632e75746b616e6f732e6c696665"
-  },
-  {
    "server": "syzygy.sosun4ik.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1236,5 +1231,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 247
+ "count": 246
 }
