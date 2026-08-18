@@ -551,11 +551,6 @@
    "secret": "ee40854ff173077abb80426160a84a19e56875622e75746b616e6f732e6c696665"
   },
   {
-   "server": "hunna.helloworld.surf",
-   "port": 443,
-   "secret": "dd8348f17544c6a17a74ba9a8ee001e006"
-  },
-  {
    "server": "iran-download.mr-moo.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -914,6 +909,11 @@
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
+  },
+  {
+   "server": "proxy.lodkirmm.ru",
+   "port": 8443,
+   "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
   },
   {
    "server": "proxy2.legendary.ac",
