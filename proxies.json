@@ -66,11 +66,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.109.147.34",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.21.227.204",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -82,11 +77,6 @@
   },
   {
    "server": "65.21.83.228",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.83.248",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -566,6 +556,11 @@
    "secret": "dd8348f17544c6a17a74ba9a8ee001e006"
   },
   {
+   "server": "iran-download.mr-moo.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "iran.brettanderson.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -631,9 +626,9 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "lazeyka-11.getvelora.space",
+   "server": "last.konstruktion.co.uk.",
    "port": 443,
-   "secret": "ee048ee919fa78d81fd68e9ee9ff2d82446f7a6f6e2e7275"
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "lazeyka-12.getvelora.space",
@@ -669,6 +664,11 @@
    "server": "lazeyka-18.getvelora.space",
    "port": 443,
    "secret": "ee9d8875ade1930e8ae1fd7350efaf487b6f7a6f6e2e7275"
+  },
+  {
+   "server": "lazeyka-19.getvelora.space",
+   "port": 443,
+   "secret": "ee923b2d2e00bb2d0792a3a8c5090bd3616f7a6f6e2e7275"
   },
   {
    "server": "live.garden-troll.life",
@@ -1051,11 +1051,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "speed2.luna-tun.site",
-   "port": 443,
-   "secret": "ee6e53ed117b401c54bc880b545089e6276f7a6f6e2e7275"
-  },
-  {
    "server": "srv.medblock.fit",
    "port": 443,
    "secret": "eeec4689270e8be04e90051b374792331e7372762e6d6564626c6f636b2e666974"
@@ -1241,5 +1236,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 248
+ "count": 247
 }
