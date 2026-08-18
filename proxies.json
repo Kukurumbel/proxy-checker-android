@@ -166,6 +166,11 @@
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
   },
   {
+   "server": "admin.valmira.co.uk",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "akb.bestbattle.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -224,6 +229,11 @@
    "server": "b8af0e.hopwire.io",
    "port": 443,
    "secret": "ee9983e26fda53ed1459d75e3ff9dec9c56238616630652e686f70776972652e696f"
+  },
+  {
+   "server": "basic.valmira.co.uk",
+   "port": 22,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "bastani.mikham.co.uk",
@@ -1236,5 +1246,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 247
+ "count": 249
 }
