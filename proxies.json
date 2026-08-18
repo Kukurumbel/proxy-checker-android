@@ -526,6 +526,11 @@
    "secret": "eeecf2513dfe9aff53159e3ff39bc1571d67772e67617264656e2d74726f6c6c2e6c696665"
   },
   {
+   "server": "gw.nowabst.net",
+   "port": 853,
+   "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6d"
+  },
+  {
    "server": "haji.biabala.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -564,11 +569,6 @@
    "server": "iran.lv426.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "iran.vanitydomain.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "irancell-mci-rightel-adsl.connectina.co.uk.",
