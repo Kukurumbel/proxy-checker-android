@@ -711,6 +711,11 @@
    "secret": "eed9cf709eb48bb5a37471fba84864bd7e766b2e7275"
   },
   {
+   "server": "media10.happtg.org",
+   "port": 443,
+   "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
+  },
+  {
    "server": "media6.happtg.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
@@ -724,6 +729,11 @@
    "server": "media8.happtg.org",
    "port": 443,
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
+  },
+  {
+   "server": "media9.happtg.org",
+   "port": 443,
+   "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
   },
   {
    "server": "megaconnect.click",
@@ -1231,5 +1241,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 246
+ "count": 248
 }
