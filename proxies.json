@@ -706,21 +706,6 @@
    "secret": "eed9cf709eb48bb5a37471fba84864bd7e766b2e7275"
   },
   {
-   "server": "media1.happtg.org",
-   "port": 443,
-   "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
-  },
-  {
-   "server": "media2.happtg.org",
-   "port": 443,
-   "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
-  },
-  {
-   "server": "media3.happtg.org",
-   "port": 443,
-   "secret": "ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275"
-  },
-  {
    "server": "media6.happtg.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
@@ -1241,5 +1226,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 248
+ "count": 245
 }
