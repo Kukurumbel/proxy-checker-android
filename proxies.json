@@ -1116,11 +1116,6 @@
    "secret": "7swcOHh7aWFN6hqGnDPq5RF0ZzMudW5pcS5jYXJl"
   },
   {
-   "server": "toptop2.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "tproxy.mom",
    "port": 8090,
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
@@ -1159,6 +1154,11 @@
    "server": "w.bestproxy.icu",
    "port": 8443,
    "secret": "ee27b0ae91a7a96aa0c1359f5fa060d1ee772e6265737470726f78792e696375"
+  },
+  {
+   "server": "wave.savelyev.click",
+   "port": 443,
+   "secret": "eeba2e1341a08483c2cede6818498348ff776176652e736176656c7965762e636c69636b"
   },
   {
    "server": "we.wrenshire.co.uk",
