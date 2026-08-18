@@ -26,6 +26,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "1edbb7.swift-cdn.net",
+   "port": 443,
+   "secret": "ee97e8cdb42a1ef4bb9c492b907e8cbc6b3165646262372e73776966742d63646e2e6e6574"
+  },
+  {
    "server": "21.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -109,6 +114,11 @@
    "server": "91.98.137.162",
    "port": 443,
    "secret": "dd80e344818749bd7ac519130220c25d38"
+  },
+  {
+   "server": "9251e9.dashcdn.org",
+   "port": 443,
+   "secret": "ee4c707c8e5e29062b255bc5f4543a4d963932353165392e6461736863646e2e6f7267"
   },
   {
    "server": "93.77.180.208",
@@ -199,11 +209,6 @@
    "server": "api2.medhata.org",
    "port": 2443,
    "secret": "ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267"
-  },
-  {
-   "server": "app2.klyuch1k.org",
-   "port": 443,
-   "secret": "eea7829bb257995a5d0e83f5345b7033ae617070322e6b6c79756368316b2e6f7267"
   },
   {
    "server": "ardesvpn1.ru",
@@ -346,6 +351,11 @@
    "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
   },
   {
+   "server": "df2ccf.corecdn.net",
+   "port": 443,
+   "secret": "eef7a78d6c6eeb3db1c0bff127b7b0f4656466326363662e636f726563646e2e6e6574"
+  },
+  {
    "server": "dis.connectina.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -426,11 +436,6 @@
    "secret": "ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b"
   },
   {
-   "server": "fine.wrenshire.co.uk",
-   "port": 7980,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "free.loveproxy.xyz",
    "port": 443,
    "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
@@ -496,11 +501,6 @@
    "secret": "ee25ef6959e1bbc328d55d6238d836056d676f2e70656c6d6573686b612e746f70"
   },
   {
-   "server": "go2.klyuch1k.org",
-   "port": 443,
-   "secret": "eea23f4f6ebfd072d53f10ea25a9059b57676f322e6b6c79756368316b2e6f7267"
-  },
-  {
    "server": "god-mode-on.peachsoft.co.uk.",
    "port": 443,
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
@@ -524,11 +524,6 @@
    "server": "Hel-hi.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "hi.wrenshire.co.uk",
-   "port": 7980,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "hl.routefastnet.online",
@@ -664,11 +659,6 @@
    "server": "love.neverspy.online",
    "port": 443,
    "secret": "ee24b3e49b9d33101f2c34e5e893bd90d17777772e6d6963726f736f66742e636f6d"
-  },
-  {
-   "server": "love.wrenshire.co.uk",
-   "port": 7980,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "M.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk",
@@ -844,6 +834,11 @@
    "server": "open.gpoint.website",
    "port": 443,
    "secret": "eec03f9d7666a41c33af662f5ba02604876f70656e2e67706f696e742e77656273697465"
+  },
+  {
+   "server": "opps.runserver.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "ops2ops.co.uk.",
@@ -1231,5 +1226,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 246
+ "count": 245
 }
