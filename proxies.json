@@ -351,11 +351,6 @@
    "secret": "ee9b614f2a8f633f582b011b71dba760966434333863642e6e6f6465666c6172652e6e6574"
   },
   {
-   "server": "data.fast-proxy.ink",
-   "port": 443,
-   "secret": "eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b"
-  },
-  {
    "server": "data.utkanos.life",
    "port": 443,
    "secret": "ee63f12c1c005215ca4f5a5c3102fee7e7646174612e75746b616e6f732e6c696665"
@@ -554,6 +549,11 @@
    "server": "hub.utkanos.life",
    "port": 443,
    "secret": "ee40854ff173077abb80426160a84a19e56875622e75746b616e6f732e6c696665"
+  },
+  {
+   "server": "idyll.shmelproxy.top",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "iran-download.mr-moo.co.uk.",
@@ -1016,6 +1016,11 @@
    "secret": "ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70"
   },
   {
+   "server": "s6.postpulse.space",
+   "port": 443,
+   "secret": "ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70"
+  },
+  {
    "server": "scott.startnetwork.shop",
    "port": 443,
    "secret": "dda700feed03536024f619edce4247c18a"
@@ -1236,5 +1241,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 247
+ "count": 248
 }
