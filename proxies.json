@@ -1031,11 +1031,6 @@
    "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
   },
   {
-   "server": "shop.startnetwork.shop",
-   "port": 443,
-   "secret": "dd56771eb41fb312ed11c1993f341aa923"
-  },
-  {
    "server": "sioms.co.uk",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -1069,6 +1064,11 @@
    "server": "starstg.neverspy.tech",
    "port": 443,
    "secret": "eee19ef78b188ec248d8187c787a46ccca647a656e2e7275"
+  },
+  {
+   "server": "starstg.neverspy.tech",
+   "port": 443,
+   "secret": "eee19ef78b188ec248d8187c787a46ccca737461727374672e6e657665727370792e74656368"
   },
   {
    "server": "store.garden-troll.life",
