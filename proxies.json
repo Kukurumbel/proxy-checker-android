@@ -426,16 +426,6 @@
    "secret": "7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A"
   },
   {
-   "server": "eu1.kvakzon.top",
-   "port": 8443,
-   "secret": "ee75c1ee2fe969feda0442861e991211066575312e6b76616b7a6f6e2e746f70"
-  },
-  {
-   "server": "eu2.utkanos.life",
-   "port": 8443,
-   "secret": "ee7dc0a82984d861709ee30c6d149f41836575322e75746b616e6f732e6c696665"
-  },
-  {
    "server": "family.helloworld.surf",
    "port": 443,
    "secret": "dd7571474542ef491179322488d73d1ffc"
@@ -1246,5 +1236,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 249
+ "count": 247
 }
