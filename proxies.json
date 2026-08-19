@@ -341,6 +341,11 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
+   "port": 443,
+   "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
+  },
+  {
    "server": "connect.tproxyru.live",
    "port": 8980,
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
@@ -1256,5 +1261,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 251
+ "count": 252
 }
