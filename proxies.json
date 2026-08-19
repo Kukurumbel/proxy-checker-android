@@ -728,6 +728,11 @@
   {
    "server": "megaconnect.click",
    "port": 443,
+   "secret": "ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275"
+  },
+  {
+   "server": "megaconnect.click",
+   "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
@@ -904,6 +909,11 @@
    "server": "proxtstar.live",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "proxtstar.live",
+   "port": 443,
+   "secret": "eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275"
   },
   {
    "server": "proxy.lodkirmm.ru",
@@ -1236,5 +1246,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 247
+ "count": 249
 }
