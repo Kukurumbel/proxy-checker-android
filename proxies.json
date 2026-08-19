@@ -896,11 +896,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "pesar.kocholo.co.uk.",
-   "port": 443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "petrichor.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1084,11 +1079,6 @@
    "server": "srv.utkanos.life",
    "port": 443,
    "secret": "eec3f59ac6ee4ae5f57bc581a1fb321bbf7372762e75746b616e6f732e6c696665"
-  },
-  {
-   "server": "stable.rkn.lat",
-   "port": 443,
-   "secret": "ee63cd87a492fff3595fd75c82d0ec9afa636c6f756463646e2d6d392d362e63646e2e79616e6465782e6e6574"
   },
   {
    "server": "starstg.neverspy.tech",
@@ -1276,5 +1266,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 255
+ "count": 253
 }
