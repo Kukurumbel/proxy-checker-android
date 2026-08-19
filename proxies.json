@@ -11,11 +11,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "144.31.141.34",
-   "port": 443,
-   "secret": "6a13fc062ccc469afedf8299e715faed"
-  },
-  {
    "server": "168.119.142.41",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -399,11 +394,6 @@
    "server": "edge2.medhata.org",
    "port": 2443,
    "secret": "ee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267"
-  },
-  {
-   "server": "Empire-persia.iran.hey-gardash.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "ethereal11.arixo.shop",
@@ -1266,5 +1256,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 253
+ "count": 251
 }
