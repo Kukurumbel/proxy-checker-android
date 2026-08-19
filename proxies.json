@@ -1046,11 +1046,6 @@
    "secret": "dda700feed03536024f619edce4247c18a"
   },
   {
-   "server": "severjadid.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "shared.ddproxy.xyz",
    "port": 443,
    "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
@@ -1271,5 +1266,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 254
+ "count": 253
 }
