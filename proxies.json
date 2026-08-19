@@ -92,11 +92,6 @@
   },
   {
    "server": "79.137.196.223",
-   "port": 10443,
-   "secret": "ee63fccdeb9951e5f99d66d274148278b97777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "79.137.196.223",
    "port": 13443,
    "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
   },
@@ -1059,6 +1054,11 @@
    "server": "srv.medblock.fit",
    "port": 443,
    "secret": "eeec4689270e8be04e90051b374792331e7372762e6d6564626c6f636b2e666974"
+  },
+  {
+   "server": "srv.savelyev.click",
+   "port": 443,
+   "secret": "ee966bd27e82ca84e00f7dcf1eecd7237c7372762e736176656c7965762e636c69636b"
   },
   {
    "server": "srv.utkanos.life",
