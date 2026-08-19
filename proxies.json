@@ -396,16 +396,6 @@
    "secret": "ee77e833a4cf612b12af5c86614cc5291a656467652e6361747370726f78792e73686f70"
   },
   {
-   "server": "edge2.kvakzon.top",
-   "port": 443,
-   "secret": "eed6962c6820fac66c942ad857b7072ae265646765322e6b76616b7a6f6e2e746f70"
-  },
-  {
-   "server": "edge2.medhata.org",
-   "port": 443,
-   "secret": "ee6e0e00da4fd30ef9b6adeff20593ba6765646765322e6d6564686174612e6f7267"
-  },
-  {
    "server": "edge2.medhata.org",
    "port": 2443,
    "secret": "ee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267"
@@ -804,16 +794,6 @@
    "server": "node.easyproxy.cfd",
    "port": 443,
    "secret": "ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664"
-  },
-  {
-   "server": "node2.kvakzon.top",
-   "port": 443,
-   "secret": "eed8ddbd288df6384bafd70313afa19dd56e6f6465322e6b76616b7a6f6e2e746f70"
-  },
-  {
-   "server": "node2.medhata.org",
-   "port": 443,
-   "secret": "eed9235bacb93c7beb6fd45b3205c7aba36e6f6465322e6d6564686174612e6f7267"
   },
   {
    "server": "node2.medhata.org",
@@ -1261,5 +1241,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 252
+ "count": 248
 }
