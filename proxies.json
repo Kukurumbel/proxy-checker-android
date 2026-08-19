@@ -473,6 +473,11 @@
   {
    "server": "gamerpr.cfd",
    "port": 443,
+   "secret": "ee3cd8b9e99a48486b14d0f6169d0b8d06617669746f2e7275"
+  },
+  {
+   "server": "gamerpr.cfd",
+   "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
@@ -1246,5 +1251,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 249
+ "count": 250
 }
