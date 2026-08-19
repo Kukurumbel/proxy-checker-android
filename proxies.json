@@ -466,6 +466,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "freeconnect.lol",
+   "port": 443,
+   "secret": "eef7a565db46f8f5bf156054d86db42969617669746f2e7275"
+  },
+  {
    "server": "freeinternet.skin",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1266,5 +1271,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 253
+ "count": 254
 }
