@@ -541,11 +541,6 @@
    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
   },
   {
-   "server": "hub.neo-vpn.ink",
-   "port": 443,
-   "secret": "eea29dda982c54198f00ea8d440fa6f8ce6875622e6e656f2d76706e2e696e6b"
-  },
-  {
    "server": "hub.utkanos.life",
    "port": 443,
    "secret": "ee40854ff173077abb80426160a84a19e56875622e75746b616e6f732e6c696665"
@@ -586,14 +581,9 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "irancell-mci-rightell-adsl.nowhearthis.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "irancell-mci-rightell-adsl.pcspeedyfix.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+   "server": "jadid.zhigool.co.uk",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "jeremy.helloworld.surf",
@@ -776,6 +766,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "moon.injast.co.im.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "mtp.nowabst.net",
    "port": 853,
    "secret": "eeceaec97c86b6332adc48b3c081954e60766b2e636f6d"
@@ -829,6 +824,11 @@
    "server": "node2.medhata.org",
    "port": 2443,
    "secret": "eeb19b644ed4a6c923d57abf3c7a52d1746e6f6465322e6d6564686174612e6f7267"
+  },
+  {
+   "server": "nowin.injast.co.im.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "null.wrenshire.co.uk",
@@ -1066,11 +1066,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "srv.medblock.fit",
-   "port": 443,
-   "secret": "eeec4689270e8be04e90051b374792331e7372762e6d6564626c6f636b2e666974"
-  },
-  {
    "server": "srv.savelyev.click",
    "port": 443,
    "secret": "ee966bd27e82ca84e00f7dcf1eecd7237c7372762e736176656c7965762e636c69636b"
@@ -1104,11 +1099,6 @@
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "sync.fleethop.online",
-   "port": 443,
-   "secret": "ee5d12530b3304850a75f79585e946b73073796e632e666c656574686f702e6f6e6c696e65"
   },
   {
    "server": "sync.utkanos.life",
@@ -1201,16 +1191,6 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "webhook.vingardium.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "webhook.what-ever.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "welcome.v6n.tech",
    "port": 443,
    "secret": "ee56b6cceda2b0d2297a75046f8cda124c7777772e626f6f6b696e672e636f6d"
@@ -1266,5 +1246,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 253
+ "count": 249
 }
