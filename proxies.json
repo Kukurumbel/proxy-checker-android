@@ -307,11 +307,6 @@
   },
   {
    "server": "cdn2.kvakzon.top",
-   "port": 443,
-   "secret": "eed885bc652307c8aefb476d484c87b5be63646e322e6b76616b7a6f6e2e746f70"
-  },
-  {
-   "server": "cdn2.kvakzon.top",
    "port": 2443,
    "secret": "eea3046b756505c4772f1041996e592d2663646e322e6b76616b7a6f6e2e746f70"
   },
@@ -1229,6 +1224,11 @@
    "server": "whitelist.startnetwork.shop",
    "port": 443,
    "secret": "ddaa8133d8cd5e986848e2f6119ab126ff"
+  },
+  {
+   "server": "x.shmelproxy.top",
+   "port": 443,
+   "secret": "eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275"
   },
   {
    "server": "yarypple.co.uk.",
