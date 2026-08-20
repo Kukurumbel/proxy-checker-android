@@ -251,11 +251,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "bastani.mikham.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "beam.whitelist.cyou",
    "port": 443,
    "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
@@ -344,11 +339,6 @@
    "server": "cf13d9.netgate.io",
    "port": 443,
    "secret": "ee2d83438159260c31ffabd788a55162d16366313364392e6e6574676174652e696f"
-  },
-  {
-   "server": "chai.mikham.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
@@ -1271,5 +1261,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 254
+ "count": 252
 }
