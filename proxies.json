@@ -326,6 +326,11 @@
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
+   "server": "center.doevoee.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "cf13d9.netgate.io",
    "port": 443,
    "secret": "ee2d83438159260c31ffabd788a55162d16366313364392e6e6574676174652e696f"
@@ -399,6 +404,11 @@
    "server": "edge2.medhata.org",
    "port": 2443,
    "secret": "ee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267"
+  },
+  {
+   "server": "endless.autumngarden.injast.co.im.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "ethereal11.arixo.shop",
@@ -529,6 +539,11 @@
    "server": "Hel-hi.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "help.infinityhalo.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "hl.routefastnet.online",
@@ -1241,5 +1256,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 248
+ "count": 251
 }
