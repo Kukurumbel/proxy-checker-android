@@ -96,6 +96,11 @@
    "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "79.137.196.223",
+   "port": 14443,
+   "secret": "ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d"
+  },
+  {
    "server": "81.29.146.111",
    "port": 443,
    "secret": "989a221c0b63d18c7eb0a74af07a50ec"
@@ -229,6 +234,11 @@
    "server": "as.mkim.click",
    "port": 443,
    "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
+  },
+  {
+   "server": "avavavavav.mohearn.co.uk.",
+   "port": 443,
+   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
    "server": "b8af0e.hopwire.io",
@@ -831,6 +841,11 @@
    "secret": "eeb19b644ed4a6c923d57abf3c7a52d1746e6f6465322e6d6564686174612e6f7267"
   },
   {
+   "server": "noise.hajikalashatelservieshamrahavalcandy.co.uk",
+   "port": 80,
+   "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ%3D%3D"
+  },
+  {
    "server": "nowin.injast.co.im.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1256,5 +1271,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 251
+ "count": 254
 }
