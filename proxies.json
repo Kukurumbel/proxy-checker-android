@@ -871,11 +871,6 @@
    "secret": "eefddb26d5047ce1787ece232a57832391617669746f2e7275"
   },
   {
-   "server": "nyakawai.shop",
-   "port": 2053,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "one.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1256,5 +1251,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 251
+ "count": 250
 }
