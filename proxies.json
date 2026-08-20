@@ -376,11 +376,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "download.brettanderson.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "download.konstruktion.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -464,11 +459,6 @@
    "server": "fresh.t-proxy.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "ftp.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "gamerpr.cfd",
@@ -557,11 +547,6 @@
   },
   {
    "server": "iran.brettanderson.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "iran.lv426.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
@@ -784,11 +769,6 @@
    "server": "mtp.nowabst.net",
    "port": 853,
    "secret": "eeceaec97c86b6332adc48b3c081954e60766b2e636f6d"
-  },
-  {
-   "server": "mtp.webvirt.cloud",
-   "port": 443,
-   "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564"
   },
   {
    "server": "mtp1.hlebushek.com",
@@ -1256,5 +1236,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 251
+ "count": 247
 }
