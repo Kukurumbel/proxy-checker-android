@@ -36,6 +36,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "2e89dd.swift-cdn.net",
+   "port": 443,
+   "secret": "eeb8f5ea85920054511cbb1c19f1baf3553265383964642e73776966742d63646e2e6e6574"
+  },
+  {
    "server": "31.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -114,6 +119,16 @@
    "server": "82.115.16.68",
    "port": 443,
    "secret": "037ed1184a0256b40ebd669489858154"
+  },
+  {
+   "server": "82bf77.edgelink.org",
+   "port": 443,
+   "secret": "ee718aeb2009c4b1f64d5c389bbb0e61563832626637372e656467656c696e6b2e6f7267"
+  },
+  {
+   "server": "8d4f7d.hopwire.io",
+   "port": 443,
+   "secret": "ee8b118ed33b275628fba750798779726d3864346637642e686f70776972652e696f"
   },
   {
    "server": "91-107-168-154.nip.io",
@@ -1171,11 +1186,6 @@
    "secret": "dddc4702229ba9f42fd30c7126e162e053"
   },
   {
-   "server": "vetka.v6n.tech",
-   "port": 443,
-   "secret": "ee4a6cc3ea1d2fba9f1f6194333b6e6acf7777772e626f6f6b696e672e636f6d"
-  },
-  {
    "server": "ving.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1204,16 +1214,6 @@
    "server": "webhook.jinxandjack.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "welcome.v6n.tech",
-   "port": 443,
-   "secret": "ee56b6cceda2b0d2297a75046f8cda124c7777772e626f6f6b696e672e636f6d"
-  },
-  {
-   "server": "welcome2.v6n.tech",
-   "port": 443,
-   "secret": "ee7a29d29b78fc18e2841ad9c38d38c0197777772e626f6f6b696e672e636f6d"
   },
   {
    "server": "whitelist.startnetwork.shop",
@@ -1246,11 +1246,6 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
-   "server": "zomb0m.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "zon-b0z.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1261,5 +1256,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 252
+ "count": 251
 }
