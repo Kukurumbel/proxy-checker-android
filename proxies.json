@@ -686,6 +686,11 @@
    "secret": "ee923b2d2e00bb2d0792a3a8c5090bd3616f7a6f6e2e7275"
   },
   {
+   "server": "lazeyka-20.getvelora.space",
+   "port": 443,
+   "secret": "ee7bf1e117f28f10c11aa986c876fa51fa6f7a6f6e2e7275"
+  },
+  {
    "server": "live.garden-troll.life",
    "port": 443,
    "secret": "ee58f2c2441f45e38f6b03bf7abc0e5d446c6976652e67617264656e2d74726f6c6c2e6c696665"
@@ -763,11 +768,6 @@
   {
    "server": "megaconnect.click",
    "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "megaconnect.click",
-   "port": 2083,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
