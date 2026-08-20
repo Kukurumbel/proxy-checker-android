@@ -346,6 +346,11 @@
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
+   "server": "cdn9.cdnwave.org",
+   "port": 443,
+   "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
+  },
+  {
    "server": "center.doevoee.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -489,6 +494,11 @@
    "server": "fresh.t-proxy.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "full-vasl.peachsoft.co.uk.",
+   "port": 443,
+   "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
    "server": "gamerpr.cfd",
@@ -1022,11 +1032,6 @@
   },
   {
    "server": "s010.neo-trading.org",
-   "port": 443,
-   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
-  },
-  {
-   "server": "s010.neo-trading.org",
    "port": 8443,
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580647a656e2e7275"
   },
@@ -1039,6 +1044,11 @@
    "server": "s05.neo-trading.org",
    "port": 443,
    "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
+  },
+  {
+   "server": "s1.assetflux.org",
+   "port": 443,
+   "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
   },
   {
    "server": "s1.postpulse.space",
@@ -1176,6 +1186,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "vasl-sho.mohearn.co.uk.",
+   "port": 443,
+   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
+  },
+  {
    "server": "vegas.startnetwork.shop",
    "port": 443,
    "secret": "dddc4702229ba9f42fd30c7126e162e053"
@@ -1251,5 +1266,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 250
+ "count": 253
 }
