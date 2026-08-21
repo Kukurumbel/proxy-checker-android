@@ -6,6 +6,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "135.181.74.147",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "135.181.74.178",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -82,11 +87,6 @@
   },
   {
    "server": "65.21.234.20",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.83.248",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
