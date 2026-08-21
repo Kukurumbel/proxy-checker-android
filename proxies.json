@@ -351,6 +351,11 @@
    "secret": "ee63f12c1c005215ca4f5a5c3102fee7e7646174612e75746b616e6f732e6c696665"
   },
   {
+   "server": "data.utkanos.life",
+   "port": 2443,
+   "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
+  },
+  {
    "server": "delbar.wrenshire.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1246,5 +1251,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 249
+ "count": 250
 }
