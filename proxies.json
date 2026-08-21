@@ -266,6 +266,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "bolt.utkanos.life",
+   "port": 2443,
+   "secret": "eefcc4cf72e265ef4e47068bfe3fbd44fb626f6c742e75746b616e6f732e6c696665"
+  },
+  {
    "server": "br.nowabst.net",
    "port": 443,
    "secret": "eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d"
@@ -551,6 +556,11 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
+   "server": "iran.mr-moo.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "iran.pcspeedyfix.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -814,6 +824,11 @@
    "server": "node.easyproxy.cfd",
    "port": 443,
    "secret": "ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664"
+  },
+  {
+   "server": "node2.kvakzon.top",
+   "port": 2443,
+   "secret": "eee0a26f0fc20f70d68273148e34455c2a6e6f6465322e6b76616b7a6f6e2e746f70"
   },
   {
    "server": "node2.medhata.org",
@@ -1236,5 +1251,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 247
+ "count": 250
 }
