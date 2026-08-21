@@ -86,6 +86,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.83.248",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "6adf24.linkwave.io",
    "port": 443,
    "secret": "ee20e961e9cce4da79d95e399b07edadc13661646632342e6c696e6b776176652e696f"
@@ -1056,11 +1061,6 @@
    "secret": "ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70"
   },
   {
-   "server": "scott.startnetwork.shop",
-   "port": 443,
-   "secret": "dda700feed03536024f619edce4247c18a"
-  },
-  {
    "server": "shared.ddproxy.xyz",
    "port": 443,
    "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
@@ -1201,6 +1201,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "vpn2.primeperformance.space",
+   "port": 443,
+   "secret": "dd1aa19d393262ffc3b5cfc8f096a920d4"
+  },
+  {
    "server": "w.bestproxy.icu",
    "port": 8443,
    "secret": "ee27b0ae91a7a96aa0c1359f5fa060d1ee772e6265737470726f78792e696375"
@@ -1256,5 +1261,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 251
+ "count": 252
 }
