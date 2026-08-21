@@ -486,6 +486,11 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "full-vasl.ir-xyz.gdhbvjshjrf.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "full-vasl.peachsoft.co.uk.",
    "port": 443,
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
@@ -1244,11 +1249,6 @@
    "server": "yeh.topbelka.ru",
    "port": 443,
    "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
-  },
-  {
-   "server": "yeke-jahan.mohearn.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
    "server": "zon-b0z.co.uk.",
