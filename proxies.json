@@ -51,6 +51,11 @@
    "secret": "ee5de76052d3430f237337281a95e9cea23438343733322e70726f78796875622e636f"
   },
   {
+   "server": "65-109-240-50.nip.io",
+   "port": 443,
+   "secret": "FRITc3bsOyxs7KyctB1kCw%3D%3D"
+  },
+  {
    "server": "65.108.123.76",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -426,11 +431,6 @@
    "secret": "eef30fe399bee638d966119d832d41c95f666173742e70726f7879676f2e66756e"
   },
   {
-   "server": "feed.fast-proxy.ink",
-   "port": 443,
-   "secret": "ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b"
-  },
-  {
    "server": "free.loveproxy.xyz",
    "port": 443,
    "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
@@ -478,11 +478,6 @@
   {
    "server": "gamerpr.cfd",
    "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "gamerpr.cfd",
-   "port": 8880,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
@@ -549,6 +544,11 @@
    "server": "hub.utkanos.life",
    "port": 443,
    "secret": "ee40854ff173077abb80426160a84a19e56875622e75746b616e6f732e6c696665"
+  },
+  {
+   "server": "hub.utkanos.life",
+   "port": 2443,
+   "secret": "eef61f4c0a59c2d7d229ae9f9c08bbe40c6875622e75746b616e6f732e6c696665"
   },
   {
    "server": "iran-download.mr-moo.co.uk.",
@@ -986,11 +986,6 @@
    "secret": "ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70"
   },
   {
-   "server": "relay2.best-proxy.ink",
-   "port": 443,
-   "secret": "eee751f2db32edcfc86330057749a3ab9472656c6179322e626573742d70726f78792e696e6b"
-  },
-  {
    "server": "rootssh2.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1251,5 +1246,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 250
+ "count": 249
 }
