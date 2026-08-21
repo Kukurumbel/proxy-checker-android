@@ -31,6 +31,11 @@
    "secret": "ee97e8cdb42a1ef4bb9c492b907e8cbc6b3165646262372e73776966742d63646e2e6e6574"
   },
   {
+   "server": "201.7.27.1",
+   "port": 443,
+   "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
+  },
+  {
    "server": "21.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -511,6 +516,11 @@
    "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
   },
   {
+   "server": "gateway.lovely.lat",
+   "port": 443,
+   "secret": "eeec835a34516912f161a0073339be3c64676174657761792e6c6f76656c792e6c6174"
+  },
+  {
    "server": "ggru3.mtproxygram.lol",
    "port": 443,
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
@@ -706,11 +716,6 @@
    "secret": "eeb4f9b88528d51bd43c20e7d400020711636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "love.neverspy.online",
-   "port": 443,
-   "secret": "ee24b3e49b9d33101f2c34e5e893bd90d17777772e6d6963726f736f66742e636f6d"
-  },
-  {
    "server": "M.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk",
    "port": 80,
    "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ%3D%3D"
@@ -824,11 +829,6 @@
    "server": "naro.guguli.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "nevspy.corph.ru",
-   "port": 443,
-   "secret": "eeb84c4dd66de8cfc70f103d43748431ec7777772e6d6963726f736f66742e636f6d"
   },
   {
    "server": "new.bestbattle.co.uk",
@@ -1103,11 +1103,6 @@
   {
    "server": "starstg.neverspy.tech",
    "port": 443,
-   "secret": "eee19ef78b188ec248d8187c787a46ccca647a656e2e7275"
-  },
-  {
-   "server": "starstg.neverspy.tech",
-   "port": 443,
    "secret": "eee19ef78b188ec248d8187c787a46ccca737461727374672e6e657665727370792e74656368"
   },
   {
@@ -1261,5 +1256,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 252
+ "count": 251
 }
