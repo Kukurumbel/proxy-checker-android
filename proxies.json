@@ -61,12 +61,27 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.109.106.167",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.109.147.39",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "65.21.205.41",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.21.227.200",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.21.234.20",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -601,11 +616,6 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "jeremy.helloworld.surf",
-   "port": 443,
-   "secret": "dd5a369539630cf83a6c2a9a9af2c1cd95"
-  },
-  {
    "server": "juke.startnetwork.shop",
    "port": 443,
    "secret": "dd3eda2b33587de0dad091f72b70fc188d"
@@ -946,6 +956,11 @@
    "secret": "eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275"
   },
   {
+   "server": "proxy.awx.info",
+   "port": 443,
+   "secret": "eef8bf3435c7514288510de49a9c4a70d070726f78792e6177782e696e666f"
+  },
+  {
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
@@ -1024,11 +1039,6 @@
    "server": "s1.assetflux.org",
    "port": 443,
    "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
-  },
-  {
-   "server": "s1.postpulse.space",
-   "port": 443,
-   "secret": "ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70"
   },
   {
    "server": "s2.postpulse.space",
@@ -1121,11 +1131,6 @@
    "secret": "ee7ec715e77560ef88c218519df53ddd0c73796e632e75746b616e6f732e6c696665"
   },
   {
-   "server": "syzygy.sosun4ik.top",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "t.meow-network.com",
    "port": 443,
    "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
@@ -1174,6 +1179,11 @@
    "server": "uptime.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "usefree.mtprotokeys.com",
+   "port": 443,
+   "secret": "eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d"
   },
   {
    "server": "vasl-sho.mohearn.co.uk.",
@@ -1246,5 +1256,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 249
+ "count": 251
 }
