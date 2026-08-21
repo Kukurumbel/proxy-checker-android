@@ -256,6 +256,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "bia.guguli.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "bibbib.wrenshire.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -546,11 +551,6 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "iran.brettanderson.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "iran.mr-moo.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -634,11 +634,6 @@
    "server": "last.konstruktion.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "lazeyka-13.getvelora.space",
-   "port": 443,
-   "secret": "ee46a32561a355dd2e25ffc2bc75f5c1c36f7a6f6e2e7275"
   },
   {
    "server": "lazeyka-14.getvelora.space",
@@ -799,6 +794,11 @@
    "server": "mtp3.hlebushek.com",
    "port": 443,
    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
+  },
+  {
+   "server": "naro.guguli.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "nevspy.corph.ru",
@@ -1211,11 +1211,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "webhook.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "x.shmelproxy.top",
    "port": 443,
    "secret": "eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275"
@@ -1251,5 +1246,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 250
+ "count": 249
 }
