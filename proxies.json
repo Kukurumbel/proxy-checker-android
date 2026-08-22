@@ -666,6 +666,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "kostyanchekloh.lol",
+   "port": 443,
+   "secret": "ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275"
+  },
+  {
    "server": "lab.nowabst.net",
    "port": 853,
    "secret": "eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d"
@@ -1076,6 +1081,11 @@
    "secret": "ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70"
   },
   {
+   "server": "setion-two.co.uk.",
+   "port": 443,
+   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
+  },
+  {
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1276,5 +1286,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 255
+ "count": 257
 }
