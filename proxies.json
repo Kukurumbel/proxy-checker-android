@@ -171,16 +171,6 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-   "server": "95.135.125.61",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "95.135.125.62",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "ad1.arixo.shop",
    "port": 443,
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
@@ -1161,6 +1151,11 @@
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
+   "server": "tproxy.startnetwork.shop",
+   "port": 443,
+   "secret": "dd67b89d81a159c342864291d345495ecf"
+  },
+  {
    "server": "turbo-jet.balestic.ir.ghsisncbv.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -1251,5 +1246,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 250
+ "count": 249
 }
