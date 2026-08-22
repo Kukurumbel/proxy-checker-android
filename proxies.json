@@ -681,11 +681,6 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "lazeyka-14.getvelora.space",
-   "port": 443,
-   "secret": "ee84654917aa6c012ee32e6fe5980aa5236f7a6f6e2e7275"
-  },
-  {
    "server": "lazeyka-15.getvelora.space",
    "port": 443,
    "secret": "eeb7c7ecd2c1bcd4d648db4ce2d01063cf6f7a6f6e2e7275"
@@ -714,6 +709,11 @@
    "server": "lazeyka-20.getvelora.space",
    "port": 443,
    "secret": "ee7bf1e117f28f10c11aa986c876fa51fa6f7a6f6e2e7275"
+  },
+  {
+   "server": "lazeyka-22.getvelora.space",
+   "port": 443,
+   "secret": "ee717ce57e2d4efd91da80d9a445bb4b096f7a6f6e2e7275"
   },
   {
    "server": "live.garden-troll.life",
