@@ -661,11 +661,6 @@
    "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
   },
   {
-   "server": "king-of-the-world.ir.bishdhaep.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "kostyanchekloh.lol",
    "port": 443,
    "secret": "ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275"
@@ -1281,5 +1276,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 256
+ "count": 255
 }
