@@ -421,11 +421,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "download.brettanderson.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "download.konstruktion.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -607,16 +602,6 @@
   },
   {
    "server": "iran-download.mr-moo.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "iran-download.shentaichiacademy.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "iran.brettanderson.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
@@ -1061,19 +1046,9 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "s010.neo-trading.org",
-   "port": 8443,
-   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580647a656e2e7275"
-  },
-  {
    "server": "s02.neo-trading.org",
    "port": 443,
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
-  },
-  {
-   "server": "s05.neo-trading.org",
-   "port": 443,
-   "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
   },
   {
    "server": "s1.assetflux.org",
@@ -1301,5 +1276,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 260
+ "count": 255
 }
