@@ -1251,6 +1251,11 @@
    "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
   },
   {
+   "server": "zarinpluse.info",
+   "port": 22,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "zon-b0z.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1261,5 +1266,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 252
+ "count": 253
 }
