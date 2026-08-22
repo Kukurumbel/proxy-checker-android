@@ -76,6 +76,21 @@
    "secret": "eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974"
   },
   {
+   "server": "57.131.144.32",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "57.131.144.33",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "57.131.144.35",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "65-109-240-50.nip.io",
    "port": 443,
    "secret": "FRITc3bsOyxs7KyctB1kCw%3D%3D"
@@ -414,11 +429,6 @@
    "server": "edge2.medhata.org",
    "port": 2443,
    "secret": "ee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267"
-  },
-  {
-   "server": "Empire-persia.iran.hey-gardash.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "endless.autumngarden.injast.co.im.",
@@ -1146,11 +1156,6 @@
    "secret": "ee39f2f36ec93338eae372566cb078c0aa7467322e676f696e67666c75782e6f6e6c696e65"
   },
   {
-   "server": "Together-for-iran.jetish.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "topproxt.asia",
    "port": 443,
    "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
@@ -1256,5 +1261,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 251
+ "count": 252
 }
