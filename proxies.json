@@ -16,6 +16,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "144.31.141.34",
+   "port": 443,
+   "secret": "7ada30e09a40465f599160b3a532bc7b"
+  },
+  {
    "server": "168.119.142.41",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -319,11 +324,6 @@
    "server": "cc5f7a.linkwave.io",
    "port": 443,
    "secret": "ee600e30d332011af975a42edaba929ecd6363356637612e6c696e6b776176652e696f"
-  },
-  {
-   "server": "ccc.horizon555.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "cdn.toconvel.digital",
@@ -881,11 +881,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "ooo.horizon555.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "opeenhostings.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -1151,11 +1146,6 @@
    "secret": "ee39f2f36ec93338eae372566cb078c0aa7467322e676f696e67666c75782e6f6e6c696e65"
   },
   {
-   "server": "tg3.uniq.care",
-   "port": 8443,
-   "secret": "7swcOHh7aWFN6hqGnDPq5RF0ZzMudW5pcS5jYXJl"
-  },
-  {
    "server": "topproxt.asia",
    "port": 443,
    "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
@@ -1256,5 +1246,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 251
+ "count": 249
 }
