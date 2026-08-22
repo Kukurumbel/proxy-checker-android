@@ -4,111 +4,111 @@
    "server": "91.98.137.162",
    "port": 443,
    "secret": "dd80e344818749bd7ac519130220c25d38",
-   "ping": 134
-  },
-  {
-   "server": "vegas.startnetwork.shop",
-   "port": 443,
-   "secret": "dddc4702229ba9f42fd30c7126e162e053",
-   "ping": 157
-  },
-  {
-   "server": "spawn.whiteproxy.baby",
-   "port": 443,
-   "secret": "dda5ea267d37124af5829b266a759e24a0",
-   "ping": 166
-  },
-  {
-   "server": "peak.helloworld.surf",
-   "port": 443,
-   "secret": "ddae7a078698a9289137599c9762db5d65",
-   "ping": 169
-  },
-  {
-   "server": "tproxy.startnetwork.shop",
-   "port": 443,
-   "secret": "dd67b89d81a159c342864291d345495ecf",
-   "ping": 171
-  },
-  {
-   "server": "Lashboy.muzanesghy.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 182
+   "ping": 94
   },
   {
    "server": "144.31.141.34",
    "port": 443,
    "secret": "7ada30e09a40465f599160b3a532bc7b",
-   "ping": 184
+   "ping": 96
+  },
+  {
+   "server": "vegas.startnetwork.shop",
+   "port": 443,
+   "secret": "dddc4702229ba9f42fd30c7126e162e053",
+   "ping": 102
+  },
+  {
+   "server": "tproxy.startnetwork.shop",
+   "port": 443,
+   "secret": "dd67b89d81a159c342864291d345495ecf",
+   "ping": 103
   },
   {
    "server": "rootssh2.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 184
+   "ping": 124
   },
   {
    "server": "proxy2.legendary.ac",
    "port": 443,
    "secret": "dda4c7c07709a2c6a29fca4fc63b1ae411",
-   "ping": 206
+   "ping": 181
   },
   {
-   "server": "yarypple.co.uk.",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 225
+   "server": "spawn.whiteproxy.baby",
+   "port": 443,
+   "secret": "dda5ea267d37124af5829b266a759e24a0",
+   "ping": 194
   },
   {
-   "server": "mizaneshgh2.co.uk",
+   "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 226
-  },
-  {
-   "server": "new7.mizanmizanesgh.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 336
+   "ping": 327
   },
   {
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 341
-  },
-  {
-   "server": "21.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 451
-  },
-  {
-   "server": "31.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 451
-  },
-  {
-   "server": "41.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 454
+   "ping": 333
   },
   {
    "server": "1.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 456
+   "ping": 345
+  },
+  {
+   "server": "21.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 347
+  },
+  {
+   "server": "peak.helloworld.surf",
+   "port": 443,
+   "secret": "ddae7a078698a9289137599c9762db5d65",
+   "ping": 368
+  },
+  {
+   "server": "41.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 460
+  },
+  {
+   "server": "31.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 462
+  },
+  {
+   "server": "mizaneshgh2.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 518
+  },
+  {
+   "server": "new7.mizanmizanesgh.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 570
+  },
+  {
+   "server": "yarypple.co.uk.",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 715
   },
   {
    "server": "bfesedv.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 677
+   "ping": 939
   }
  ],
  "count": 18,
- "checked": 252
+ "checked": 249
 }

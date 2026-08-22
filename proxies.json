@@ -86,11 +86,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.108.126.199",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.109.106.167",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -106,7 +101,7 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.21.227.199",
+   "server": "65.21.222.229",
    "port": 443,
    "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d"
   },
@@ -429,11 +424,6 @@
    "server": "ethereal11.arixo.shop",
    "port": 443,
    "secret": "7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A"
-  },
-  {
-   "server": "family.helloworld.surf",
-   "port": 443,
-   "secret": "dd7571474542ef491179322488d73d1ffc"
   },
   {
    "server": "fast.barhousefarm.co.uk.",
@@ -896,11 +886,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "ops2ops.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "panel.toconvel.digital",
    "port": 443,
    "secret": "ee0c461c6832df3f66d29a448492a5259b70616e656c2e746f636f6e76656c2e6469676974616c"
@@ -1261,5 +1246,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 252
+ "count": 249
 }
