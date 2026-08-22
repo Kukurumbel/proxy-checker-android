@@ -286,11 +286,6 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "bibbib.wrenshire.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "bing.bizonre.co.im.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -434,6 +429,16 @@
    "server": "fast.proxygo.fun",
    "port": 8443,
    "secret": "eef30fe399bee638d966119d832d41c95f666173742e70726f7879676f2e66756e"
+  },
+  {
+   "server": "flux.lovely.lat",
+   "port": 443,
+   "secret": "ee6f8c7d9193585ada7d22acf074ad6d97666c75782e6c6f76656c792e6c6174"
+  },
+  {
+   "server": "flux.lovely.lat",
+   "port": 443,
+   "secret": "ee6f8c7d9193585ada7d22acf074ad6d976d2e6265626f6f2e7275"
   },
   {
    "server": "free.loveproxy.xyz",
@@ -766,11 +771,6 @@
    "secret": "eed134e62e4fe0ba56f5b5a2bc7459786c6d6573682e6c756d696f75732e6f7267"
   },
   {
-   "server": "migmig.wrenshire.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "mio.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -847,11 +847,6 @@
   },
   {
    "server": "nowin.injast.co.im.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "null.wrenshire.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
@@ -969,6 +964,11 @@
    "server": "public2.mtproxygram.lol",
    "port": 443,
    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d"
+  },
+  {
+   "server": "pulse.lovely.lat",
+   "port": 443,
+   "secret": "ee6f8c7d9193585ada7d22acf074ad6d9770756c73652e6c6f76656c792e6c6174"
   },
   {
    "server": "puot.mozitop.co.uk",
