@@ -811,6 +811,11 @@
    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
   },
   {
+   "server": "music-alo.ir",
+   "port": 7980,
+   "secret": "dd1603010200010001fc030386e24c3add"
+  },
+  {
    "server": "naro.guguli.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -1246,5 +1251,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 249
+ "count": 250
 }
