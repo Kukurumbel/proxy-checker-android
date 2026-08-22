@@ -416,6 +416,11 @@
    "secret": "ee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267"
   },
   {
+   "server": "Empire-persia.iran.hey-gardash.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "endless.autumngarden.injast.co.im.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -514,11 +519,6 @@
    "server": "ggru3.mtproxygram.lol",
    "port": 443,
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "go.pelmeshka.top",
-   "port": 443,
-   "secret": "ee25ef6959e1bbc328d55d6238d836056d676f2e70656c6d6573686b612e746f70"
   },
   {
    "server": "god-mode-on.peachsoft.co.uk.",
@@ -689,6 +689,11 @@
    "server": "lazeyka-22.getvelora.space",
    "port": 443,
    "secret": "ee717ce57e2d4efd91da80d9a445bb4b096f7a6f6e2e7275"
+  },
+  {
+   "server": "link.lovely.lat",
+   "port": 443,
+   "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
   },
   {
    "server": "live.garden-troll.life",
@@ -1141,6 +1146,11 @@
    "secret": "ee39f2f36ec93338eae372566cb078c0aa7467322e676f696e67666c75782e6f6e6c696e65"
   },
   {
+   "server": "Together-for-iran.jetish.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "topproxt.asia",
    "port": 443,
    "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
@@ -1246,5 +1256,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 249
+ "count": 251
 }
