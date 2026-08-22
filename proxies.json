@@ -726,6 +726,11 @@
    "secret": "ee58f2c2441f45e38f6b03bf7abc0e5d446c6976652e67617264656e2d74726f6c6c2e6c696665"
   },
   {
+   "server": "live.lovely.lat",
+   "port": 443,
+   "secret": "eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174"
+  },
+  {
    "server": "ljox44lz.helper.website",
    "port": 443,
    "secret": "eeb4f9b88528d51bd43c20e7d400020711636c6f7564666c6172652e636f6d"
@@ -1276,5 +1281,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 255
+ "count": 256
 }
