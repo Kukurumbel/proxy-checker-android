@@ -181,11 +181,6 @@
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
   },
   {
-   "server": "ad2.arixo.shop",
-   "port": 443,
-   "secret": "eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70"
-  },
-  {
    "server": "ad3.arixo.shop",
    "port": 443,
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
@@ -406,11 +401,6 @@
    "secret": "eef7a78d6c6eeb3db1c0bff127b7b0f4656466326363662e636f726563646e2e6e6574"
   },
   {
-   "server": "dis.connectina.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "dns.bizonre.co.im.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -419,11 +409,6 @@
    "server": "dns.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "download.konstruktion.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "edge.catsproxy.shop",
@@ -619,11 +604,6 @@
    "server": "iran.yhge.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "irancell-mci-rightel-adsl.connectina.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "irancell-mci-rightell-adsl.konstruktion.co.uk.",
@@ -1276,5 +1256,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 255
+ "count": 251
 }
