@@ -46,6 +46,11 @@
    "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
   },
   {
+   "server": "21.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "2e89dd.swift-cdn.net",
    "port": 443,
    "secret": "eeb8f5ea85920054511cbb1c19f1baf3553265383964642e73776966742d63646e2e6e6574"
@@ -512,6 +517,11 @@
   },
   {
    "server": "god-mode-on.peachsoft.co.uk.",
+   "port": 443,
+   "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
+  },
+  {
+   "server": "Golden.Peachsoft.co.uk.",
    "port": 443,
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
@@ -1221,6 +1231,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "VIP.Mohearn.co.uk.",
+   "port": 443,
+   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
+  },
+  {
    "server": "vpn2.primeperformance.space",
    "port": 443,
    "secret": "dd1aa19d393262ffc3b5cfc8f096a920d4"
@@ -1281,5 +1296,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 256
+ "count": 259
 }
