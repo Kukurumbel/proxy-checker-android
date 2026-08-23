@@ -311,9 +311,9 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "bing.bizonre.co.im.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+   "server": "bo0ji.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "bolt.utkanos.life",
@@ -409,11 +409,6 @@
    "server": "df2ccf.corecdn.net",
    "port": 443,
    "secret": "eef7a78d6c6eeb3db1c0bff127b7b0f4656466326363662e636f726563646e2e6e6574"
-  },
-  {
-   "server": "dns.bizonre.co.im.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "dns.speed-benz.co.uk",
@@ -1236,11 +1231,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "web.bizonre.co.im.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "x.shmelproxy.top",
    "port": 443,
    "secret": "eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275"
@@ -1249,6 +1239,11 @@
    "server": "x8dlyy87.helper.website",
    "port": 443,
    "secret": "eec4d4d3b9ee538338d2307be745aa8d8f636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "yandex-tunnel.com",
+   "port": 443,
+   "secret": "4cc83d19c09c796a4dffdd136cf06a22"
   },
   {
    "server": "yarypple.co.uk.",
@@ -1276,5 +1271,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 255
+ "count": 254
 }
