@@ -131,6 +131,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.83.248",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "6adf24.linkwave.io",
    "port": 443,
    "secret": "ee20e961e9cce4da79d95e399b07edadc13661646632342e6c696e6b776176652e696f"
@@ -1281,5 +1286,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 256
+ "count": 257
 }
