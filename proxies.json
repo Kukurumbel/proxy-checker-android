@@ -61,11 +61,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "484732.proxyhub.co",
-   "port": 443,
-   "secret": "ee5de76052d3430f237337281a95e9cea23438343733322e70726f78796875622e636f"
-  },
-  {
    "server": "51.250.81.95",
    "port": 443,
    "secret": "eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974"
@@ -266,11 +261,6 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
-   "server": "b8af0e.hopwire.io",
-   "port": 443,
-   "secret": "ee9983e26fda53ed1459d75e3ff9dec9c56238616630652e686f70776972652e696f"
-  },
-  {
    "server": "basic.valmira.co.uk",
    "port": 22,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -379,11 +369,6 @@
    "server": "connect.tproxyru.live",
    "port": 8980,
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
-  },
-  {
-   "server": "d438cd.nodeflare.net",
-   "port": 443,
-   "secret": "ee9b614f2a8f633f582b011b71dba760966434333863642e6e6f6465666c6172652e6e6574"
   },
   {
    "server": "data.utkanos.life",
@@ -679,11 +664,6 @@
    "server": "last.konstruktion.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "lazeyka-15.getvelora.space",
-   "port": 443,
-   "secret": "eeb7c7ecd2c1bcd4d648db4ce2d01063cf6f7a6f6e2e7275"
   },
   {
    "server": "lazeyka-16.getvelora.space",
@@ -1306,5 +1286,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 261
+ "count": 257
 }
