@@ -901,11 +901,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "panel.toconvel.digital",
-   "port": 443,
-   "secret": "ee0c461c6832df3f66d29a448492a5259b70616e656c2e746f636f6e76656c2e6469676974616c"
-  },
-  {
    "server": "persian.gulf.ir.olsjddhf.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -979,6 +974,21 @@
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
+  },
+  {
+   "server": "proxy.maxtimes.ru",
+   "port": 8443,
+   "secret": "1ffe3bcb425f1b8f737d4de2c6dd35b3"
+  },
+  {
+   "server": "proxy.maxtimes.ru",
+   "port": 8443,
+   "secret": "dd1ffe3bcb425f1b8f737d4de2c6dd35b3"
+  },
+  {
+   "server": "proxy.maxtimes.ru",
+   "port": 8444,
+   "secret": "ee1ffe3bcb425f1b8f737d4de2c6dd35b36164732e78352e7275"
   },
   {
    "server": "proxy2.legendary.ac",
@@ -1119,11 +1129,6 @@
    "server": "starstg.neverspy.tech",
    "port": 443,
    "secret": "eee19ef78b188ec248d8187c787a46ccca737461727374672e6e657665727370792e74656368"
-  },
-  {
-   "server": "store.garden-troll.life",
-   "port": 443,
-   "secret": "ee140066337d99c1a319ceee2b2e85036b73746f72652e67617264656e2d74726f6c6c2e6c696665"
   },
   {
    "server": "Suodbo.co.uk.",
@@ -1281,5 +1286,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 256
+ "count": 257
 }
