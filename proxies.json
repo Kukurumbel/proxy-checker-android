@@ -286,6 +286,11 @@
    "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
   },
   {
+   "server": "beer.crona-extra.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "beest-sellerst.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -594,6 +599,11 @@
    "server": "iran-download.mr-moo.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "iran.click-master.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "iran.mr-moo.co.uk.",
@@ -1271,5 +1281,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 254
+ "count": 256
 }
