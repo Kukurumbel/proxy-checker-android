@@ -196,11 +196,6 @@
    "secret": "ee4c707c8e5e29062b255bc5f4543a4d963932353165392e6461736863646e2e6f7267"
   },
   {
-   "server": "93.77.180.208",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "ad1.arixo.shop",
    "port": 443,
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
@@ -1296,5 +1291,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 259
+ "count": 258
 }
