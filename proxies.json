@@ -336,11 +336,6 @@
    "secret": "ee600e30d332011af975a42edaba929ecd6363356637612e6c696e6b776176652e696f"
   },
   {
-   "server": "cdn.toconvel.digital",
-   "port": 443,
-   "secret": "ee4595f21d721fd1bcce9bad30d444a8e963646e2e746f636f6e76656c2e6469676974616c"
-  },
-  {
    "server": "cdn2.kvakzon.top",
    "port": 2443,
    "secret": "eea3046b756505c4772f1041996e592d2663646e322e6b76616b7a6f6e2e746f70"
@@ -1301,5 +1296,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 260
+ "count": 259
 }
