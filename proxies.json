@@ -186,6 +186,11 @@
    "secret": "dd79e7010200010007f0030386e24c3add"
   },
   {
+   "server": "91.107.160.196",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "ad1.arixo.shop",
    "port": 443,
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
@@ -394,11 +399,6 @@
    "server": "dns.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "edge.catsproxy.shop",
-   "port": 443,
-   "secret": "ee77e833a4cf612b12af5c86614cc5291a656467652e6361747370726f78792e73686f70"
   },
   {
    "server": "edge2.medhata.org",
