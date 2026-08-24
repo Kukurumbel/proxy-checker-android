@@ -381,6 +381,11 @@
    "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
   },
   {
+   "server": "dns.bizonre.co.im.",
+   "port": 8443,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
    "server": "dns.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -484,6 +489,11 @@
    "server": "gateway.lovely.lat",
    "port": 443,
    "secret": "eeec835a34516912f161a0073339be3c64676174657761792e6c6f76656c792e6c6174"
+  },
+  {
+   "server": "ge.nowabst.net",
+   "port": 853,
+   "secret": "ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d"
   },
   {
    "server": "ggru3.mtproxygram.lol",
@@ -891,11 +901,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "petrichor.slarkfat.icu",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "Pich.Peachsoft.co.uk.",
    "port": 443,
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
@@ -1001,6 +1006,11 @@
    "secret": "ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70"
   },
   {
+   "server": "relaywise.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
    "server": "rootssh2.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1029,11 +1039,6 @@
    "server": "s1.assetflux.org",
    "port": 443,
    "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
-  },
-  {
-   "server": "s2.postpulse.space",
-   "port": 443,
-   "secret": "ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70"
   },
   {
    "server": "s3.assetflux.org",
@@ -1251,5 +1256,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 250
+ "count": 251
 }
