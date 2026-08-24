@@ -211,11 +211,6 @@
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-   "server": "always.for.you.ir.mausjakaqd.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "api.gorbushkin.click",
    "port": 443,
    "secret": "eebeda39dcb3b3bea0da3843853002fe5a6170692e676f72627573686b696e2e636c69636b"
@@ -319,6 +314,11 @@
    "server": "cache.garden-troll.life",
    "port": 443,
    "secret": "ee790a214885e717994b0ad7c5df727bf863616368652e67617264656e2d74726f6c6c2e6c696665"
+  },
+  {
+   "server": "ccc.horizon555.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "cdn2.kvakzon.top",
@@ -471,6 +471,11 @@
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
+   "server": "funny.helloworld.surf",
+   "port": 443,
+   "secret": "dd8c48a83cc229bab8fca1b403f865e9e8"
+  },
+  {
    "server": "gamerpr.cfd",
    "port": 443,
    "secret": "ee3cd8b9e99a48486b14d0f6169d0b8d06617669746f2e7275"
@@ -611,11 +616,6 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "irancell-mci.ir.gybshdjls.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "jadid.zhigool.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -624,6 +624,11 @@
    "server": "juke.startnetwork.shop",
    "port": 443,
    "secret": "dd3eda2b33587de0dad091f72b70fc188d"
+  },
+  {
+   "server": "just.iran.ir.ahsjdiebwkq.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "kima.rabotaet.online",
@@ -644,11 +649,6 @@
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "lazeyka-16.getvelora.space",
-   "port": 443,
-   "secret": "ee2c6166046e02e05d774fd2eece6a93966f7a6f6e2e7275"
   },
   {
    "server": "lazeyka-17.getvelora.space",
@@ -1106,11 +1106,6 @@
    "secret": "eec3f59ac6ee4ae5f57bc581a1fb321bbf7372762e75746b616e6f732e6c696665"
   },
   {
-   "server": "starstg.neverspy.tech",
-   "port": 443,
-   "secret": "eee19ef78b188ec248d8187c787a46ccca737461727374672e6e657665727370792e74656368"
-  },
-  {
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -1261,5 +1256,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 252
+ "count": 251
 }
