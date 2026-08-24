@@ -96,6 +96,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.108.126.199",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.109.106.167",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -134,11 +139,6 @@
    "server": "65.21.83.248",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "6adf24.linkwave.io",
-   "port": 443,
-   "secret": "ee20e961e9cce4da79d95e399b07edadc13661646632342e6c696e6b776176652e696f"
   },
   {
    "server": "77.110.109.135",
@@ -286,11 +286,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "benz.mohearn.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
    "server": "Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.",
    "port": 4443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -331,11 +326,6 @@
    "secret": "ee790a214885e717994b0ad7c5df727bf863616368652e67617264656e2d74726f6c6c2e6c696665"
   },
   {
-   "server": "cc5f7a.linkwave.io",
-   "port": 443,
-   "secret": "ee600e30d332011af975a42edaba929ecd6363356637612e6c696e6b776176652e696f"
-  },
-  {
    "server": "cdn2.kvakzon.top",
    "port": 2443,
    "secret": "eea3046b756505c4772f1041996e592d2663646e322e6b76616b7a6f6e2e746f70"
@@ -359,11 +349,6 @@
    "server": "center.doevoee.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "cf13d9.netgate.io",
-   "port": 443,
-   "secret": "ee2d83438159260c31ffabd788a55162d16366313364392e6e6574676174652e696f"
   },
   {
    "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
@@ -504,11 +489,6 @@
    "server": "ggru3.mtproxygram.lol",
    "port": 443,
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "god-mode-on.peachsoft.co.uk.",
-   "port": 443,
-   "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
    "server": "Golden.Peachsoft.co.uk.",
@@ -1286,5 +1266,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 257
+ "count": 253
 }
