@@ -147,11 +147,6 @@
   },
   {
    "server": "79.137.196.223",
-   "port": 13443,
-   "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "79.137.196.223",
    "port": 14443,
    "secret": "ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d"
   },
@@ -566,11 +561,6 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "iran-download.mr-moo.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "iran-download.shentaichiacademy.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -639,11 +629,6 @@
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "last.konstruktion.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "lazeyka-16.getvelora.space",
@@ -1266,5 +1251,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 253
+ "count": 250
 }
