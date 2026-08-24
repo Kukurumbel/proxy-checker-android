@@ -371,6 +371,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "dena.irankhodro.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "dev.nowabst.net",
    "port": 853,
    "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
@@ -816,6 +821,11 @@
    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
   },
   {
+   "server": "mttt.cloude.one",
+   "port": 853,
+   "secret": "eebc708822d93e406cd550b43d354a016e6d7474742e636c6f7564652e6f6e65"
+  },
+  {
    "server": "music-alo.ir",
    "port": 7980,
    "secret": "dd1603010200010001fc030386e24c3add"
@@ -998,6 +1008,11 @@
   {
    "server": "qadim.zhigool.co.uk",
    "port": 22,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "rana.irankhodro.co.uk",
+   "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
@@ -1256,5 +1271,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 251
+ "count": 254
 }
