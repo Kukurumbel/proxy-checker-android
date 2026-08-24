@@ -916,11 +916,6 @@
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
-   "server": "portal.malevich7.top",
-   "port": 443,
-   "secret": "ee581fe7a67822287a191d54675fa00956706f7274616c2e6d616c6576696368372e746f70"
-  },
-  {
    "server": "predator-artist.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
@@ -1276,5 +1271,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 255
+ "count": 254
 }
