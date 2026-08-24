@@ -36,11 +36,6 @@
    "secret": "fad015155defc3a8bd8ebc16b5d2b300"
   },
   {
-   "server": "1edbb7.swift-cdn.net",
-   "port": 443,
-   "secret": "ee97e8cdb42a1ef4bb9c492b907e8cbc6b3165646262372e73776966742d63646e2e6e6574"
-  },
-  {
    "server": "201.7.27.1",
    "port": 443,
    "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
@@ -191,11 +186,6 @@
    "secret": "dd79e7010200010007f0030386e24c3add"
   },
   {
-   "server": "9251e9.dashcdn.org",
-   "port": 443,
-   "secret": "ee4c707c8e5e29062b255bc5f4543a4d963932353165392e6461736863646e2e6f7267"
-  },
-  {
    "server": "ad1.arixo.shop",
    "port": 443,
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
@@ -264,6 +254,11 @@
    "server": "avavavavav.mohearn.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
+  },
+  {
+   "server": "bake.mtproto.baby",
+   "port": 443,
+   "secret": "dde253fcbca6d9dacd57938476d83a4b80"
   },
   {
    "server": "basic.valmira.co.uk",
@@ -394,11 +389,6 @@
    "server": "dev.nowabst.net",
    "port": 853,
    "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
-  },
-  {
-   "server": "df2ccf.corecdn.net",
-   "port": 443,
-   "secret": "eef7a78d6c6eeb3db1c0bff127b7b0f4656466326363662e636f726563646e2e6e6574"
   },
   {
    "server": "dns.speed-benz.co.uk",
@@ -866,6 +856,11 @@
    "secret": "eee0a26f0fc20f70d68273148e34455c2a6e6f6465322e6b76616b7a6f6e2e746f70"
   },
   {
+   "server": "node2.librava.click",
+   "port": 443,
+   "secret": "ee0bbeba170f295eef00b7b9be814e218b6e6f6465322e6c6962726176612e636c69636b"
+  },
+  {
    "server": "node2.medhata.org",
    "port": 2443,
    "secret": "eeb19b644ed4a6c923d57abf3c7a52d1746e6f6465322e6d6564686174612e6f7267"
@@ -1291,5 +1286,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 258
+ "count": 257
 }
