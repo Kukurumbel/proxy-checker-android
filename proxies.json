@@ -221,6 +221,11 @@
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
+   "server": "always.for.you.ir.mausjakaqd.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d"
+  },
+  {
    "server": "api.gorbushkin.click",
    "port": 443,
    "secret": "eebeda39dcb3b3bea0da3843853002fe5a6170692e676f72627573686b696e2e636c69636b"
@@ -604,6 +609,11 @@
    "server": "irancell-mci-rightell-adsl.pcspeedyfix.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "irancell-mci.ir.gybshdjls.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "jadid.zhigool.co.uk",
@@ -1266,5 +1276,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 253
+ "count": 255
 }
