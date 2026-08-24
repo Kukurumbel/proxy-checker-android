@@ -191,11 +191,6 @@
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
   },
   {
-   "server": "ad3.arixo.shop",
-   "port": 443,
-   "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
-  },
-  {
    "server": "admin.valmira.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -224,11 +219,6 @@
    "server": "api.gorbushkin.click",
    "port": 443,
    "secret": "eebeda39dcb3b3bea0da3843853002fe5a6170692e676f72627573686b696e2e636c69636b"
-  },
-  {
-   "server": "api.groundfloorsolutions.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "api.nowabst.net",
@@ -1061,11 +1051,6 @@
    "secret": "ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275"
   },
   {
-   "server": "s5.postpulse.space",
-   "port": 443,
-   "secret": "ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70"
-  },
-  {
    "server": "setion-two.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
@@ -1094,6 +1079,11 @@
    "server": "skein.chunkycorp.shop",
    "port": 8443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "small.startnetwork.shop",
+   "port": 443,
+   "secret": "dd50db933e09b161878d2225787ad1dd21"
   },
   {
    "server": "spawn.whiteproxy.baby",
@@ -1236,16 +1226,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "webhook.jinxandjack.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "webhook.what-ever.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "x.shmelproxy.top",
    "port": 443,
    "secret": "eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275"
@@ -1281,5 +1261,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 256
+ "count": 252
 }
