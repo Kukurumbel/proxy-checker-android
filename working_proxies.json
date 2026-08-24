@@ -1,126 +1,120 @@
 {
  "proxies": [
   {
-   "server": "tproxy.startnetwork.shop",
+   "server": "144.31.141.34",
    "port": 443,
-   "secret": "dd67b89d81a159c342864291d345495ecf",
-   "ping": 163
+   "secret": "7ada30e09a40465f599160b3a532bc7b",
+   "ping": 97
+  },
+  {
+   "server": "81.29.146.111",
+   "port": 443,
+   "secret": "989a221c0b63d18c7eb0a74af07a50ec",
+   "ping": 100
   },
   {
    "server": "leo.startnetwork.shop",
    "port": 443,
    "secret": "dd76dcc26703bb6380c910792a2bbf9c31",
-   "ping": 164
-  },
-  {
-   "server": "5.223.41.37",
-   "port": 7980,
-   "secret": "dd1603010200010001fc030386e24c3add",
-   "ping": 168
-  },
-  {
-   "server": "144.31.141.34",
-   "port": 443,
-   "secret": "7ada30e09a40465f599160b3a532bc7b",
-   "ping": 171
+   "ping": 118
   },
   {
    "server": "65.109.248.96",
    "port": 443,
    "secret": "ddb0cbcef5a486d9636472ac27f8e11a9d",
-   "ping": 178
-  },
-  {
-   "server": "Lashboy.muzanesghy.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 189
+   "ping": 120
   },
   {
    "server": "rootssh2.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 194
+   "ping": 163
   },
   {
-   "server": "severjadid.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 204
-  },
-  {
-   "server": "mizaneshgh2.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 206
-  },
-  {
-   "server": "yarypple.co.uk.",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
+   "server": "tproxy.startnetwork.shop",
+   "port": 443,
+   "secret": "dd67b89d81a159c342864291d345495ecf",
    "ping": 211
-  },
-  {
-   "server": "black.whiteproxy.baby",
-   "port": 443,
-   "secret": "dd5418042aeb467cd038dbeb048b06aadb",
-   "ping": 229
-  },
-  {
-   "server": "bake.mtproto.baby",
-   "port": 443,
-   "secret": "dde253fcbca6d9dacd57938476d83a4b80",
-   "ping": 290
-  },
-  {
-   "server": "bo0ji.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 328
-  },
-  {
-   "server": "bfesedv.uk.",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 334
-  },
-  {
-   "server": "new7.mizanmizanesgh.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 343
   },
   {
    "server": "spawn.whiteproxy.baby",
    "port": 443,
    "secret": "dda5ea267d37124af5829b266a759e24a0",
-   "ping": 409
+   "ping": 242
   },
   {
-   "server": "31.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 571
+   "server": "bake.mtproto.baby",
+   "port": 443,
+   "secret": "dde253fcbca6d9dacd57938476d83a4b80",
+   "ping": 308
   },
   {
-   "server": "21.hide.newflamingodomain.co.uk",
-   "port": 8443,
+   "server": "Lashboy.muzanesghy.co.uk",
+   "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 572
+   "ping": 320
+  },
+  {
+   "server": "bo0ji.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 353
+  },
+  {
+   "server": "new7.mizanmizanesgh.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 360
+  },
+  {
+   "server": "severjadid.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 365
+  },
+  {
+   "server": "black.whiteproxy.baby",
+   "port": 443,
+   "secret": "dd5418042aeb467cd038dbeb048b06aadb",
+   "ping": 384
   },
   {
    "server": "41.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 572
+   "ping": 391
   },
   {
-   "server": "1.hide.newflamingodomain.co.uk",
+   "server": "31.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 579
+   "ping": 393
+  },
+  {
+   "server": "21.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 394
+  },
+  {
+   "server": "mizaneshgh2.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 545
+  },
+  {
+   "server": "bfesedv.uk.",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 749
+  },
+  {
+   "server": "yarypple.co.uk.",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 751
   }
  ],
- "count": 20,
- "checked": 254
+ "count": 19,
+ "checked": 253
 }

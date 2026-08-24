@@ -681,6 +681,11 @@
    "secret": "eecfda0c988afe3cc7954c1d16d9e044316f7a6f6e2e7275"
   },
   {
+   "server": "lazeyka-24.getvelora.space",
+   "port": 443,
+   "secret": "eea4fd2303ad0092ac4382c2c9817b18726f7a6f6e2e7275"
+  },
+  {
    "server": "leo.startnetwork.shop",
    "port": 443,
    "secret": "dd76dcc26703bb6380c910792a2bbf9c31"
@@ -754,11 +759,6 @@
    "server": "media8.happtg.org",
    "port": 443,
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
-  },
-  {
-   "server": "media9.happtg.org",
-   "port": 443,
-   "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
   },
   {
    "server": "megaconnect.click",
@@ -1261,15 +1261,10 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "zon-b0z.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "zone.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 254
+ "count": 253
 }
