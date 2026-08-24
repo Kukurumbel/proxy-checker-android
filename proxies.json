@@ -801,11 +801,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "mtp.nowabst.net",
-   "port": 853,
-   "secret": "eeceaec97c86b6332adc48b3c081954e60766b2e636f6d"
-  },
-  {
    "server": "mtp1.hlebushek.com",
    "port": 443,
    "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
@@ -1271,5 +1266,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 254
+ "count": 253
 }
