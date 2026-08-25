@@ -706,11 +706,6 @@
    "secret": "eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174"
   },
   {
-   "server": "ljox44lz.helper.website",
-   "port": 443,
-   "secret": "eeb4f9b88528d51bd43c20e7d400020711636c6f7564666c6172652e636f6d"
-  },
-  {
    "server": "mashti.biabala.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -889,11 +884,6 @@
    "server": "predator-artist.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
-  },
-  {
-   "server": "premium.bestproxy.icu",
-   "port": 8443,
-   "secret": "ee27b0ae91a7a96aa0c1359f5fa060d1ee7072656d69756d2e6265737470726f78792e696375"
   },
   {
    "server": "premium.speed-benz.co.uk",
@@ -1101,6 +1091,11 @@
    "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275"
   },
   {
+   "server": "tg.aezakmi.org",
+   "port": 443,
+   "secret": "ee2d08cf6e8aaff2febda481f0a5f0cc4f74672e61657a616b6d692e6f7267"
+  },
+  {
    "server": "tg.goingflux.online",
    "port": 443,
    "secret": "7oYgMPWHV6iCWjwHzCFOQu50Zy5nb2luZ2ZsdXgub25saW5l"
@@ -1166,11 +1161,6 @@
    "secret": "dd1aa19d393262ffc3b5cfc8f096a920d4"
   },
   {
-   "server": "w.bestproxy.icu",
-   "port": 8443,
-   "secret": "ee27b0ae91a7a96aa0c1359f5fa060d1ee772e6265737470726f78792e696375"
-  },
-  {
    "server": "wave.savelyev.click",
    "port": 443,
    "secret": "eeba2e1341a08483c2cede6818498348ff776176652e736176656c7965762e636c69636b"
@@ -1194,11 +1184,6 @@
    "server": "x.shmelproxy.top",
    "port": 443,
    "secret": "eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275"
-  },
-  {
-   "server": "x8dlyy87.helper.website",
-   "port": 443,
-   "secret": "eec4d4d3b9ee538338d2307be745aa8d8f636c6f7564666c6172652e636f6d"
   },
   {
    "server": "yandex-tunnel.com",
@@ -1226,5 +1211,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 242
 }
