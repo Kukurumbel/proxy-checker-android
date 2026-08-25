@@ -381,11 +381,6 @@
    "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
   },
   {
-   "server": "delbar.wrenshire.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "dena.irankhodro.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -744,11 +739,6 @@
    "server": "mc-ssh.t-proxyru.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "me.wrenshire.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "media.happtg.org",
@@ -1236,11 +1226,6 @@
    "secret": "dd187b4224150d9b3c9485d133801395be"
   },
   {
-   "server": "we.wrenshire.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "x.shmelproxy.top",
    "port": 443,
    "secret": "eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275"
@@ -1276,5 +1261,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 255
+ "count": 252
 }
