@@ -156,11 +156,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "77.110.109.135",
-   "port": 443,
-   "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
-  },
-  {
    "server": "79.137.196.223",
    "port": 14443,
    "secret": "ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d"
@@ -561,6 +556,11 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
+   "server": "iran-download.mr-moo.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "iran-download.shentaichiacademy.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -636,6 +636,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "last.konstruktion.co.uk.",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "lazeyka-17.getvelora.space",
    "port": 443,
    "secret": "eebc5b6769ff4b96a0ab0ac0aeffc156706f7a6f6e2e7275"
@@ -669,6 +674,11 @@
    "server": "lazeyka-24.getvelora.space",
    "port": 443,
    "secret": "eea4fd2303ad0092ac4382c2c9817b18726f7a6f6e2e7275"
+  },
+  {
+   "server": "lazeyka-25.getvelora.space",
+   "port": 443,
+   "secret": "ee286d5d58110b0d3896e3010c137c25d76f7a6f6e2e7275"
   },
   {
    "server": "leo.startnetwork.shop",
@@ -719,21 +729,6 @@
    "server": "media10.happtg.org",
    "port": 443,
    "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
-  },
-  {
-   "server": "media6.happtg.org",
-   "port": 443,
-   "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
-  },
-  {
-   "server": "media7.happtg.org",
-   "port": 443,
-   "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
-  },
-  {
-   "server": "media8.happtg.org",
-   "port": 443,
-   "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
    "server": "megaconnect.click",
@@ -807,11 +802,6 @@
   },
   {
    "server": "New.nchnch.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "new7.mizanmizanesgh.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
@@ -1051,11 +1041,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "shared.ddproxy.xyz",
-   "port": 443,
-   "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
-  },
-  {
    "server": "should.be.wake.up.ir.yfdhjderkig.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -1231,5 +1216,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 246
+ "count": 243
 }
