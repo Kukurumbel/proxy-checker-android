@@ -191,6 +191,16 @@
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
   },
   {
+   "server": "ad2.arixo.shop",
+   "port": 443,
+   "secret": "eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70"
+  },
+  {
+   "server": "ad3.arixo.shop",
+   "port": 443,
+   "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
+  },
+  {
    "server": "admin.valmira.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -354,11 +364,6 @@
    "server": "connect.tproxyru.live",
    "port": 8980,
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
-  },
-  {
-   "server": "data.utkanos.life",
-   "port": 443,
-   "secret": "ee63f12c1c005215ca4f5a5c3102fee7e7646174612e75746b616e6f732e6c696665"
   },
   {
    "server": "data.utkanos.life",
@@ -1266,5 +1271,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 253
+ "count": 254
 }
