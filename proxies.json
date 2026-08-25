@@ -8,6 +8,11 @@
   {
    "server": "135.181.129.162",
    "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "135.181.129.162",
+   "port": 443,
    "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d"
   },
   {
@@ -117,6 +122,11 @@
   },
   {
    "server": "65.21.205.41",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.21.222.229",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -996,11 +1006,6 @@
    "secret": "ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275"
   },
   {
-   "server": "redflag.yazaebalsyadelatproxy.cc",
-   "port": 443,
-   "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-  },
-  {
    "server": "relay.rknsosi.shop",
    "port": 443,
    "secret": "ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70"
@@ -1236,5 +1241,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 247
+ "count": 248
 }
