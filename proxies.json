@@ -351,11 +351,6 @@
    "secret": "ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267"
   },
   {
-   "server": "cdn5.cdnwave.org",
-   "port": 443,
-   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
-  },
-  {
    "server": "cdn9.cdnwave.org",
    "port": 443,
    "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
@@ -721,11 +716,6 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "media.happtg.org",
-   "port": 443,
-   "secret": "eed9cf709eb48bb5a37471fba84864bd7e766b2e7275"
-  },
-  {
    "server": "media10.happtg.org",
    "port": 443,
    "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
@@ -1006,11 +996,6 @@
    "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
   },
   {
-   "server": "s3.assetflux.org",
-   "port": 443,
-   "secret": "ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275"
-  },
-  {
    "server": "s5.foriran.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -1211,5 +1196,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 242
+ "count": 239
 }
