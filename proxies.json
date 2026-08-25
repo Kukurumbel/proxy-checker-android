@@ -346,11 +346,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
-   "port": 443,
-   "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
-  },
-  {
    "server": "connect.tproxyru.live",
    "port": 8980,
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
@@ -552,11 +547,6 @@
   },
   {
    "server": "hub.utkanos.life",
-   "port": 443,
-   "secret": "ee40854ff173077abb80426160a84a19e56875622e75746b616e6f732e6c696665"
-  },
-  {
-   "server": "hub.utkanos.life",
    "port": 2443,
    "secret": "eef61f4c0a59c2d7d229ae9f9c08bbe40c6875622e75746b616e6f732e6c696665"
   },
@@ -679,6 +669,11 @@
    "server": "leo.startnetwork.shop",
    "port": 443,
    "secret": "dd76dcc26703bb6380c910792a2bbf9c31"
+  },
+  {
+   "server": "letsdoitt.info.",
+   "port": 22,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "link.lovely.lat",
@@ -809,6 +804,11 @@
    "server": "new.bestbattle.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "New.nchnch.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "new7.mizanmizanesgh.co.uk",
@@ -1111,11 +1111,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
-   "server": "sync.utkanos.life",
-   "port": 443,
-   "secret": "ee7ec715e77560ef88c218519df53ddd0c73796e632e75746b616e6f732e6c696665"
-  },
-  {
    "server": "t.meow-network.com",
    "port": 443,
    "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
@@ -1241,5 +1236,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 248
+ "count": 247
 }
