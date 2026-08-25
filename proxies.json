@@ -342,6 +342,11 @@
   },
   {
    "server": "cdn2.medhata.org",
+   "port": 443,
+   "secret": "ee2cc683617eec3aad5f3f195bb8c1091a63646e322e6d6564686174612e6f7267"
+  },
+  {
+   "server": "cdn2.medhata.org",
    "port": 2443,
    "secret": "ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267"
   },
@@ -1116,11 +1121,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "srv.savelyev.click",
-   "port": 443,
-   "secret": "ee966bd27e82ca84e00f7dcf1eecd7237c7372762e736176656c7965762e636c69636b"
-  },
-  {
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -1231,6 +1231,11 @@
    "secret": "eeba2e1341a08483c2cede6818498348ff776176652e736176656c7965762e636c69636b"
   },
   {
+   "server": "way.mtproto.baby",
+   "port": 443,
+   "secret": "dd187b4224150d9b3c9485d133801395be"
+  },
+  {
    "server": "we.wrenshire.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1271,5 +1276,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 254
+ "count": 255
 }
