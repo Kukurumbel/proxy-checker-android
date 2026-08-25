@@ -156,11 +156,6 @@
    "secret": "ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "81.29.146.111",
-   "port": 443,
-   "secret": "989a221c0b63d18c7eb0a74af07a50ec"
-  },
-  {
    "server": "82.114.228.74",
    "port": 443,
    "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275"
@@ -204,11 +199,6 @@
    "server": "ad3.arixo.shop",
    "port": 443,
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
-  },
-  {
-   "server": "admin.valmira.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "advice-movie.online",
@@ -271,11 +261,6 @@
    "secret": "dde253fcbca6d9dacd57938476d83a4b80"
   },
   {
-   "server": "basic.valmira.co.uk",
-   "port": 22,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "beam.whitelist.cyou",
    "port": 443,
    "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
@@ -324,11 +309,6 @@
    "server": "br.nowabst.net",
    "port": 443,
    "secret": "eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d"
-  },
-  {
-   "server": "cache.garden-troll.life",
-   "port": 443,
-   "secret": "ee790a214885e717994b0ad7c5df727bf863616368652e67617264656e2d74726f6c6c2e6c696665"
   },
   {
    "server": "ccc.horizon555.co.uk",
@@ -529,11 +509,6 @@
    "server": "googel.alo-otp.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "gw.garden-troll.life",
-   "port": 443,
-   "secret": "eeecf2513dfe9aff53159e3ff39bc1571d67772e67617264656e2d74726f6c6c2e6c696665"
   },
   {
    "server": "gw.nowabst.net",
@@ -1016,6 +991,11 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "rdap.buzz.",
+   "port": 443,
+   "secret": "ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275"
+  },
+  {
    "server": "redflag.yazaebalsyadelatproxy.cc",
    "port": 443,
    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
@@ -1261,5 +1241,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 252
+ "count": 248
 }
