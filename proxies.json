@@ -406,11 +406,6 @@
    "secret": "7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A"
   },
   {
-   "server": "fast.barhousefarm.co.uk.",
-   "port": 443,
-   "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
-  },
-  {
    "server": "fast.proxygo.fun",
    "port": 8443,
    "secret": "eef30fe399bee638d966119d832d41c95f666173742e70726f7879676f2e66756e"
@@ -699,11 +694,6 @@
    "server": "ljox44lz.helper.website",
    "port": 443,
    "secret": "eeb4f9b88528d51bd43c20e7d400020711636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "M.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk",
-   "port": 80,
-   "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ%3D%3D"
   },
   {
    "server": "mashti.biabala.co.uk",
@@ -1241,5 +1231,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 248
+ "count": 246
 }
