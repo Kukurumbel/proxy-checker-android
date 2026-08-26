@@ -326,11 +326,6 @@
    "secret": "eefcc4cf72e265ef4e47068bfe3fbd44fb626f6c742e75746b616e6f732e6c696665"
   },
   {
-   "server": "br.nowabst.net",
-   "port": 443,
-   "secret": "eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d"
-  },
-  {
    "server": "ccc.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1196,5 +1191,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 239
+ "count": 238
 }
