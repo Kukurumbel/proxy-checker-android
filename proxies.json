@@ -946,6 +946,11 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "rakk.helloworld.surf",
+   "port": 443,
+   "secret": "ddbd12f3ab73252a1c9f687a3050c12444"
+  },
+  {
    "server": "rana.irankhodro.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -974,11 +979,6 @@
    "server": "Rudmoain.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "runserver.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "s01.neo-trading.org",
