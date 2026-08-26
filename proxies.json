@@ -351,6 +351,11 @@
    "secret": "ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267"
   },
   {
+   "server": "cdn5.cdnwave.org",
+   "port": 443,
+   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
+  },
+  {
    "server": "cdn9.cdnwave.org",
    "port": 443,
    "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
@@ -721,6 +726,11 @@
    "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
   },
   {
+   "server": "media9.happtg.org",
+   "port": 443,
+   "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
+  },
+  {
    "server": "megaconnect.click",
    "port": 443,
    "secret": "ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275"
@@ -787,6 +797,11 @@
   },
   {
    "server": "New.nchnch.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "new7.mizanmizanesgh.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
@@ -1201,5 +1216,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 240
+ "count": 243
 }
