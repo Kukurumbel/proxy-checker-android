@@ -126,6 +126,11 @@
    "secret": "ddb0cbcef5a486d9636472ac27f8e11a9d"
   },
   {
+   "server": "65.109.83.141",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
    "server": "65.21.205.41",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -241,11 +246,6 @@
    "secret": "eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70"
   },
   {
-   "server": "api2.kvakzon.top",
-   "port": 2443,
-   "secret": "eeb2a0e3b5fba31d961cba1437805cf950617069322e6b76616b7a6f6e2e746f70"
-  },
-  {
    "server": "api2.medhata.org",
    "port": 2443,
    "secret": "ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267"
@@ -269,6 +269,11 @@
    "server": "bala.hastim.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "beacon.lovely.lat",
+   "port": 443,
+   "secret": "eeec835a34516912f161a0073339be3c64626561636f6e2e6c6f76656c792e6c6174"
   },
   {
    "server": "beam.whitelist.cyou",
@@ -401,6 +406,11 @@
    "secret": "7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A"
   },
   {
+   "server": "evo.foriran.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "fiber.lovely.lat",
    "port": 443,
    "secret": "eeec835a34516912f161a0073339be3c6466696265722e6c6f76656c792e6c6174"
@@ -424,11 +434,6 @@
    "server": "free1.gram.blog",
    "port": 443,
    "secret": "eeeb46ebb806e03733786c662fdb27dac062726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "free2.gram.blog",
-   "port": 443,
-   "secret": "eee7edfdda71f1dd44c4714fed482a0a1b62726f777365722e79616e6465782e7275"
   },
   {
    "server": "free3.gram.blog",
@@ -489,6 +494,11 @@
    "server": "ge.nowabst.net",
    "port": 853,
    "secret": "ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d"
+  },
+  {
+   "server": "gen.foriran.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "ggru3.mtproxygram.lol",
@@ -771,6 +781,11 @@
    "secret": "dd1603010200010001fc030386e24c3add"
   },
   {
+   "server": "my.dasy2k1.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "naro.guguli.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -1006,11 +1021,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "should.be.wake.up.ir.yfdhjderkig.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "sioms.co.uk",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -1039,6 +1049,11 @@
    "server": "Speed-speed.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "stream.lovely.lat",
+   "port": 443,
+   "secret": "eeec835a34516912f161a0073339be3c6473747265616d2e6c6f76656c792e6c6174"
   },
   {
    "server": "Suodbo.co.uk.",
@@ -1201,5 +1216,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 240
+ "count": 243
 }
