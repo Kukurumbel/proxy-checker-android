@@ -341,11 +341,6 @@
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
-   "server": "cdn9.cdnwave.org",
-   "port": 443,
-   "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
-  },
-  {
    "server": "center.doevoee.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -641,11 +636,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "lazeyka-18.getvelora.space",
-   "port": 443,
-   "secret": "ee9d8875ade1930e8ae1fd7350efaf487b6f7a6f6e2e7275"
-  },
-  {
    "server": "lazeyka-19.getvelora.space",
    "port": 443,
    "secret": "ee923b2d2e00bb2d0792a3a8c5090bd3616f7a6f6e2e7275"
@@ -701,6 +691,11 @@
    "secret": "eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174"
   },
   {
+   "server": "main.startnetwork.shop",
+   "port": 443,
+   "secret": "dd1358da8f1cda1c754a865a27107e19f3"
+  },
+  {
    "server": "max.kimt.click",
    "port": 443,
    "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
@@ -709,11 +704,6 @@
    "server": "mc-ssh.t-proxyru.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "media10.happtg.org",
-   "port": 443,
-   "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
   },
   {
    "server": "media9.happtg.org",
@@ -729,6 +719,11 @@
    "server": "megaconnect.click",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "milion.users.ir.bishdhaep.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "mio.mozitop.co.uk",
@@ -961,6 +956,11 @@
    "secret": "ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275"
   },
   {
+   "server": "redflag.yazaebalsyadelatproxy.cc",
+   "port": 443,
+   "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+  },
+  {
    "server": "relay.rknsosi.shop",
    "port": 443,
    "secret": "ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70"
@@ -989,11 +989,6 @@
    "server": "s02.neo-trading.org",
    "port": 443,
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
-  },
-  {
-   "server": "s1.assetflux.org",
-   "port": 443,
-   "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
   },
   {
    "server": "s5.foriran.co.uk",
@@ -1206,5 +1201,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 241
+ "count": 240
 }
