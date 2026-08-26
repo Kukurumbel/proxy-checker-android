@@ -6,6 +6,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "116.203.11.67",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
    "server": "135.181.129.162",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -169,6 +174,11 @@
    "server": "79.137.196.223",
    "port": 14443,
    "secret": "ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "81.29.146.111",
+   "port": 443,
+   "secret": "989a221c0b63d18c7eb0a74af07a51ec"
   },
   {
    "server": "81.90.31.25",
@@ -526,11 +536,6 @@
    "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6d"
   },
   {
-   "server": "haji.biabala.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "Hel-hi.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -709,11 +714,6 @@
    "server": "live.lovely.lat",
    "port": 443,
    "secret": "eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174"
-  },
-  {
-   "server": "mashti.biabala.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "max.kimt.click",
