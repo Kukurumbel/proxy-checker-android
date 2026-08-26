@@ -281,6 +281,11 @@
    "secret": "dde253fcbca6d9dacd57938476d83a4b80"
   },
   {
+   "server": "bala.hastim.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "beam.whitelist.cyou",
    "port": 443,
    "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
@@ -409,6 +414,11 @@
    "server": "ethereal11.arixo.shop",
    "port": 443,
    "secret": "7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A"
+  },
+  {
+   "server": "fiber.lovely.lat",
+   "port": 443,
+   "secret": "eeec835a34516912f161a0073339be3c6466696265722e6c6f76656c792e6c6174"
   },
   {
    "server": "flux.lovely.lat",
@@ -1191,5 +1201,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 238
+ "count": 240
 }
