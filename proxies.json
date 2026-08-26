@@ -991,6 +991,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "s01.neo-trading.org",
+   "port": 443,
+   "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
+  },
+  {
    "server": "s02.neo-trading.org",
    "port": 443,
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
@@ -1094,6 +1099,11 @@
    "server": "tg2.goingflux.online",
    "port": 8443,
    "secret": "ee39f2f36ec93338eae372566cb078c0aa7467322e676f696e67666c75782e6f6e6c696e65"
+  },
+  {
+   "server": "time.vechnostnet.study",
+   "port": 443,
+   "secret": "dd8c9e3f5343fe86b52d608122e71d8ec7"
   },
   {
    "server": "topproxt.asia",
@@ -1201,5 +1211,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 240
+ "count": 242
 }
