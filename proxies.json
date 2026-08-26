@@ -691,6 +691,11 @@
    "secret": "ee286d5d58110b0d3896e3010c137c25d76f7a6f6e2e7275"
   },
   {
+   "server": "lazeyka-26.getvelora.space",
+   "port": 443,
+   "secret": "ee9227ae52464af62b0b7491a2a34dc6e36f7a6f6e2e7275"
+  },
+  {
    "server": "leo.startnetwork.shop",
    "port": 443,
    "secret": "dd76dcc26703bb6380c910792a2bbf9c31"
@@ -1216,5 +1221,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 243
+ "count": 244
 }
