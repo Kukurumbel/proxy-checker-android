@@ -221,14 +221,14 @@
    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
   },
   {
+   "server": "adproxy.mtproto.baby",
+   "port": 443,
+   "secret": "ddb57ee5caf6ee163bd0a0d08f491a84db"
+  },
+  {
    "server": "advice-movie.online",
    "port": 8080,
    "secret": "dd22b4338b8b67b85193b2ed85de2bf335"
-  },
-  {
-   "server": "akb.bestbattle.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "akenai.top",
@@ -481,11 +481,6 @@
    "secret": "ee3cd8b9e99a48486b14d0f6169d0b8d06617669746f2e7275"
   },
   {
-   "server": "gamerpr.cfd",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "gate.24starsmarket.ru",
    "port": 443,
    "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
@@ -551,11 +546,6 @@
    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
   },
   {
-   "server": "hub.savelyev.click",
-   "port": 443,
-   "secret": "ee609a2ad7e277c6eb2dd39767e12777b86875622e736176656c7965762e636c69636b"
-  },
-  {
    "server": "hub.utkanos.life",
    "port": 2443,
    "secret": "eef61f4c0a59c2d7d229ae9f9c08bbe40c6875622e75746b616e6f732e6c696665"
@@ -584,11 +574,6 @@
    "server": "iran.mr-moo.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "iran.pcspeedyfix.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "iran.yhge.co.uk.",
@@ -796,11 +781,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "new.bestbattle.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "New.nchnch.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -884,11 +864,6 @@
    "server": "premium.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "proxtstar.live",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "proxtstar.live",
@@ -1151,6 +1126,11 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
+   "server": "vault.lovely.lat",
+   "port": 443,
+   "secret": "eeec835a34516912f161a0073339be3c647661756c742e6c6f76656c792e6c6174"
+  },
+  {
    "server": "ving.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1221,5 +1201,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 244
+ "count": 240
 }
