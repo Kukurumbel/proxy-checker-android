@@ -266,11 +266,6 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "batman.konstruktion.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-  },
-  {
    "server": "beacon.lovely.lat",
    "port": 443,
    "secret": "eeec835a34516912f161a0073339be3c64626561636f6e2e6c6f76656c792e6c6174"
@@ -561,6 +556,16 @@
    "secret": "eef61f4c0a59c2d7d229ae9f9c08bbe40c6875622e75746b616e6f732e6c696665"
   },
   {
+   "server": "hulk.goaphrodite.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "ir.billblog.co.uk.",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "iran-download.goaphrodite.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -704,6 +709,11 @@
    "server": "lobiamarket.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "mail.flightv.online",
+   "port": 443,
+   "secret": "ee47fc27556631c41922b4e387105d92d87777772e676e752e6f7267"
   },
   {
    "server": "main.startnetwork.shop",
@@ -1086,11 +1096,6 @@
    "secret": "ee2d08cf6e8aaff2febda481f0a5f0cc4f74672e61657a616b6d692e6f7267"
   },
   {
-   "server": "tg.flightv.online",
-   "port": 443,
-   "secret": "ee25a1eec9ccfbae62b34fa99ed64054466e6c2e666c69676874762e6f6e6c696e65"
-  },
-  {
    "server": "tg.goingflux.online",
    "port": 443,
    "secret": "7oYgMPWHV6iCWjwHzCFOQu50Zy5nb2luZ2ZsdXgub25saW5l"
@@ -1201,6 +1206,11 @@
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
+   "server": "ykima.davay.click",
+   "port": 443,
+   "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
+  },
+  {
    "server": "zarinpluse.info",
    "port": 22,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1211,5 +1221,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 242
+ "count": 244
 }
