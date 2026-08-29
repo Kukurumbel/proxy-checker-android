@@ -141,11 +141,6 @@
    "secret": "ee1603010200010001fc030386e24c3add6d61782e7275"
   },
   {
-   "server": "82.114.228.74",
-   "port": 443,
-   "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275"
-  },
-  {
    "server": "89.144.35.156",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
@@ -376,11 +371,6 @@
    "secret": "ee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267"
   },
   {
-   "server": "endless.autumngarden.injast.co.im.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "evo.foriran.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -394,6 +384,11 @@
    "server": "fiber.lovely.lat",
    "port": 443,
    "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
+  },
+  {
+   "server": "fish.mtproto.baby",
+   "port": 443,
+   "secret": "dd449119ea34c3a8957918cd066e3422d8"
   },
   {
    "server": "forever.startnetwork.shop",
@@ -541,24 +536,9 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "iran-download.goaphrodite.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "iran-download.shentaichiacademy.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "iran.click-master.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "iran.fourie.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
    "server": "iran.yhge.co.uk.",
@@ -596,11 +576,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "kima.rabotaet.online",
-   "port": 443,
-   "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
-  },
-  {
    "server": "king-of-the-world.ir.bishdhaep.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
@@ -619,11 +594,6 @@
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "lazeyka-20.getvelora.space",
-   "port": 443,
-   "secret": "ee7bf1e117f28f10c11aa986c876fa51fa6f7a6f6e2e7275"
   },
   {
    "server": "lazeyka-22.getvelora.space",
@@ -661,6 +631,11 @@
    "secret": "ee6e2d8d1e4ae0fd8446c8176f53996e476f7a6f6e2e7275"
   },
   {
+   "server": "lazeyka-29.getvelora.space",
+   "port": 443,
+   "secret": "ee41b9fb69fc7c451449031106d3dd516c6f7a6f6e2e7275"
+  },
+  {
    "server": "leo.startnetwork.shop",
    "port": 443,
    "secret": "dd76dcc26703bb6380c910792a2bbf9c31"
@@ -689,6 +664,11 @@
    "server": "main.startnetwork.shop",
    "port": 443,
    "secret": "dd1358da8f1cda1c754a865a27107e19f3"
+  },
+  {
+   "server": "mamadgoli.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "max.kimt.click",
@@ -734,11 +714,6 @@
    "server": "Mo.Mohearn.co.uk.",
    "port": 443,
    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
-   "server": "moon.injast.co.im.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "mproxy.vechnostnet.study",
@@ -799,11 +774,6 @@
    "server": "node2.medhata.org",
    "port": 2443,
    "secret": "eeb19b644ed4a6c923d57abf3c7a52d1746e6f6465322e6d6564686174612e6f7267"
-  },
-  {
-   "server": "nowin.injast.co.im.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "nyakawai.shop",
@@ -1071,6 +1041,11 @@
    "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275"
   },
   {
+   "server": "telegram.vechnostnet.study",
+   "port": 443,
+   "secret": "dda8736bb4a03afabc3ebf6b8565400dfc"
+  },
+  {
    "server": "tg.aezakmi.org",
    "port": 443,
    "secret": "ee2d08cf6e8aaff2febda481f0a5f0cc4f74672e61657a616b6d692e6f7267"
@@ -1211,5 +1186,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 242
+ "count": 237
 }
