@@ -6,6 +6,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "103.161.35.23",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "135.181.129.162",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -29,6 +34,11 @@
    "server": "176.124.207.237",
    "port": 443,
    "secret": "fad015155defc3a8bd8ebc16b5d2b300"
+  },
+  {
+   "server": "194.120.230.26",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "201.7.27.1",
@@ -191,11 +201,6 @@
    "secret": "dd33e2b81cb9059913f7755ac6604095fa"
   },
   {
-   "server": "advice-movie.online",
-   "port": 8080,
-   "secret": "dd22b4338b8b67b85193b2ed85de2bf335"
-  },
-  {
    "server": "akenai.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
@@ -254,11 +259,6 @@
    "server": "beam.whitelist.cyou",
    "port": 443,
    "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
-  },
-  {
-   "server": "beer.crona-extra.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "beest-sellerst.co.uk.",
@@ -496,6 +496,11 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "grid.lovely.lat",
+   "port": 443,
+   "secret": "eeec835a34516912f161a0073339be3c64677269642e6c6f76656c792e6c6174"
+  },
+  {
    "server": "gw.nowabst.net",
    "port": 853,
    "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6"
@@ -539,11 +544,6 @@
    "server": "ir.billblog.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "iran.click-master.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "iran.yhge.co.uk.",
@@ -841,21 +841,6 @@
    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
   },
   {
-   "server": "proxy.maxtimes.ru",
-   "port": 8443,
-   "secret": "1ffe3bcb425f1b8f737d4de2c6dd35b3"
-  },
-  {
-   "server": "proxy.maxtimes.ru",
-   "port": 8443,
-   "secret": "dd1ffe3bcb425f1b8f737d4de2c6dd35b3"
-  },
-  {
-   "server": "proxy.maxtimes.ru",
-   "port": 8444,
-   "secret": "ee1ffe3bcb425f1b8f737d4de2c6dd35b36164732e78352e7275"
-  },
-  {
    "server": "proxy.vechnostnet.study",
    "port": 443,
    "secret": "ddc646025a400b371427cc76dcf472fe1d"
@@ -869,11 +854,6 @@
    "server": "public2.mtproxygram.lol",
    "port": 443,
    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d"
-  },
-  {
-   "server": "pulse.lovely.lat",
-   "port": 443,
-   "secret": "ee6f8c7d9193585ada7d22acf074ad6d976d2e6265626f6f2e7275"
   },
   {
    "server": "puot.mozitop.co.uk",
@@ -1106,11 +1086,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "VIP.Mohearn.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
    "server": "vpn.vechnostnet.study",
    "port": 443,
    "secret": "ddb67158106269274cecaed7c9468e8b74"
@@ -1186,5 +1161,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 237
+ "count": 232
 }
