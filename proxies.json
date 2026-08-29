@@ -66,21 +66,6 @@
    "secret": "eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974"
   },
   {
-   "server": "57.131.144.32",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "57.131.144.33",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "57.131.144.35",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "65-109-240-50.nip.io",
    "port": 443,
    "secret": "FRITc3bsOyxs7KyctB1kCw%3D%3D"
@@ -111,7 +96,17 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
+   "server": "65.21.205.13",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.21.222.229",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.21.227.198",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -149,11 +144,6 @@
    "server": "82.114.228.74",
    "port": 443,
    "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275"
-  },
-  {
-   "server": "83.243.86.97",
-   "port": 1080,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "89.144.35.156",
@@ -331,9 +321,9 @@
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
-   "server": "center.doevoee.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+   "server": "cdn9.cdnwave.org",
+   "port": 443,
+   "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
   },
   {
    "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
@@ -519,11 +509,6 @@
    "server": "Hel-hi.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "help.infinityhalo.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "help.joumalanet.co.uk",
@@ -716,6 +701,11 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "media10.happtg.org",
+   "port": 443,
+   "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
+  },
+  {
    "server": "media9.happtg.org",
    "port": 443,
    "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
@@ -761,6 +751,11 @@
    "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
   },
   {
+   "server": "mtp2.hlebushek.com",
+   "port": 443,
+   "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275"
+  },
+  {
    "server": "mtp3.hlebushek.com",
    "port": 443,
    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
@@ -774,11 +769,6 @@
    "server": "my.dasy2k1.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "naro.guguli.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "New.nchnch.co.uk",
@@ -839,16 +829,6 @@
    "server": "persian.gulf.ir.olsjddhf.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "persian.gulf.ir.olsjddhf.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "persian.gulf.ir.olsjddhf.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "Pich.Peachsoft.co.uk.",
@@ -926,11 +906,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "qadim.zhigool.co.uk",
-   "port": 22,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "rakk.helloworld.surf",
    "port": 443,
    "secret": "ddbd12f3ab73252a1c9f687a3050c12444"
@@ -1001,6 +976,11 @@
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
   },
   {
+   "server": "s1.assetflux.org",
+   "port": 443,
+   "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
+  },
+  {
    "server": "s5.foriran.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -1044,6 +1024,11 @@
    "server": "Speed-speed.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "Strait-of-Hormuz.ir.jursdheks.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "stream.lovely.lat",
@@ -1129,6 +1114,11 @@
    "server": "uptime.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "vault.lovely.lat",
+   "port": 443,
+   "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
   },
   {
    "server": "vault.lovely.lat",
@@ -1221,5 +1211,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 244
+ "count": 242
 }
