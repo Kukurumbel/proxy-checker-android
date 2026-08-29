@@ -186,6 +186,11 @@
    "secret": "ddb57ee5caf6ee163bd0a0d08f491a84db"
   },
   {
+   "server": "ads.helloworld.surf",
+   "port": 443,
+   "secret": "dd33e2b81cb9059913f7755ac6604095fa"
+  },
+  {
    "server": "advice-movie.online",
    "port": 8080,
    "secret": "dd22b4338b8b67b85193b2ed85de2bf335"
@@ -1049,11 +1054,6 @@
    "server": "tg.aezakmi.org",
    "port": 443,
    "secret": "ee2d08cf6e8aaff2febda481f0a5f0cc4f74672e61657a616b6d692e6f7267"
-  },
-  {
-   "server": "tg.goingflux.online",
-   "port": 443,
-   "secret": "7oYgMPWHV6iCWjwHzCFOQu50Zy5nb2luZ2ZsdXgub25saW5l"
   },
   {
    "server": "time.vechnostnet.study",
