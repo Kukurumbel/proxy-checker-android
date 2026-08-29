@@ -151,6 +151,11 @@
    "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275"
   },
   {
+   "server": "83.243.86.97",
+   "port": 1080,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "89.144.35.156",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
@@ -234,6 +239,11 @@
    "server": "as.mkim.click",
    "port": 443,
    "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
+  },
+  {
+   "server": "august.startnetwork.shop",
+   "port": 443,
+   "secret": "dd5227fee813c2eb9cc5578a7c359b4b37"
   },
   {
    "server": "bake.mtproto.baby",
@@ -396,16 +406,6 @@
    "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
   },
   {
-   "server": "flux.lovely.lat",
-   "port": 443,
-   "secret": "ee6f8c7d9193585ada7d22acf074ad6d97666c75782e6c6f76656c792e6c6174"
-  },
-  {
-   "server": "flux.lovely.lat",
-   "port": 443,
-   "secret": "ee6f8c7d9193585ada7d22acf074ad6d976d2e6265626f6f2e7275"
-  },
-  {
    "server": "forever.startnetwork.shop",
    "port": 443,
    "secret": "dd0ef5f4a09c2e33527338e9184a9a6178"
@@ -504,6 +504,11 @@
    "server": "googel.alo-otp.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "gw.nowabst.net",
+   "port": 853,
+   "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6"
   },
   {
    "server": "gw.nowabst.net",
@@ -756,11 +761,6 @@
    "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
   },
   {
-   "server": "mtp2.hlebushek.com",
-   "port": 443,
-   "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275"
-  },
-  {
    "server": "mtp3.hlebushek.com",
    "port": 443,
    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
@@ -921,11 +921,6 @@
    "secret": "ee6f8c7d9193585ada7d22acf074ad6d976d2e6265626f6f2e7275"
   },
   {
-   "server": "pulse.lovely.lat",
-   "port": 443,
-   "secret": "ee6f8c7d9193585ada7d22acf074ad6d9770756c73652e6c6f76656c792e6c6174"
-  },
-  {
    "server": "puot.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1053,6 +1048,11 @@
   {
    "server": "stream.lovely.lat",
    "port": 443,
+   "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
+  },
+  {
+   "server": "stream.lovely.lat",
+   "port": 443,
    "secret": "eeec835a34516912f161a0073339be3c6473747265616d2e6c6f76656c792e6c6174"
   },
   {
@@ -1129,11 +1129,6 @@
    "server": "uptime.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "vasl-sho.mohearn.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
    "server": "vault.lovely.lat",
@@ -1226,5 +1221,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 245
+ "count": 244
 }
