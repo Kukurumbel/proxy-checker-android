@@ -396,6 +396,11 @@
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
+   "server": "cdn7.cdnwave.org",
+   "port": 443,
+   "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
+  },
+  {
    "server": "cdn9.cdnwave.org",
    "port": 443,
    "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
@@ -424,11 +429,6 @@
    "server": "dev.nowabst.net",
    "port": 853,
    "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
-  },
-  {
-   "server": "dingli2.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "dns.bizonre.co.im.",
@@ -626,21 +626,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
-   "server": "iran.yhge.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "irancell-mci-rightell-adsl.nowhearthis.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
-   "server": "irancell-mci-rightell-adsl.pcspeedyfix.co.uk.",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "itis.startnetwork.shop",
    "port": 443,
    "secret": "dde306a0dff7bda73245c6020644335ad1"
@@ -776,6 +761,11 @@
    "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
   },
   {
+   "server": "media6.happtg.org",
+   "port": 443,
+   "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
+  },
+  {
    "server": "media9.happtg.org",
    "port": 443,
    "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
@@ -829,6 +819,11 @@
    "server": "mttt.cloude.one",
    "port": 853,
    "secret": "eebc708822d93e406cd550b43d354a016e6d7474742e636c6f7564652e6f6e65"
+  },
+  {
+   "server": "mtttt2.badvpn.pro",
+   "port": 443,
+   "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275"
   },
   {
    "server": "my.dasy2k1.co.uk.",
@@ -951,6 +946,11 @@
    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
   },
   {
+   "server": "region.lovely.lat",
+   "port": 443,
+   "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
+  },
+  {
    "server": "relay.lovely.lat",
    "port": 443,
    "secret": "eeec835a34516912f161a0073339be3c6472656c61792e6c6f76656c792e6c6174"
@@ -1016,6 +1016,11 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "s8.assetflux.org",
+   "port": 443,
+   "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
+  },
+  {
    "server": "setion-two.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
@@ -1024,6 +1029,11 @@
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "shin.startnetwork.shop",
+   "port": 443,
+   "secret": "ddf91f0b9ebf2d72aa67c93402c5c1554f"
   },
   {
    "server": "sioms.co.uk",
@@ -1176,11 +1186,6 @@
    "secret": "ddb67158106269274cecaed7c9468e8b74"
   },
   {
-   "server": "vpn2.primeperformance.space",
-   "port": 443,
-   "secret": "dd1aa19d393262ffc3b5cfc8f096a920d4"
-  },
-  {
    "server": "way.mtproto.baby",
    "port": 443,
    "secret": "dd187b4224150d9b3c9485d133801395be"
@@ -1246,5 +1251,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 249
+ "count": 250
 }
