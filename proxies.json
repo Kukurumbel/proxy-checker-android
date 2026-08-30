@@ -21,7 +21,22 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
+   "server": "116.202.190.173",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "116.203.11.67",
+   "port": 4466,
+   "secret": "dd114562821249bd7ac519130220c25d08"
+  },
+  {
    "server": "135.181.129.162",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "135.181.74.147",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -29,6 +44,11 @@
    "server": "135.181.74.178",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "138.199.238.202",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "13reasonswhy.foriran.co.uk",
@@ -39,6 +59,11 @@
    "server": "144.31.141.34",
    "port": 443,
    "secret": "7ada30e09a40465f599160b3a532bc7b"
+  },
+  {
+   "server": "168.119.142.41",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "176.124.207.237",
@@ -86,14 +111,14 @@
    "secret": "eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974"
   },
   {
-   "server": "65-109-240-50.nip.io",
-   "port": 443,
-   "secret": "FRITc3bsOyxs7KyctB1kCw%3D%3D"
-  },
-  {
    "server": "65-109-252-37.nip.io",
    "port": 443,
    "secret": "8O6wvZrcT9SpOZTuOyohaw=="
+  },
+  {
+   "server": "65.108.123.76",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "65.108.126.199",
@@ -106,6 +131,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.109.177.14",
+   "port": 4466,
+   "secret": "dd114562821249bd7ac519130220c25d08"
+  },
+  {
    "server": "65.109.187.98",
    "port": 4466,
    "secret": "dd114562821249bd7ac519130220c25d08"
@@ -114,6 +144,11 @@
    "server": "65.109.248.96",
    "port": 443,
    "secret": "ddb0cbcef5a486d9636472ac27f8e11a9d"
+  },
+  {
+   "server": "65.109.252.37",
+   "port": 4466,
+   "secret": "dd114562821249bd7ac519130220c25d08"
   },
   {
    "server": "65.109.83.141",
@@ -146,6 +181,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "78.46.236.61",
+   "port": 4466,
+   "secret": "dd114562821249bd7ac519130220c25d08"
+  },
+  {
    "server": "79.137.196.223",
    "port": 13443,
    "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
@@ -164,6 +204,11 @@
    "server": "81.90.31.25",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d61782e7275"
+  },
+  {
+   "server": "88.198.197.199",
+   "port": 4466,
+   "secret": "dd114562821249bd7ac519130220c25d08"
   },
   {
    "server": "89.144.35.156",
@@ -194,6 +239,11 @@
    "server": "91.98.97.225",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "95.216.180.200",
+   "port": 4466,
+   "secret": "dd114562821249bd7ac519130220c25d08"
   },
   {
    "server": "ad1.arixo.shop",
@@ -244,6 +294,11 @@
    "server": "api2.kvakzon.top",
    "port": 443,
    "secret": "eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70"
+  },
+  {
+   "server": "api2.kvakzon.top",
+   "port": 2443,
+   "secret": "eeb2a0e3b5fba31d961cba1437805cf950617069322e6b76616b7a6f6e2e746f70"
   },
   {
    "server": "api2.medhata.org",
@@ -329,11 +384,6 @@
    "server": "cdn2.medhata.org",
    "port": 443,
    "secret": "ee2cc683617eec3aad5f3f195bb8c1091a63646e322e6d6564686174612e6f7267"
-  },
-  {
-   "server": "cdn2.medhata.org",
-   "port": 2443,
-   "secret": "ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267"
   },
   {
    "server": "cdn3.cdnwave.org",
@@ -566,6 +616,16 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "iran-the-best.ir.asan-proxy.info.",
+   "port": 9443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "iran-the-best.ir.asan-proxy.info.",
+   "port": 9741,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
    "server": "iran.yhge.co.uk.",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
@@ -581,11 +641,6 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "irancell-mci.ir.gybshdjls.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "itis.startnetwork.shop",
    "port": 443,
    "secret": "dde306a0dff7bda73245c6020644335ad1"
@@ -599,11 +654,6 @@
    "server": "juke.startnetwork.shop",
    "port": 443,
    "secret": "dd3eda2b33587de0dad091f72b70fc188d"
-  },
-  {
-   "server": "just.iran.ir.ahsjdiebwkq.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "king-of-the-world.ir.bishdhaep.info.",
@@ -664,6 +714,11 @@
    "server": "lazeyka-29.getvelora.space",
    "port": 443,
    "secret": "ee41b9fb69fc7c451449031106d3dd516c6f7a6f6e2e7275"
+  },
+  {
+   "server": "lazeyka-30.getvelora.space",
+   "port": 443,
+   "secret": "ee7032eb8fc0228af8ca184c6798d3ce336f7a6f6e2e7275"
   },
   {
    "server": "leo.startnetwork.shop",
@@ -851,11 +906,6 @@
    "secret": "eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275"
   },
   {
-   "server": "proxy.awx.info",
-   "port": 443,
-   "secret": "eef8bf3435c7514288510de49a9c4a70d070726f78792e6177782e696e666f"
-  },
-  {
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
@@ -976,11 +1026,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "should.be.wake.up.ir.yfdhjderkig.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "sioms.co.uk",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -1011,9 +1056,9 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "Stand-For-Iran.ir.mausjakaqd.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+   "server": "ssh.meow0.co.uk",
+   "port": 22,
+   "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "Strait-of-Hormuz.ir.jursdheks.info.",
@@ -1201,5 +1246,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 240
+ "count": 249
 }
