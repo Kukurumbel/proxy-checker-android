@@ -76,11 +76,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "201.7.27.1",
-   "port": 443,
-   "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
-  },
-  {
    "server": "21.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -137,6 +132,21 @@
   },
   {
    "server": "65.109.187.98",
+   "port": 4466,
+   "secret": "dd114562821249bd7ac519130220c25d08"
+  },
+  {
+   "server": "65.109.188.175",
+   "port": 4466,
+   "secret": "dd114562821249bd7ac519130220c25d08"
+  },
+  {
+   "server": "65.109.208.75",
+   "port": 4466,
+   "secret": "dd114562821249bd7ac519130220c25d08"
+  },
+  {
+   "server": "65.109.211.87",
    "port": 4466,
    "secret": "dd114562821249bd7ac519130220c25d08"
   },
@@ -421,11 +431,6 @@
    "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
   },
   {
-   "server": "dena.irankhodro.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "dev.nowabst.net",
    "port": 853,
    "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
@@ -464,6 +469,11 @@
    "server": "fish.mtproto.baby",
    "port": 443,
    "secret": "dd449119ea34c3a8957918cd066e3422d8"
+  },
+  {
+   "server": "flux.lovely.lat",
+   "port": 443,
+   "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
   },
   {
    "server": "forever.startnetwork.shop",
@@ -521,11 +531,6 @@
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
-   "server": "funny.helloworld.surf",
-   "port": 443,
-   "secret": "dd8c48a83cc229bab8fca1b403f865e9e8"
-  },
-  {
    "server": "gamerpr.cfd",
    "port": 443,
    "secret": "ee3cd8b9e99a48486b14d0f6169d0b8d06617669746f2e7275"
@@ -534,11 +539,6 @@
    "server": "gate.24starsmarket.ru",
    "port": 443,
    "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
-  },
-  {
-   "server": "gateway.lovely.lat",
-   "port": 443,
-   "secret": "eeec835a34516912f161a0073339be3c64676174657761792e6c6f76656c792e6c6174"
   },
   {
    "server": "ge.nowabst.net",
@@ -931,11 +931,6 @@
    "secret": "ddbd12f3ab73252a1c9f687a3050c12444"
   },
   {
-   "server": "rana.irankhodro.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "rdap.buzz.",
    "port": 443,
    "secret": "ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275"
@@ -1049,11 +1044,6 @@
    "server": "slatt.helloworld.surf",
    "port": 443,
    "secret": "dd5ac21063cf20d972d76c5ed3c0dc3fce"
-  },
-  {
-   "server": "small.startnetwork.shop",
-   "port": 443,
-   "secret": "dd50db933e09b161878d2225787ad1dd21"
   },
   {
    "server": "spawn.whiteproxy.baby",
@@ -1206,6 +1196,11 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
+   "server": "woooow.ir.iran.uk.asan-proxy.info.",
+   "port": 1080,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "x.shmelproxy.top",
    "port": 443,
    "secret": "eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275"
@@ -1251,5 +1246,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 250
+ "count": 249
 }
