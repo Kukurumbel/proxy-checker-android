@@ -31,19 +31,9 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "13reasonswhy.foriran.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "168.119.101.44",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "176.124.207.237",
-   "port": 443,
-   "secret": "fad015155defc3a8bd8ebc16b5d2b300"
   },
   {
    "server": "194.120.230.26",
@@ -246,11 +236,6 @@
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-   "server": "api.nowabst.net",
-   "port": 853,
-   "secret": "ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d"
-  },
-  {
    "server": "api2.kvakzon.top",
    "port": 443,
    "secret": "eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70"
@@ -331,6 +316,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "cdn.cdnflow.store",
+   "port": 443,
+   "secret": "ee92f105b4a4ebf5db49735eb9149fb06b63646e2e63646e666c6f772e73746f7265"
+  },
+  {
    "server": "cdn10.cdnwave.org",
    "port": 443,
    "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
@@ -376,9 +366,9 @@
    "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
   },
   {
-   "server": "cloud.baboon.digital",
+   "server": "club.baboon.digital",
    "port": 443,
-   "secret": "ee5e9f1a0a2673e93a5f3f45f269c9503e636c6f7564666c6172652e636f6d"
+   "secret": "ee840d00468badce38b33e925189f32f43636c6f7564666c6172652e636f6d"
   },
   {
    "server": "connect.tproxyru.live",
@@ -629,11 +619,6 @@
    "server": "kostyanchekloh.lol",
    "port": 443,
    "secret": "ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275"
-  },
-  {
-   "server": "lab.nowabst.net",
-   "port": 853,
-   "secret": "eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d"
   },
   {
    "server": "Lashboy.muzanesghy.co.uk",
@@ -1161,11 +1146,6 @@
    "secret": "ee8102e7df66f901eaeda823c85d0e50da7374726d2e79616e6465782e6e6574"
   },
   {
-   "server": "yandex-tunnel.com",
-   "port": 443,
-   "secret": "4cc83d19c09c796a4dffdd136cf06a22"
-  },
-  {
    "server": "yarypple.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1196,5 +1176,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 239
+ "count": 235
 }
