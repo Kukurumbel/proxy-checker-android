@@ -6,11 +6,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "103.161.35.23",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "116.202.189.213",
    "port": 8443,
    "secret": "dd79e344818749bd7ac519130220c25d09"
@@ -31,21 +26,6 @@
    "secret": "dd114562821249bd7ac519130220c25d08"
   },
   {
-   "server": "135.181.129.162",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "135.181.74.147",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "135.181.74.178",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "138.199.238.202",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -56,16 +36,6 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "144.31.141.34",
-   "port": 443,
-   "secret": "7ada30e09a40465f599160b3a532bc7b"
-  },
-  {
-   "server": "168.119.142.41",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "176.124.207.237",
    "port": 443,
    "secret": "fad015155defc3a8bd8ebc16b5d2b300"
@@ -74,6 +44,16 @@
    "server": "194.120.230.26",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "194.120.230.37",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "2.26.68.32",
+   "port": 8443,
+   "secret": "eee545cf5f2261e527cd792929f16201536a65787670732e7275"
   },
   {
    "server": "21.hide.newflamingodomain.co.uk",
@@ -109,21 +89,6 @@
    "server": "65-109-252-37.nip.io",
    "port": 443,
    "secret": "8O6wvZrcT9SpOZTuOyohaw=="
-  },
-  {
-   "server": "65.108.123.76",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.108.126.199",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.109.106.167",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "65.109.177.14",
@@ -166,34 +131,14 @@
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-   "server": "65.21.205.13",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.222.229",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.227.198",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.227.200",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.83.248",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "78.46.236.61",
    "port": 4466,
    "secret": "dd114562821249bd7ac519130220c25d08"
+  },
+  {
+   "server": "79.137.196.223",
+   "port": 443,
+   "secret": "eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "79.137.196.223",
@@ -239,11 +184,6 @@
    "server": "91-107-147-7.nip.io",
    "port": 443,
    "secret": "8O6wvZrcT9SpOZTuOyohaw=="
-  },
-  {
-   "server": "91.107.160.196",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "91.98.97.225",
@@ -356,6 +296,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "bezan-rush-eshgh-kon.ir.sobhan-allah.info.",
+   "port": 543,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "bfesedv.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -404,6 +349,11 @@
    "server": "cdn5.cdnwave.org",
    "port": 443,
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
+  },
+  {
+   "server": "cdn6.cdnwave.org",
+   "port": 443,
+   "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
   },
   {
    "server": "cdn7.cdnwave.org",
@@ -591,6 +541,11 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
+   "server": "help.meow0.co.uk",
+   "port": 22,
+   "secret": "dd79e344818749bd7ac519130220c25d09"
+  },
+  {
    "server": "help.nettoyou2.co.uk",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
@@ -599,11 +554,6 @@
    "server": "hl.routefastnet.online",
    "port": 443,
    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
-  },
-  {
-   "server": "hub.utkanos.life",
-   "port": 2443,
-   "secret": "eef61f4c0a59c2d7d229ae9f9c08bbe40c6875622e75746b616e6f732e6c696665"
   },
   {
    "server": "hulk.goaphrodite.co.uk.",
@@ -661,11 +611,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "lazeyka-22.getvelora.space",
-   "port": 443,
-   "secret": "ee717ce57e2d4efd91da80d9a445bb4b096f7a6f6e2e7275"
-  },
-  {
    "server": "lazeyka-23.getvelora.space",
    "port": 443,
    "secret": "eecfda0c988afe3cc7954c1d16d9e044316f7a6f6e2e7275"
@@ -721,11 +666,6 @@
    "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
   },
   {
-   "server": "live.lovely.lat",
-   "port": 443,
-   "secret": "eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174"
-  },
-  {
    "server": "lobiamarket.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -761,6 +701,11 @@
    "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
   },
   {
+   "server": "media5.happtg.org",
+   "port": 443,
+   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
+  },
+  {
    "server": "media6.happtg.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
@@ -789,11 +734,6 @@
    "server": "mizaneshgh2.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "Mo.Mohearn.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
    "server": "mproxy.vechnostnet.study",
@@ -906,11 +846,6 @@
    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
   },
   {
-   "server": "proxy.vechnostnet.study",
-   "port": 443,
-   "secret": "ddc646025a400b371427cc76dcf472fe1d"
-  },
-  {
    "server": "proxy2.legendary.ac",
    "port": 443,
    "secret": "dda4c7c07709a2c6a29fca4fc63b1ae411"
@@ -1011,6 +946,11 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "s7.assetflux.org",
+   "port": 443,
+   "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
+  },
+  {
    "server": "s8.assetflux.org",
    "port": 443,
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
@@ -1074,6 +1014,11 @@
    "server": "stream.lovely.lat",
    "port": 443,
    "secret": "eeec835a34516912f161a0073339be3c6473747265616d2e6c6f76656c792e6c6174"
+  },
+  {
+   "server": "summer.vechnostnet.study",
+   "port": 443,
+   "secret": "dddec0a247046e4dab47376d96117a8a7c"
   },
   {
    "server": "Suodbo.co.uk.",
@@ -1176,11 +1121,6 @@
    "secret": "ddb67158106269274cecaed7c9468e8b74"
   },
   {
-   "server": "way.mtproto.baby",
-   "port": 443,
-   "secret": "dd187b4224150d9b3c9485d133801395be"
-  },
-  {
    "server": "web.mtproto.baby",
    "port": 443,
    "secret": "ddfbcf420d4ea102941ec74f7ee945c555"
@@ -1246,5 +1186,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 249
+ "count": 237
 }
