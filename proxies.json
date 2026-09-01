@@ -6,6 +6,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "103.161.35.23",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "116.202.189.213",
    "port": 8443,
    "secret": "dd79e344818749bd7ac519130220c25d09"
@@ -101,11 +106,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "65-109-252-37.nip.io",
-   "port": 443,
-   "secret": "8O6wvZrcT9SpOZTuOyohaw=="
-  },
-  {
    "server": "65.109.177.14",
    "port": 4466,
    "secret": "dd114562821249bd7ac519130220c25d08"
@@ -144,6 +144,11 @@
    "server": "65.109.83.141",
    "port": 443,
    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "65.21.227.199",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "78.46.236.61",
@@ -296,19 +301,9 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.",
-   "port": 4443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "bfesedv.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "black.whiteproxy.baby",
-   "port": 443,
-   "secret": "dd5418042aeb467cd038dbeb048b06aadb"
   },
   {
    "server": "bo0ji.co.uk.",
@@ -521,11 +516,6 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "ggru3.mtproxygram.lol",
-   "port": 443,
-   "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
-  },
-  {
    "server": "god-mode-on.peachsoft.co.uk.",
    "port": 443,
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
@@ -726,6 +716,11 @@
    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
   },
   {
+   "server": "media7.happtg.org",
+   "port": 443,
+   "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
+  },
+  {
    "server": "media9.happtg.org",
    "port": 443,
    "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
@@ -796,11 +791,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "new7.mizanmizanesgh.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "node.easyproxy.cfd",
    "port": 443,
    "secret": "ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664"
@@ -826,19 +816,24 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "open.gpoint.website",
-   "port": 443,
-   "secret": "eec03f9d7666a41c33af662f5ba02604876f70656e2e67706f696e742e77656273697465"
-  },
-  {
    "server": "persian.gulf.ir.olsjddhf.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
+   "server": "petrichor.slarkfat.icu",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "Pich.Peachsoft.co.uk.",
    "port": 443,
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
+  },
+  {
+   "server": "poland.vechnostnet.study",
+   "port": 443,
+   "secret": "dd6d095fd662a1f8e38387ee7cb06d0860"
   },
   {
    "server": "porsorate.co.uk",
@@ -961,14 +956,29 @@
    "secret": "ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70"
   },
   {
+   "server": "s2.postpulse.space",
+   "port": 443,
+   "secret": "ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70"
+  },
+  {
    "server": "s4.assetflux.org",
    "port": 443,
    "secret": "eed9cf709eb48bb5a37471fba84864bd7e766b2e7275"
   },
   {
+   "server": "s5.assetflux.org",
+   "port": 443,
+   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
+  },
+  {
    "server": "s5.foriran.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "s5.postpulse.space",
+   "port": 443,
+   "secret": "ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70"
   },
   {
    "server": "s7.assetflux.org",
@@ -1086,9 +1096,9 @@
    "secret": "ee2d08cf6e8aaff2febda481f0a5f0cc4f74672e61657a616b6d692e6f7267"
   },
   {
-   "server": "time.vechnostnet.study",
-   "port": 443,
-   "secret": "dd8c9e3f5343fe86b52d608122e71d8ec7"
+   "server": "tls.joumalanet.co.uk",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275"
   },
   {
    "server": "topproxt.asia",
@@ -1131,14 +1141,14 @@
    "secret": "ddb67158106269274cecaed7c9468e8b74"
   },
   {
-   "server": "web.mtproto.baby",
-   "port": 443,
-   "secret": "ddfbcf420d4ea102941ec74f7ee945c555"
-  },
-  {
    "server": "woooow.ir.iran.uk.asan-proxy.info.",
    "port": 1080,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "wow.mtproto.baby",
+   "port": 443,
+   "secret": "dd0bd7534b498f8d1a15d51475698cad49"
   },
   {
    "server": "x.shmelproxy.top",
@@ -1171,15 +1181,10 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   },
   {
-   "server": "zarinpluse.info",
-   "port": 22,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "zone.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 236
+ "count": 237
 }
