@@ -246,6 +246,11 @@
    "secret": "dd33e2b81cb9059913f7755ac6604095fa"
   },
   {
+   "server": "aerie.sosun4ik.top",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "akenai.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
@@ -376,9 +381,9 @@
    "secret": "ee2162e9272d8c0ebfab2d1d91c5643ded6175746f73636f757432342e7275"
   },
   {
-   "server": "data.utkanos.life",
-   "port": 2443,
-   "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
+   "server": "del-tange-toam.ir.kkhfkasfhkasdx.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "dev.nowabst.net",
@@ -566,11 +571,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
-   "server": "hl.routefastnet.online",
-   "port": 443,
-   "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
-  },
-  {
    "server": "hulk.goaphrodite.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -654,11 +654,6 @@
    "server": "lazeyka-30.getvelora.space",
    "port": 443,
    "secret": "ee7032eb8fc0228af8ca184c6798d3ce336f7a6f6e2e7275"
-  },
-  {
-   "server": "leo.startnetwork.shop",
-   "port": 443,
-   "secret": "dd76dcc26703bb6380c910792a2bbf9c31"
   },
   {
    "server": "letsdoitt.info.",
@@ -981,6 +976,11 @@
    "secret": "ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70"
   },
   {
+   "server": "s6.postpulse.space",
+   "port": 443,
+   "secret": "ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70"
+  },
+  {
    "server": "s7.assetflux.org",
    "port": 443,
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
@@ -1111,13 +1111,18 @@
    "secret": "ee48b53faf26aaa233c69bb645954c9a3f747261766f6b75722e7375"
   },
   {
-   "server": "uplink.techlibrary.ink",
-   "port": 4501,
-   "secret": "ee17e6d4e0d143817328e4341210e9bb3a636c6f7564666c6172652e636f6d"
+   "server": "ultr.helloworld.surf",
+   "port": 443,
+   "secret": "eea1ca1aacbe1ecd3dbf1539d4c372e89f7374726d2e79616e6465782e6e6574"
   },
   {
    "server": "uptime.speed-benz.co.uk",
    "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "vase-hamas.ir.kjhsdjhads.info.",
+   "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -1186,5 +1191,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 237
+ "count": 238
 }
