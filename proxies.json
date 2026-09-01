@@ -366,14 +366,14 @@
    "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
   },
   {
-   "server": "club.baboon.digital",
-   "port": 443,
-   "secret": "ee840d00468badce38b33e925189f32f43636c6f7564666c6172652e636f6d"
-  },
-  {
    "server": "connect.tproxyru.live",
    "port": 8980,
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
+  },
+  {
+   "server": "cu.baboon.digital",
+   "port": 443,
+   "secret": "ee2162e9272d8c0ebfab2d1d91c5643ded6175746f73636f757432342e7275"
   },
   {
    "server": "data.utkanos.life",
