@@ -36,6 +36,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "176.65.135.69",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "194.120.230.26",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -189,6 +194,11 @@
    "server": "91-107-147-7.nip.io",
    "port": 443,
    "secret": "8O6wvZrcT9SpOZTuOyohaw=="
+  },
+  {
+   "server": "91.107.174.164",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "91.98.97.225",
@@ -364,11 +374,6 @@
    "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
    "port": 443,
    "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
-  },
-  {
-   "server": "connect.tproxyru.live",
-   "port": 8980,
-   "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
    "server": "cu.baboon.digital",
@@ -626,11 +631,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "lazeyka-23.getvelora.space",
-   "port": 443,
-   "secret": "eecfda0c988afe3cc7954c1d16d9e044316f7a6f6e2e7275"
-  },
-  {
    "server": "lazeyka-24.getvelora.space",
    "port": 443,
    "secret": "eea4fd2303ad0092ac4382c2c9817b18726f7a6f6e2e7275"
@@ -756,6 +756,11 @@
    "secret": "dd667e3e75e43a37365faca2d6e8381c00"
   },
   {
+   "server": "mt.joumalanet.co.uk",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275"
+  },
+  {
    "server": "mtp1.hlebushek.com",
    "port": 443,
    "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
@@ -866,11 +871,6 @@
    "secret": "ee1603010200010001fc030386e24c3add6d61782e7275"
   },
   {
-   "server": "proxy2.legendary.ac",
-   "port": 443,
-   "secret": "dda4c7c07709a2c6a29fca4fc63b1ae411"
-  },
-  {
    "server": "public2.mtproxygram.lol",
    "port": 443,
    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d"
@@ -918,7 +918,7 @@
   {
    "server": "rep.flightv.online",
    "port": 443,
-   "secret": "ee7b15367d6c33b0b2a8a34d92b9327b79706f636874612e7275"
+   "secret": "ee8643c4b104bd66b7b6018033dc8e5254737570706f72742e68702e636f6d"
   },
   {
    "server": "rich.mtproto.baby",
@@ -954,6 +954,11 @@
    "server": "s1.assetflux.org",
    "port": 443,
    "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
+  },
+  {
+   "server": "s1.postpulse.space",
+   "port": 443,
+   "secret": "ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70"
   },
   {
    "server": "s4.assetflux.org",
@@ -1056,6 +1061,11 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
+   "server": "syzygy.sosun4ik.top",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "t.meow-network.com",
    "port": 443,
    "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
@@ -1084,11 +1094,6 @@
    "server": "topproxt.asia",
    "port": 443,
    "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
-  },
-  {
-   "server": "tproxy.mom",
-   "port": 8090,
-   "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
    "server": "travokur.su",
@@ -1176,5 +1181,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 235
+ "count": 236
 }
