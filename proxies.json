@@ -131,6 +131,16 @@
    "secret": "dd114562821249bd7ac519130220c25d08"
   },
   {
+   "server": "65.21.205.13",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.21.227.198",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.21.227.199",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -184,6 +194,11 @@
    "server": "91-107-147-7.nip.io",
    "port": 443,
    "secret": "8O6wvZrcT9SpOZTuOyohaw=="
+  },
+  {
+   "server": "91.107.140.144",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "91.107.174.164",
@@ -1046,11 +1061,6 @@
    "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
   },
   {
-   "server": "tea.hotstbvs.ru",
-   "port": 8843,
-   "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275"
-  },
-  {
    "server": "telegram.vechnostnet.study",
    "port": 443,
    "secret": "dda8736bb4a03afabc3ebf6b8565400dfc"
@@ -1151,5 +1161,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 230
+ "count": 232
 }
