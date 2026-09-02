@@ -461,21 +461,6 @@
    "secret": "dd4b7874eda98985f20982cecbe9894ecb"
   },
   {
-   "server": "full-vasl.ir-xyz.gdhbvjshjrf.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "full-vasl.ir-xyz.gdhbvjshjrf.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "full-vasl.ir-xyz.gdhbvjshjrf.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
    "server": "fun.helloworld.surf",
    "port": 443,
    "secret": "dda5a68bce16dbd364f1a342731bd2e093"
@@ -561,6 +546,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir.makkers.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "iran-the-best.ir.asan-proxy.info.",
    "port": 9443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -569,6 +559,11 @@
    "server": "iran-the-best.ir.asan-proxy.info.",
    "port": 9741,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
+   "server": "iranian.billblog.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "itis.startnetwork.shop",
@@ -714,11 +709,6 @@
    "server": "mkima.davay.click",
    "port": 443,
    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
-  },
-  {
-   "server": "mproxy.vechnostnet.study",
-   "port": 443,
-   "secret": "dd667e3e75e43a37365faca2d6e8381c00"
   },
   {
    "server": "mt.joumalanet.co.uk",
@@ -1146,5 +1136,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 229
+ "count": 227
 }
