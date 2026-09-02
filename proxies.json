@@ -131,11 +131,6 @@
    "secret": "dd114562821249bd7ac519130220c25d08"
   },
   {
-   "server": "65.109.83.141",
-   "port": 443,
-   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
-  },
-  {
    "server": "65.21.227.199",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -751,11 +746,6 @@
    "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275"
   },
   {
-   "server": "my.dasy2k1.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "New.nchnch.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1161,5 +1151,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 232
+ "count": 230
 }
