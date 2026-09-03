@@ -341,11 +341,6 @@
    "secret": "eea3046b756505c4772f1041996e592d2663646e322e6b76616b7a6f6e2e746f70"
   },
   {
-   "server": "cdn2.medhata.org",
-   "port": 443,
-   "secret": "ee2cc683617eec3aad5f3f195bb8c1091a63646e322e6d6564686174612e6f7267"
-  },
-  {
    "server": "cdn3.cdnwave.org",
    "port": 443,
    "secret": "ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275"
@@ -511,11 +506,6 @@
    "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6"
   },
   {
-   "server": "gw.nowabst.net",
-   "port": 853,
-   "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6d"
-  },
-  {
    "server": "Hel-hi.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -534,16 +524,6 @@
    "server": "help.nettoyou2.co.uk",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
-  },
-  {
-   "server": "hulk.goaphrodite.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "ir.billblog.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "ir.makkers.co.uk",
@@ -586,6 +566,11 @@
    "secret": "ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275"
   },
   {
+   "server": "kostyanchekloh.lol",
+   "port": 443,
+   "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275"
+  },
+  {
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -624,11 +609,6 @@
    "server": "lazeyka-30.getvelora.space",
    "port": 443,
    "secret": "ee7032eb8fc0228af8ca184c6798d3ce336f7a6f6e2e7275"
-  },
-  {
-   "server": "letsdoitt.info.",
-   "port": 22,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "m.mtproto.baby",
@@ -711,9 +691,19 @@
    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
   },
   {
+   "server": "mt.best-moz.info",
+   "port": 25565,
+   "secret": "dd79e344818749bd7ac519130220c25d09"
+  },
+  {
    "server": "mt.joumalanet.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275"
+  },
+  {
+   "server": "mt2.best-moz.info",
+   "port": 25565,
+   "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "mtp1.hlebushek.com",
@@ -814,11 +804,6 @@
    "server": "rakk.helloworld.surf",
    "port": 443,
    "secret": "ddbd12f3ab73252a1c9f687a3050c12444"
-  },
-  {
-   "server": "rdap.buzz.",
-   "port": 443,
-   "secret": "ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275"
   },
   {
    "server": "redflag.yazaebalsyadelatproxy.cc",
@@ -971,7 +956,17 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "ssh.best-moz.info",
+   "port": 22,
+   "secret": "dd79e344818749bd7ac519130220c25d09"
+  },
+  {
    "server": "ssh.meow0.co.uk",
+   "port": 22,
+   "secret": "dd79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "server": "ssh2.best-moz.info",
    "port": 22,
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
@@ -1136,5 +1131,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 227
+ "count": 226
 }
