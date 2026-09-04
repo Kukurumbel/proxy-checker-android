@@ -106,6 +106,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "4o.vechnostnet.study",
+   "port": 443,
+   "secret": "ee007976c9b1dd0de967bbab8ab6d85f127374726d2e79616e6465782e6e6574"
+  },
+  {
    "server": "51.250.81.95",
    "port": 443,
    "secret": "eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974"
@@ -161,6 +166,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.83.248",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "78.46.236.61",
    "port": 4466,
    "secret": "dd114562821249bd7ac519130220c25d08"
@@ -174,6 +184,11 @@
    "server": "79.137.196.223",
    "port": 13443,
    "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "79.137.196.223",
+   "port": 15443,
+   "secret": "ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "88.198.197.199",
@@ -251,6 +266,11 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "anchor.lovely.lat",
+   "port": 443,
+   "secret": "eeaadd88aa9facd454936d0c42dc128e77616e63686f722e6c6f76656c792e6c6174"
+  },
+  {
    "server": "api2.kvakzon.top",
    "port": 443,
    "secret": "eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70"
@@ -316,6 +336,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "bolt.utkanos.life",
+   "port": 2443,
+   "secret": "eefcc4cf72e265ef4e47068bfe3fbd44fb626f6c742e75746b616e6f732e6c696665"
+  },
+  {
    "server": "boronzmig.co.uk",
    "port": 4466,
    "secret": "dd114562821249bd7ac519130220c25d08"
@@ -364,11 +389,6 @@
    "server": "cdn7.cdnwave.org",
    "port": 443,
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
-  },
-  {
-   "server": "cdn9.cdnwave.org",
-   "port": 443,
-   "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
   },
   {
    "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
@@ -471,11 +491,6 @@
    "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
   },
   {
-   "server": "gen.foriran.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "god-mode-on.peachsoft.co.uk.",
    "port": 443,
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
@@ -551,6 +566,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "kima.rabotaet.online",
+   "port": 443,
+   "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
+  },
+  {
    "server": "kostyanchekloh.lol",
    "port": 443,
    "secret": "ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275"
@@ -624,11 +644,6 @@
    "server": "mc-ssh.t-proxyru.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "media10.happtg.org",
-   "port": 443,
-   "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
   },
   {
    "server": "media2.happtg.org",
@@ -891,11 +906,6 @@
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
-   "server": "s5.foriran.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "s5.postpulse.space",
    "port": 443,
    "secret": "ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70"
@@ -914,6 +924,11 @@
    "server": "s8.assetflux.org",
    "port": 443,
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
+  },
+  {
+   "server": "september.mtproto.baby",
+   "port": 443,
+   "secret": "eeed1174406b243d5a4afc1591498613dd7374726d2e79616e6465782e6e6574"
   },
   {
    "server": "setion-two.co.uk.",
@@ -1141,5 +1156,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 228
+ "count": 231
 }
