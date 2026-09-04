@@ -182,6 +182,11 @@
   },
   {
    "server": "79.137.196.223",
+   "port": 12443,
+   "secret": "eebc63866dd7a052dbd741a691486a82127777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "79.137.196.223",
    "port": 13443,
    "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
   },
@@ -416,6 +421,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "deleted.antony-gordon.co.uk",
+   "port": 80,
+   "secret": "3RbZ3hNtxAbJ6L5BQipx2_s%3D"
+  },
+  {
    "server": "dns.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -429,6 +439,11 @@
    "server": "evo.foriran.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "fast.barhousefarm.co.uk.",
+   "port": 443,
+   "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
    "server": "fast.proxygo.fun",
@@ -591,11 +606,6 @@
    "secret": "ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275"
   },
   {
-   "server": "lazeyka-26.getvelora.space",
-   "port": 443,
-   "secret": "ee9227ae52464af62b0b7491a2a34dc6e36f7a6f6e2e7275"
-  },
-  {
    "server": "lazeyka-27.getvelora.space",
    "port": 443,
    "secret": "ee4cdcbbf22e7961dd7bc4bd87db318f266f7a6f6e2e7275"
@@ -619,11 +629,6 @@
    "server": "m.mtproto.baby",
    "port": 443,
    "secret": "ddbecfad4a8c290badf7f6b284f9e06bb8"
-  },
-  {
-   "server": "main.startnetwork.shop",
-   "port": 443,
-   "secret": "dd1358da8f1cda1c754a865a27107e19f3"
   },
   {
    "server": "mamadali.co.uk",
@@ -676,14 +681,14 @@
    "secret": "ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275"
   },
   {
-   "server": "mizaneshgh2.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "mkima.davay.click",
    "port": 443,
    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
+  },
+  {
+   "server": "Mo.Mohearn.co.uk.",
+   "port": 443,
+   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
    "server": "mt.best-moz.info",
@@ -716,17 +721,17 @@
    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
   },
   {
-   "server": "mttt.cloude.one",
-   "port": 853,
-   "secret": "eebc708822d93e406cd550b43d354a016e6d7474742e636c6f7564652e6f6e65"
-  },
-  {
    "server": "mtttt2.badvpn.pro",
    "port": 443,
    "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275"
   },
   {
    "server": "my-iran.vingardium.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "my.jinxandjack.co.uk.",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -819,11 +824,6 @@
    "server": "proxy.mtcomrade.website",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d61782e7275"
-  },
-  {
-   "server": "rakk.helloworld.surf",
-   "port": 443,
-   "secret": "ddbd12f3ab73252a1c9f687a3050c12444"
   },
   {
    "server": "redflag.yazaebalsyadelatproxy.cc",
