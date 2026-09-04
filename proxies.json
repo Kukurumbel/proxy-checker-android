@@ -1016,11 +1016,6 @@
    "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
   },
   {
-   "server": "stream.lovely.lat",
-   "port": 443,
-   "secret": "eeec835a34516912f161a0073339be3c6473747265616d2e6c6f76656c792e6c6174"
-  },
-  {
    "server": "stu.vechnostnet.study",
    "port": 443,
    "secret": "ee4cb2cfd29281dde11c93397476f9f26a7374726d2e79616e6465782e6e6574"
@@ -1191,5 +1186,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 238
+ "count": 237
 }
