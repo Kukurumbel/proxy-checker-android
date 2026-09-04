@@ -176,11 +176,6 @@
    "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "81.29.146.111",
-   "port": 443,
-   "secret": "989a221c0b63d18c7eb0a74af07a51ec"
-  },
-  {
    "server": "88.198.197.199",
    "port": 4466,
    "secret": "dd114562821249bd7ac519130220c25d08"
@@ -521,6 +516,11 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
+   "server": "http.khelijefars.co.uk",
+   "port": 22,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "ir.makkers.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -609,11 +609,6 @@
    "server": "mamadali.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "mamadgoli.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "mamadgoli.co.uk",
@@ -749,6 +744,11 @@
    "server": "peperoni.lobiashoon.info.",
    "port": 7799,
    "secret": "dd10400103324995b07c030386e886e7f1"
+  },
+  {
+   "server": "persian.gulf.ir.olsjddhf.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "petrichor.slarkfat.icu",
@@ -926,6 +926,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "sftp.khelijefars.co.uk",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "shin.startnetwork.shop",
    "port": 443,
    "secret": "ddf91f0b9ebf2d72aa67c93402c5c1554f"
@@ -959,6 +964,11 @@
    "server": "ssh2.best-moz.info",
    "port": 22,
    "secret": "dd79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "server": "Strait-of-Hormuz.ir.jursdheks.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "stream.lovely.lat",
@@ -1076,11 +1086,6 @@
    "secret": "eeec835a34516912f161a0073339be3c647661756c742e6c6f76656c792e6c6174"
   },
   {
-   "server": "visial-basic.com.co.uk.mq.tk.pugfhtrdyted.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "vpn.vechnostnet.study",
    "port": 443,
    "secret": "ddb67158106269274cecaed7c9468e8b74"
@@ -1136,5 +1141,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 227
+ "count": 228
 }
