@@ -751,11 +751,6 @@
    "secret": "dd10400103324995b07c030386e886e7f1"
   },
   {
-   "server": "persian.gulf.ir.olsjddhf.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
    "server": "petrichor.slarkfat.icu",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -966,11 +961,6 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "Strait-of-Hormuz.ir.jursdheks.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
    "server": "stream.lovely.lat",
    "port": 443,
    "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
@@ -1086,14 +1076,14 @@
    "secret": "eeec835a34516912f161a0073339be3c647661756c742e6c6f76656c792e6c6174"
   },
   {
+   "server": "visial-basic.com.co.uk.mq.tk.pugfhtrdyted.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "vpn.vechnostnet.study",
    "port": 443,
    "secret": "ddb67158106269274cecaed7c9468e8b74"
-  },
-  {
-   "server": "web.connectina.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "welcome.kisex.top",
@@ -1146,5 +1136,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 229
+ "count": 227
 }
