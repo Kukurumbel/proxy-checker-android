@@ -511,6 +511,11 @@
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
+   "server": "god.startnetwork.shop",
+   "port": 443,
+   "secret": "ee1b12072197f503e7b598f0faaa982f767374726d2e79616e6465782e6e6574"
+  },
+  {
    "server": "Golden.Peachsoft.co.uk.",
    "port": 443,
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
@@ -816,6 +821,11 @@
    "secret": "ee1603010200010001fc030386e24c3add6d61782e7275"
   },
   {
+   "server": "public2.mtproxygram.lol",
+   "port": 443,
+   "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d"
+  },
+  {
    "server": "region.lovely.lat",
    "port": 443,
    "secret": "eeaadd88aa9facd454936d0c42dc128e77726567696f6e2e6c6f76656c792e6c6174"
@@ -849,11 +859,6 @@
    "server": "Rudmoain.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "run.helloworld.surf",
-   "port": 443,
-   "secret": "dde80c91fa5050b02631672334ecb38b6a"
   },
   {
    "server": "s01.neo-trading.org",
@@ -1131,5 +1136,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 226
+ "count": 227
 }
