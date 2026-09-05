@@ -6,6 +6,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "1.pugfhtrdyted.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "103.161.35.23",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -27,6 +32,11 @@
   },
   {
    "server": "135.181.129.162",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "135.181.74.147",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -116,7 +126,7 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "65.109.106.167",
+   "server": "65.109.147.34",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -701,21 +711,6 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "mtp1.hlebushek.com",
-   "port": 443,
-   "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
-  },
-  {
-   "server": "mtp2.hlebushek.com",
-   "port": 443,
-   "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275"
-  },
-  {
-   "server": "mtp3.hlebushek.com",
-   "port": 443,
-   "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
-  },
-  {
    "server": "mtttt2.badvpn.pro",
    "port": 443,
    "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275"
@@ -1141,5 +1136,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 228
+ "count": 227
 }
