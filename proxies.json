@@ -271,6 +271,11 @@
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "adproxy.mtproto.baby",
+   "port": 443,
+   "secret": "ddb57ee5caf6ee163bd0a0d08f491a84db"
+  },
+  {
    "server": "aerie.sosun4ik.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -319,11 +324,6 @@
    "server": "bala.hastim.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "beacon.lovely.lat",
-   "port": 443,
-   "secret": "eeec835a34516912f161a0073339be3c64626561636f6e2e6c6f76656c792e6c6174"
   },
   {
    "server": "beam.whitelist.cyou",
@@ -576,14 +576,9 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "iran-the-best.ir.asan-proxy.info.",
-   "port": 9443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "iran-the-best.ir.asan-proxy.info.",
-   "port": 9741,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+   "server": "iran-ir.vingardium.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "iranian.billblog.co.uk",
@@ -699,6 +694,11 @@
    "server": "megaconnect.click",
    "port": 443,
    "secret": "ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275"
+  },
+  {
+   "server": "mizaneshgh2.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "mkima.davay.click",
@@ -1116,11 +1116,6 @@
    "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
   },
   {
-   "server": "vault.lovely.lat",
-   "port": 443,
-   "secret": "eeec835a34516912f161a0073339be3c647661756c742e6c6f76656c792e6c6174"
-  },
-  {
    "server": "visial-basic.com.co.uk.mq.tk.pugfhtrdyted.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1134,11 +1129,6 @@
    "server": "welcome.kisex.top",
    "port": 443,
    "secret": "ee7d74237b8b73c7107846198958f56ac763646e6a732e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "woooow.ir.iran.uk.asan-proxy.info.",
-   "port": 1080,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "wow.mtproto.baby",
@@ -1186,5 +1176,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 237
+ "count": 235
 }
