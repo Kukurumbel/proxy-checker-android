@@ -21,11 +21,6 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "116.202.190.173",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "116.203.11.67",
    "port": 4466,
    "secret": "dd114562821249bd7ac519130220c25d08"
@@ -36,9 +31,9 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "138.199.238.202",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+   "server": "136.243.195.203",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "168.119.101.44",
@@ -461,11 +456,6 @@
    "secret": "eef30fe399bee638d966119d832d41c95f666173742e70726f7879676f2e66756e"
   },
   {
-   "server": "fiber.lovely.lat",
-   "port": 443,
-   "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
-  },
-  {
    "server": "flux.lovely.lat",
    "port": 443,
    "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
@@ -501,11 +491,6 @@
    "secret": "eef7a565db46f8f5bf156054d86db42969617669746f2e7275"
   },
   {
-   "server": "fresh.t-proxy.info.",
-   "port": 25565,
-   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "fun.helloworld.surf",
    "port": 443,
    "secret": "dda5a68bce16dbd364f1a342731bd2e093"
@@ -531,11 +516,6 @@
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
-   "server": "googel.alo-otp.info.",
-   "port": 25565,
-   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "grid.lovely.lat",
    "port": 443,
    "secret": "eeec835a34516912f161a0073339be3c64677269642e6c6f76656c792e6c6174"
@@ -554,11 +534,6 @@
    "server": "help.meow0.co.uk",
    "port": 22,
    "secret": "dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "help.nettoyou2.co.uk",
-   "port": 443,
-   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
    "server": "http.khelijefars.co.uk",
@@ -616,11 +591,6 @@
    "secret": "ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275"
   },
   {
-   "server": "lazeyka-27.getvelora.space",
-   "port": 443,
-   "secret": "ee4cdcbbf22e7961dd7bc4bd87db318f266f7a6f6e2e7275"
-  },
-  {
    "server": "lazeyka-28.getvelora.space",
    "port": 443,
    "secret": "ee6e2d8d1e4ae0fd8446c8176f53996e476f7a6f6e2e7275"
@@ -654,11 +624,6 @@
    "server": "max.kimt.click",
    "port": 443,
    "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
-  },
-  {
-   "server": "mc-ssh.t-proxyru.info.",
-   "port": 25565,
-   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "media2.happtg.org",
@@ -1036,11 +1001,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
-   "server": "support.nettoyou2.co.uk",
-   "port": 443,
-   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
-  },
-  {
    "server": "sync.lovely.lat",
    "port": 443,
    "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
@@ -1171,5 +1131,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 234
+ "count": 226
 }
