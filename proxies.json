@@ -466,11 +466,6 @@
    "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
   },
   {
-   "server": "fish.mtproto.baby",
-   "port": 443,
-   "secret": "dd449119ea34c3a8957918cd066e3422d8"
-  },
-  {
    "server": "flux.lovely.lat",
    "port": 443,
    "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
@@ -786,6 +781,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "os.vechnostnet.study",
+   "port": 443,
+   "secret": "ee5cfacb7941f6260de34393a10d2b1d7d7374726d2e79616e6465782e6e6574"
+  },
+  {
    "server": "peperoni.lobiashoon.info.",
    "port": 7799,
    "secret": "dd10400103324995b07c030386e886e7f1"
@@ -969,11 +969,6 @@
    "server": "shin.startnetwork.shop",
    "port": 443,
    "secret": "ddf91f0b9ebf2d72aa67c93402c5c1554f"
-  },
-  {
-   "server": "sioms.co.uk",
-   "port": 25565,
-   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "skein.chunkycorp.shop",
@@ -1176,5 +1171,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 235
+ "count": 234
 }
