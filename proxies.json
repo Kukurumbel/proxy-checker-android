@@ -116,6 +116,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "65.109.106.167",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.109.177.14",
    "port": 4466,
    "secret": "dd114562821249bd7ac519130220c25d08"
@@ -211,11 +216,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
-   "server": "91-107-147-7.nip.io",
-   "port": 443,
-   "secret": "8O6wvZrcT9SpOZTuOyohaw%3D%3D"
-  },
-  {
    "server": "91.107.140.144",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -284,6 +284,11 @@
    "server": "anchor.lovely.lat",
    "port": 443,
    "secret": "eeaadd88aa9facd454936d0c42dc128e77616e63686f722e6c6f76656c792e6c6174"
+  },
+  {
+   "server": "anchor.lovely.lat",
+   "port": 443,
+   "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
   },
   {
    "server": "api2.kvakzon.top",
@@ -366,9 +371,9 @@
    "secret": "ee92f105b4a4ebf5db49735eb9149fb06b63646e2e63646e666c6f772e73746f7265"
   },
   {
-   "server": "cdn10.cdnwave.org",
+   "server": "cdn12.cdnwave.org",
    "port": 443,
-   "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
+   "secret": "ee97247322005404a2c7a84d082aace21b686f66662e7275"
   },
   {
    "server": "cdn2.kvakzon.top",
@@ -631,6 +636,11 @@
    "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
   },
   {
+   "server": "media11.happtg.org",
+   "port": 443,
+   "secret": "eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275"
+  },
+  {
    "server": "media2.happtg.org",
    "port": 443,
    "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
@@ -871,14 +881,14 @@
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
   },
   {
-   "server": "s1.assetflux.org",
-   "port": 443,
-   "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
-  },
-  {
    "server": "s1.postpulse.space",
    "port": 443,
    "secret": "ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70"
+  },
+  {
+   "server": "s13.assetflux.org",
+   "port": 443,
+   "secret": "ee3afc68787d0be6268346b66a3563001b686f66662e7275"
   },
   {
    "server": "s2.postpulse.space",
@@ -934,11 +944,6 @@
    "server": "sftp.khelijefars.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "shin.startnetwork.shop",
-   "port": 443,
-   "secret": "ddf91f0b9ebf2d72aa67c93402c5c1554f"
   },
   {
    "server": "skein.chunkycorp.shop",
@@ -1136,5 +1141,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 227
+ "count": 228
 }
