@@ -46,11 +46,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "168.119.101.44",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "176.65.135.69",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -76,11 +71,6 @@
    "secret": "ee7577a125c7ad9c1d711adb2ebd0f6efc6465636174686c6f6e2e636f6d"
   },
   {
-   "server": "195.201.216.142",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "2.26.68.32",
    "port": 8443,
    "secret": "eee545cf5f2261e527cd792929f16201536a65787670732e7275"
@@ -104,11 +94,6 @@
    "server": "34.51.255.77",
    "port": 443,
    "secret": "dd111304d9c2b55a043efd8139aaf51ef5"
-  },
-  {
-   "server": "3a.startnetwork.shop",
-   "port": 443,
-   "secret": "dd69273bcdcdf7e34b2b6d0f9e8386c127"
   },
   {
    "server": "41.hide.newflamingodomain.co.uk",
@@ -221,16 +206,6 @@
    "secret": "dd114562821249bd7ac519130220c25d08"
   },
   {
-   "server": "89.144.35.156",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
-   "server": "89.144.35.35",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
    "server": "91.107.140.144",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -329,11 +304,6 @@
    "server": "as.mkim.click",
    "port": 443,
    "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
-  },
-  {
-   "server": "august.startnetwork.shop",
-   "port": 443,
-   "secret": "dd5227fee813c2eb9cc5578a7c359b4b37"
   },
   {
    "server": "bala.hastim.co.uk",
@@ -931,6 +901,11 @@
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
+   "server": "sep1.startnetwork.shop",
+   "port": 443,
+   "secret": "ee2cd47959b9ece2cc59b76a4a0c010ae37374726d2e79616e6465782e6e6574"
+  },
+  {
    "server": "september.mtproto.baby",
    "port": 443,
    "secret": "eeed1174406b243d5a4afc1591498613dd7374726d2e79616e6465782e6e6574"
@@ -984,6 +959,11 @@
    "server": "Strait-of-Hormuz.ir.jursdheks.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
+   "server": "stream.lovely.lat",
+   "port": 443,
+   "secret": "eeaadd88aa9facd454936d0c42dc128e7773747265616d2e6c6f76656c792e6c6174"
   },
   {
    "server": "stream.lovely.lat",
@@ -1141,5 +1121,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 228
+ "count": 224
 }
