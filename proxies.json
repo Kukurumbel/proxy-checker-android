@@ -526,11 +526,6 @@
    "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
   },
   {
-   "server": "god-mode-on.peachsoft.co.uk.",
-   "port": 443,
-   "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
-  },
-  {
    "server": "god.startnetwork.shop",
    "port": 443,
    "secret": "ee1b12072197f503e7b598f0faaa982f767374726d2e79616e6465782e6e6574"
@@ -564,6 +559,11 @@
    "server": "http.khelijefars.co.uk",
    "port": 22,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "ir.ataman.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "ir.engematica.info",
@@ -631,11 +631,6 @@
    "secret": "ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275"
   },
   {
-   "server": "lazeyka-28.getvelora.space",
-   "port": 443,
-   "secret": "ee6e2d8d1e4ae0fd8446c8176f53996e476f7a6f6e2e7275"
-  },
-  {
    "server": "lazeyka-29.getvelora.space",
    "port": 443,
    "secret": "ee41b9fb69fc7c451449031106d3dd516c6f7a6f6e2e7275"
@@ -644,11 +639,6 @@
    "server": "lazeyka-30.getvelora.space",
    "port": 443,
    "secret": "ee7032eb8fc0228af8ca184c6798d3ce336f7a6f6e2e7275"
-  },
-  {
-   "server": "m.mtproto.baby",
-   "port": 443,
-   "secret": "ddbecfad4a8c290badf7f6b284f9e06bb8"
   },
   {
    "server": "mamadali.co.uk",
@@ -694,6 +684,11 @@
    "server": "megaconnect.click",
    "port": 443,
    "secret": "ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275"
+  },
+  {
+   "server": "mesh.eeluma.org",
+   "port": 443,
+   "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267"
   },
   {
    "server": "mizaneshgh2.co.uk",
@@ -1096,11 +1091,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "vpn.vechnostnet.study",
-   "port": 443,
-   "secret": "ddb67158106269274cecaed7c9468e8b74"
-  },
-  {
    "server": "welcome.kisex.top",
    "port": 443,
    "secret": "ee7d74237b8b73c7107846198958f56ac763646e6a732e636c6f7564666c6172652e636f6d"
@@ -1151,5 +1141,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 230
+ "count": 228
 }
