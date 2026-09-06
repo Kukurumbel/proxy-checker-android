@@ -126,9 +126,9 @@
    "secret": "eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974"
   },
   {
-   "server": "54321.sobhan-allah.info.",
-   "port": 543,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+   "server": "65.108.123.76",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "65.109.147.34",
@@ -371,11 +371,6 @@
    "secret": "eefcc4cf72e265ef4e47068bfe3fbd44fb626f6c742e75746b616e6f732e6c696665"
   },
   {
-   "server": "boronzmig.co.uk",
-   "port": 4466,
-   "secret": "dd114562821249bd7ac519130220c25d08"
-  },
-  {
    "server": "ccc.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -384,6 +379,11 @@
    "server": "cdn.cdnflow.store",
    "port": 443,
    "secret": "ee92f105b4a4ebf5db49735eb9149fb06b63646e2e63646e666c6f772e73746f7265"
+  },
+  {
+   "server": "cdn10.cdnwave.org",
+   "port": 443,
+   "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
   },
   {
    "server": "cdn12.cdnwave.org",
@@ -411,19 +411,9 @@
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
-   "server": "cdn6.cdnwave.org",
-   "port": 443,
-   "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
-  },
-  {
    "server": "cdn7.cdnwave.org",
    "port": 443,
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
-  },
-  {
-   "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
-   "port": 443,
-   "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
   },
   {
    "server": "cu.baboon.digital",
@@ -576,6 +566,11 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "ir.engematica.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir.makkers.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -679,11 +674,6 @@
    "server": "media2.happtg.org",
    "port": 443,
    "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
-  },
-  {
-   "server": "media5.happtg.org",
-   "port": 443,
-   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
    "server": "media6.happtg.org",
@@ -866,11 +856,6 @@
    "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
   },
   {
-   "server": "relay.lovely.lat",
-   "port": 443,
-   "secret": "eeec835a34516912f161a0073339be3c6472656c61792e6c6f76656c792e6c6174"
-  },
-  {
    "server": "relay.rknsosi.shop",
    "port": 443,
    "secret": "ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70"
@@ -906,6 +891,11 @@
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
   },
   {
+   "server": "s1.assetflux.org",
+   "port": 443,
+   "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
+  },
+  {
    "server": "s1.postpulse.space",
    "port": 443,
    "secret": "ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70"
@@ -939,11 +929,6 @@
    "server": "s6.postpulse.space",
    "port": 443,
    "secret": "ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70"
-  },
-  {
-   "server": "s7.assetflux.org",
-   "port": 443,
-   "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
   },
   {
    "server": "s8.assetflux.org",
@@ -1014,11 +999,6 @@
    "server": "stu.vechnostnet.study",
    "port": 443,
    "secret": "ee4cb2cfd29281dde11c93397476f9f26a7374726d2e79616e6465782e6e6574"
-  },
-  {
-   "server": "summer.vechnostnet.study",
-   "port": 443,
-   "secret": "dddec0a247046e4dab47376d96117a8a7c"
   },
   {
    "server": "Suodbo.co.uk.",
@@ -1106,6 +1086,11 @@
    "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
   },
   {
+   "server": "video1.lastochka.cloud",
+   "port": 443,
+   "secret": "eea732400de1a4a78050c262ea27b01a35706574726f766963682e7275"
+  },
+  {
    "server": "visial-basic.com.co.uk.mq.tk.pugfhtrdyted.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1166,5 +1151,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 233
+ "count": 230
 }
