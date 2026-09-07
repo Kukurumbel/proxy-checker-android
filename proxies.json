@@ -321,11 +321,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "beest-sellerst.co.uk.",
-   "port": 443,
-   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "bfesedv.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -416,6 +411,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "dokhtar.nanaz.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "edge2.medhata.org",
    "port": 2443,
    "secret": "ee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267"
@@ -499,11 +499,6 @@
    "server": "god.startnetwork.shop",
    "port": 443,
    "secret": "ee1b12072197f503e7b598f0faaa982f767374726d2e79616e6465782e6e6574"
-  },
-  {
-   "server": "grid.lovely.lat",
-   "port": 443,
-   "secret": "eeec835a34516912f161a0073339be3c64677269642e6c6f76656c792e6c6174"
   },
   {
    "server": "Hel-hi.co.uk.",
@@ -706,6 +701,21 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
+   "server": "mtp1.hlebushek.com",
+   "port": 443,
+   "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
+  },
+  {
+   "server": "mtp2.hlebushek.com",
+   "port": 443,
+   "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275"
+  },
+  {
+   "server": "mtp3.hlebushek.com",
+   "port": 443,
+   "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
+  },
+  {
    "server": "mtttt2.badvpn.pro",
    "port": 443,
    "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275"
@@ -769,6 +779,11 @@
    "server": "persian.gulf.ir.olsjddhf.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "pesar.nanaz.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "petrichor.slarkfat.icu",
@@ -1073,11 +1088,6 @@
   {
    "server": "x.shmelproxy.top",
    "port": 443,
-   "secret": "eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275"
-  },
-  {
-   "server": "x.shmelproxy.top",
-   "port": 443,
    "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
   },
   {
@@ -1121,5 +1131,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 224
+ "count": 226
 }
