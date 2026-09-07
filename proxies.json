@@ -46,6 +46,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "176.124.207.237",
+   "port": 443,
+   "secret": "fad015155defc3a8bd8ebc16b5d2b300"
+  },
+  {
    "server": "194.120.230.26",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -282,11 +287,6 @@
   },
   {
    "server": "api2.kvakzon.top",
-   "port": 443,
-   "secret": "eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70"
-  },
-  {
-   "server": "api2.kvakzon.top",
    "port": 2443,
    "secret": "eeb2a0e3b5fba31d961cba1437805cf950617069322e6b76616b7a6f6e2e746f70"
   },
@@ -381,6 +381,11 @@
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
   },
   {
+   "server": "connect.tproxyru.live",
+   "port": 8980,
+   "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
+  },
+  {
    "server": "cu.baboon.digital",
    "port": 443,
    "secret": "ee2162e9272d8c0ebfab2d1d91c5643ded6175746f73636f757432342e7275"
@@ -392,11 +397,6 @@
   },
   {
    "server": "davande.ir.kjhsdjhads.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "del-tange-toam.ir.kkhfkasfhkasdx.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
@@ -451,11 +451,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "forever.startnetwork.shop",
-   "port": 443,
-   "secret": "dd0ef5f4a09c2e33527338e9184a9a6178"
-  },
-  {
    "server": "free.loveproxy.xyz",
    "port": 443,
    "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
@@ -489,6 +484,11 @@
    "server": "gate.24starsmarket.ru",
    "port": 443,
    "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
+  },
+  {
+   "server": "ggru3.mtproxygram.lol",
+   "port": 443,
+   "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
   },
   {
    "server": "god-mode-on.peachsoft.co.uk.",
@@ -526,12 +526,22 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir.cheap-ass-domain.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir.closcloud.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "ir.engematica.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.grumpyoldmen.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -604,11 +614,6 @@
    "server": "lazeyka-2-5.getvelora.space",
    "port": 443,
    "secret": "ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275"
-  },
-  {
-   "server": "lazeyka-29.getvelora.space",
-   "port": 443,
-   "secret": "ee41b9fb69fc7c451449031106d3dd516c6f7a6f6e2e7275"
   },
   {
    "server": "lazeyka-30.getvelora.space",
@@ -958,6 +963,11 @@
   {
    "server": "stream.lovely.lat",
    "port": 443,
+   "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
+  },
+  {
+   "server": "stream.lovely.lat",
+   "port": 443,
    "secret": "eeaadd88aa9facd454936d0c42dc128e7773747265616d2e6c6f76656c792e6c6174"
   },
   {
@@ -1001,11 +1011,6 @@
    "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275"
   },
   {
-   "server": "telegram.vechnostnet.study",
-   "port": 443,
-   "secret": "dda8736bb4a03afabc3ebf6b8565400dfc"
-  },
-  {
    "server": "tetstts.mtproto.baby",
    "port": 443,
    "secret": "eed1e7032e95a038c7e68c0877026d1d847374726d2e79616e6465782e6e6574"
@@ -1036,18 +1041,8 @@
    "secret": "ee48b53faf26aaa233c69bb645954c9a3f747261766f6b75722e7375"
   },
   {
-   "server": "ultr.helloworld.surf",
-   "port": 443,
-   "secret": "eea1ca1aacbe1ecd3dbf1539d4c372e89f7374726d2e79616e6465782e6e6574"
-  },
-  {
    "server": "uptime.speed-benz.co.uk",
    "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "vase-hamas.ir.kjhsdjhads.info.",
-   "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -1086,6 +1081,16 @@
    "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
   },
   {
+   "server": "ya709.startnetwork.shop",
+   "port": 443,
+   "secret": "eefc5d33f52ad4d9f04358306ba003d8fc7374726d2e79616e6465782e6e6574"
+  },
+  {
+   "server": "yandex-tunnel.com",
+   "port": 443,
+   "secret": "4cc83d19c09c796a4dffdd136cf06a22"
+  },
+  {
    "server": "yarypple.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1116,5 +1121,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 223
+ "count": 224
 }
