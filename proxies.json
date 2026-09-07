@@ -236,6 +236,11 @@
    "secret": "dd114562821249bd7ac519130220c25d08"
   },
   {
+   "server": "95.216.180.200",
+   "port": 7980,
+   "secret": "dd114562821249bd7ac519130220c25d08"
+  },
+  {
    "server": "95.217.193.223",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -269,6 +274,11 @@
    "server": "akenai.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+  },
+  {
+   "server": "alhosein.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "anchor.lovely.lat",
@@ -409,6 +419,11 @@
    "server": "deleted.antony-gordon.co.uk",
    "port": 80,
    "secret": "3RbZ3hNtxAbJ6L5BQipx2_s%3D"
+  },
+  {
+   "server": "dingi3.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "dns.speed-benz.co.uk",
@@ -1121,5 +1136,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 224
+ "count": 227
 }
