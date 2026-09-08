@@ -456,11 +456,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "Hel-hi.co.uk.",
-   "port": 443,
-   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "help.meow0.co.uk",
    "port": 22,
    "secret": "dd79e344818749bd7ac519130220c25d09"
@@ -619,6 +614,11 @@
    "server": "mesh.eeluma.org",
    "port": 443,
    "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267"
+  },
+  {
+   "server": "mio.mozitop.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "mizaneshgh2.co.uk",
@@ -821,6 +821,11 @@
    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d"
   },
   {
+   "server": "puot.mozitop.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "quickrouteapp.xyz",
    "port": 443,
    "secret": "ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a"
@@ -919,6 +924,11 @@
    "server": "sftp.khelijefars.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "sioms.co.uk",
+   "port": 25565,
+   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "skein.chunkycorp.shop",
@@ -1051,6 +1061,11 @@
    "secret": "eea732400de1a4a78050c262ea27b01a35706574726f766963682e7275"
   },
   {
+   "server": "ving.mozitop.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "visial-basic.com.co.uk.mq.tk.pugfhtrdyted.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1091,6 +1106,11 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   },
   {
+   "server": "zon-b0z.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
    "server": "zone.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1101,5 +1121,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 220
+ "count": 224
 }
