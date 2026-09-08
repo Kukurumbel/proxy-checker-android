@@ -116,21 +116,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.109.188.175",
-   "port": 4466,
-   "secret": "dd114562821249bd7ac519130220c25d08"
-  },
-  {
-   "server": "65.109.208.75",
-   "port": 4466,
-   "secret": "dd114562821249bd7ac519130220c25d08"
-  },
-  {
-   "server": "65.109.211.87",
-   "port": 4466,
-   "secret": "dd114562821249bd7ac519130220c25d08"
-  },
-  {
    "server": "65.21.205.13",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -411,11 +396,6 @@
    "secret": "eef30fe399bee638d966119d832d41c95f666173742e70726f7879676f2e66756e"
   },
   {
-   "server": "flux.lovely.lat",
-   "port": 443,
-   "secret": "eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275"
-  },
-  {
    "server": "for-iran.tryzub-it.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -469,6 +449,11 @@
    "server": "ggru3.mtproxygram.lol",
    "port": 443,
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "global.lovely.lat",
+   "port": 443,
+   "secret": "eeaadd88aa9facd454936d0c42dc128e77676c6f62616c2e6c6f76656c792e6c6174"
   },
   {
    "server": "god-mode-on.peachsoft.co.uk.",
@@ -614,11 +599,6 @@
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "lazeyka-2-5.getvelora.space",
-   "port": 443,
-   "secret": "ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275"
   },
   {
    "server": "mamadali.co.uk",
@@ -861,19 +841,9 @@
    "secret": "ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a"
   },
   {
-   "server": "region.lovely.lat",
-   "port": 443,
-   "secret": "eeaadd88aa9facd454936d0c42dc128e77726567696f6e2e6c6f76656c792e6c6174"
-  },
-  {
    "server": "relay.rknsosi.shop",
    "port": 443,
    "secret": "ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70"
-  },
-  {
-   "server": "rep.flightv.online",
-   "port": 443,
-   "secret": "ee107b73df667140eea5e2094b060d624f7265702e666c69676874762e6f6e6c696e65"
   },
   {
    "server": "reyhoon.shambelile.co.uk",
@@ -1026,16 +996,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "sync.lovely.lat",
-   "port": 443,
-   "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
-  },
-  {
-   "server": "sync.lovely.lat",
-   "port": 443,
-   "secret": "eeaadd88aa9facd454936d0c42dc128e7773796e632e6c6f76656c792e6c6174"
-  },
-  {
    "server": "syzygy.sosun4ik.top",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
@@ -1049,6 +1009,11 @@
    "server": "tea.hotstbvs.ru",
    "port": 8843,
    "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275"
+  },
+  {
+   "server": "terra.startnetwork.shop",
+   "port": 443,
+   "secret": "dd0f2aa66e2419918464ead0544ec65121"
   },
   {
    "server": "tetstts.mtproto.baby",
@@ -1146,5 +1111,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 229
+ "count": 222
 }
