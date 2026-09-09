@@ -116,11 +116,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.21.227.198",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.21.227.200",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -164,11 +159,6 @@
    "server": "91.107.174.164",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "91.98.97.225",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "95.216.180.200",
@@ -956,11 +946,6 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e7773747265616d2e6c6f76656c792e6c6174"
   },
   {
-   "server": "stu.vechnostnet.study",
-   "port": 443,
-   "secret": "ee4cb2cfd29281dde11c93397476f9f26a7374726d2e79616e6465782e6e6574"
-  },
-  {
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -981,6 +966,11 @@
    "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
   },
   {
+   "server": "t.mtproto.baby",
+   "port": 443,
+   "secret": "dd3322508f2739bc297206f8db6c7df9fa"
+  },
+  {
    "server": "tare.shambelile.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -994,11 +984,6 @@
    "server": "terra.startnetwork.shop",
    "port": 443,
    "secret": "dd0f2aa66e2419918464ead0544ec65121"
-  },
-  {
-   "server": "tetstts.mtproto.baby",
-   "port": 443,
-   "secret": "eed1e7032e95a038c7e68c0877026d1d847374726d2e79616e6465782e6e6574"
   },
   {
    "server": "tls.joumalanet.co.uk",
@@ -1106,5 +1091,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 221
+ "count": 218
 }
