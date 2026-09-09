@@ -66,11 +66,6 @@
    "secret": "ee7577a125c7ad9c1d711adb2ebd0f6efc6465636174686c6f6e2e636f6d"
   },
   {
-   "server": "2.26.68.32",
-   "port": 8443,
-   "secret": "eee545cf5f2261e527cd792929f16201536a65787670732e7275"
-  },
-  {
    "server": "2.pugfhtrdyted.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -121,6 +116,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.227.198",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.21.227.200",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -144,11 +144,6 @@
    "server": "79.137.196.223",
    "port": 12443,
    "secret": "eebc63866dd7a052dbd741a691486a82127777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "79.137.196.223",
-   "port": 13443,
-   "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "79.137.196.223",
@@ -361,11 +356,6 @@
    "secret": "ee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267"
   },
   {
-   "server": "evo.foriran.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "fast.barhousefarm.co.uk.",
    "port": 443,
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
@@ -409,11 +399,6 @@
    "server": "freeon.name",
    "port": 443,
    "secret": "dded1a5a7f339b8ff9840d52df12382970"
-  },
-  {
-   "server": "gamerpr.cfd",
-   "port": 443,
-   "secret": "ee3cd8b9e99a48486b14d0f6169d0b8d06617669746f2e7275"
   },
   {
    "server": "gate.24starsmarket.ru",
@@ -734,11 +719,6 @@
    "server": "os.vechnostnet.study",
    "port": 443,
    "secret": "ee5cfacb7941f6260de34393a10d2b1d7d7374726d2e79616e6465782e6e6574"
-  },
-  {
-   "server": "peperoni.lobiashoon.info.",
-   "port": 7799,
-   "secret": "dd10400103324995b07c030386e886e7f1"
   },
   {
    "server": "persian.gulf.ir.olsjddhf.info.",
@@ -1076,6 +1056,11 @@
    "secret": "ee7d74237b8b73c7107846198958f56ac763646e6a732e636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "www2.acientirani-uor4.ir",
+   "port": 443,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
    "server": "x.shmelproxy.top",
    "port": 443,
    "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
@@ -1121,5 +1106,5 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 224
+ "count": 221
 }
