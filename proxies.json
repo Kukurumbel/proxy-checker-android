@@ -21,6 +21,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "10ping-proxy.best",
+   "port": 443,
+   "secret": "dd98847be1819bbde82a326ce629ce50a7"
+  },
+  {
    "server": "116.202.189.213",
    "port": 8443,
    "secret": "dd79e344818749bd7ac519130220c25d09"
@@ -71,11 +76,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "21.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "31.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -107,11 +107,6 @@
   },
   {
    "server": "65.109.147.34",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.205.13",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -152,11 +147,6 @@
   },
   {
    "server": "91.107.160.196",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "91.107.174.164",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -286,9 +276,9 @@
    "secret": "ee97247322005404a2c7a84d082aace21b686f66662e7275"
   },
   {
-   "server": "cdn2.kvakzon.top",
-   "port": 2443,
-   "secret": "eea3046b756505c4772f1041996e592d2663646e322e6b76616b7a6f6e2e746f70"
+   "server": "cdn14.cdnwave.org",
+   "port": 443,
+   "secret": "ee4f9067589367c2ef531642d501664f43686f66662e7275"
   },
   {
    "server": "cdn2.medhata.org",
@@ -309,11 +299,6 @@
    "server": "connect.tproxyru.live",
    "port": 8980,
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
-  },
-  {
-   "server": "cu.baboon.digital",
-   "port": 443,
-   "secret": "ee2162e9272d8c0ebfab2d1d91c5643ded6175746f73636f757432342e7275"
   },
   {
    "server": "data.utkanos.life",
@@ -354,11 +339,6 @@
    "server": "Fast.finecooking.info",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "fast.proxygo.fun",
-   "port": 8443,
-   "secret": "eef30fe399bee638d966119d832d41c95f666173742e70726f7879676f2e66756e"
   },
   {
    "server": "free.loveproxy.xyz",
@@ -409,6 +389,11 @@
    "server": "global.lovely.lat",
    "port": 443,
    "secret": "eeaadd88aa9facd454936d0c42dc128e77676c6f62616c2e6c6f76656c792e6c6174"
+  },
+  {
+   "server": "global.lovely.lat",
+   "port": 443,
+   "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
   },
   {
    "server": "god-mode-on.peachsoft.co.uk.",
@@ -816,11 +801,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "s01.neo-trading.org",
-   "port": 443,
-   "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
-  },
-  {
    "server": "s02.neo-trading.org",
    "port": 443,
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
@@ -839,6 +819,11 @@
    "server": "s13.assetflux.org",
    "port": 443,
    "secret": "ee3afc68787d0be6268346b66a3563001b686f66662e7275"
+  },
+  {
+   "server": "s2.assetflux.org",
+   "port": 443,
+   "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
   },
   {
    "server": "s2.postpulse.space",
@@ -1084,12 +1069,7 @@
    "server": "zone.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "zone.lovely.lat",
-   "port": 443,
-   "secret": "eeaadd88aa9facd454936d0c42dc128e777a6f6e652e6c6f76656c792e6c6174"
   }
  ],
- "count": 218
+ "count": 214
 }
