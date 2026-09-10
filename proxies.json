@@ -81,11 +81,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "4o.vechnostnet.study",
-   "port": 443,
-   "secret": "ee007976c9b1dd0de967bbab8ab6d85f127374726d2e79616e6465782e6e6574"
-  },
-  {
    "server": "51.250.81.95",
    "port": 443,
    "secret": "eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974"
@@ -107,6 +102,11 @@
   },
   {
    "server": "65.109.147.34",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.21.227.198",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -321,11 +321,6 @@
    "secret": "ee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267"
   },
   {
-   "server": "fast.barhousefarm.co.uk.",
-   "port": 443,
-   "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
-  },
-  {
    "server": "Fast.finecooking.info",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -442,6 +437,11 @@
   },
   {
    "server": "ir.esdata.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.genesbyjohn.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -656,12 +656,12 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "my.jinxandjack.co.uk.",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
+   "server": "New.nchnch.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "New.nchnch.co.uk",
+   "server": "new7.mizanmizanesgh.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
@@ -781,6 +781,11 @@
    "secret": "ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a"
   },
   {
+   "server": "reborn.rebirthconnect.com",
+   "port": 443,
+   "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
+  },
+  {
    "server": "relay.rknsosi.shop",
    "port": 443,
    "secret": "ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70"
@@ -849,11 +854,6 @@
    "server": "sep1.startnetwork.shop",
    "port": 443,
    "secret": "ee2cd47959b9ece2cc59b76a4a0c010ae37374726d2e79616e6465782e6e6574"
-  },
-  {
-   "server": "september.mtproto.baby",
-   "port": 443,
-   "secret": "eeed1174406b243d5a4afc1591498613dd7374726d2e79616e6465782e6e6574"
   },
   {
    "server": "setion-two.co.uk.",
