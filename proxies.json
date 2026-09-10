@@ -137,6 +137,11 @@
   },
   {
    "server": "79.137.196.223",
+   "port": 13443,
+   "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "79.137.196.223",
    "port": 15443,
    "secret": "ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d"
   },
@@ -199,11 +204,6 @@
    "server": "alhosein.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "anchor.lovely.lat",
-   "port": 443,
-   "secret": "eeaadd88aa9facd454936d0c42dc128e77616e63686f722e6c6f76656c792e6c6174"
   },
   {
    "server": "anchor.lovely.lat",
@@ -279,11 +279,6 @@
    "server": "cdn2.medhata.org",
    "port": 2443,
    "secret": "ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267"
-  },
-  {
-   "server": "cdn5.cdnwave.org",
-   "port": 443,
-   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
    "server": "cdn7.cdnwave.org",
@@ -419,11 +414,6 @@
    "server": "hl.routefastnet.online",
    "port": 443,
    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
-  },
-  {
-   "server": "http.khelijefars.co.uk",
-   "port": 22,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "im.dumaniltd.co.uk",
@@ -876,11 +866,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "sftp.khelijefars.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "shahi.shambelile.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -1066,5 +1051,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 213
+ "count": 210
 }
