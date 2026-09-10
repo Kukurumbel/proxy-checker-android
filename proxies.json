@@ -521,9 +521,19 @@
    "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375"
   },
   {
+   "server": "l0vie.delroba.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "lux.fesgheli.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "mamadali.co.uk",
@@ -596,6 +606,11 @@
    "secret": "eec3360565ae8175fba64ad6719232fa387374726d2e79616e6465782e6e6574"
   },
   {
+   "server": "moon.my-moon.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "mt-open.potatoe.shop",
    "port": 443,
    "secret": "ee7cf78432ed09666cb056843c092a9af56164732e78352e7275"
@@ -619,6 +634,11 @@
    "server": "mt2.best-moz.info",
    "port": 25565,
    "secret": "dd79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "server": "mtp.webvirt.cloud",
+   "port": 443,
+   "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564"
   },
   {
    "server": "mtp1.hlebushek.com",
@@ -709,11 +729,6 @@
    "server": "porsorate.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "portal.mtproxy.cc",
-   "port": 443,
-   "secret": "eeef7017f26c9ecb71ed8d760999294318786170692e6f7a6f6e2e7275"
   },
   {
    "server": "predator-artist.top",
@@ -1051,5 +1066,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 210
+ "count": 213
 }
