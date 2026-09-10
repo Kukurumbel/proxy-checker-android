@@ -392,6 +392,11 @@
   },
   {
    "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
+   "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
@@ -521,6 +526,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "live.lovely.lat",
+   "port": 443,
+   "secret": "eeaadd88aa9facd454936d0c42dc128e776c6976652e6c6f76656c792e6c6174"
+  },
+  {
    "server": "lux.fesgheli.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -584,11 +594,6 @@
    "server": "mkima.davay.click",
    "port": 443,
    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
-  },
-  {
-   "server": "Mo.Mohearn.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
    "server": "monday.mtproto.baby",
@@ -676,11 +681,6 @@
    "secret": "eeb19b644ed4a6c923d57abf3c7a52d1746e6f6465322e6d6564686174612e6f7267"
   },
   {
-   "server": "nodes.startnetwork.shop",
-   "port": 443,
-   "secret": "eed06aa940a556d2187dba3e5a048f5df67374726d2e79616e6465782e6e6574"
-  },
-  {
    "server": "nyakawai.shop",
    "port": 443,
    "secret": "eefddb26d5047ce1787ece232a57832391617669746f2e7275"
@@ -699,6 +699,11 @@
    "server": "os.vechnostnet.study",
    "port": 443,
    "secret": "ee5cfacb7941f6260de34393a10d2b1d7d7374726d2e79616e6465782e6e6574"
+  },
+  {
+   "server": "persian.gulf.ir.olsjddhf.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "persian.gulf.ir.olsjddhf.info.",
@@ -902,6 +907,11 @@
   },
   {
    "server": "Strait-of-Hormuz.ir.jursdheks.info",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
+   "server": "Strait-of-Hormuz.ir.jursdheks.info",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
@@ -986,11 +996,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "vasl-sho.mohearn.co.uk.",
-   "port": 443,
-   "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
    "server": "video1.lastochka.cloud",
    "port": 443,
    "secret": "eea732400de1a4a78050c262ea27b01a35706574726f766963682e7275"
@@ -1004,6 +1009,11 @@
    "server": "visial-basic.com.co.uk.mq.tk.pugfhtrdyted.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "welcome.kisex.top",
+   "port": 443,
+   "secret": "7g__UnpackYourGirl__J9N5YS5ydQ"
   },
   {
    "server": "welcome.kisex.top",
@@ -1051,5 +1061,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 210
+ "count": 212
 }
