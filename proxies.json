@@ -451,11 +451,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.gnutella2.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.grumpyoldmen.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -467,11 +462,6 @@
   },
   {
    "server": "ir.panhandleflyers.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.rebol.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -1071,5 +1061,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 214
+ "count": 212
 }
