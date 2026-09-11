@@ -51,14 +51,14 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "1b2aca9d-6852-45a7-bd7b-771a70fde2b7.fast-cdn.cc",
+   "port": 443,
+   "secret": "ee5a9252c2c44ec88a5ad64b048d4585f7666173742d63646e2e6363"
+  },
+  {
    "server": "2.pugfhtrdyted.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "31.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "64.188.65.63",
@@ -111,6 +111,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "91.98.97.225",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "95.216.180.200",
    "port": 7980,
    "secret": "dd114562821249bd7ac519130220c25d08"
@@ -154,11 +159,6 @@
    "server": "alhosein.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "anchor.lovely.lat",
-   "port": 443,
-   "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
   },
   {
    "server": "api2.kvakzon.top",
@@ -354,11 +354,6 @@
    "server": "god-mode-on.peachsoft.co.uk.",
    "port": 443,
    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
-  },
-  {
-   "server": "god.startnetwork.shop",
-   "port": 443,
-   "secret": "ee1b12072197f503e7b598f0faaa982f767374726d2e79616e6465782e6e6574"
   },
   {
    "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
@@ -589,11 +584,6 @@
    "server": "mt-open.potatoe.shop",
    "port": 443,
    "secret": "ee7cf78432ed09666cb056843c092a9af56164732e78352e7275"
-  },
-  {
-   "server": "mt.joumalanet.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275"
   },
   {
    "server": "mt.joumalanet.co.uk",
@@ -871,6 +861,11 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
+   "server": "Stand-For-Iran.ir.mausjakaqd.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "Strait-of-Hormuz.ir.jursdheks.info",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
@@ -929,11 +924,6 @@
    "server": "terra.startnetwork.shop",
    "port": 443,
    "secret": "dd0f2aa66e2419918464ead0544ec65121"
-  },
-  {
-   "server": "tls.joumalanet.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275"
   },
   {
    "server": "tls.joumalanet.co.uk",
@@ -1021,5 +1011,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 204
+ "count": 202
 }
