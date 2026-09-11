@@ -16,11 +16,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "103.161.35.23",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "10ping-proxy.best",
    "port": 443,
    "secret": "dd98847be1819bbde82a326ce629ce50a7"
@@ -41,34 +36,14 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "136.243.195.203",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "176.124.207.237",
    "port": 443,
    "secret": "fad015155defc3a8bd8ebc16b5d2b300"
   },
   {
-   "server": "194.120.230.26",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "194.120.230.37",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "194.59.221.90",
-   "port": 8443,
-   "secret": "eef4b79908a669cfe8f293941da4e388916465636174686c6f6e2e636f6d"
-  },
-  {
-   "server": "194.59.221.90",
-   "port": 8444,
-   "secret": "ee7577a125c7ad9c1d711adb2ebd0f6efc6465636174686c6f6e2e636f6d"
   },
   {
    "server": "2.pugfhtrdyted.info.",
@@ -96,31 +71,6 @@
    "secret": "8O6wvZrcT9SpOZTuOyohaw%3D%3D"
   },
   {
-   "server": "65.108.123.76",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.109.147.34",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.227.198",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.227.200",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.83.248",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "79.137.196.223",
    "port": 2443,
    "secret": "eeeed28dc05b23b7ccba27a3d352abf1467c7777772e636c6f7564666c6172652e636f6d"
@@ -146,11 +96,6 @@
    "secret": "ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "91.107.140.144",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "91.107.160.196",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -159,11 +104,6 @@
    "server": "95.216.180.200",
    "port": 7980,
    "secret": "dd114562821249bd7ac519130220c25d08"
-  },
-  {
-   "server": "95.217.193.223",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "ad1.arixo.shop",
@@ -551,6 +491,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "ma.hastim.co.uk",
+   "port": 443,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "mamadali.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -881,11 +826,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
-   "server": "severjadid.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "shahi.shambelile.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -1021,11 +961,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "visial-basic.com.co.uk.mq.tk.pugfhtrdyted.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "welcome.kisex.top",
    "port": 443,
    "secret": "7g__UnpackYourGirl__J9N5YS5ydQ"
@@ -1076,5 +1011,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 215
+ "count": 202
 }
