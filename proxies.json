@@ -56,11 +56,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "51.250.81.95",
-   "port": 443,
-   "secret": "eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974"
-  },
-  {
    "server": "64.188.65.63",
    "port": 443,
    "secret": "21f80d43f4bbd90405cecc8435645867"
@@ -181,6 +176,16 @@
    "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
   },
   {
+   "server": "Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.",
+   "port": 4443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "bfa1c0.cdnflow.store",
+   "port": 443,
+   "secret": "ee92f105b4a4ebf5db49735eb9149fb06b73332e616d617a6f6e6177732e636f6d"
+  },
+  {
    "server": "bo0ji.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -194,11 +199,6 @@
    "server": "ccc.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "cdn.cdnflow.store",
-   "port": 443,
-   "secret": "ee92f105b4a4ebf5db49735eb9149fb06b63646e2e63646e666c6f772e73746f7265"
   },
   {
    "server": "cdn10.cdnwave.org",
@@ -296,9 +296,19 @@
    "secret": "eef7a565db46f8f5bf156054d86db42969617669746f2e7275"
   },
   {
+   "server": "freeinternet.skin",
+   "port": 443,
+   "secret": "ee78437f70effbb0fd37b573d600676558617669746f2e7275"
+  },
+  {
    "server": "freeon.name",
    "port": 443,
    "secret": "dded1a5a7f339b8ff9840d52df12382970"
+  },
+  {
+   "server": "gamerpr.cfd",
+   "port": 443,
+   "secret": "ee3cd8b9e99a48486b14d0f6169d0b8d06617669746f2e7275"
   },
   {
    "server": "gate.24starsmarket.ru",
@@ -349,6 +359,11 @@
    "server": "hapoo.nanaz.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "Hel-hi.co.uk.",
+   "port": 443,
+   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "help.meow0.co.uk",
@@ -424,11 +439,6 @@
    "server": "ir.speed.finecooking.info",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "iran-ir.vingardium.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "jadid.zhigool.co.uk",
@@ -656,11 +666,6 @@
    "secret": "eec03f9d7666a41c33af662f5ba02604876f70656e2e67706f696e742e77656273697465"
   },
   {
-   "server": "os.vechnostnet.study",
-   "port": 443,
-   "secret": "ee5cfacb7941f6260de34393a10d2b1d7d7374726d2e79616e6465782e6e6574"
-  },
-  {
    "server": "persian.gulf.ir.olsjddhf.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
@@ -704,11 +709,6 @@
    "server": "proxy.growthtrade.eu",
    "port": 443,
    "secret": "7g__EarnMoneyWithUs___13d3cuY2xvdWRmbGFyZS5jb20"
-  },
-  {
-   "server": "proxy.growthtrade.eu",
-   "port": 443,
-   "secret": "ee54e6e41e680ad7765a0679a5a24eb49b79612e7275"
   },
   {
    "server": "proxy.lodkirmm.ru",
