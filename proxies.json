@@ -36,6 +36,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "136.243.195.203",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "176.124.207.237",
    "port": 443,
    "secret": "fad015155defc3a8bd8ebc16b5d2b300"
@@ -66,6 +71,11 @@
    "secret": "8O6wvZrcT9SpOZTuOyohaw%3D%3D"
   },
   {
+   "server": "65.108.123.76",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "79.137.196.223",
    "port": 2443,
    "secret": "eeeed28dc05b23b7ccba27a3d352abf1467c7777772e636c6f7564666c6172652e636f6d"
@@ -89,6 +99,11 @@
    "server": "79.137.196.223",
    "port": 15443,
    "secret": "ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "91.107.140.144",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "91.107.160.196",
@@ -166,11 +181,6 @@
    "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
   },
   {
-   "server": "bala.hastim.co.uk",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "beam.whitelist.cyou",
    "port": 443,
    "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
@@ -194,6 +204,11 @@
    "server": "bolt.utkanos.life",
    "port": 2443,
    "secret": "eefcc4cf72e265ef4e47068bfe3fbd44fb626f6c742e75746b616e6f732e6c696665"
+  },
+  {
+   "server": "bonus.growthtrade.eu",
+   "port": 443,
+   "secret": "7g__EarnMoneyWithUs__gJ5YS5ydQ"
   },
   {
    "server": "ccc.horizon555.co.uk",
@@ -441,11 +456,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "jadid.zhigool.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "khalije-ta-abad-fars.ir.pugfhtrdyted.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
@@ -579,11 +589,6 @@
    "server": "mt-open.potatoe.shop",
    "port": 443,
    "secret": "ee7cf78432ed09666cb056843c092a9af56164732e78352e7275"
-  },
-  {
-   "server": "mt.best-moz.info",
-   "port": 25565,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "mt.joumalanet.co.uk",
@@ -781,6 +786,16 @@
    "secret": "ee3afc68787d0be6268346b66a3563001b686f66662e7275"
   },
   {
+   "server": "s15.assetflux.org",
+   "port": 443,
+   "secret": "eeea54d6ad3d5483e95301bc5eb02d3ae5706574726f766963682e7275"
+  },
+  {
+   "server": "s16.assetflux.org",
+   "port": 443,
+   "secret": "eea669969a1f4dabafd3beee9b34663b52686f66662e7275"
+  },
+  {
    "server": "s2.assetflux.org",
    "port": 443,
    "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
@@ -804,11 +819,6 @@
    "server": "s6.postpulse.space",
    "port": 443,
    "secret": "ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70"
-  },
-  {
-   "server": "s8.assetflux.org",
-   "port": 443,
-   "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
    "server": "sahel.saheledarya.co.uk.",
@@ -1011,5 +1021,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 202
+ "count": 204
 }
