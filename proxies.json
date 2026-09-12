@@ -41,6 +41,11 @@
    "secret": "fad015155defc3a8bd8ebc16b5d2b300"
   },
   {
+   "server": "194.120.230.26",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "194.120.230.37",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -49,6 +54,11 @@
    "server": "1b2aca9d-6852-45a7-bd7b-771a70fde2b7.fast-cdn.cc",
    "port": 443,
    "secret": "ee5a9252c2c44ec88a5ad64b048d4585f7666173742d63646e2e6363"
+  },
+  {
+   "server": "21.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "3etare.co.uk.",
@@ -846,11 +856,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "sep1.startnetwork.shop",
-   "port": 443,
-   "secret": "ee2cd47959b9ece2cc59b76a4a0c010ae37374726d2e79616e6465782e6e6574"
-  },
-  {
    "server": "setion-two.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
@@ -1031,5 +1036,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 206
+ "count": 207
 }
