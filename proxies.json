@@ -786,11 +786,6 @@
    "secret": "ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70"
   },
   {
-   "server": "reyhoon.shambelile.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "s01.neo-trading.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
@@ -911,14 +906,14 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
   },
   {
-   "server": "stream.lovely.lat",
-   "port": 443,
-   "secret": "eeaadd88aa9facd454936d0c42dc128e7773747265616d2e6c6f76656c792e6c6174"
-  },
-  {
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "super-hero-iran.ir.mausjakaqd.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "support.infinityhalo.co.uk.",
@@ -1036,5 +1031,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 207
+ "count": 206
 }
