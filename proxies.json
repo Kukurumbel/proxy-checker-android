@@ -11,11 +11,6 @@
    "secret": "ee67738e5814e33556092d27827a2264ef62726f777365722e79616e6465782e636f6d"
   },
   {
-   "server": "1.pugfhtrdyted.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "10ping-proxy.best",
    "port": 443,
    "secret": "dd98847be1819bbde82a326ce629ce50a7"
@@ -76,6 +71,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.83.248",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "79.137.196.223",
    "port": 2443,
    "secret": "eeeed28dc05b23b7ccba27a3d352abf1467c7777772e636c6f7564666c6172652e636f6d"
@@ -119,6 +119,11 @@
    "server": "95.216.180.200",
    "port": 7980,
    "secret": "dd114562821249bd7ac519130220c25d08"
+  },
+  {
+   "server": "95.217.193.223",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "ad1.arixo.shop",
@@ -671,11 +676,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
-   "server": "persian.gulf.ir.olsjddhf.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "pesar.nanaz.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -876,11 +876,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
-   "server": "Strait-of-Hormuz.ir.jursdheks.info",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "stream.lovely.lat",
    "port": 443,
    "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
@@ -1016,5 +1011,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 203
+ "count": 202
 }
