@@ -181,11 +181,6 @@
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-   "server": "alhosein.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "All-download-best.ir.bcsadwtgd.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
@@ -234,11 +229,6 @@
    "server": "bo0ji.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "bolt.utkanos.life",
-   "port": 2443,
-   "secret": "eefcc4cf72e265ef4e47068bfe3fbd44fb626f6c742e75746b616e6f732e6c696665"
   },
   {
    "server": "bonus.growthtrade.eu",
@@ -294,11 +284,6 @@
    "server": "deleted.antony-gordon.co.uk",
    "port": 80,
    "secret": "3RbZ3hNtxAbJ6L5BQipx2_s%3D"
-  },
-  {
-   "server": "dingi3.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "dns.speed-benz.co.uk",
@@ -508,6 +493,11 @@
   {
    "server": "khalije-ta-abad-fars.ir.pugfhtrdyted.info.",
    "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "khaste.delroba.co.uk.",
+   "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -1041,5 +1031,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 208
+ "count": 206
 }
