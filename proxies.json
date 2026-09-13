@@ -101,6 +101,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.83.248",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "79.137.196.223",
    "port": 2443,
    "secret": "eeeed28dc05b23b7ccba27a3d352abf1467c7777772e636c6f7564666c6172652e636f6d"
@@ -139,6 +144,11 @@
    "server": "95.216.180.200",
    "port": 7980,
    "secret": "dd114562821249bd7ac519130220c25d08"
+  },
+  {
+   "server": "95.217.193.223",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "ad1.arixo.shop",
@@ -374,11 +384,6 @@
    "server": "global.lovely.lat",
    "port": 443,
    "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
-  },
-  {
-   "server": "god-mode-on.peachsoft.co.uk.",
-   "port": 443,
-   "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
    "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
@@ -634,11 +639,6 @@
    "server": "mt.joumalanet.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add7765622e62616c652e696f"
-  },
-  {
-   "server": "mt2.best-moz.info",
-   "port": 25565,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "mtp.webvirt.cloud",
