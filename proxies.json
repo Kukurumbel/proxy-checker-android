@@ -66,6 +66,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "41.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "51.250.81.95",
    "port": 443,
    "secret": "eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974"
@@ -179,11 +184,6 @@
    "server": "akenai.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
-  },
-  {
-   "server": "All-download-best.ir.bcsadwtgd.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "api2.kvakzon.top",
@@ -486,6 +486,11 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "Iran-4-ever.ir.bcsadwtgd.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
    "server": "jigareto-kham-kham.ir.paeez-amad.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
@@ -786,14 +791,14 @@
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
   },
   {
+   "server": "s03.neo-trading.org",
+   "port": 443,
+   "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
+  },
+  {
    "server": "s1.assetflux.org",
    "port": 443,
    "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
-  },
-  {
-   "server": "s1.postpulse.space",
-   "port": 443,
-   "secret": "ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70"
   },
   {
    "server": "s13.assetflux.org",
@@ -901,11 +906,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
-   "server": "stream.lovely.lat",
-   "port": 443,
-   "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
-  },
-  {
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -919,11 +919,6 @@
    "server": "support.infinityhalo.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "syzygy.sosun4ik.top",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
    "server": "t.meow-network.com",
@@ -1001,11 +996,6 @@
    "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
   },
   {
-   "server": "ya709.startnetwork.shop",
-   "port": 443,
-   "secret": "eefc5d33f52ad4d9f04358306ba003d8fc7374726d2e79616e6465782e6e6574"
-  },
-  {
    "server": "yandex-tunnel.com",
    "port": 443,
    "secret": "4cc83d19c09c796a4dffdd136cf06a22"
@@ -1031,5 +1021,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 206
+ "count": 204
 }
