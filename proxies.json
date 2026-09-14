@@ -127,11 +127,6 @@
   },
   {
    "server": "79.137.196.223",
-   "port": 12443,
-   "secret": "eebc63866dd7a052dbd741a691486a82127777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "79.137.196.223",
    "port": 13443,
    "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
   },
@@ -344,11 +339,6 @@
    "server": "ggru3.mtproxygram.lol",
    "port": 443,
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "global.lovely.lat",
-   "port": 443,
-   "secret": "eeaadd88aa9facd454936d0c42dc128e77676c6f62616c2e6c6f76656c792e6c6174"
   },
   {
    "server": "global.lovely.lat",
@@ -606,11 +596,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "mt-open.potatoe.shop",
-   "port": 443,
-   "secret": "ee7cf78432ed09666cb056843c092a9af56164732e78352e7275"
-  },
-  {
    "server": "mt.joumalanet.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add7765622e62616c652e696f"
@@ -659,6 +644,11 @@
    "server": "one.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "onlineforless.co.uk",
+   "port": 8443,
+   "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "open.gpoint.website",
@@ -926,11 +916,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "video1.lastochka.cloud",
-   "port": 443,
-   "secret": "eea732400de1a4a78050c262ea27b01a35706574726f766963682e7275"
-  },
-  {
    "server": "ving.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -981,5 +966,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 196
+ "count": 193
 }
