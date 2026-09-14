@@ -11,6 +11,11 @@
    "secret": "ee67738e5814e33556092d27827a2264ef62726f777365722e79616e6465782e636f6d"
   },
   {
+   "server": "1.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "10ping-proxy.best",
    "port": 443,
    "secret": "dd98847be1819bbde82a326ce629ce50a7"
@@ -166,16 +171,6 @@
    "secret": "eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70"
   },
   {
-   "server": "ad3.arixo.shop",
-   "port": 443,
-   "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
-  },
-  {
-   "server": "aerie.sosun4ik.top",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "akenai.top",
    "port": 853,
    "secret": "7lTOMw5GkMwpfSsDH_PyiLBtdC5ha2VuYWkuY2xpY2s"
@@ -279,11 +274,6 @@
    "server": "data.utkanos.life",
    "port": 2443,
    "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
-  },
-  {
-   "server": "deleted.antony-gordon.co.uk",
-   "port": 80,
-   "secret": "3RbZ3hNtxAbJ6L5BQipx2_s%3D"
   },
   {
    "server": "dns.speed-benz.co.uk",
@@ -416,9 +406,19 @@
    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
   },
   {
+   "server": "hyper.sosproxy.space",
+   "port": 443,
+   "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d"
+  },
+  {
    "server": "im.dumaniltd.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "indigogift.fun",
+   "port": 8443,
+   "secret": "c8295cd1d7ba6bd61879c3d1d77f090a"
   },
   {
    "server": "ir.ataman.info",
@@ -656,6 +656,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "nocloudnew.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "node.easyproxy.cfd",
    "port": 443,
    "secret": "ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664"
@@ -691,9 +696,9 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "petrichor.slarkfat.icu",
-   "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+   "server": "ping-khoob.ir.paeez-amad.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "porsorate.co.uk",
@@ -806,24 +811,14 @@
    "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
   },
   {
-   "server": "s2.postpulse.space",
-   "port": 443,
-   "secret": "ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70"
-  },
-  {
    "server": "s5.assetflux.org",
    "port": 443,
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
-   "server": "s5.postpulse.space",
+   "server": "s8.assetflux.org",
    "port": 443,
-   "secret": "ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70"
-  },
-  {
-   "server": "s6.postpulse.space",
-   "port": 443,
-   "secret": "ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70"
+   "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
    "server": "s9.assetflux.org",
@@ -1006,5 +1001,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 201
+ "count": 200
 }
