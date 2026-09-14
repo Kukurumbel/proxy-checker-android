@@ -166,11 +166,6 @@
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
   },
   {
-   "server": "ad2.arixo.shop",
-   "port": 443,
-   "secret": "eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70"
-  },
-  {
    "server": "akenai.top",
    "port": 853,
    "secret": "7lTOMw5GkMwpfSsDH_PyiLBtdC5ha2VuYWkuY2xpY2s"
@@ -301,11 +296,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "Fast.finecooking.info",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
    "server": "free.loveproxy.xyz",
    "port": 443,
    "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
@@ -351,11 +341,6 @@
    "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
   },
   {
-   "server": "gc.mtproto.baby",
-   "port": 443,
-   "secret": "dd55bd33705487f11397a1a45d8dacdfc6"
-  },
-  {
    "server": "ggru3.mtproxygram.lol",
    "port": 443,
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
@@ -369,6 +354,11 @@
    "server": "global.lovely.lat",
    "port": 443,
    "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
+  },
+  {
+   "server": "granite.mtproxy.zip",
+   "port": 443,
+   "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275"
   },
   {
    "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
@@ -426,6 +416,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir.bazzawill.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir.cheap-ass-domain.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -434,11 +429,6 @@
    "server": "ir.closcloud.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "ir.engematica.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "ir.esdata.info",
@@ -476,14 +466,14 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.rebol.info",
+   "server": "ir.qkzheng.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.speed.finecooking.info",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+   "server": "ir.rebol.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "Iran-4-ever.ir.bcsadwtgd.info.",
@@ -504,11 +494,6 @@
    "server": "khaste.delroba.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "khazar.sea.ir.pugfhtrdyted.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "khazar.sea.ir.pugfhtrdyted.info.",
@@ -601,11 +586,6 @@
    "secret": "ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275"
   },
   {
-   "server": "mesh.eeluma.org",
-   "port": 443,
-   "secret": "eeaa6cb0b4a5f0726f60b57ee7548edf536d6573682e65656c756d612e6f7267"
-  },
-  {
    "server": "mio.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -614,6 +594,11 @@
    "server": "mizaneshgh2.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "mkima.davay.click",
+   "port": 443,
+   "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
   },
   {
    "server": "moon.my-moon.co.uk.",
@@ -639,11 +624,6 @@
    "server": "mtttt2.badvpn.pro",
    "port": 443,
    "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275"
-  },
-  {
-   "server": "my-iran.vingardium.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "New.nchnch.co.uk",
@@ -921,11 +901,6 @@
    "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275"
   },
   {
-   "server": "terra.startnetwork.shop",
-   "port": 443,
-   "secret": "dd0f2aa66e2419918464ead0544ec65121"
-  },
-  {
    "server": "tls.joumalanet.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add7765622e62616c652e696f"
@@ -991,6 +966,11 @@
    "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
   },
   {
+   "server": "ykima.davay.click",
+   "port": 443,
+   "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
+  },
+  {
    "server": "zon-b0z.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1001,5 +981,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 200
+ "count": 196
 }
