@@ -636,21 +636,6 @@
    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564"
   },
   {
-   "server": "mtp1.hlebushek.com",
-   "port": 443,
-   "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
-  },
-  {
-   "server": "mtp2.hlebushek.com",
-   "port": 443,
-   "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275"
-  },
-  {
-   "server": "mtp3.hlebushek.com",
-   "port": 443,
-   "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
-  },
-  {
    "server": "mtttt2.badvpn.pro",
    "port": 443,
    "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275"
@@ -1021,5 +1006,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 204
+ "count": 201
 }
