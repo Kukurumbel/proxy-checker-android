@@ -71,6 +71,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "30f9e0.mtpfast.com",
+   "port": 443,
+   "secret": "ee3452747634e3675ff895e7ff2f1307323330663965302e6d7470666173742e636f6d"
+  },
+  {
    "server": "3etare.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -161,6 +166,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "a27b0a.hopwire.io",
+   "port": 443,
+   "secret": "ee18f8c3028bf752a74732a9a2fd99ab4d6132376230612e686f70776972652e696f"
+  },
+  {
    "server": "ad1.arixo.shop",
    "port": 443,
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
@@ -241,11 +251,6 @@
    "secret": "ee97247322005404a2c7a84d082aace21b686f66662e7275"
   },
   {
-   "server": "cdn14.cdnwave.org",
-   "port": 443,
-   "secret": "ee4f9067589367c2ef531642d501664f43686f66662e7275"
-  },
-  {
    "server": "cdn2.medhata.org",
    "port": 2443,
    "secret": "ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267"
@@ -294,6 +299,11 @@
    "server": "edge2.medhata.org",
    "port": 2443,
    "secret": "ee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267"
+  },
+  {
+   "server": "f5fe36.proxyhub.co",
+   "port": 443,
+   "secret": "eea14e59f8fda21c858d772e0fd261ad156635666533362e70726f78796875622e636f"
   },
   {
    "server": "fasle-zivaye.ir.paeez-amad.info.",
@@ -349,11 +359,6 @@
    "server": "ggru3.mtproxygram.lol",
    "port": 443,
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "global.lovely.lat",
-   "port": 443,
-   "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
   },
   {
    "server": "gov.grasic.info",
@@ -646,6 +651,11 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
+   "server": "onlineforless.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "open.gpoint.website",
    "port": 443,
    "secret": "eec03f9d7666a41c33af662f5ba02604876f70656e2e67706f696e742e77656273697465"
@@ -696,11 +706,6 @@
    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
   },
   {
-   "server": "proxy.mtcomrade.website",
-   "port": 443,
-   "secret": "ee1603010200010001fc030386e24c3add7765622e62616c652e6169"
-  },
-  {
    "server": "proxy.pushvpn.space",
    "port": 443,
    "secret": "ee27c7f948bc8c223e13ae240911e783ab7777772e636c6f7564666c6172652e636f6d"
@@ -729,6 +734,11 @@
    "server": "reborn.rebirthconnect.com",
    "port": 443,
    "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
+  },
+  {
+   "server": "Rudmoain.co.uk.",
+   "port": 443,
+   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "s01.neo-trading.org",
@@ -776,11 +786,6 @@
    "secret": "eea669969a1f4dabafd3beee9b34663b52686f66662e7275"
   },
   {
-   "server": "s2.assetflux.org",
-   "port": 443,
-   "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
-  },
-  {
    "server": "s5.assetflux.org",
    "port": 443,
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
@@ -799,11 +804,6 @@
    "server": "sahel.saheledarya.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "setion-two.co.uk.",
-   "port": 443,
-   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
    "server": "severjadid.co.uk",
