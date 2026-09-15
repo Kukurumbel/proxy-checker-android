@@ -36,6 +36,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "135.181.74.178",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "136.243.195.203",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -84,11 +89,6 @@
    "server": "64.188.65.63",
    "port": 443,
    "secret": "21f80d43f4bbd90405cecc8435645867"
-  },
-  {
-   "server": "65-109-218-218.nip.io",
-   "port": 4466,
-   "secret": "8O6wvZrcT9SpOZTuOyohaw%3D%3D"
   },
   {
    "server": "65.108.123.76",
