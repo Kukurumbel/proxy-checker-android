@@ -131,6 +131,11 @@
    "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "79.137.196.223",
+   "port": 15443,
+   "secret": "ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d"
+  },
+  {
    "server": "91.107.140.144",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -141,14 +146,14 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "91.107.180.123",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "91.98.97.225",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "95.216.180.200",
-   "port": 7980,
-   "secret": "dd114562821249bd7ac519130220c25d08"
   },
   {
    "server": "95.217.193.223",
@@ -171,9 +176,9 @@
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-   "server": "api2.kvakzon.top",
-   "port": 2443,
-   "secret": "eeb2a0e3b5fba31d961cba1437805cf950617069322e6b76616b7a6f6e2e746f70"
+   "server": "alhosein.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "api2.medhata.org",
@@ -266,6 +271,16 @@
    "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
   },
   {
+   "server": "din5gli2.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "dingi3.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "dns.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -354,11 +369,6 @@
    "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
-   "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "hapoo.nanaz.co.uk",
@@ -476,18 +486,8 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
-   "server": "khalije-ta-abad-fars.ir.pugfhtrdyted.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "khaste.delroba.co.uk.",
    "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "khazar.sea.ir.pugfhtrdyted.info.",
-   "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -609,6 +609,11 @@
    "server": "mtttt2.badvpn.pro",
    "port": 443,
    "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275"
+  },
+  {
+   "server": "mtttt21.badvpn.pro",
+   "port": 443,
+   "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275"
   },
   {
    "server": "New.nchnch.co.uk",
@@ -756,6 +761,16 @@
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
+   "server": "s04.neo-trading.org",
+   "port": 443,
+   "secret": "ee364a7bd5b928139fbc6b2b458e9fef9d686f66662e7275"
+  },
+  {
+   "server": "s05.neo-trading.org",
+   "port": 443,
+   "secret": "eef4f43f6c7b01f2f5f5644af6473a61d0686f66662e7275"
+  },
+  {
    "server": "s1.assetflux.org",
    "port": 443,
    "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
@@ -886,11 +901,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "tea.hotstbvs.ru",
-   "port": 8843,
-   "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275"
-  },
-  {
    "server": "tls.joumalanet.co.uk",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add7765622e62616c652e696f"
@@ -966,5 +976,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 193
+ "count": 195
 }
