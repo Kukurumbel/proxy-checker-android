@@ -326,11 +326,6 @@
    "secret": "ee57639673cce7f03e351b8a5a857eea6c62726f777365722e79616e6465782e7275"
   },
   {
-   "server": "freeconnect.lol",
-   "port": 443,
-   "secret": "eef7a565db46f8f5bf156054d86db42969617669746f2e7275"
-  },
-  {
    "server": "freeinternet.skin",
    "port": 443,
    "secret": "ee78437f70effbb0fd37b573d600676558617669746f2e7275"
@@ -361,6 +356,11 @@
    "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
   },
   {
+   "server": "gov.grasic.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "granite.mtproxy.zip",
    "port": 443,
    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275"
@@ -369,11 +369,6 @@
    "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
-   "server": "hapoo.nanaz.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "havashenasi.my-moon.co.uk.",
@@ -631,11 +626,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "node.easyproxy.cfd",
-   "port": 443,
-   "secret": "ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664"
-  },
-  {
    "server": "node2.medhata.org",
    "port": 2443,
    "secret": "eeb19b644ed4a6c923d57abf3c7a52d1746e6f6465322e6d6564686174612e6f7267"
@@ -741,11 +731,6 @@
    "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
   },
   {
-   "server": "relay.rknsosi.shop",
-   "port": 443,
-   "secret": "ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70"
-  },
-  {
    "server": "s01.neo-trading.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
@@ -841,14 +826,14 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
+   "server": "sorat-bala.ir.paeez-amad.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "Speed-speed.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "ssh.best-moz.info",
-   "port": 22,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "ssh.meow0.co.uk",
@@ -926,6 +911,16 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "vetka1.v6n.tech",
+   "port": 443,
+   "secret": "ee0a69f3e3a846d22f3ff61daec53055787777772e626f6f6b696e672e636f6d"
+  },
+  {
+   "server": "vetka2.v6n.tech",
+   "port": 443,
+   "secret": "ee4822c1c11ee8d9b3cd008e18822415917777772e626f6f6b696e672e636f6d"
+  },
+  {
    "server": "ving.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -976,5 +971,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 195
+ "count": 194
 }
