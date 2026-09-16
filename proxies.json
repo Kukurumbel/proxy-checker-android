@@ -16,11 +16,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "10ping-proxy.best",
-   "port": 443,
-   "secret": "dd98847be1819bbde82a326ce629ce50a7"
-  },
-  {
    "server": "116.202.189.213",
    "port": 8443,
    "secret": "dd79e344818749bd7ac519130220c25d09"
@@ -236,6 +231,11 @@
    "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
   },
   {
+   "server": "best.ir.agrescjarkahdgs.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
    "server": "Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.",
    "port": 4443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -259,6 +259,11 @@
    "server": "ccc.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "cdn.coreunit.ru",
+   "port": 443,
+   "secret": "eececef6563bce080cccda8dcc61cedbf663646e2e6a7364656c6976722e6e6574"
   },
   {
    "server": "cdn10.cdnwave.org",
@@ -309,6 +314,11 @@
    "server": "dokhtar.nanaz.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "drill.gizamoff.trade",
+   "port": 69,
+   "secret": "eebde76db082bb05e04cb5c63a32b5853d6472696c6c2e67697a616d6f66662e7472616465"
   },
   {
    "server": "edge2.medhata.org",
@@ -621,6 +631,11 @@
    "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275"
   },
   {
+   "server": "mtttt22.badvpn.pro",
+   "port": 443,
+   "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275"
+  },
+  {
    "server": "New.nchnch.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -694,6 +709,11 @@
    "server": "premium.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "procloud.mowork.ru",
+   "port": 443,
+   "secret": "eececef6563bce080cccda8dcc61cedbf6727573742d6c616e672e6f7267"
   },
   {
    "server": "proxtstar.live",
@@ -981,5 +1001,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 196
+ "count": 200
 }
