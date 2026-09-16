@@ -51,6 +51,11 @@
    "secret": "fad015155defc3a8bd8ebc16b5d2b300"
   },
   {
+   "server": "185.188.30.167",
+   "port": 9443,
+   "secret": "ddede656ebfa0f59939536e22518cb1be3"
+  },
+  {
    "server": "194.120.230.26",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -89,6 +94,11 @@
    "server": "51.250.81.95",
    "port": 443,
    "secret": "eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974"
+  },
+  {
+   "server": "62.238.127.80",
+   "port": 443,
+   "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ"
   },
   {
    "server": "64.188.65.63",
@@ -391,6 +401,11 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
+   "server": "HI.PIGLIO.ONLINE",
+   "port": 69,
+   "secret": "ee90070792574663c0f6bd34279078aa5b68692e7069676c696f2e6f6e6c696e65"
+  },
+  {
    "server": "hl.routefastnet.online",
    "port": 443,
    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
@@ -421,11 +436,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.cheap-ass-domain.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.closcloud.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -447,16 +457,6 @@
   },
   {
    "server": "ir.gnutella2.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.grumpyoldmen.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.makkers.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -596,16 +596,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "mt.joumalanet.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add7765622e62616c652e696f"
-  },
-  {
-   "server": "mtp.webvirt.cloud",
-   "port": 443,
-   "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564"
-  },
-  {
    "server": "mtttt2.badvpn.pro",
    "port": 443,
    "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275"
@@ -694,6 +684,11 @@
    "server": "proxtstar.live",
    "port": 443,
    "secret": "eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275"
+  },
+  {
+   "server": "proxy.deal-market.xyz",
+   "port": 443,
+   "secret": "eeaedf1835244c5bd42c7698f35b7cd18870726f78792e6465616c2d6d61726b65742e78797a"
   },
   {
    "server": "proxy.growthtrade.eu",
@@ -886,9 +881,9 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "tls.joumalanet.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add7765622e62616c652e696f"
+   "server": "tg1.quki-hub.com",
+   "port": 9443,
+   "secret": "ddd8466d7adb845d1791ff21b3b403e3da"
   },
   {
    "server": "topproxt.asia",
@@ -934,6 +929,11 @@
    "server": "www2.acientirani-uor4.ir",
    "port": 443,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
+   "server": "x.shmelproxy.top",
+   "port": 443,
+   "secret": "7vwmEv9lpVf93x0bM0OV7yN5dWctbGluay5ydQ"
   },
   {
    "server": "x.shmelproxy.top",
