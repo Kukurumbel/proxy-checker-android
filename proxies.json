@@ -231,11 +231,6 @@
    "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
   },
   {
-   "server": "beam.whitelist.cyou",
-   "port": 443,
-   "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
-  },
-  {
    "server": "best.ir.agrescjarkahdgs.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e6961626364656667682e696a"
@@ -376,11 +371,6 @@
    "secret": "ee3cd8b9e99a48486b14d0f6169d0b8d06617669746f2e7275"
   },
   {
-   "server": "gate.24starsmarket.ru",
-   "port": 443,
-   "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
-  },
-  {
    "server": "ggru3.mtproxygram.lol",
    "port": 443,
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
@@ -456,11 +446,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "ir.esdata.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.flipme.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -471,12 +456,12 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.gnutella2.info",
+   "server": "ir.grasic.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.grasic.info",
+   "server": "ir.lv223.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -496,14 +481,14 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.rebol.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "Iran-4-ever.ir.bcsadwtgd.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
+   "server": "jadid.zhigool.co.uk",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "jhndoes.co.uk.",
@@ -578,6 +563,11 @@
   {
    "server": "media.experthost.shop",
    "port": 443,
+   "secret": "ee3360704eb31ee47a17fc96383f7fcf7c6d656469612e657870657274686f73742e73686f70"
+  },
+  {
+   "server": "media.experthost.shop",
+   "port": 443,
    "secret": "ee92ccb7af38638802ad9afb2153d1df336d656469612e657870657274686f73742e73686f70"
   },
   {
@@ -642,11 +632,6 @@
   },
   {
    "server": "New.nchnch.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "new7.mizanmizanesgh.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
@@ -717,7 +702,7 @@
   },
   {
    "server": "procloud.mowork.ru",
-   "port": 443,
+   "port": 8443,
    "secret": "eececef6563bce080cccda8dcc61cedbf6727573742d6c616e672e6f7267"
   },
   {
@@ -971,11 +956,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "www2.acientirani-uor4.ir",
-   "port": 443,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
    "server": "x.shmelproxy.top",
    "port": 443,
    "secret": "7vwmEv9lpVf93x0bM0OV7yN5dWctbGluay5ydQ"
@@ -1014,7 +994,12 @@
    "server": "zone.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+   "server": "zzz.api-metrics-sync.xyz",
+   "port": 443,
+   "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 203
+ "count": 200
 }
