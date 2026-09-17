@@ -4,159 +4,165 @@
    "server": "ssh.meow0.co.uk",
    "port": 22,
    "secret": "dd79e344818749bd7ac519130220c25d09",
-   "ping": 31
+   "ping": 7
   },
   {
    "server": "help.meow0.co.uk",
    "port": 22,
    "secret": "dd79e344818749bd7ac519130220c25d09",
-   "ping": 41
+   "ping": 17
   },
   {
    "server": "77.91.86.33",
    "port": 8888,
    "secret": "0e2394e271060d57c383231466fdb283",
-   "ping": 150
-  },
-  {
-   "server": "176.124.207.237",
-   "port": 443,
-   "secret": "fad015155defc3a8bd8ebc16b5d2b300",
-   "ping": 173
-  },
-  {
-   "server": "mamadgoli.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 174
+   "ping": 160
   },
   {
    "server": "185.188.30.167",
    "port": 9443,
    "secret": "ddede656ebfa0f59939536e22518cb1be3",
-   "ping": 176
+   "ping": 164
   },
   {
    "server": "185.188.30.167",
    "port": 9443,
    "secret": "ede656ebfa0f59939536e22518cb1be3",
-   "ping": 176
+   "ping": 166
   },
   {
-   "server": "213.176.112.44",
+   "server": "176.124.207.237",
    "port": 443,
-   "secret": "e2e81f7ff44c980f3aab04f62a3923fe",
-   "ping": 179
+   "secret": "fad015155defc3a8bd8ebc16b5d2b300",
+   "ping": 170
   },
   {
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 181
-  },
-  {
-   "server": "bo0ji.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 185
-  },
-  {
-   "server": "mamadali.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 205
-  },
-  {
-   "server": "New.nchnch.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 208
-  },
-  {
-   "server": "dingi3.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 219
-  },
-  {
-   "server": "ssh2.best-moz.info",
-   "port": 22,
-   "secret": "dd79e344818749bd7ac519130220c25d09",
-   "ping": 220
-  },
-  {
-   "server": "din5gli2.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 224
-  },
-  {
-   "server": "tg1.quki-hub.com",
-   "port": 9443,
-   "secret": "ddd8466d7adb845d1791ff21b3b403e3da",
-   "ping": 253
-  },
-  {
-   "server": "tg1.quki-hub.com",
-   "port": 9443,
-   "secret": "d8466d7adb845d1791ff21b3b403e3da",
-   "ping": 264
-  },
-  {
-   "server": "porsorate.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 320
+   "ping": 175
   },
   {
    "server": "onlineforless.co.uk",
    "port": 8443,
    "secret": "dd79e344818749bd7ac519130220c25d09",
-   "ping": 324
+   "ping": 176
+  },
+  {
+   "server": "porsorate.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 177
   },
   {
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 347
+   "ping": 182
+  },
+  {
+   "server": "ssh2.best-moz.info",
+   "port": 22,
+   "secret": "dd79e344818749bd7ac519130220c25d09",
+   "ping": 185
+  },
+  {
+   "server": "dingi3.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 186
+  },
+  {
+   "server": "bo0ji.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 190
   },
   {
    "server": "mizaneshgh2.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 490
+   "ping": 190
   },
   {
-   "server": "alhosein.co.uk",
+   "server": "mamadgoli.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 491
+   "ping": 191
   },
   {
-   "server": "yarypple.co.uk.",
+   "server": "din5gli2.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 499
+   "ping": 192
   },
   {
-   "server": "31.hide.newflamingodomain.co.uk",
-   "port": 8443,
+   "server": "tg1.quki-hub.com",
+   "port": 9443,
+   "secret": "ddd8466d7adb845d1791ff21b3b403e3da",
+   "ping": 196
+  },
+  {
+   "server": "tg1.quki-hub.com",
+   "port": 9443,
+   "secret": "d8466d7adb845d1791ff21b3b403e3da",
+   "ping": 197
+  },
+  {
+   "server": "New.nchnch.co.uk",
+   "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 552
+   "ping": 204
   },
   {
    "server": "21.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 568
+   "ping": 299
+  },
+  {
+   "server": "mamadali.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 310
+  },
+  {
+   "server": "alhosein.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 316
+  },
+  {
+   "server": "1.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 366
   },
   {
    "server": "41.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 577
+   "ping": 378
+  },
+  {
+   "server": "yarypple.co.uk.",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 478
+  },
+  {
+   "server": "31.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 539
+  },
+  {
+   "server": "213.176.112.44",
+   "port": 443,
+   "secret": "e2e81f7ff44c980f3aab04f62a3923fe",
+   "ping": 1257
   }
  ],
- "count": 26,
- "checked": 202
+ "count": 27,
+ "checked": 207
 }
