@@ -261,14 +261,14 @@
    "secret": "ee92f105b4a4ebf5db49735eb9149fb06b73332e616d617a6f6e6177732e636f6d"
   },
   {
+   "server": "bimeh.my-moon.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "bo0ji.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "bonus.growthtrade.eu",
-   "port": 443,
-   "secret": "7g__EarnMoneyWithUs__gJ5YS5ydQ"
   },
   {
    "server": "ccc.horizon555.co.uk",
@@ -334,6 +334,11 @@
    "server": "drill.gizamoff.trade",
    "port": 69,
    "secret": "eebde76db082bb05e04cb5c63a32b5853d6472696c6c2e67697a616d6f66662e7472616465"
+  },
+  {
+   "server": "e3fand.fesgheli.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "edge2.medhata.org",
@@ -516,11 +521,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "jigareto-kham-kham.ir.paeez-amad.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
    "server": "khaste.delroba.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -594,11 +594,6 @@
    "server": "media10.happtg.org",
    "port": 443,
    "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
-  },
-  {
-   "server": "media11.happtg.org",
-   "port": 443,
-   "secret": "eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275"
   },
   {
    "server": "media6.happtg.org",
@@ -676,6 +671,21 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "online-iran.ir.awedsj.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "online-iran.ir.awedsj.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "online-iran.ir.awedsj.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
    "server": "onlineforless.co.uk",
    "port": 8443,
    "secret": "dd79e344818749bd7ac519130220c25d09"
@@ -736,11 +746,6 @@
    "secret": "eeaedf1835244c5bd42c7698f35b7cd18870726f78792e6465616c2d6d61726b65742e78797a"
   },
   {
-   "server": "proxy.growthtrade.eu",
-   "port": 443,
-   "secret": "7g__EarnMoneyWithUs___13d3cuY2xvdWRmbGFyZS5jb20"
-  },
-  {
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
@@ -781,6 +786,11 @@
    "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
   },
   {
+   "server": "relay.surfvpn.app",
+   "port": 443,
+   "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
+  },
+  {
    "server": "Rudmoain.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -814,16 +824,6 @@
    "server": "s1.assetflux.org",
    "port": 443,
    "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
-  },
-  {
-   "server": "s15.assetflux.org",
-   "port": 443,
-   "secret": "eeea54d6ad3d5483e95301bc5eb02d3ae5706574726f766963682e7275"
-  },
-  {
-   "server": "s16.assetflux.org",
-   "port": 443,
-   "secret": "eea669969a1f4dabafd3beee9b34663b52686f66662e7275"
   },
   {
    "server": "s5.assetflux.org",
@@ -884,11 +884,6 @@
    "server": "ssh2.best-moz.info",
    "port": 22,
    "secret": "dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "Stand-For-Iran.ir.mausjakaqd.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "Strait-of-Hormuz.ir.jursdheks.info",
@@ -1016,5 +1011,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 203
+ "count": 202
 }
