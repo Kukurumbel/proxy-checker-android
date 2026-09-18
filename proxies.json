@@ -471,6 +471,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir.awedsj.info.",
+   "port": 9443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "ir.bazzawill.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -694,21 +699,6 @@
    "server": "one.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "online-iran.ir.awedsj.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "online-iran.ir.awedsj.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "online-iran.ir.awedsj.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "onlineforless.co.uk",
@@ -1036,5 +1026,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 207
+ "count": 205
 }
