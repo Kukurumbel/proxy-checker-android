@@ -666,11 +666,6 @@
    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
   },
   {
-   "server": "moon.my-moon.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "mtttt2.badvpn.pro",
    "port": 443,
    "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275"
@@ -744,11 +739,6 @@
    "server": "ping-khoob.ir.paeez-amad.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "pl.cdnflow.store",
-   "port": 443,
-   "secret": "ee92f105b4a4ebf5db49735eb9149fb06b766b2e636f6d"
   },
   {
    "server": "porsorate.co.uk",
@@ -1046,5 +1036,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 209
+ "count": 207
 }
