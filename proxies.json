@@ -176,14 +176,14 @@
    "secret": "0e2394e271060d57c383231466fdb283"
   },
   {
-   "server": "79.137.196.223",
-   "port": 11443,
-   "secret": "ee8a160975fad14b21992a65e0db4b7cfa7777772e636c6f7564666c6172652e636f6d"
+   "server": "78.135.73.33",
+   "port": 443,
+   "secret": "ee897867104f62fbcd5445d07208de66047777772e646e732d73686f702e7275"
   },
   {
    "server": "79.137.196.223",
-   "port": 13443,
-   "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
+   "port": 11443,
+   "secret": "ee8a160975fad14b21992a65e0db4b7cfa7777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "79.137.196.223",
@@ -346,11 +346,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "dokhtar.nanaz.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "drill.gizamoff.trade",
    "port": 69,
    "secret": "eebde76db082bb05e04cb5c63a32b5853d6472696c6c2e67697a616d6f66662e7472616465"
@@ -406,6 +401,11 @@
    "secret": "dded1a5a7f339b8ff9840d52df12382970"
   },
   {
+   "server": "fresh.t-proxy.info.",
+   "port": 25565,
+   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
    "server": "gamerpr.cfd",
    "port": 443,
    "secret": "ee3cd8b9e99a48486b14d0f6169d0b8d06617669746f2e7275"
@@ -414,6 +414,11 @@
    "server": "ggru3.mtproxygram.lol",
    "port": 443,
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "googel.alo-otp.info.",
+   "port": 25565,
+   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "gov.grasic.info",
@@ -686,6 +691,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "nl.cdnflow.store",
+   "port": 443,
+   "secret": "ee92f105b4a4ebf5db49735eb9149fb06b766b2e636f6d"
+  },
+  {
    "server": "nocloudnew.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -694,6 +704,11 @@
    "server": "node2.medhata.org",
    "port": 2443,
    "secret": "eeb19b644ed4a6c923d57abf3c7a52d1746e6f6465322e6d6564686174612e6f7267"
+  },
+  {
+   "server": "nooshabe.mikhay.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "nyakawai.shop",
@@ -946,11 +961,6 @@
    "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
   },
   {
-   "server": "tare.shambelile.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "tg1.quki-hub.com",
    "port": 9443,
    "secret": "d8466d7adb845d1791ff21b3b403e3da"
@@ -1036,5 +1046,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 207
+ "count": 209
 }
