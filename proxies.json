@@ -51,6 +51,11 @@
    "secret": "ee7f30f77969570bfaff559c4dc16c1f31736f75726365666f7267652e6e6574"
   },
   {
+   "server": "168.100.9.222",
+   "port": 8443,
+   "secret": "ee840293847501928374650192837465323136382e3130302e392e323232"
+  },
+  {
    "server": "176.124.207.237",
    "port": 443,
    "secret": "fad015155defc3a8bd8ebc16b5d2b300"
@@ -761,6 +766,11 @@
    "secret": "eeaedf1835244c5bd42c7698f35b7cd18870726f78792e6465616c2d6d61726b65742e78797a"
   },
   {
+   "server": "proxy.growthtrade.eu",
+   "port": 443,
+   "secret": "ee54e6e41e680ad7765a0679a5a24eb49b79612e7275"
+  },
+  {
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
@@ -1026,5 +1036,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 205
+ "count": 207
 }
