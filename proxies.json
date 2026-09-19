@@ -226,11 +226,6 @@
    "secret": "ee18f8c3028bf752a74732a9a2fd99ab4d6132376230612e686f70776972652e696f"
   },
   {
-   "server": "ad1.arixo.shop",
-   "port": 443,
-   "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
-  },
-  {
    "server": "akenai.top",
    "port": 853,
    "secret": "7lTOMw5GkMwpfSsDH_PyiLBtdC5ha2VuYWkuY2xpY2s"
@@ -259,11 +254,6 @@
    "server": "ardesvpn1.ru",
    "port": 8443,
    "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
-  },
-  {
-   "server": "are-are-are.ir.paeez-amad.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "as.mkim.click",
@@ -321,6 +311,11 @@
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
+   "server": "connect.jlpokcu.cloud",
+   "port": 443,
+   "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275"
+  },
+  {
    "server": "connect.tproxyru.live",
    "port": 8980,
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
@@ -364,11 +359,6 @@
    "server": "f5fe36.proxyhub.co",
    "port": 443,
    "secret": "eea14e59f8fda21c858d772e0fd261ad156635666533362e70726f78796875622e636f"
-  },
-  {
-   "server": "fasle-zivaye.ir.paeez-amad.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "free.loveproxy.xyz",
@@ -423,6 +413,11 @@
   {
    "server": "gov.grasic.info",
    "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "gov.vomytdaug.info.",
+   "port": 443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
@@ -551,9 +546,9 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "Iran-4-ever.ir.bcsadwtgd.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+   "server": "ir.simpleelegance-us.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "jadid.zhigool.co.uk",
@@ -746,6 +741,11 @@
    "secret": "eec03f9d7666a41c33af662f5ba02604876f70656e2e67706f696e742e77656273697465"
   },
   {
+   "server": "paeez.delroba.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "pesar.nanaz.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -911,11 +911,6 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "skein.chunkycorp.shop",
-   "port": 8443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
    "server": "sorat-bala.ir.paeez-amad.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -944,11 +939,6 @@
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "super-hero-iran.ir.mausjakaqd.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "support.infinityhalo.co.uk.",
@@ -1056,5 +1046,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 211
+ "count": 209
 }
