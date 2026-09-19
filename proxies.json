@@ -136,6 +136,11 @@
    "secret": "21f80d43f4bbd90405cecc8435645867"
   },
   {
+   "server": "64.7.198.172",
+   "port": 443,
+   "secret": "ee46d3e4920fa1a724f0c726522fbd039f6b726f74626f742e7275"
+  },
+  {
    "server": "65.108.123.76",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -589,11 +594,6 @@
    "server": "kria4.snappytuppy.icu",
    "port": 443,
    "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375"
-  },
-  {
-   "server": "krotbot.ru",
-   "port": 443,
-   "secret": "ee22b6c777f7dfda269b1735e5e4a5101a6b726f74626f742e7275"
   },
   {
    "server": "l0vie.delroba.co.uk.",
