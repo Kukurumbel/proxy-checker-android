@@ -656,6 +656,11 @@
    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
   },
   {
+   "server": "mtp.webvirt.cloud",
+   "port": 443,
+   "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564"
+  },
+  {
    "server": "mtttt2.badvpn.pro",
    "port": 443,
    "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275"
@@ -1006,5 +1011,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 201
+ "count": 202
 }
