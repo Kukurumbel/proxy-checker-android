@@ -81,11 +81,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "1b2aca9d-6852-45a7-bd7b-771a70fde2b7.fast-cdn.cc",
-   "port": 443,
-   "secret": "ee5a9252c2c44ec88a5ad64b048d4585f7666173742d63646e2e6363"
-  },
-  {
    "server": "208.87.242.223",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -204,6 +199,11 @@
    "server": "91.98.97.225",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "94.103.169.103",
+   "port": 443,
+   "secret": "ee7f568e2c2b75b68b3075d35008aa37357777772e676f6f676c652e636f6d"
   },
   {
    "server": "95.217.193.223",
@@ -354,6 +354,16 @@
    "server": "f5fe36.proxyhub.co",
    "port": 443,
    "secret": "eea14e59f8fda21c858d772e0fd261ad156635666533362e70726f78796875622e636f"
+  },
+  {
+   "server": "for-persian.collegealabama.co.uk",
+   "port": 443,
+   "secret": "ee71889eb517157210d61df330a5f11d956d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "for-persian.speedtestcdn.info",
+   "port": 8443,
+   "secret": "dd71889eb517157210d61df330a5f11d95"
   },
   {
    "server": "free.loveproxy.xyz",
@@ -579,11 +589,6 @@
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "lux.fesgheli.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "ma.hastim.co.uk",
@@ -1011,5 +1016,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 202
+ "count": 203
 }
