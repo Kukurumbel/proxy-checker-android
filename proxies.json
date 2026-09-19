@@ -151,16 +151,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.21.227.198",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.227.200",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.21.83.248",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -259,6 +249,11 @@
    "server": "as.mkim.click",
    "port": 443,
    "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
+  },
+  {
+   "server": "bastani.mikhay.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "best.ir.agrescjarkahdgs.info.",
@@ -416,19 +411,9 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "gov.vomytdaug.info.",
-   "port": 443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "granite.mtproxy.zip",
    "port": 443,
    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275"
-  },
-  {
-   "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
@@ -542,11 +527,6 @@
   },
   {
    "server": "ir.qkzheng.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.simpleelegance-us.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -791,11 +771,6 @@
    "secret": "ee54e6e41e680ad7765a0679a5a24eb49b79612e7275"
   },
   {
-   "server": "proxy.lodkirmm.ru",
-   "port": 8443,
-   "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
-  },
-  {
    "server": "proxy.pushvpn.space",
    "port": 443,
    "secret": "ee27c7f948bc8c223e13ae240911e783ab7777772e636c6f7564666c6172652e636f6d"
@@ -926,16 +901,6 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "ssh2.best-moz.info",
-   "port": 22,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "Strait-of-Hormuz.ir.jursdheks.info",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -1021,11 +986,6 @@
    "secret": "4cc83d19c09c796a4dffdd136cf06a22"
   },
   {
-   "server": "yarypple.co.uk.",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "yeh.topbelka.ru",
    "port": 443,
    "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
@@ -1046,5 +1006,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 209
+ "count": 201
 }
