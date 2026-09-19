@@ -21,17 +21,7 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "135.181.129.162",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "135.181.74.147",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "135.181.74.178",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -61,6 +51,11 @@
    "secret": "fad015155defc3a8bd8ebc16b5d2b300"
   },
   {
+   "server": "176.65.135.69",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "185.188.30.167",
    "port": 9443,
    "secret": "ddede656ebfa0f59939536e22518cb1be3"
@@ -72,11 +67,6 @@
   },
   {
    "server": "194.120.230.26",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "194.120.230.37",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -94,6 +84,11 @@
    "server": "213.176.112.44",
    "port": 443,
    "secret": "e2e81f7ff44c980f3aab04f62a3923fe"
+  },
+  {
+   "server": "217.138.215.102",
+   "port": 443,
+   "secret": "ee8357954a3df5c26e32a7b8a7978c3f107777772e636974696c696e6b2e7275"
   },
   {
    "server": "30f9e0.mtpfast.com",
@@ -136,21 +131,6 @@
    "secret": "ee46d3e4920fa1a724f0c726522fbd039f6b726f74626f742e7275"
   },
   {
-   "server": "65.108.123.76",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.109.147.39",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.83.248",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "77.239.105.219",
    "port": 443,
    "secret": "ee6c083120393936fb881456da3ec073777777772e676f6f676c652e636f6d"
@@ -167,11 +147,6 @@
   },
   {
    "server": "79.137.196.223",
-   "port": 11443,
-   "secret": "ee8a160975fad14b21992a65e0db4b7cfa7777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "79.137.196.223",
    "port": 15443,
    "secret": "ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d"
   },
@@ -181,17 +156,7 @@
    "secret": "ee64cb94437cedd507cf9c4d83fbc229287777772e636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "91.107.140.144",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "91.107.160.196",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "91.107.180.123",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -204,11 +169,6 @@
    "server": "94.103.169.103",
    "port": 443,
    "secret": "ee7f568e2c2b75b68b3075d35008aa37357777772e676f6f676c652e636f6d"
-  },
-  {
-   "server": "95.217.193.223",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "a27b0a.hopwire.io",
@@ -259,11 +219,6 @@
    "server": "best.ir.agrescjarkahdgs.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e6961626364656667682e696a"
-  },
-  {
-   "server": "bfa1c0.cdnflow.store",
-   "port": 443,
-   "secret": "ee92f105b4a4ebf5db49735eb9149fb06b73332e616d617a6f6e6177732e636f6d"
   },
   {
    "server": "bimeh.my-moon.co.uk.",
@@ -606,6 +561,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "matrixxx.top",
+   "port": 853,
+   "secret": "eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70"
+  },
+  {
    "server": "max.kimt.click",
    "port": 443,
    "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
@@ -716,11 +676,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "onlineforless.co.uk",
-   "port": 8443,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
-  },
-  {
    "server": "onlineforless.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -733,6 +688,11 @@
   {
    "server": "paeez.delroba.co.uk.",
    "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "persian.gulf.ir.olsjddhf.info.",
+   "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -911,6 +871,11 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
+   "server": "Strait-of-Hormuz.ir.jursdheks.info",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -1016,5 +981,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 203
+ "count": 196
 }
