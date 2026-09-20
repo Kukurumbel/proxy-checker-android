@@ -11,11 +11,6 @@
    "secret": "ee67738e5814e33556092d27827a2264ef62726f777365722e79616e6465782e636f6d"
   },
   {
-   "server": "1.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "116.202.189.213",
    "port": 8443,
    "secret": "dd79e344818749bd7ac519130220c25d09"
@@ -316,11 +311,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "edge2.medhata.org",
-   "port": 2443,
-   "secret": "ee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267"
-  },
-  {
    "server": "f5fe36.proxyhub.co",
    "port": 443,
    "secret": "eea14e59f8fda21c858d772e0fd261ad156635666533362e70726f78796875622e636f"
@@ -354,11 +344,6 @@
    "server": "free3.gram.blog",
    "port": 443,
    "secret": "ee57639673cce7f03e351b8a5a857eea6c62726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "freeinternet.skin",
-   "port": 443,
-   "secret": "ee78437f70effbb0fd37b573d600676558617669746f2e7275"
   },
   {
    "server": "freeon.name",
@@ -467,11 +452,6 @@
   },
   {
    "server": "ir.flipme.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.genesbyjohn.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -681,11 +661,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "node2.medhata.org",
-   "port": 2443,
-   "secret": "eeb19b644ed4a6c923d57abf3c7a52d1746e6f6465322e6d6564686174612e6f7267"
-  },
-  {
    "server": "nooshabe.mikhay.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -744,11 +719,6 @@
    "server": "procloud.mowork.ru",
    "port": 8443,
    "secret": "eececef6563bce080cccda8dcc61cedbf6727573742d6c616e672e6f7267"
-  },
-  {
-   "server": "proxtstar.live",
-   "port": 443,
-   "secret": "eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275"
   },
   {
    "server": "proxy.deal-market.xyz",
@@ -1011,5 +981,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 202
+ "count": 196
 }
