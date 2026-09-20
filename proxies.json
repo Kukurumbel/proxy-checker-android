@@ -666,11 +666,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "nyakawai.shop",
-   "port": 443,
-   "secret": "eefddb26d5047ce1787ece232a57832391617669746f2e7275"
-  },
-  {
    "server": "one.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -944,6 +939,11 @@
    "server": "ving.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "www2.acientirani-uor4.ir",
+   "port": 443,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "x.shmelproxy.top",
