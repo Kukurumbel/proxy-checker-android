@@ -21,7 +21,17 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
+   "server": "135.181.129.162",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "135.181.74.147",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "135.181.74.178",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -129,6 +139,11 @@
    "server": "64.7.198.172",
    "port": 443,
    "secret": "ee46d3e4920fa1a724f0c726522fbd039f6b726f74626f742e7275"
+  },
+  {
+   "server": "65.21.227.200",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "77.239.105.219",
@@ -246,9 +261,9 @@
    "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
   },
   {
-   "server": "cdn2.medhata.org",
-   "port": 2443,
-   "secret": "ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267"
+   "server": "cdn12.cdnwave.org",
+   "port": 443,
+   "secret": "ee97247322005404a2c7a84d082aace21b686f66662e7275"
   },
   {
    "server": "cdn7.cdnwave.org",
@@ -356,11 +371,6 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "gamerpr.cfd",
-   "port": 443,
-   "secret": "ee3cd8b9e99a48486b14d0f6169d0b8d06617669746f2e7275"
-  },
-  {
    "server": "ggru3.mtproxygram.lol",
    "port": 443,
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
@@ -446,6 +456,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "ir.engematica.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir.envytations.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -457,6 +472,11 @@
   },
   {
    "server": "ir.genesbyjohn.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.gnutella2.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -546,6 +566,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "lotfan-test.ir.zigoraaat.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "ma.hastim.co.uk",
    "port": 443,
    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -591,6 +616,11 @@
    "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
   },
   {
+   "server": "media11.happtg.org",
+   "port": 443,
+   "secret": "eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275"
+  },
+  {
    "server": "media6.happtg.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
@@ -599,11 +629,6 @@
    "server": "media9.happtg.org",
    "port": 443,
    "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
-  },
-  {
-   "server": "megaconnect.click",
-   "port": 443,
-   "secret": "ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275"
   },
   {
    "server": "mio.mozitop.co.uk",
@@ -906,6 +931,11 @@
    "secret": "ddd8466d7adb845d1791ff21b3b403e3da"
   },
   {
+   "server": "tg4.quki-hub.com",
+   "port": 9443,
+   "secret": "58737358dee675be48618b79ece66f8c"
+  },
+  {
    "server": "topproxt.asia",
    "port": 443,
    "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
@@ -981,5 +1011,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 196
+ "count": 202
 }
