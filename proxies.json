@@ -11,6 +11,11 @@
    "secret": "ee67738e5814e33556092d27827a2264ef62726f777365722e79616e6465782e636f6d"
   },
   {
+   "server": "1.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "116.202.189.213",
    "port": 8443,
    "secret": "dd79e344818749bd7ac519130220c25d09"
@@ -141,7 +146,17 @@
    "secret": "ee46d3e4920fa1a724f0c726522fbd039f6b726f74626f742e7275"
   },
   {
+   "server": "65.108.123.76",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.21.227.200",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.21.83.248",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -164,11 +179,6 @@
    "server": "78.135.73.33",
    "port": 443,
    "secret": "ee897867104f62fbcd5445d07208de66047777772e646e732d73686f702e7275"
-  },
-  {
-   "server": "79.137.196.223",
-   "port": 15443,
-   "secret": "ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "79.137.196.223",
@@ -214,11 +224,6 @@
    "server": "akenai.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
-  },
-  {
-   "server": "alhosein.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "api2.medhata.org",
@@ -311,16 +316,6 @@
    "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
   },
   {
-   "server": "din5gli2.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "dingi3.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "dns.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -354,6 +349,16 @@
    "server": "for-persian.speedtestcdn.info",
    "port": 8443,
    "secret": "dd71889eb517157210d61df330a5f11d95"
+  },
+  {
+   "server": "for.iranian.ir.zigoraaat.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "for.you.ir.zigoraaat.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "free.loveproxy.xyz",
@@ -471,11 +476,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.flipme.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.gnutella2.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -497,11 +497,6 @@
   },
   {
    "server": "ir.naganuma.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.panhandleflyers.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -986,5 +981,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 197
+ "count": 196
 }
