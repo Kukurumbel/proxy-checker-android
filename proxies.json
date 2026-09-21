@@ -16,11 +16,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "116.202.189.213",
-   "port": 8443,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
-  },
-  {
    "server": "135.181.129.162",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -341,6 +336,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "for-ir.speedtestcdn.info",
+   "port": 8443,
+   "secret": "dd71889eb517157210d61df330a5f11d95"
+  },
+  {
    "server": "for-persian.collegealabama.co.uk",
    "port": 443,
    "secret": "ee71889eb517157210d61df330a5f11d956d656469612e737465616d706f77657265642e636f6d"
@@ -452,6 +452,11 @@
   },
   {
    "server": "ir.ataman.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.atcfirealarms.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -691,6 +696,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "panir.begir.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "persian.gulf.ir.olsjddhf.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -781,11 +791,6 @@
    "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
   },
   {
-   "server": "Rudmoain.co.uk.",
-   "port": 443,
-   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "s.rkn.tg",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
@@ -851,11 +856,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "sorat-bala.ir.paeez-amad.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "Speed-speed.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -869,11 +869,6 @@
    "server": "Strait-of-Hormuz.ir.jursdheks.info",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "Suodbo.co.uk.",
-   "port": 443,
-   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "support.infinityhalo.co.uk.",
@@ -926,21 +921,6 @@
    "secret": "ee17e6d4e0d143817328e4341210e9bb3a636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "uptime.speed-benz.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "vetka1.v6n.tech",
-   "port": 443,
-   "secret": "ee0a69f3e3a846d22f3ff61daec53055787777772e626f6f6b696e672e636f6d"
-  },
-  {
-   "server": "vetka2.v6n.tech",
-   "port": 443,
-   "secret": "ee4822c1c11ee8d9b3cd008e18822415917777772e626f6f6b696e672e636f6d"
-  },
-  {
    "server": "ving.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -981,5 +961,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 196
+ "count": 192
 }
