@@ -38,6 +38,11 @@
   {
    "server": "167.172.65.181",
    "port": 443,
+   "secret": "0123456789abcdef0123456789abcdef"
+  },
+  {
+   "server": "167.172.65.181",
+   "port": 443,
    "secret": "eef7b864e15b8f1686c773a8d6a22bc3747777772e636f6d756466636172652e636f6d"
   },
   {
@@ -141,6 +146,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "68.183.119.181",
+   "port": 443,
+   "secret": "ea8034df6c7da021741fbc07d671e7e9"
+  },
+  {
    "server": "77.239.105.219",
    "port": 443,
    "secret": "ee6c083120393936fb881456da3ec073777777772e676f6f676c652e636f6d"
@@ -166,6 +176,11 @@
    "secret": "ee64cb94437cedd507cf9c4d83fbc229287777772e636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "79.137.196.223",
+   "port": 18443,
+   "secret": "eefd7ec32323aa5b4fc5cdd6b7dd28836a7777772e636c6f7564666c6172652e636f6d"
+  },
+  {
    "server": "91.107.160.196",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -184,6 +199,11 @@
    "server": "a27b0a.hopwire.io",
    "port": 443,
    "secret": "ee18f8c3028bf752a74732a9a2fd99ab4d6132376230612e686f70776972652e696f"
+  },
+  {
+   "server": "ad1.arixo.shop",
+   "port": 443,
+   "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
   },
   {
    "server": "akenai.top",
@@ -214,6 +234,11 @@
    "server": "ardesvpn1.ru",
    "port": 8443,
    "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+  },
+  {
+   "server": "are-are-are.ir.paeez-amad.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "as.mkim.click",
@@ -316,6 +341,11 @@
    "secret": "eea14e59f8fda21c858d772e0fd261ad156635666533362e70726f78796875622e636f"
   },
   {
+   "server": "fasle-zivaye.ir.paeez-amad.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "for-persian.collegealabama.co.uk",
    "port": 443,
    "secret": "ee71889eb517157210d61df330a5f11d956d656469612e737465616d706f77657265642e636f6d"
@@ -369,11 +399,6 @@
    "server": "gov.grasic.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "granite.mtproxy.zip",
-   "port": 443,
-   "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275"
   },
   {
    "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
@@ -831,11 +856,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "sioms.co.uk",
-   "port": 25565,
-   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "sorat-bala.ir.paeez-amad.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -966,5 +986,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 193
+ "count": 197
 }
