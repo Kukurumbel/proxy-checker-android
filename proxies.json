@@ -16,6 +16,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "13.143.234.165",
+   "port": 443,
+   "secret": "dd81e82641c388288e5705431f30bba236"
+  },
+  {
    "server": "135.181.129.162",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -169,6 +174,11 @@
    "server": "78.135.73.33",
    "port": 443,
    "secret": "ee897867104f62fbcd5445d07208de66047777772e646e732d73686f702e7275"
+  },
+  {
+   "server": "78.17.11.127",
+   "port": 443,
+   "secret": "dd19805c64f41dcdf88c815272b6b2d15e"
   },
   {
    "server": "79.137.196.223",
@@ -461,11 +471,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "ir.bazzawill.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.closcloud.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -511,11 +516,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.rebol.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.u-lock-it.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -538,6 +538,11 @@
   {
    "server": "jhndoes.co.uk.",
    "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "just-iraninan.com.the-nice-mtproto.info.",
+   "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -1001,5 +1006,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 200
+ "count": 201
 }
