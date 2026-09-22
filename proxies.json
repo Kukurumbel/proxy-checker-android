@@ -21,11 +21,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "135.181.74.147",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "135.181.74.178",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -141,6 +136,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.222.229",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.21.227.200",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -181,7 +181,7 @@
    "secret": "eefd7ec32323aa5b4fc5cdd6b7dd28836a7777772e636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "91.107.160.196",
+   "server": "91.107.140.144",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -239,6 +239,11 @@
    "server": "aseman.lunavane.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "at1.cdntube.monster",
+   "port": 443,
+   "secret": "ee77f3f762df1311d3b732245c9f0e30e16174312e63646e747562652e6d6f6e73746572"
   },
   {
    "server": "bastani.mikhay.co.uk",
@@ -322,6 +327,11 @@
   },
   {
    "server": "e3fand.fesgheli.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "exiscos.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
@@ -416,11 +426,6 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "HI.PIGLIO.ONLINE",
-   "port": 69,
-   "secret": "ee90070792574663c0f6bd34279078aa5b68692e7069676c696f2e6f6e6c696e65"
-  },
-  {
    "server": "hl.routefastnet.online",
    "port": 443,
    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
@@ -454,6 +459,11 @@
    "server": "ir.awedsj.info.",
    "port": 9443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "ir.bazzawill.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "ir.closcloud.co.uk",
@@ -499,6 +509,26 @@
    "server": "ir.pbdjarum.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.rebol.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.u-lock-it.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.xeonxu.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "iran.miosen.cyou",
+   "port": 2096,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "jadid.zhigool.co.uk",
@@ -604,6 +634,16 @@
    "server": "media6.happtg.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
+  },
+  {
+   "server": "media6.happtg.org",
+   "port": 443,
+   "secret": "ee7391242569590e01416101927d38b565686f66662e7275"
+  },
+  {
+   "server": "media7.happtg.org",
+   "port": 443,
+   "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275"
   },
   {
    "server": "media9.happtg.org",
@@ -754,6 +794,11 @@
    "server": "proxy2.legendary.ac",
    "port": 443,
    "secret": "dda4c7c07709a2c6a29fca4fc63b1ae411"
+  },
+  {
+   "server": "public.benzcls.co.uk",
+   "port": 2096,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "public2.mtproxygram.lol",
@@ -956,5 +1001,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 191
+ "count": 200
 }
