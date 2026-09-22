@@ -261,11 +261,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "best.ir.agrescjarkahdgs.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e6961626364656667682e696a"
-  },
-  {
    "server": "bimeh.my-moon.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -329,11 +324,6 @@
    "server": "dns.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "drill.gizamoff.trade",
-   "port": 69,
-   "secret": "eebde76db082bb05e04cb5c63a32b5853d6472696c6c2e67697a616d6f66662e7472616465"
   },
   {
    "server": "e3fand.fesgheli.co.uk.",
@@ -404,6 +394,11 @@
    "server": "fresh.t-proxy.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "get.speedtestcdn.info",
+   "port": 8443,
+   "secret": "dd71889eb517157210d61df330a5f11d95"
   },
   {
    "server": "ggru3.mtproxygram.lol",
@@ -696,6 +691,11 @@
    "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275"
   },
   {
+   "server": "nasho.poolaki.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "New.nchnch.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -951,6 +951,11 @@
    "secret": "58737358dee675be48618b79ece66f8c"
   },
   {
+   "server": "tixon2.ani-keyhole.online",
+   "port": 853,
+   "secret": "eed26670190432c38ba532520b98c7ed437469786f6e322e616e692d6b6579686f6c652e6f6e6c696e65"
+  },
+  {
    "server": "topproxt.asia",
    "port": 443,
    "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
@@ -1006,5 +1011,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 201
+ "count": 202
 }
