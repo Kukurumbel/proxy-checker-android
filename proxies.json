@@ -191,6 +191,11 @@
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
   },
   {
+   "server": "akenai.tg",
+   "port": 853,
+   "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+  },
+  {
    "server": "akenai.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
@@ -441,6 +446,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "ir.bazzawill.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir.closcloud.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -482,6 +492,11 @@
   },
   {
    "server": "ir.pbdjarum.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.rebol.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -726,6 +741,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "plus.geo-cdn.ru",
+   "port": 443,
+   "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4"
+  },
+  {
    "server": "pofak.mikhay.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -774,6 +794,11 @@
    "server": "public2.mtproxygram.lol",
    "port": 443,
    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d"
+  },
+  {
+   "server": "pulse.lovely.lat",
+   "port": 443,
+   "secret": "ee6f8c7d9193585ada7d22acf074ad6d976d2e6265626f6f2e7275"
   },
   {
    "server": "puot.mozitop.co.uk",
@@ -849,6 +874,11 @@
    "server": "sahel.saheledarya.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "server.syscloudio.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "severjadid.co.uk",
@@ -966,5 +996,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 193
+ "count": 199
 }
