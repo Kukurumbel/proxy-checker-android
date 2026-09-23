@@ -21,16 +21,6 @@
    "secret": "dd81e82641c388288e5705431f30bba236"
   },
   {
-   "server": "135.181.129.162",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "135.181.74.178",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "136.243.195.203",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -61,11 +51,6 @@
    "secret": "fad015155defc3a8bd8ebc16b5d2b300"
   },
   {
-   "server": "176.65.135.69",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "185.188.30.167",
    "port": 9443,
    "secret": "ddede656ebfa0f59939536e22518cb1be3"
@@ -76,9 +61,9 @@
    "secret": "ede656ebfa0f59939536e22518cb1be3"
   },
   {
-   "server": "194.120.230.26",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+   "server": "2.namenewok.info",
+   "port": 2096,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "208.87.242.223",
@@ -131,22 +116,7 @@
    "secret": "ee46d3e4920fa1a724f0c726522fbd039f6b726f74626f742e7275"
   },
   {
-   "server": "65.108.123.76",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.21.222.229",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.227.200",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.83.248",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -159,6 +129,11 @@
    "server": "77.239.105.219",
    "port": 443,
    "secret": "ee6c083120393936fb881456da3ec073777777772e676f6f676c652e636f6d"
+  },
+  {
+   "server": "77.42.56.66",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "77.91.86.33",
@@ -186,11 +161,6 @@
    "secret": "eefd7ec32323aa5b4fc5cdd6b7dd28836a7777772e636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "91.107.140.144",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "91.98.97.225",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -201,14 +171,14 @@
    "secret": "ee7f568e2c2b75b68b3075d35008aa37357777772e676f6f676c652e636f6d"
   },
   {
+   "server": "94.130.15.206",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "ad1.arixo.shop",
    "port": 443,
    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
-  },
-  {
-   "server": "akenai.top",
-   "port": 853,
-   "secret": "7lTOMw5GkMwpfSsDH_PyiLBtdC5ha2VuYWkuY2xpY2s"
   },
   {
    "server": "akenai.top",
@@ -286,6 +256,16 @@
    "secret": "ee97247322005404a2c7a84d082aace21b686f66662e7275"
   },
   {
+   "server": "cdn6.cdnwave.org",
+   "port": 443,
+   "secret": "ee7391242569590e01416101927d38b565686f66662e7275"
+  },
+  {
+   "server": "cdn7.cdnwave.org",
+   "port": 443,
+   "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275"
+  },
+  {
    "server": "cdn7.cdnwave.org",
    "port": 443,
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
@@ -324,6 +304,11 @@
    "server": "dokhtar.nanaz.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "e.networkmodeai.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "e3fand.fesgheli.co.uk.",
@@ -386,11 +371,6 @@
    "secret": "ee57639673cce7f03e351b8a5a857eea6c62726f777365722e79616e6465782e7275"
   },
   {
-   "server": "freeon.name",
-   "port": 443,
-   "secret": "dded1a5a7f339b8ff9840d52df12382970"
-  },
-  {
    "server": "fresh.t-proxy.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -411,11 +391,6 @@
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "gov.grasic.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -431,19 +406,9 @@
    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
   },
   {
-   "server": "hyper.sosproxy.space",
-   "port": 443,
-   "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d"
-  },
-  {
    "server": "im.dumaniltd.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "indigogift.fun",
-   "port": 8443,
-   "secret": "c8295cd1d7ba6bd61879c3d1d77f090a"
   },
   {
    "server": "ir.ataman.info",
@@ -981,5 +946,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 196
+ "count": 189
 }
