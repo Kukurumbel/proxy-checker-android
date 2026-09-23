@@ -126,11 +126,6 @@
    "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ"
   },
   {
-   "server": "64.188.65.63",
-   "port": 443,
-   "secret": "21f80d43f4bbd90405cecc8435645867"
-  },
-  {
    "server": "64.7.198.172",
    "port": 443,
    "secret": "ee46d3e4920fa1a724f0c726522fbd039f6b726f74626f742e7275"
@@ -326,6 +321,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "dokhtar.nanaz.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "e3fand.fesgheli.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -418,11 +418,6 @@
   {
    "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
    "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "havashenasi.my-moon.co.uk.",
-   "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -554,11 +549,6 @@
    "server": "kima.rabotaet.online",
    "port": 443,
    "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
-  },
-  {
-   "server": "komi3er.fesgheli.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "kostyanchekloh.lol",
@@ -746,11 +736,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "pesar.nanaz.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "ping-khoob.ir.paeez-amad.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -791,11 +776,6 @@
    "secret": "ee54e6e41e680ad7765a0679a5a24eb49b79612e7275"
   },
   {
-   "server": "proxy.pushvpn.space",
-   "port": 443,
-   "secret": "ee27c7f948bc8c223e13ae240911e783ab7777772e636c6f7564666c6172652e636f6d"
-  },
-  {
    "server": "proxy2.legendary.ac",
    "port": 443,
    "secret": "dda4c7c07709a2c6a29fca4fc63b1ae411"
@@ -814,11 +794,6 @@
    "server": "puot.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "qadim.zhigool.co.uk",
-   "port": 22,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "quickrouteapp.xyz",
@@ -894,11 +869,6 @@
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "shahi.shambelile.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "speed.runserver.co.uk.",
@@ -1011,5 +981,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 202
+ "count": 196
 }
