@@ -131,6 +131,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.227.198",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "68.183.119.181",
    "port": 443,
    "secret": "ea8034df6c7da021741fbc07d671e7e9"
@@ -159,11 +164,6 @@
    "server": "79.137.196.223",
    "port": 2053,
    "secret": "eeee1701dff011da0ee1313d584fc565187777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "79.137.196.223",
-   "port": 16443,
-   "secret": "ee64cb94437cedd507cf9c4d83fbc229287777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "79.137.196.223",
@@ -462,6 +462,11 @@
   },
   {
    "server": "ir.lv223.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.macauley.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -981,5 +986,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 196
+ "count": 197
 }
