@@ -62,6 +62,11 @@
   },
   {
    "server": "2.26.83.93",
+   "port": 2399,
+   "secret": "ddb1c63e3dbcd987139191f422a0dbade6"
+  },
+  {
+   "server": "2.26.83.93",
    "port": 2401,
    "secret": "ee15f939d5e1581e8b2754efd673946cb47777772e77696c64626572726965732e7275"
   },
@@ -144,11 +149,6 @@
    "server": "77.91.86.33",
    "port": 8888,
    "secret": "0e2394e271060d57c383231466fdb283"
-  },
-  {
-   "server": "78.135.73.33",
-   "port": 443,
-   "secret": "ee897867104f62fbcd5445d07208de66047777772e646e732d73686f702e7275"
   },
   {
    "server": "78.17.11.127",
@@ -336,6 +336,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "files.maggic.biz",
+   "port": 443,
+   "secret": "ee122672709853ea1b00634ce2f649912f66696c65732e6d61676769632e62697a"
+  },
+  {
    "server": "for-ir.speedtestcdn.info",
    "port": 8443,
    "secret": "dd71889eb517157210d61df330a5f11d95"
@@ -371,6 +376,11 @@
    "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
   },
   {
+   "server": "free.user.bizsprocket.com",
+   "port": 443,
+   "secret": "ee862a678d40377cde49c74c1a63e8ede6667265652e757365722e62697a7370726f636b65742e636f6d"
+  },
+  {
    "server": "free1.gram.blog",
    "port": 443,
    "secret": "eeeb46ebb806e03733786c662fdb27dac062726f777365722e79616e6465782e7275"
@@ -386,11 +396,6 @@
    "secret": "ee57639673cce7f03e351b8a5a857eea6c62726f777365722e79616e6465782e7275"
   },
   {
-   "server": "fresh.t-proxy.info.",
-   "port": 25565,
-   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "get.speedtestcdn.info",
    "port": 8443,
    "secret": "dd71889eb517157210d61df330a5f11d95"
@@ -401,19 +406,9 @@
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
   },
   {
-   "server": "googel.alo-otp.info.",
-   "port": 25565,
-   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "help.meow0.co.uk",
-   "port": 22,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "hl.routefastnet.online",
@@ -986,5 +981,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 197
+ "count": 196
 }
