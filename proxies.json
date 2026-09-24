@@ -171,11 +171,6 @@
    "secret": "eefd7ec32323aa5b4fc5cdd6b7dd28836a7777772e636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "91.98.97.225",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "94.103.169.103",
    "port": 443,
    "secret": "ee7f568e2c2b75b68b3075d35008aa37357777772e676f6f676c652e636f6d"
@@ -439,11 +434,6 @@
    "server": "ir.atcfirealarms.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.awedsj.info.",
-   "port": 9443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "ir.bazzawill.info",
@@ -996,5 +986,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 199
+ "count": 197
 }
