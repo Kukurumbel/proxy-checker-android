@@ -256,6 +256,11 @@
    "secret": "eececef6563bce080cccda8dcc61cedbf663646e2e6a7364656c6976722e6e6574"
   },
   {
+   "server": "cdn.mowork.ru",
+   "port": 443,
+   "secret": "eececef6563bce080cccda8dcc61cedbf663646e2e6a7364656c6976722e6e6574"
+  },
+  {
    "server": "cdn10.cdnwave.org",
    "port": 443,
    "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
@@ -406,11 +411,6 @@
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
   },
   {
-   "server": "gov.grasic.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -476,8 +476,8 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.my-pv.info",
-   "port": 443,
+   "server": "ir.macauley.info",
+   "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
@@ -554,11 +554,6 @@
    "server": "kostyanchekloh.lol",
    "port": 443,
    "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275"
-  },
-  {
-   "server": "kria4.snappytuppy.icu",
-   "port": 443,
-   "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375"
   },
   {
    "server": "l0vie.delroba.co.uk.",
@@ -821,11 +816,6 @@
    "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
   },
   {
-   "server": "s.rkn.tg",
-   "port": 853,
-   "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
-  },
-  {
    "server": "s01.neo-trading.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
@@ -1006,5 +996,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 201
+ "count": 199
 }
