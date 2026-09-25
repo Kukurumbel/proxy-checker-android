@@ -406,6 +406,11 @@
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
   },
   {
+   "server": "gov.grasic.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "Hamrah.mci.ir.pugfhtrdyted.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -468,6 +473,11 @@
   {
    "server": "ir.lv223.info",
    "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.my-pv.info",
+   "port": 443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
@@ -996,5 +1006,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 199
+ "count": 201
 }
