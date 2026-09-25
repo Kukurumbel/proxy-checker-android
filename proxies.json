@@ -11,11 +11,6 @@
    "secret": "dd81e82641c388288e5705431f30bba236"
   },
   {
-   "server": "136.243.195.203",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "167.172.65.181",
    "port": 443,
    "secret": "0123456789abcdef0123456789abcdef"
@@ -41,16 +36,6 @@
    "secret": "fad015155defc3a8bd8ebc16b5d2b300"
   },
   {
-   "server": "185.188.30.167",
-   "port": 9443,
-   "secret": "ddede656ebfa0f59939536e22518cb1be3"
-  },
-  {
-   "server": "185.188.30.167",
-   "port": 9443,
-   "secret": "ede656ebfa0f59939536e22518cb1be3"
-  },
-  {
    "server": "2.26.83.93",
    "port": 2399,
    "secret": "ddb1c63e3dbcd987139191f422a0dbade6"
@@ -59,6 +44,11 @@
    "server": "2.26.83.93",
    "port": 2401,
    "secret": "ee15f939d5e1581e8b2754efd673946cb47777772e77696c64626572726965732e7275"
+  },
+  {
+   "server": "2.27.105.19",
+   "port": 443,
+   "secret": "ee90b73e408980df9057f816d0399be261636c6f75642e6d61696c2e7275"
   },
   {
    "server": "2.namenewok.info",
@@ -104,11 +94,6 @@
    "server": "51.250.81.95",
    "port": 443,
    "secret": "eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974"
-  },
-  {
-   "server": "62.238.127.80",
-   "port": 443,
-   "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ"
   },
   {
    "server": "64.7.198.172",
@@ -164,6 +149,16 @@
    "server": "79.137.196.223",
    "port": 18443,
    "secret": "eefd7ec32323aa5b4fc5cdd6b7dd28836a7777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "82.47.62.82",
+   "port": 443,
+   "secret": "eea63b9ba526e9762f138e4eee189bd48f636c6f75642e6d61696c2e7275"
+  },
+  {
+   "server": "85.9.221.39",
+   "port": 443,
+   "secret": "ee4f78aa8b9f346ca2aba542dd8ea658f07777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "94.103.169.103",
@@ -256,11 +251,6 @@
    "secret": "eececef6563bce080cccda8dcc61cedbf663646e2e6a7364656c6976722e6e6574"
   },
   {
-   "server": "cdn10.cdnwave.org",
-   "port": 443,
-   "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
-  },
-  {
    "server": "cdn12.cdnwave.org",
    "port": 443,
    "secret": "ee97247322005404a2c7a84d082aace21b686f66662e7275"
@@ -304,6 +294,11 @@
    "server": "dns.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "dns.vdl.lat",
+   "port": 443,
+   "secret": "eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174"
   },
   {
    "server": "dokhtar.nanaz.co.uk",
@@ -531,11 +526,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "khaste.delroba.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "kima.rabotaet.online",
    "port": 443,
    "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
@@ -544,11 +534,6 @@
    "server": "kostyanchekloh.lol",
    "port": 443,
    "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275"
-  },
-  {
-   "server": "l0vie.delroba.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "Lashboy.muzanesghy.co.uk",
@@ -621,11 +606,6 @@
    "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275"
   },
   {
-   "server": "media9.happtg.org",
-   "port": 443,
-   "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
-  },
-  {
    "server": "mio.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -634,6 +614,11 @@
    "server": "mkima.davay.click",
    "port": 443,
    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
+  },
+  {
+   "server": "moonmy.world",
+   "port": 443,
+   "secret": "eeb64de4f3e91028c44f96417037706223636c6f7564666c6172652e636f6d"
   },
   {
    "server": "mrak.store",
@@ -746,11 +731,6 @@
    "secret": "eececef6563bce080cccda8dcc61cedbf6727573742d6c616e672e6f7267"
   },
   {
-   "server": "proxy.deal-market.xyz",
-   "port": 443,
-   "secret": "eeaedf1835244c5bd42c7698f35b7cd18870726f78792e6465616c2d6d61726b65742e78797a"
-  },
-  {
    "server": "proxy.growthtrade.eu",
    "port": 443,
    "secret": "ee54e6e41e680ad7765a0679a5a24eb49b79612e7275"
@@ -796,6 +776,11 @@
    "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
   },
   {
+   "server": "rus-media-24.ru",
+   "port": 443,
+   "secret": "eef01c6a138d310b676c54dbf21603d4457275732d6d656469612d32342e7275"
+  },
+  {
    "server": "s01.neo-trading.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
@@ -821,11 +806,6 @@
    "secret": "eef4f43f6c7b01f2f5f5644af6473a61d0686f66662e7275"
   },
   {
-   "server": "s1.assetflux.org",
-   "port": 443,
-   "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
-  },
-  {
    "server": "s5.assetflux.org",
    "port": 443,
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
@@ -834,11 +814,6 @@
    "server": "s8.assetflux.org",
    "port": 443,
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
-  },
-  {
-   "server": "sahel.saheledarya.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "server.syscloudio.co.uk",
@@ -906,16 +881,6 @@
    "secret": "7pkV8ve_jWaaVhHokJWFnIphcGkuYXZpdG8ucnU"
   },
   {
-   "server": "tg1.quki-hub.com",
-   "port": 9443,
-   "secret": "d8466d7adb845d1791ff21b3b403e3da"
-  },
-  {
-   "server": "tg1.quki-hub.com",
-   "port": 9443,
-   "secret": "ddd8466d7adb845d1791ff21b3b403e3da"
-  },
-  {
    "server": "tg4.quki-hub.com",
    "port": 9443,
    "secret": "58737358dee675be48618b79ece66f8c"
@@ -946,14 +911,14 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "white.antony-gordon.co.uk",
+   "port": 2096,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "www2.acientirani-uor4.ir",
    "port": 443,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
-   "server": "x.shmelproxy.top",
-   "port": 443,
-   "secret": "7vwmEv9lpVf93x0bM0OV7yN5dWctbGluay5ydQ"
   },
   {
    "server": "x.shmelproxy.top",
@@ -981,5 +946,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 196
+ "count": 189
 }
