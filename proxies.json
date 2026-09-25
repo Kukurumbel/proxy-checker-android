@@ -1,16 +1,6 @@
 {
  "proxies": [
   {
-   "server": "098g.mtproxygram.pro",
-   "port": 853,
-   "secret": "ee82ec8023c4a68532d536b94c53c8a7ba62726f777365722e79616e6465782e636f6d"
-  },
-  {
-   "server": "098u.mtproxygram.pro",
-   "port": 853,
-   "secret": "ee67738e5814e33556092d27827a2264ef62726f777365722e79616e6465782e636f6d"
-  },
-  {
    "server": "1.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -167,6 +157,11 @@
   },
   {
    "server": "79.137.196.223",
+   "port": 17443,
+   "secret": "ee619628651747706ea93bfbd344ba3fc17777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "79.137.196.223",
    "port": 18443,
    "secret": "eefd7ec32323aa5b4fc5cdd6b7dd28836a7777772e636c6f7564666c6172652e636f6d"
   },
@@ -284,11 +279,6 @@
    "server": "cdn7.cdnwave.org",
    "port": 443,
    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
-  },
-  {
-   "server": "cdn8.cdnwave.org",
-   "port": 443,
-   "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
    "server": "connect.jlpokcu.cloud",
@@ -611,11 +601,6 @@
    "secret": "eea8130e97ecc6f8ff72c728abe36cae886d656469612e657870657274686f73742e73686f70"
   },
   {
-   "server": "media10.happtg.org",
-   "port": 443,
-   "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
-  },
-  {
    "server": "media11.happtg.org",
    "port": 443,
    "secret": "eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275"
@@ -644,11 +629,6 @@
    "server": "mio.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "mizaneshgh2.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "mkima.davay.click",
@@ -856,11 +836,6 @@
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
-   "server": "s9.assetflux.org",
-   "port": 443,
-   "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
-  },
-  {
    "server": "sahel.saheledarya.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -874,6 +849,11 @@
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "sioms.co.uk",
+   "port": 25565,
+   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "speed-ir.juhrsksde.info",
@@ -919,6 +899,11 @@
    "server": "t.meow-network.com",
    "port": 443,
    "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
+  },
+  {
+   "server": "tg-proxy.link",
+   "port": 443,
+   "secret": "7pkV8ve_jWaaVhHokJWFnIphcGkuYXZpdG8ucnU"
   },
   {
    "server": "tg1.quki-hub.com",
@@ -996,5 +981,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 199
+ "count": 196
 }
