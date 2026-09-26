@@ -471,11 +471,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.naganuma.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.pbdjarum.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -603,6 +598,16 @@
   {
    "server": "mofid.saheledarya.co.uk.",
    "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "moh1.benzcls.co.uk",
+   "port": 2096,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "moh2.benzcls.co.uk",
+   "port": 2096,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -904,11 +909,6 @@
    "server": "ykima.davay.click",
    "port": 443,
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
-  },
-  {
-   "server": "zzz.api-metrics-sync.xyz",
-   "port": 443,
-   "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
  "count": 182
