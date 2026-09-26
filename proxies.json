@@ -81,11 +81,6 @@
    "secret": "e2e81f7ff44c980f3aab04f62a3923fe"
   },
   {
-   "server": "217.138.215.102",
-   "port": 443,
-   "secret": "ee8357954a3df5c26e32a7b8a7978c3f107777772e636974696c696e6b2e7275"
-  },
-  {
    "server": "31.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -256,11 +251,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "cdn.coreunit.ru",
-   "port": 443,
-   "secret": "eececef6563bce080cccda8dcc61cedbf663646e2e6a7364656c6976722e6e6574"
-  },
-  {
    "server": "cdn.mowork.ru",
    "port": 443,
    "secret": "eececef6563bce080cccda8dcc61cedbf663646e2e6a7364656c6976722e6e6574"
@@ -353,7 +343,7 @@
   {
    "server": "for-iranian-users.ir.gole-baghche.info.",
    "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "for-persian.collegealabama.co.uk",
@@ -696,16 +686,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "persian.gulf.ir.olsjddhf.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "ping-khoob.ir.paeez-amad.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "plus.geo-cdn.ru",
    "port": 443,
    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4"
@@ -729,11 +709,6 @@
    "server": "premium.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "procloud.mowork.ru",
-   "port": 8443,
-   "secret": "eececef6563bce080cccda8dcc61cedbf6727573742d6c616e672e6f7267"
   },
   {
    "server": "proxy.growthtrade.eu",
@@ -861,11 +836,6 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "Strait-of-Hormuz.ir.jursdheks.info",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "support.infinityhalo.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -926,8 +896,8 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "www2.acientirani-uor4.ir",
-   "port": 443,
+   "server": "wow.wow.wow.gole-baghche.info.",
+   "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
@@ -956,5 +926,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 191
+ "count": 185
 }
