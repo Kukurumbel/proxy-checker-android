@@ -76,11 +76,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "213.176.112.44",
-   "port": 443,
-   "secret": "e2e81f7ff44c980f3aab04f62a3923fe"
-  },
-  {
    "server": "31.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -94,11 +89,6 @@
    "server": "41.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "51.250.81.95",
-   "port": 443,
-   "secret": "eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974"
   },
   {
    "server": "64.7.198.172",
@@ -421,6 +411,11 @@
    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
   },
   {
+   "server": "honar.saheledarya.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "im.dumaniltd.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -511,11 +506,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "jadid.zhigool.co.uk",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
    "server": "jhndoes.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -544,11 +534,6 @@
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "lotfan-test.ir.zigoraaat.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "mamadali.co.uk",
@@ -614,6 +599,11 @@
    "server": "mkima.davay.click",
    "port": 443,
    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
+  },
+  {
+   "server": "mofid.saheledarya.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "moonmy.world",
@@ -841,16 +831,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "surfing.suslik-cloud.homes",
-   "port": 443,
-   "secret": "eed7f61466f824eafe116a533553e01bca73757266696e672e7375736c696b2d636c6f75642e686f6d6573"
-  },
-  {
-   "server": "sync.lovely.lat",
-   "port": 443,
-   "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
-  },
-  {
    "server": "t.meow-network.com",
    "port": 443,
    "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
@@ -879,6 +859,11 @@
    "server": "tproxy.mom",
    "port": 8090,
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
+  },
+  {
+   "server": "ultra.mishutkin.click",
+   "port": 443,
+   "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
   },
   {
    "server": "uplink.techlibrary.ink",
@@ -926,5 +911,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 185
+ "count": 182
 }
