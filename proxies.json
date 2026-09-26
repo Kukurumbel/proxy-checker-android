@@ -351,6 +351,11 @@
    "secret": "dd71889eb517157210d61df330a5f11d95"
   },
   {
+   "server": "for-iranian-users.ir.gole-baghche.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
    "server": "for-persian.collegealabama.co.uk",
    "port": 443,
    "secret": "ee71889eb517157210d61df330a5f11d956d656469612e737465616d706f77657265642e636f6d"
@@ -429,11 +434,6 @@
    "server": "im.dumaniltd.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "ir.ataman.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "ir.atcfirealarms.co.uk",
