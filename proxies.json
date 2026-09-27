@@ -231,6 +231,11 @@
    "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
   },
   {
+   "server": "day.vtoroe-dyhanie.space",
+   "port": 443,
+   "secret": "ee2b4b155565df4307acfb18b632c3c9006461792e76746f726f652d647968616e69652e7370616365"
+  },
+  {
    "server": "dns.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -369,11 +374,6 @@
    "server": "im.dumaniltd.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "ir.atcfirealarms.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "ir.bazzawill.info",
@@ -604,6 +604,11 @@
    "server": "New.nchnch.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "night.vtoroe-dyhanie.space",
+   "port": 443,
+   "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f6e696768742e76746f726f652d647968616e69652e7370616365"
   },
   {
    "server": "nl.cdnflow.store",
@@ -876,5 +881,5 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   }
  ],
- "count": 175
+ "count": 176
 }
