@@ -66,11 +66,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "21.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "31.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -111,19 +106,9 @@
    "secret": "ea8034df6c7da021741fbc07d671e7e9"
   },
   {
-   "server": "77.239.105.219",
-   "port": 443,
-   "secret": "ee6c083120393936fb881456da3ec073777777772e676f6f676c652e636f6d"
-  },
-  {
    "server": "77.42.56.66",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "77.91.86.33",
-   "port": 8888,
-   "secret": "0e2394e271060d57c383231466fdb283"
   },
   {
    "server": "78.17.11.127",
@@ -506,6 +491,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "iran.mother.ir.jetish.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "jhndoes.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -654,6 +644,11 @@
    "server": "nocloudnew.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "nooshabe.mikhay.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "one.horizon555.co.uk",
@@ -921,5 +916,5 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   }
  ],
- "count": 184
+ "count": 183
 }
