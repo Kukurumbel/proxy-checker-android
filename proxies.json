@@ -28,11 +28,6 @@
   {
    "server": "168.100.9.222",
    "port": 8443,
-   "secret": "ee7f30f77969570bfaff559c4dc16c1f31736f75726365666f7267652e6e6574"
-  },
-  {
-   "server": "168.100.9.222",
-   "port": 8443,
    "secret": "ee840293847501928374650192837465323136382e3130302e392e323232"
   },
   {
@@ -81,11 +76,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "64.7.198.172",
-   "port": 443,
-   "secret": "ee46d3e4920fa1a724f0c726522fbd039f6b726f74626f742e7275"
-  },
-  {
    "server": "65.21.222.229",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -126,11 +116,6 @@
    "secret": "ee619628651747706ea93bfbd344ba3fc17777772e636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "79.137.196.223",
-   "port": 18443,
-   "secret": "eefd7ec32323aa5b4fc5cdd6b7dd28836a7777772e636c6f7564666c6172652e636f6d"
-  },
-  {
    "server": "82.47.62.82",
    "port": 443,
    "secret": "eea63b9ba526e9762f138e4eee189bd48f636c6f75642e6d61696c2e7275"
@@ -149,11 +134,6 @@
    "server": "94.130.15.206",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "ad1.arixo.shop",
-   "port": 443,
-   "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
   },
   {
    "server": "akenai.tg",
@@ -179,11 +159,6 @@
    "server": "ardesvpn1.ru",
    "port": 8443,
    "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
-  },
-  {
-   "server": "are-are-are.ir.paeez-amad.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "as.mkim.click",
@@ -251,6 +226,11 @@
    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275"
   },
   {
+   "server": "connect.mishutkin.click",
+   "port": 443,
+   "secret": "ee43b48df152c2246a45ec2f88ea52877264726976652e676f6f676c652e636f6d"
+  },
+  {
    "server": "connect.tproxyru.live",
    "port": 8980,
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
@@ -293,11 +273,6 @@
   {
    "server": "exiscos.co.uk.",
    "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "fasle-zivaye.ir.paeez-amad.info.",
-   "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -457,6 +432,16 @@
   },
   {
    "server": "ir.macauley.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.my-pv.info",
+   "port": 443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.naganuma.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -916,5 +901,5 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   }
  ],
- "count": 183
+ "count": 180
 }
