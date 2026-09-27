@@ -1,11 +1,6 @@
 {
  "proxies": [
   {
-   "server": "1.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "13.143.234.165",
    "port": 443,
    "secret": "dd81e82641c388288e5705431f30bba236"
@@ -21,14 +16,14 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "162.55.246.219",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "167.172.65.181",
    "port": 443,
    "secret": "0123456789abcdef0123456789abcdef"
-  },
-  {
-   "server": "168.100.9.222",
-   "port": 8443,
-   "secret": "ee840293847501928374650192837465323136382e3130302e392e323232"
   },
   {
    "server": "176.124.207.237",
@@ -61,17 +56,12 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "31.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "3etare.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "41.hide.newflamingodomain.co.uk",
+   "server": "65.108.29.22",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
@@ -214,11 +204,6 @@
    "server": "cdn7.cdnwave.org",
    "port": 443,
    "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275"
-  },
-  {
-   "server": "cdn7.cdnwave.org",
-   "port": 443,
-   "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
   },
   {
    "server": "connect.jlpokcu.cloud",
@@ -421,11 +406,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.grasic.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.lv223.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -491,6 +471,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "kabab.mikhay.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "khalije-ta-abad-fars.ir.pugfhtrdyted.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -509,6 +494,11 @@
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "mahi.poolaki.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "mamadali.co.uk",
@@ -544,11 +534,6 @@
    "server": "media11.happtg.org",
    "port": 443,
    "secret": "eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275"
-  },
-  {
-   "server": "media6.happtg.org",
-   "port": 443,
-   "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
   },
   {
    "server": "media6.happtg.org",
@@ -686,11 +671,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "proxy.growthtrade.eu",
-   "port": 443,
-   "secret": "ee54e6e41e680ad7765a0679a5a24eb49b79612e7275"
-  },
-  {
    "server": "proxy2.legendary.ac",
    "port": 443,
    "secret": "dda4c7c07709a2c6a29fca4fc63b1ae411"
@@ -764,11 +744,6 @@
    "server": "s5.assetflux.org",
    "port": 443,
    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
-  },
-  {
-   "server": "s8.assetflux.org",
-   "port": 443,
-   "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
    "server": "server.syscloudio.co.uk",
@@ -901,5 +876,5 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   }
  ],
- "count": 180
+ "count": 175
 }
