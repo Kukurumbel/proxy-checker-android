@@ -851,6 +851,11 @@
    "secret": "7pkV8ve_jWaaVhHokJWFnIphcGkuYXZpdG8ucnU"
   },
   {
+   "server": "tg.soika.site",
+   "port": 443,
+   "secret": "ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465"
+  },
+  {
    "server": "tg4.quki-hub.com",
    "port": 9443,
    "secret": "58737358dee675be48618b79ece66f8c"
@@ -916,5 +921,5 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   }
  ],
- "count": 183
+ "count": 184
 }
