@@ -17,6 +17,11 @@
   },
   {
    "server": "144.31.30.136",
+   "port": 2399,
+   "secret": "dda3535fdb71f236099942beca35a3c49a"
+  },
+  {
+   "server": "144.31.30.136",
    "port": 2400,
    "secret": "ee0175e37c982172ae73e2dc33692234b379612e7275"
   },
@@ -29,6 +34,16 @@
    "server": "167.172.65.181",
    "port": 443,
    "secret": "0123456789abcdef0123456789abcdef"
+  },
+  {
+   "server": "167.233.81.41",
+   "port": 443,
+   "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA"
+  },
+  {
+   "server": "167.233.89.249",
+   "port": 443,
+   "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA"
   },
   {
    "server": "176.124.207.237",
@@ -59,6 +74,11 @@
    "server": "208.87.242.223",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "212.147.241.136",
+   "port": 443,
+   "secret": "eeed0542373d8297f689458ff7dd1a4ba87777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "3etare.co.uk.",
@@ -111,6 +131,11 @@
    "secret": "ee4f78aa8b9f346ca2aba542dd8ea658f07777772e636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "87.58.149.247",
+   "port": 443,
+   "secret": "eeaaa7b0dbdfce2f2a3e7bc5563c900e297777772e636c6f7564666c6172652e636f6d"
+  },
+  {
    "server": "91.107.140.144",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -149,6 +174,11 @@
    "server": "akenai.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+  },
+  {
+   "server": "All-nets.ir.agianaytan.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "api2.medhata.org",
@@ -191,6 +221,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "bo.cryptocurency.wiki",
+   "port": 443,
+   "secret": "eeafff8ed2b758741b6872fb8b00f1230270782e63727970746f637572656e63792e77696b69"
+  },
+  {
    "server": "bo0ji.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -206,6 +241,11 @@
    "secret": "eececef6563bce080cccda8dcc61cedbf663646e2e6a7364656c6976722e6e6574"
   },
   {
+   "server": "cdn1.cdntide.org",
+   "port": 443,
+   "secret": "eeebfc2fcebe840e19f29cf87fadfaad78686f66662e7275"
+  },
+  {
    "server": "cdn12.cdnwave.org",
    "port": 443,
    "secret": "ee97247322005404a2c7a84d082aace21b686f66662e7275"
@@ -219,11 +259,6 @@
    "server": "cdn7.cdnwave.org",
    "port": 443,
    "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275"
-  },
-  {
-   "server": "connect.jlpokcu.cloud",
-   "port": 443,
-   "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275"
   },
   {
    "server": "connect.mishutkin.click",
@@ -326,16 +361,6 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "for.iranian.ir.zigoraaat.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "for.you.ir.zigoraaat.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "free.loveproxy.xyz",
    "port": 443,
    "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
@@ -399,6 +424,11 @@
    "server": "im.dumaniltd.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "ir.ariely.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "ir.bazzawill.info",
@@ -476,11 +506,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "just-iraninan.com.the-nice-mtproto.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "kabab.mikhay.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -504,6 +529,11 @@
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "lavashak.mikhay.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "mahi.poolaki.co.uk",
@@ -616,6 +646,11 @@
    "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f6e696768742e76746f726f652d647968616e69652e7370616365"
   },
   {
+   "server": "nl.cryptocurency.wiki",
+   "port": 443,
+   "secret": "ee6c00d7e9bc9ea00124538e23adb69dd670782e63727970746f637572656e63792e77696b69"
+  },
+  {
    "server": "nocloudnew.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -691,14 +726,14 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "px.cryptocurency.wiki",
+   "port": 443,
+   "secret": "eec7f1e2b45228a67eba9ab343a13ec17f70782e63727970746f637572656e63792e77696b69"
+  },
+  {
    "server": "quickrouteapp.xyz",
    "port": 443,
    "secret": "ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a"
-  },
-  {
-   "server": "reborn.rebirthconnect.com",
-   "port": 443,
-   "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
   },
   {
    "server": "relay.surfvpn.app",
@@ -754,6 +789,11 @@
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "shampoo.mikhay.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "should.be.wake.up.ir.yfdhjderkig.info.",
@@ -881,5 +921,5 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   }
  ],
- "count": 176
+ "count": 184
 }
