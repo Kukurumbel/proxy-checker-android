@@ -6,16 +6,6 @@
    "secret": "dd81e82641c388288e5705431f30bba236"
   },
   {
-   "server": "135.181.129.162",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "135.181.74.178",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "162.55.246.219",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -71,11 +61,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.21.227.198",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.21.234.30",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -84,11 +69,6 @@
    "server": "68.183.119.181",
    "port": 443,
    "secret": "ea8034df6c7da021741fbc07d671e7e9"
-  },
-  {
-   "server": "77.42.56.66",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "78.17.11.127",
@@ -116,14 +96,19 @@
    "secret": "ee4f78aa8b9f346ca2aba542dd8ea658f07777772e636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "91.107.140.144",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "94.103.169.103",
    "port": 443,
    "secret": "ee7f568e2c2b75b68b3075d35008aa37357777772e676f6f676c652e636f6d"
   },
   {
-   "server": "94.130.15.206",
+   "server": "ad1.arixo.shop",
    "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+   "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
   },
   {
    "server": "akenai.tg",
@@ -259,6 +244,11 @@
    "server": "e3fand.fesgheli.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "edge.core.sx",
+   "port": 443,
+   "secret": "ee2b457f1b779f27467e6401b49a1899f8656467652e636f72652e7378"
   },
   {
    "server": "exiscos.co.uk.",
@@ -646,11 +636,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "panir.begir.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "plus.geo-cdn.ru",
    "port": 443,
    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4"
@@ -861,6 +846,11 @@
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
+   "server": "www.appstoff.info",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "x.shmelproxy.top",
    "port": 443,
    "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
@@ -881,5 +871,5 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   }
  ],
- "count": 176
+ "count": 174
 }
