@@ -1,9 +1,24 @@
 {
  "proxies": [
   {
+   "server": "103.161.35.23",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "13.143.234.165",
    "port": 443,
    "secret": "dd81e82641c388288e5705431f30bba236"
+  },
+  {
+   "server": "135.181.74.178",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "144.31.30.136",
+   "port": 2400,
+   "secret": "ee0175e37c982172ae73e2dc33692234b379612e7275"
   },
   {
    "server": "162.55.246.219",
@@ -104,6 +119,21 @@
    "server": "94.103.169.103",
    "port": 443,
    "secret": "ee7f568e2c2b75b68b3075d35008aa37357777772e676f6f676c652e636f6d"
+  },
+  {
+   "server": "95.217.26.76",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "95.217.27.36",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "95.217.28.208",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "ad1.arixo.shop",
@@ -256,6 +286,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "fast.mishutkin.click",
+   "port": 443,
+   "secret": "eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d"
+  },
+  {
    "server": "files.maggic.biz",
    "port": 443,
    "secret": "ee122672709853ea1b00634ce2f649912f66696c65732e6d61676769632e62697a"
@@ -381,11 +416,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.envytations.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.envytations.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -431,19 +461,9 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.u-lock-it.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.xeonxu.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "iran.miosen.cyou",
-   "port": 2096,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "iran.mother.ir.jetish.info.",
@@ -511,14 +531,14 @@
    "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
   },
   {
+   "server": "max.mishutkin.click",
+   "port": 443,
+   "secret": "ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d"
+  },
+  {
    "server": "media.collegealabama.co.uk",
    "port": 443,
    "secret": "ee71889eb517157210d61df330a5f11d956d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "media.experthost.shop",
-   "port": 443,
-   "secret": "eea8130e97ecc6f8ff72c728abe36cae886d656469612e657870657274686f73742e73686f70"
   },
   {
    "server": "media11.happtg.org",
@@ -566,11 +586,6 @@
    "secret": "eeb64de4f3e91028c44f96417037706223636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "mrak.store",
-   "port": 443,
-   "secret": "ee30274009c2a2aa9bf4448ddc81fca2bb7777772e676f6f676c652e636f6d"
-  },
-  {
    "server": "mtttt2.badvpn.pro",
    "port": 443,
    "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275"
@@ -599,11 +614,6 @@
    "server": "night.vtoroe-dyhanie.space",
    "port": 443,
    "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f6e696768742e76746f726f652d647968616e69652e7370616365"
-  },
-  {
-   "server": "nl.cdnflow.store",
-   "port": 443,
-   "secret": "ee92f105b4a4ebf5db49735eb9149fb06b766b2e636f6d"
   },
   {
    "server": "nocloudnew.co.uk.",
@@ -666,11 +676,6 @@
    "secret": "dda4c7c07709a2c6a29fca4fc63b1ae411"
   },
   {
-   "server": "public.benzcls.co.uk",
-   "port": 2096,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "public2.mtproxygram.lol",
    "port": 443,
    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d"
@@ -699,6 +704,11 @@
    "server": "relay.surfvpn.app",
    "port": 443,
    "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
+  },
+  {
+   "server": "rightel-irancell.ir.mausjakaqd.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "rus-media-24.ru",
@@ -871,5 +881,5 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   }
  ],
- "count": 174
+ "count": 176
 }
