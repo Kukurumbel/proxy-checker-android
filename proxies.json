@@ -56,11 +56,6 @@
    "secret": "ee90b73e408980df9057f816d0399be261636c6f75642e6d61696c2e7275"
   },
   {
-   "server": "2.namenewok.info",
-   "port": 2096,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "208.87.242.223",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -126,11 +121,6 @@
    "secret": "eeaaa7b0dbdfce2f2a3e7bc5563c900e297777772e636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "94.103.169.103",
-   "port": 443,
-   "secret": "ee7f568e2c2b75b68b3075d35008aa37357777772e676f6f676c652e636f6d"
-  },
-  {
    "server": "94.130.15.206",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -166,11 +156,6 @@
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-   "server": "all-devices.ir.awedsj.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
    "server": "All-nets.ir.agianaytan.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
@@ -184,6 +169,11 @@
    "server": "appstoff.info",
    "port": 22,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "ardebill.miandoabs.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
   },
   {
    "server": "ardesvpn1.ru",
@@ -376,6 +366,11 @@
    "secret": "ee8a53a1d7609cf451d7584df55d6e225a62726f777365722e79616e6465782e7275"
   },
   {
+   "server": "ghamgin-nashavid.hosiyaman.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
    "server": "hamishegi.ir.gole-baghche.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
@@ -414,11 +409,6 @@
    "server": "ir.closcloud.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "ir.engematica.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "ir.envytations.info",
@@ -496,14 +486,14 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "khosh-khande.lolauth.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
    "server": "kima.rabotaet.online",
    "port": 443,
    "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
-  },
-  {
-   "server": "koochamoon.ir.agianaytan.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "kostyanchekloh.lol",
@@ -626,6 +616,11 @@
    "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275"
   },
   {
+   "server": "nakoshimon-jomong.lolauth.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
    "server": "nasho.poolaki.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -673,12 +668,27 @@
   {
    "server": "p.lite64.click",
    "port": 443,
+   "secret": "ee0d0e1a1ade866235cf8dea2a1e83708e6c69746536342e73697465"
+  },
+  {
+   "server": "p.lite64.click",
+   "port": 443,
    "secret": "ee359f8b7f0b48e4c44ede066b1953f1a36c69746536342e73697465"
   },
   {
    "server": "p.lite64.top",
    "port": 443,
+   "secret": "ee54e5e2a8c284eecb495b3f5a2f8bd3106c69746536342e73697465"
+  },
+  {
+   "server": "p.lite64.top",
+   "port": 443,
    "secret": "eef50c455f4d9d60ff50889cc08a9044596c69746536342e73697465"
+  },
+  {
+   "server": "p.lite64.xyz",
+   "port": 443,
+   "secret": "ee5b7d8506708660cf5e4bd70d0ccc91d26c69746536342e73697465"
   },
   {
    "server": "p.lite64.xyz",
@@ -761,6 +771,11 @@
    "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
   },
   {
+   "server": "Rightel.ir-Mci.ir-irancell.ir.the-nice-mtproto.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+  },
+  {
    "server": "Rudmoain.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -794,11 +809,6 @@
    "server": "s05.neo-trading.org",
    "port": 443,
    "secret": "eef4f43f6c7b01f2f5f5644af6473a61d0686f66662e7275"
-  },
-  {
-   "server": "s5.assetflux.org",
-   "port": 443,
-   "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
    "server": "server.syscloudio.co.uk",
@@ -876,11 +886,6 @@
    "secret": "ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465"
   },
   {
-   "server": "tg4.quki-hub.com",
-   "port": 9443,
-   "secret": "58737358dee675be48618b79ece66f8c"
-  },
-  {
    "server": "tgnn.live",
    "port": 9443,
    "secret": "eef390d9757cb92d87826bcef28a6e75ed74676e6e2e6c697665"
@@ -956,5 +961,5 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   }
  ],
- "count": 191
+ "count": 192
 }
