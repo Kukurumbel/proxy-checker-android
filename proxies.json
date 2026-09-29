@@ -476,6 +476,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir.panhandleflyers.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir.pbdjarum.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -916,5 +921,5 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   }
  ],
- "count": 183
+ "count": 184
 }
