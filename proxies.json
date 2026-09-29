@@ -741,11 +741,6 @@
    "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
   },
   {
-   "server": "rightel-irancell.ir.mausjakaqd.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "rus-media-24.ru",
    "port": 443,
    "secret": "eef01c6a138d310b676c54dbf21603d4457275732d6d656469612d32342e7275"
@@ -921,5 +916,5 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   }
  ],
- "count": 184
+ "count": 183
 }
