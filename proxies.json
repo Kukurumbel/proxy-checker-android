@@ -1,19 +1,9 @@
 {
  "proxies": [
   {
-   "server": "103.161.35.23",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "13.143.234.165",
    "port": 443,
    "secret": "dd81e82641c388288e5705431f30bba236"
-  },
-  {
-   "server": "135.181.74.178",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "144.31.30.136",
@@ -86,24 +76,24 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "65.108.123.76",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.108.29.22",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "65.21.222.229",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.234.30",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "68.183.119.181",
    "port": 443,
    "secret": "ea8034df6c7da021741fbc07d671e7e9"
+  },
+  {
+   "server": "77.42.56.67",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "78.17.11.127",
@@ -136,14 +126,14 @@
    "secret": "eeaaa7b0dbdfce2f2a3e7bc5563c900e297777772e636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "91.107.140.144",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "94.103.169.103",
    "port": 443,
    "secret": "ee7f568e2c2b75b68b3075d35008aa37357777772e676f6f676c652e636f6d"
+  },
+  {
+   "server": "94.130.15.206",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "95.217.26.76",
@@ -174,6 +164,11 @@
    "server": "akenai.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+  },
+  {
+   "server": "all-devices.ir.awedsj.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "All-nets.ir.agianaytan.info.",
@@ -209,11 +204,6 @@
    "server": "at1.cdntube.monster",
    "port": 443,
    "secret": "ee77f3f762df1311d3b732245c9f0e30e16174312e63646e747562652e6d6f6e73746572"
-  },
-  {
-   "server": "bastani.mikhay.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "bimeh.my-moon.co.uk.",
@@ -296,11 +286,6 @@
    "secret": "eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174"
   },
   {
-   "server": "dokhtar.nanaz.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "e.networkmodeai.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -339,16 +324,6 @@
    "server": "for-iranian-users.ir.gole-baghche.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "for-persian.collegealabama.co.uk",
-   "port": 443,
-   "secret": "ee71889eb517157210d61df330a5f11d956d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "for-persian.speedtestcdn.info",
-   "port": 8443,
-   "secret": "dd71889eb517157210d61df330a5f11d95"
   },
   {
    "server": "for.dear-iranian-people.com.heazshddd.info.",
@@ -526,6 +501,11 @@
    "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
   },
   {
+   "server": "koochamoon.ir.agianaytan.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
    "server": "kostyanchekloh.lol",
    "port": 443,
    "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275"
@@ -601,6 +581,11 @@
    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
   },
   {
+   "server": "moatar.golabkashan.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
    "server": "mofid.saheledarya.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -619,6 +604,11 @@
    "server": "moonmy.world",
    "port": 443,
    "secret": "eeb64de4f3e91028c44f96417037706223636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "mosakhar.hosiyaman.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
   },
   {
    "server": "mtttt2.badvpn.pro",
@@ -681,9 +671,29 @@
    "secret": "eec03f9d7666a41c33af662f5ba02604876f70656e2e67706f696e742e77656273697465"
   },
   {
+   "server": "p.lite64.click",
+   "port": 443,
+   "secret": "ee359f8b7f0b48e4c44ede066b1953f1a36c69746536342e73697465"
+  },
+  {
+   "server": "p.lite64.top",
+   "port": 443,
+   "secret": "eef50c455f4d9d60ff50889cc08a9044596c69746536342e73697465"
+  },
+  {
+   "server": "p.lite64.xyz",
+   "port": 443,
+   "secret": "eefd358bdf7ec05283f00a20d6397499826c69746536342e73697465"
+  },
+  {
    "server": "paeez.delroba.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "phonebackup.lol",
+   "port": 443,
+   "secret": "ee4a587c0a84d8c02045cbbfc2edbdb8d9636c6f75642e6d61696c2e7275"
   },
   {
    "server": "plus.geo-cdn.ru",
@@ -741,9 +751,19 @@
    "secret": "ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a"
   },
   {
+   "server": "radar.mtproxy.zip",
+   "port": 443,
+   "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275"
+  },
+  {
    "server": "relay.surfvpn.app",
    "port": 443,
    "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
+  },
+  {
+   "server": "Rudmoain.co.uk.",
+   "port": 443,
+   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
    "server": "rus-media-24.ru",
@@ -831,14 +851,19 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
+   "server": "Suodbo.co.uk.",
+   "port": 443,
+   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
    "server": "support.infinityhalo.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "t.meow-network.com",
+   "server": "surfing.suslik-cloud.homes",
    "port": 443,
-   "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
+   "secret": "eed7f61466f824eafe116a533553e01bca73757266696e672e7375736c696b2d636c6f75642e686f6d6573"
   },
   {
    "server": "tg-proxy.link",
@@ -854,6 +879,11 @@
    "server": "tg4.quki-hub.com",
    "port": 9443,
    "secret": "58737358dee675be48618b79ece66f8c"
+  },
+  {
+   "server": "tgnn.live",
+   "port": 9443,
+   "secret": "eef390d9757cb92d87826bcef28a6e75ed74676e6e2e6c697665"
   },
   {
    "server": "tixon2.ani-keyhole.online",
@@ -879,6 +909,11 @@
    "server": "uplink.techlibrary.ink",
    "port": 4501,
    "secret": "ee17e6d4e0d143817328e4341210e9bb3a636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "vaultmyphone.space",
+   "port": 443,
+   "secret": "eee0f2c5c0e0982f222ac066c72082c259636c6f75642e6d61696c2e7275"
   },
   {
    "server": "ving.mozitop.co.uk",
@@ -921,5 +956,5 @@
    "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
   }
  ],
- "count": 184
+ "count": 191
 }
