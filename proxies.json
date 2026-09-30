@@ -31,11 +31,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "167.172.65.181",
-   "port": 443,
-   "secret": "0123456789abcdef0123456789abcdef"
-  },
-  {
    "server": "167.233.81.41",
    "port": 443,
    "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA"
@@ -49,6 +44,16 @@
    "server": "176.124.207.237",
    "port": 443,
    "secret": "fad015155defc3a8bd8ebc16b5d2b300"
+  },
+  {
+   "server": "194.120.230.26",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "194.120.230.37",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "2.26.83.93",
@@ -91,9 +96,9 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "68.183.119.181",
+   "server": "65.21.222.229",
    "port": 443,
-   "secret": "ea8034df6c7da021741fbc07d671e7e9"
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "77.42.56.67",
@@ -246,11 +251,6 @@
    "secret": "eeebfc2fcebe840e19f29cf87fadfaad78686f66662e7275"
   },
   {
-   "server": "cdn12.cdnwave.org",
-   "port": 443,
-   "secret": "ee97247322005404a2c7a84d082aace21b686f66662e7275"
-  },
-  {
    "server": "cdn6.cdnwave.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565686f66662e7275"
@@ -311,6 +311,11 @@
    "secret": "eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174"
   },
   {
+   "server": "e.koraivpn.cfd",
+   "port": 443,
+   "secret": "ee2cbb6e8a194b863d62db5502512dba2c70696e7465726573742e636f6d"
+  },
+  {
    "server": "e.networkmodeai.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -334,6 +339,11 @@
    "server": "fast.mishutkin.click",
    "port": 443,
    "secret": "eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d"
+  },
+  {
+   "server": "fast.workingproxy.xyz",
+   "port": 443,
+   "secret": "dddb688a36cd7c7b24fa0604392645bd82"
   },
   {
    "server": "files.maggic.biz",
@@ -414,11 +424,6 @@
    "server": "Hel-hi.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "hl.routefastnet.online",
-   "port": 443,
-   "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
   },
   {
    "server": "honar.saheledarya.co.uk.",
@@ -581,11 +586,6 @@
    "secret": "ee71889eb517157210d61df330a5f11d956d656469612e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "media11.happtg.org",
-   "port": 443,
-   "secret": "eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275"
-  },
-  {
    "server": "media6.happtg.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565686f66662e7275"
@@ -696,11 +696,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "open.gpoint.website",
-   "port": 443,
-   "secret": "eec03f9d7666a41c33af662f5ba02604876f70656e2e67706f696e742e77656273697465"
-  },
-  {
    "server": "p.lite64.click",
    "port": 443,
    "secret": "ee0d0e1a1ade866235cf8dea2a1e83708e6c69746536342e73697465"
@@ -779,6 +774,11 @@
    "server": "premium.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "proverka.help",
+   "port": 443,
+   "secret": "dd874b3dac836b10b2bef91d46d0124863"
   },
   {
    "server": "proxy2.legendary.ac",
@@ -941,6 +941,11 @@
    "secret": "eed26670190432c38ba532520b98c7ed437469786f6e322e616e692d6b6579686f6c652e6f6e6c696e65"
   },
   {
+   "server": "top.mishutkin.click",
+   "port": 443,
+   "secret": "ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d"
+  },
+  {
    "server": "topproxt.asia",
    "port": 443,
    "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
@@ -1001,5 +1006,5 @@
    "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
   }
  ],
- "count": 200
+ "count": 201
 }
