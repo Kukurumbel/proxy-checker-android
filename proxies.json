@@ -156,11 +156,6 @@
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-   "server": "all-download.net.yplkmbcyu.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
    "server": "All-nets.ir.agianaytan.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
@@ -676,9 +671,19 @@
    "secret": "ee359f8b7f0b48e4c44ede066b1953f1a36c69746536342e73697465"
   },
   {
+   "server": "p.lite64.click",
+   "port": 443,
+   "secret": "eee269911715c9ef9f821d02314e6627d96c69746536342e73697465"
+  },
+  {
    "server": "p.lite64.top",
    "port": 443,
    "secret": "ee54e5e2a8c284eecb495b3f5a2f8bd3106c69746536342e73697465"
+  },
+  {
+   "server": "p.lite64.top",
+   "port": 443,
+   "secret": "eee3dfe8e59202ba62b5da063ddddaa8106c69746536342e73697465"
   },
   {
    "server": "p.lite64.top",
@@ -689,6 +694,11 @@
    "server": "p.lite64.xyz",
    "port": 443,
    "secret": "ee5b7d8506708660cf5e4bd70d0ccc91d26c69746536342e73697465"
+  },
+  {
+   "server": "p.lite64.xyz",
+   "port": 443,
+   "secret": "ee8f2e46db5c058508697023181408edfe6c69746536342e73697465"
   },
   {
    "server": "p.lite64.xyz",
@@ -826,6 +836,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "sinus.ir.yplkmbcyu.info.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "sioms.co.uk",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -951,5 +966,5 @@
    "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
   }
  ],
- "count": 190
+ "count": 193
 }
