@@ -1,14 +1,14 @@
 {
  "proxies": [
   {
-   "server": "13.143.234.165",
-   "port": 443,
-   "secret": "dd81e82641c388288e5705431f30bba236"
-  },
-  {
    "server": "132.243.168.120",
    "port": 2053,
    "secret": "684006a1b9814c3d4961f40e72f324a6"
+  },
+  {
+   "server": "135.181.74.178",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "144.31.30.136",
@@ -104,11 +104,6 @@
    "server": "77.42.56.67",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "78.17.11.127",
-   "port": 443,
-   "secret": "dd19805c64f41dcdf88c815272b6b2d15e"
   },
   {
    "server": "79.137.196.223",
@@ -219,11 +214,6 @@
    "server": "aseman.lunavane.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "at1.cdntube.monster",
-   "port": 443,
-   "secret": "ee77f3f762df1311d3b732245c9f0e30e16174312e63646e747562652e6d6f6e73746572"
   },
   {
    "server": "bimeh.my-moon.co.uk.",
@@ -486,6 +476,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir.radio-zvez.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir.rebol.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -497,6 +492,11 @@
   },
   {
    "server": "ir.xeonxu.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.xn--ds-bja.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -519,6 +519,11 @@
    "server": "khosh-khande.lolauth.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
+   "server": "kofe-i-chay.xyz",
+   "port": 443,
+   "secret": "ee2b4b155565df4307acfb18b632c3c9006b6f66652d692d636861792e78797a"
   },
   {
    "server": "kostyanchekloh.lol",
@@ -581,6 +586,11 @@
    "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275"
   },
   {
+   "server": "mesh.eeluma.org",
+   "port": 443,
+   "secret": "eed635a4b22040d717a3c32b87a02c216d6d6573682e65656c756d612e6f7267"
+  },
+  {
    "server": "mio.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -604,11 +614,6 @@
    "server": "moh2.benzcls.co.uk",
    "port": 2096,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "moonmy.world",
-   "port": 443,
-   "secret": "eeb64de4f3e91028c44f96417037706223636c6f7564666c6172652e636f6d"
   },
   {
    "server": "mosakhar.hosiyaman.info",
@@ -666,11 +671,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "one.horizon555.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "onlineforless.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -726,6 +726,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "pecehnki-s-chaem.xyz",
+   "port": 443,
+   "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f70656365686e6b692d732d636861656d2e78797a"
+  },
+  {
    "server": "phonebackup.lol",
    "port": 443,
    "secret": "ee4a587c0a84d8c02045cbbfc2edbdb8d9636c6f75642e6d61696c2e7275"
@@ -734,11 +739,6 @@
    "server": "plus.geo-cdn.ru",
    "port": 443,
    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4"
-  },
-  {
-   "server": "pofak.mikhay.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "porsorate.co.uk",
@@ -799,6 +799,11 @@
    "server": "radar.mtproxy.zip",
    "port": 443,
    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275"
+  },
+  {
+   "server": "reborn.rebirthconnect.com",
+   "port": 443,
+   "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
   },
   {
    "server": "relay.surfvpn.app",
@@ -896,6 +901,11 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
+   "server": "Strait-of-Hormuz.ir.jursdheks.info",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -956,6 +966,11 @@
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
+   "server": "turbo-jet.balestic.ir.ghsisncbv.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "ultra.mishutkin.click",
    "port": 443,
    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
@@ -996,5 +1011,5 @@
    "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
   }
  ],
- "count": 199
+ "count": 202
 }
