@@ -96,6 +96,16 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "65.109.147.34",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.109.147.39",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.21.222.229",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -114,11 +124,6 @@
    "server": "79.137.196.223",
    "port": 8843,
    "secret": "eeeecd971a62719a1ccaee3177da037511167777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "79.137.196.223",
-   "port": 17443,
-   "secret": "ee619628651747706ea93bfbd344ba3fc17777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "79.137.196.223",
@@ -246,6 +251,11 @@
    "secret": "eeebfc2fcebe840e19f29cf87fadfaad78686f66662e7275"
   },
   {
+   "server": "cdn10.cdnwave.org",
+   "port": 443,
+   "secret": "ee42c25e3a5bebdab61abbcacf2e970c896d61676e69742e7275"
+  },
+  {
    "server": "cdn6.cdnwave.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565686f66662e7275"
@@ -331,6 +341,11 @@
    "secret": "ee2b457f1b779f27467e6401b49a1899f8656467652e636f72652e7378"
   },
   {
+   "server": "ee3.infocross.info",
+   "port": 2443,
+   "secret": "eeca121be937833d844e8dfa7ba019e7d673746f726167652e676f6f676c65617069732e636f6d"
+  },
+  {
    "server": "exiscos.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -354,11 +369,6 @@
    "server": "flat.flashspder.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "server": "for-iranian-users.ir.gole-baghche.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "for.dear-iranian-people.com.heazshddd.info.",
@@ -399,11 +409,6 @@
    "server": "grampay.io",
    "port": 853,
    "secret": "eeee3fa7bf86890c50dbe634404da6a5c96d742e6772616d2e796f75"
-  },
-  {
-   "server": "hamishegi.ir.gole-baghche.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "Hel-hi.co.uk.",
@@ -581,6 +586,11 @@
    "secret": "ee71889eb517157210d61df330a5f11d956d656469612e737465616d706f77657265642e636f6d"
   },
   {
+   "server": "media12.happtg.org",
+   "port": 443,
+   "secret": "ee620777c073f53354f2dbb2cac6f2add9686f66662e7275"
+  },
+  {
    "server": "media6.happtg.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565686f66662e7275"
@@ -589,6 +599,11 @@
    "server": "media7.happtg.org",
    "port": 443,
    "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275"
+  },
+  {
+   "server": "media9.happtg.org",
+   "port": 443,
+   "secret": "eeb10a2a5cbffbfc86bef9f85c14fada7d6f7a6f6e2e7275"
   },
   {
    "server": "mesh.eeluma.org",
@@ -851,6 +866,16 @@
    "secret": "eef4f43f6c7b01f2f5f5644af6473a61d0686f66662e7275"
   },
   {
+   "server": "s11.assetflux.org",
+   "port": 443,
+   "secret": "ee777a1ab303a612c10198e713508bb840686f66662e7275"
+  },
+  {
+   "server": "s8.assetflux.org",
+   "port": 443,
+   "secret": "ee6a472609cf495f3864be9bfe6c91c9fa646e732d73686f702e7275"
+  },
+  {
    "server": "saboon.mikhay.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -931,6 +956,11 @@
    "secret": "ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465"
   },
   {
+   "server": "tg.sosavpn.ru",
+   "port": 443,
+   "secret": "7hlDfj9TuZ5A7dfYESrW_3IxOTMtNDctMzMtNjcuc3NsaXAuaW8"
+  },
+  {
    "server": "tg8.chadvpn.shop",
    "port": 443,
    "secret": "ee3931ebe70d8f4e37acd9c3db534b17627275747562652e7275"
@@ -986,14 +1016,14 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "wow.wow.wow.gole-baghche.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
    "server": "www.appstoff.info",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "www2.acientirani-uor4.ir",
+   "port": 443,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "x.shmelproxy.top",
@@ -1006,5 +1036,5 @@
    "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
   }
  ],
- "count": 201
+ "count": 207
 }
