@@ -1,6 +1,11 @@
 {
  "proxies": [
   {
+   "server": "103.161.35.23",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "132.243.168.120",
    "port": 2053,
    "secret": "684006a1b9814c3d4961f40e72f324a6"
@@ -146,6 +151,11 @@
    "secret": "eeaaa7b0dbdfce2f2a3e7bc5563c900e297777772e636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "91.107.140.144",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "94.130.15.206",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -256,11 +266,6 @@
    "secret": "ee42c25e3a5bebdab61abbcacf2e970c896d61676e69742e7275"
   },
   {
-   "server": "cdn6.cdnwave.org",
-   "port": 443,
-   "secret": "ee7391242569590e01416101927d38b565686f66662e7275"
-  },
-  {
    "server": "cdn7.cdnwave.org",
    "port": 443,
    "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275"
@@ -344,6 +349,11 @@
    "server": "ee3.infocross.info",
    "port": 2443,
    "secret": "eeca121be937833d844e8dfa7ba019e7d673746f726167652e676f6f676c65617069732e636f6d"
+  },
+  {
+   "server": "ee4.infocross.info",
+   "port": 9443,
+   "secret": "ee53ad4f36b1aaf38f95a46e7edda78df873746f726167652e676f6f676c65617069732e636f6d"
   },
   {
    "server": "exiscos.co.uk.",
@@ -431,22 +441,12 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.bazzawill.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.closcloud.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "ir.envytations.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.gnutella2.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -477,11 +477,6 @@
   },
   {
    "server": "ir.radio-zvez.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.rebol.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -794,6 +789,11 @@
    "server": "proxy2.legendary.ac",
    "port": 443,
    "secret": "dda4c7c07709a2c6a29fca4fc63b1ae411"
+  },
+  {
+   "server": "proxy2.proverka.help",
+   "port": 443,
+   "secret": "dd15681a893dce1de72b83eb0a12d3dcac"
   },
   {
    "server": "public2.mtproxygram.lol",
