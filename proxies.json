@@ -391,11 +391,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "get.speedtestcdn.info",
-   "port": 8443,
-   "secret": "dd71889eb517157210d61df330a5f11d95"
-  },
-  {
    "server": "ghamgin-nashavid.hosiyaman.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
@@ -539,6 +534,11 @@
    "server": "lavashak.mikhay.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "m.aysghfkzcxg.info.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "mahi.poolaki.co.uk",
@@ -901,11 +901,6 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "Strait-of-Hormuz.ir.jursdheks.info",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -966,11 +961,6 @@
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
-   "server": "turbo-jet.balestic.ir.ghsisncbv.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "ultra.mishutkin.click",
    "port": 443,
    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
@@ -1011,5 +1001,5 @@
    "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
   }
  ],
- "count": 202
+ "count": 200
 }
