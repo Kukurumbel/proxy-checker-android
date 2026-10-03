@@ -341,6 +341,11 @@
    "secret": "ee2b457f1b779f27467e6401b49a1899f8656467652e636f72652e7378"
   },
   {
+   "server": "edge.turboass.live",
+   "port": 443,
+   "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
+  },
+  {
    "server": "ee3.infocross.info",
    "port": 2443,
    "secret": "eeca121be937833d844e8dfa7ba019e7d673746f726167652e676f6f676c65617069732e636f6d"
@@ -376,11 +381,6 @@
    "secret": "1603010200010001fc030386e24c3add"
   },
   {
-   "server": "for.dear-iranian-people.com.heazshddd.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "free.loveproxy.xyz",
    "port": 443,
    "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
@@ -401,14 +401,14 @@
    "secret": "ee57639673cce7f03e351b8a5a857eea6c62726f777365722e79616e6465782e7275"
   },
   {
-   "server": "full-vasl.ir-xyz.gdhbvjshjrf.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "ghamgin-nashavid.hosiyaman.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
+   "server": "gram.blog",
+   "port": 853,
+   "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75"
   },
   {
    "server": "grampay.io",
@@ -484,11 +484,6 @@
    "server": "ir.xn--ds-bja.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "iran.mother.ir.jetish.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "jetish.ir.aysghfkzcxg.info.",
@@ -603,16 +598,6 @@
   {
    "server": "mofid.saheledarya.co.uk.",
    "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "moh1.benzcls.co.uk",
-   "port": 2096,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "moh2.benzcls.co.uk",
-   "port": 2096,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -736,11 +721,6 @@
    "secret": "ee4a587c0a84d8c02045cbbfc2edbdb8d9636c6f75642e6d61696c2e7275"
   },
   {
-   "server": "plus.geo-cdn.ru",
-   "port": 443,
-   "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4"
-  },
-  {
    "server": "porsorate.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -784,11 +764,6 @@
    "server": "public2.mtproxygram.lol",
    "port": 443,
    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d"
-  },
-  {
-   "server": "pulse.lovely.lat",
-   "port": 443,
-   "secret": "ee6f8c7d9193585ada7d22acf074ad6d976d2e6265626f6f2e7275"
   },
   {
    "server": "puot.mozitop.co.uk",
@@ -886,11 +861,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "should.be.wake.up.ir.yfdhjderkig.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "sioms.co.uk",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
@@ -971,11 +941,6 @@
    "secret": "7tZ9Uiy1D5OKRbkArbZfy_90Z3Byb3h5LmFsbmlkb2sucnU"
   },
   {
-   "server": "tixon2.ani-keyhole.online",
-   "port": 853,
-   "secret": "eed26670190432c38ba532520b98c7ed437469786f6e322e616e692d6b6579686f6c652e6f6e6c696e65"
-  },
-  {
    "server": "top.mishutkin.click",
    "port": 443,
    "secret": "ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d"
@@ -1006,11 +971,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "white.antony-gordon.co.uk",
-   "port": 2096,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "www.appstoff.info",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1029,7 +989,12 @@
    "server": "yeh.topbelka.ru",
    "port": 443,
    "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
+  },
+  {
+   "server": "zzz.api-metrics-sync.xyz",
+   "port": 443,
+   "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 206
+ "count": 199
 }
