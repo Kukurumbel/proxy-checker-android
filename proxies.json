@@ -331,11 +331,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "e3fand.fesgheli.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "edge.core.sx",
    "port": 443,
    "secret": "ee2b457f1b779f27467e6401b49a1899f8656467652e636f72652e7378"
@@ -371,11 +366,6 @@
    "secret": "dddb688a36cd7c7b24fa0604392645bd82"
   },
   {
-   "server": "files.maggic.biz",
-   "port": 443,
-   "secret": "ee122672709853ea1b00634ce2f649912f66696c65732e6d61676769632e62697a"
-  },
-  {
    "server": "flat.flashspder.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
@@ -384,11 +374,6 @@
    "server": "free.loveproxy.xyz",
    "port": 443,
    "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "free.user.bizsprocket.com",
-   "port": 443,
-   "secret": "ee862a678d40377cde49c74c1a63e8ede6667265652e757365722e62697a7370726f636b65742e636f6d"
   },
   {
    "server": "free1.gram.blog",
@@ -453,11 +438,6 @@
   {
    "server": "ir.my-pv.info",
    "port": 443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.naganuma.info",
-   "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
@@ -571,11 +551,6 @@
    "secret": "ee7391242569590e01416101927d38b565686f66662e7275"
   },
   {
-   "server": "media7.happtg.org",
-   "port": 443,
-   "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275"
-  },
-  {
    "server": "media9.happtg.org",
    "port": 443,
    "secret": "eeb10a2a5cbffbfc86bef9f85c14fada7d6f7a6f6e2e7275"
@@ -649,11 +624,6 @@
    "server": "nocloudnew.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "nooshabe.mikhay.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "onlineforless.co.uk.",
@@ -776,6 +746,11 @@
    "secret": "eec7f1e2b45228a67eba9ab343a13ec17f70782e63727970746f637572656e63792e77696b69"
   },
   {
+   "server": "Qeshm.island.ir.igakwvwa.info",
+   "port": 7443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
    "server": "radar.mtproxy.zip",
    "port": 443,
    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275"
@@ -789,11 +764,6 @@
    "server": "relay.surfvpn.app",
    "port": 443,
    "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
-  },
-  {
-   "server": "rightel-irancell.ir.mausjakaqd.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "Rudmoain.co.uk.",
@@ -874,11 +844,6 @@
    "server": "speed-ir.speedtestcdn.info",
    "port": 8443,
    "secret": "dd71889eb517157210d61df330a5f11d95"
-  },
-  {
-   "server": "speed.runserver.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "ssh.meow0.co.uk",
@@ -991,10 +956,15 @@
    "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
   },
   {
+   "server": "ziste-sevom.ir.igakwvwa.info.",
+   "port": 7443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
    "server": "zzz.api-metrics-sync.xyz",
    "port": 443,
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 199
+ "count": 193
 }
