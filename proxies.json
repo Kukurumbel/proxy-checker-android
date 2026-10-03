@@ -122,11 +122,6 @@
   },
   {
    "server": "79.137.196.223",
-   "port": 2053,
-   "secret": "eeee1701dff011da0ee1313d584fc565187777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "79.137.196.223",
    "port": 8843,
    "secret": "eeeecd971a62719a1ccaee3177da037511167777772e636c6f7564666c6172652e636f6d"
   },
@@ -204,11 +199,6 @@
    "server": "All-nets.ir.agianaytan.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
-   "server": "amg.igakwvwa.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "api2.medhata.org",
@@ -451,11 +441,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "ir.envytations.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.lv223.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -579,11 +564,6 @@
    "server": "mc-ssh.t-proxyru.info.",
    "port": 25565,
    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "media.collegealabama.co.uk",
-   "port": 443,
-   "secret": "ee71889eb517157210d61df330a5f11d956d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "media12.happtg.org",
@@ -986,6 +966,11 @@
    "secret": "eef390d9757cb92d87826bcef28a6e75ed74676e6e2e6c697665"
   },
   {
+   "server": "tgproxy.alnidok.ru",
+   "port": 1437,
+   "secret": "7tZ9Uiy1D5OKRbkArbZfy_90Z3Byb3h5LmFsbmlkb2sucnU"
+  },
+  {
    "server": "tixon2.ani-keyhole.online",
    "port": 853,
    "secret": "eed26670190432c38ba532520b98c7ed437469786f6e322e616e692d6b6579686f6c652e6f6e6c696e65"
@@ -1046,5 +1031,5 @@
    "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
   }
  ],
- "count": 209
+ "count": 206
 }
