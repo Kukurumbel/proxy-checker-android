@@ -236,11 +236,6 @@
    "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
   },
   {
-   "server": "aseman.lunavane.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "bimeh.my-moon.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -259,11 +254,6 @@
    "server": "ccc.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "cdn.mowork.ru",
-   "port": 443,
-   "secret": "eececef6563bce080cccda8dcc61cedbf663646e2e6a7364656c6976722e6e6574"
   },
   {
    "server": "cdn1.cdntide.org",
@@ -294,11 +284,6 @@
    "server": "connect.tproxyru.live",
    "port": 8980,
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
-  },
-  {
-   "server": "darya.saheledarya.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "data.utkanos.life",
@@ -831,6 +816,11 @@
    "secret": "eef01c6a138d310b676c54dbf21603d4457275732d6d656469612d32342e7275"
   },
   {
+   "server": "rutube.nclick.shop",
+   "port": 2096,
+   "secret": "ee7721b2f9b932f3fcb18eba8fabdd57ac6d6963726f736f66742e636f6d"
+  },
+  {
    "server": "s01.neo-trading.org",
    "port": 443,
    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
@@ -886,11 +876,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "sioms.co.uk",
-   "port": 25565,
-   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "ssh.meow0.co.uk",
    "port": 22,
    "secret": "dd79e344818749bd7ac519130220c25d09"
@@ -924,11 +909,6 @@
    "server": "tazenafas.dingi3.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "tg-proxy.link",
-   "port": 443,
-   "secret": "7pkV8ve_jWaaVhHokJWFnIphcGkuYXZpdG8ucnU"
   },
   {
    "server": "tg.soika.site",
@@ -1026,5 +1006,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 205
+ "count": 201
 }
