@@ -61,11 +61,6 @@
    "secret": "ddb1c63e3dbcd987139191f422a0dbade6"
   },
   {
-   "server": "2.26.83.93",
-   "port": 2401,
-   "secret": "ee15f939d5e1581e8b2754efd673946cb47777772e77696c64626572726965732e7275"
-  },
-  {
    "server": "2.27.105.19",
    "port": 443,
    "secret": "ee90b73e408980df9057f816d0399be261636c6f75642e6d61696c2e7275"
@@ -89,6 +84,11 @@
    "server": "3etare.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "5.75.202.65",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "65.108.123.76",
@@ -136,6 +136,21 @@
    "secret": "eea63b9ba526e9762f138e4eee189bd48f636c6f75642e6d61696c2e7275"
   },
   {
+   "server": "85.133.236.147",
+   "port": 2096,
+   "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q"
+  },
+  {
+   "server": "85.133.236.148",
+   "port": 2096,
+   "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q"
+  },
+  {
+   "server": "85.133.236.149",
+   "port": 2096,
+   "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q"
+  },
+  {
    "server": "85.9.221.39",
    "port": 443,
    "secret": "ee4f78aa8b9f346ca2aba542dd8ea658f07777772e636c6f7564666c6172652e636f6d"
@@ -171,26 +186,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "95.217.26.76",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "95.217.27.36",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "95.217.28.208",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "ad1.arixo.shop",
-   "port": 443,
-   "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
-  },
-  {
    "server": "akenai.tg",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
@@ -207,11 +202,6 @@
   },
   {
    "server": "all-download.net.yplkmbcyu.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
-   "server": "All-nets.ir.agianaytan.info.",
    "port": 88,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
@@ -1006,5 +996,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 201
+ "count": 199
 }
