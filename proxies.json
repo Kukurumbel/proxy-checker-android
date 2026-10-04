@@ -141,21 +141,6 @@
    "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q"
   },
   {
-   "server": "85.133.236.148",
-   "port": 2096,
-   "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q"
-  },
-  {
-   "server": "85.133.236.149",
-   "port": 2096,
-   "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q"
-  },
-  {
-   "server": "85.9.221.39",
-   "port": 443,
-   "secret": "ee4f78aa8b9f346ca2aba542dd8ea658f07777772e636c6f7564666c6172652e636f6d"
-  },
-  {
    "server": "87.58.149.247",
    "port": 443,
    "secret": "eeaaa7b0dbdfce2f2a3e7bc5563c900e297777772e636c6f7564666c6172652e636f6d"
@@ -406,6 +391,11 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "helps.help",
+   "port": 2096,
+   "secret": "dd6a67ae4c2d173b4168745435cb313a39"
+  },
+  {
    "server": "honar.saheledarya.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -584,6 +574,11 @@
    "server": "mio.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "miosen.cyou",
+   "port": 2096,
+   "secret": "dd6a67ae4c2d173b4168745435cb313a39"
   },
   {
    "server": "moatar.golabkashan.info",
@@ -996,5 +991,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 199
+ "count": 198
 }
