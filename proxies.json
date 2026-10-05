@@ -61,11 +61,6 @@
    "secret": "ddb1c63e3dbcd987139191f422a0dbade6"
   },
   {
-   "server": "2.27.105.19",
-   "port": 443,
-   "secret": "ee90b73e408980df9057f816d0399be261636c6f75642e6d61696c2e7275"
-  },
-  {
    "server": "208.87.242.223",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -83,6 +78,16 @@
   {
    "server": "3etare.co.uk.",
    "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "45.147.31.252",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "45.147.31.253",
+   "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -129,11 +134,6 @@
    "server": "79.137.196.223",
    "port": 19443,
    "secret": "ee34faea79631cc8b7b884a3d513857e7b7777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "82.47.62.82",
-   "port": 443,
-   "secret": "eea63b9ba526e9762f138e4eee189bd48f636c6f75642e6d61696c2e7275"
   },
   {
    "server": "85.133.236.147",
@@ -214,11 +214,6 @@
    "server": "bimeh.my-moon.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "bo.cryptocurency.wiki",
-   "port": 443,
-   "secret": "eeafff8ed2b758741b6872fb8b00f1230270782e63727970746f637572656e63792e77696b69"
   },
   {
    "server": "bo0ji.co.uk.",
@@ -431,11 +426,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.my-pv.info",
-   "port": 443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.panhandleflyers.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -636,11 +626,6 @@
    "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f6e696768742e76746f726f652d647968616e69652e7370616365"
   },
   {
-   "server": "nl.cryptocurency.wiki",
-   "port": 443,
-   "secret": "ee6c00d7e9bc9ea00124538e23adb69dd670782e63727970746f637572656e63792e77696b69"
-  },
-  {
    "server": "nocloudnew.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -766,11 +751,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "px.cryptocurency.wiki",
-   "port": 443,
-   "secret": "eec7f1e2b45228a67eba9ab343a13ec17f70782e63727970746f637572656e63792e77696b69"
-  },
-  {
    "server": "Qeshm.island.ir.igakwvwa.info",
    "port": 7443,
    "secret": "1603010200010001fc030386e24c3add"
@@ -794,11 +774,6 @@
    "server": "Rudmoain.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "rus-media-24.ru",
-   "port": 443,
-   "secret": "eef01c6a138d310b676c54dbf21603d4457275732d6d656469612d32342e7275"
   },
   {
    "server": "rutube.nclick.shop",
@@ -991,5 +966,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 198
+ "count": 193
 }
