@@ -76,9 +76,19 @@
    "secret": "eeed0542373d8297f689458ff7dd1a4ba87777772e636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "26.helps.help",
+   "port": 2096,
+   "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q"
+  },
+  {
    "server": "3etare.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "41.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "45.147.31.252",
@@ -146,6 +156,11 @@
    "secret": "eeaaa7b0dbdfce2f2a3e7bc5563c900e297777772e636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "90.miosen.cyou",
+   "port": 2096,
+   "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q"
+  },
+  {
    "server": "91.107.140.144",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -169,6 +184,11 @@
    "server": "94.130.15.206",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "ajab.lolauth.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
   },
   {
    "server": "akenai.tg",
@@ -206,12 +226,7 @@
    "secret": "1603010200010001fc030386e24c3add"
   },
   {
-   "server": "ardesvpn1.ru",
-   "port": 8443,
-   "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
-  },
-  {
-   "server": "bimeh.my-moon.co.uk.",
+   "server": "aseman.lunavane.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
@@ -241,11 +256,6 @@
    "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275"
   },
   {
-   "server": "check.lotfan.ir.yplkmbcyu.info.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "connect.mishutkin.click",
    "port": 443,
    "secret": "ee43b48df152c2246a45ec2f88ea52877264726976652e676f6f676c652e636f6d"
@@ -256,6 +266,11 @@
    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
+   "server": "darya.saheledarya.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "data.utkanos.life",
    "port": 2443,
    "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
@@ -264,6 +279,11 @@
    "server": "day.vtoroe-dyhanie.space",
    "port": 443,
    "secret": "ee2b4b155565df4307acfb18b632c3c9006461792e76746f726f652d647968616e69652e7370616365"
+  },
+  {
+   "server": "day.vtoroe-dyhanie.space",
+   "port": 443,
+   "secret": "ee2b4b155565df4307acfb18b632c3c90079612e7275"
   },
   {
    "server": "din5gli2.co.uk",
@@ -326,6 +346,11 @@
    "secret": "ee53ad4f36b1aaf38f95a46e7edda78df873746f726167652e676f6f676c65617069732e636f6d"
   },
   {
+   "server": "estevia.miandoabs.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
    "server": "exiscos.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -339,6 +364,11 @@
    "server": "fast.workingproxy.xyz",
    "port": 443,
    "secret": "dddb688a36cd7c7b24fa0604392645bd82"
+  },
+  {
+   "server": "felan-by.lolauth.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
   },
   {
    "server": "flat.flashspder.info",
@@ -362,6 +392,11 @@
   },
   {
    "server": "ghamgin-nashavid.hosiyaman.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
+   "server": "gole-sorati.golabkashan.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
   },
@@ -399,6 +434,11 @@
    "server": "im.dumaniltd.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "ir-ir.grumpyoldmen.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "ir.ariely.info",
@@ -516,16 +556,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "mamadali.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "mamadgoli.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "matrixxx.top",
    "port": 853,
    "secret": "eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70"
@@ -606,6 +636,11 @@
    "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275"
   },
   {
+   "server": "nakhand-mesvak-gerone.lolauth.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
    "server": "nakoshimon-jomong.lolauth.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
@@ -626,6 +661,11 @@
    "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f6e696768742e76746f726f652d647968616e69652e7370616365"
   },
   {
+   "server": "night.vtoroe-dyhanie.space",
+   "port": 443,
+   "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f79612e7275"
+  },
+  {
    "server": "nocloudnew.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -643,11 +683,6 @@
   {
    "server": "p.lite64.click",
    "port": 443,
-   "secret": "ee359f8b7f0b48e4c44ede066b1953f1a36c69746536342e73697465"
-  },
-  {
-   "server": "p.lite64.click",
-   "port": 443,
    "secret": "eee269911715c9ef9f821d02314e6627d96c69746536342e73697465"
   },
   {
@@ -661,11 +696,6 @@
    "secret": "eee3dfe8e59202ba62b5da063ddddaa8106c69746536342e73697465"
   },
   {
-   "server": "p.lite64.top",
-   "port": 443,
-   "secret": "eef50c455f4d9d60ff50889cc08a9044596c69746536342e73697465"
-  },
-  {
    "server": "p.lite64.xyz",
    "port": 443,
    "secret": "ee5b7d8506708660cf5e4bd70d0ccc91d26c69746536342e73697465"
@@ -676,16 +706,6 @@
    "secret": "ee8f2e46db5c058508697023181408edfe6c69746536342e73697465"
   },
   {
-   "server": "p.lite64.xyz",
-   "port": 443,
-   "secret": "eefd358bdf7ec05283f00a20d6397499826c69746536342e73697465"
-  },
-  {
-   "server": "paeez.delroba.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "pecehnki-s-chaem.xyz",
    "port": 443,
    "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f70656365686e6b692d732d636861656d2e78797a"
@@ -694,11 +714,6 @@
    "server": "phonebackup.lol",
    "port": 443,
    "secret": "ee4a587c0a84d8c02045cbbfc2edbdb8d9636c6f75642e6d61696c2e7275"
-  },
-  {
-   "server": "porsorate.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "portal.flashspder.info",
@@ -966,5 +981,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 193
+ "count": 196
 }
