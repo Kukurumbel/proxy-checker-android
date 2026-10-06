@@ -1,19 +1,9 @@
 {
  "proxies": [
   {
-   "server": "103.161.35.23",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "132.243.168.120",
    "port": 2053,
    "secret": "684006a1b9814c3d4961f40e72f324a6"
-  },
-  {
-   "server": "135.181.74.178",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "144.31.30.136",
@@ -46,16 +36,6 @@
    "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA"
   },
   {
-   "server": "194.120.230.26",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "194.120.230.37",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "2.26.83.93",
    "port": 2399,
    "secret": "ddb1c63e3dbcd987139191f422a0dbade6"
@@ -81,6 +61,11 @@
    "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q"
   },
   {
+   "server": "31.77.146.140",
+   "port": 2399,
+   "secret": "dd59a5a92de85207d1aaec30ac59befa88"
+  },
+  {
    "server": "3etare.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -101,32 +86,22 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "5.75.194.168",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "5.75.202.65",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.108.123.76",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.109.147.34",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.109.147.39",
+   "server": "5.75.206.230",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "65.21.222.229",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.227.200",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -161,29 +136,9 @@
    "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q"
   },
   {
-   "server": "91.107.140.144",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "91.98.97.225",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "92.246.87.130",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "92.246.87.243",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "94.130.15.206",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "ajab.lolauth.info",
@@ -419,6 +374,11 @@
    "server": "Hel-hi.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "help.meow0.co.uk",
+   "port": 22,
+   "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "helps.help",
@@ -671,16 +631,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "onlineforless.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "p.lite64.click",
-   "port": 443,
-   "secret": "ee0d0e1a1ade866235cf8dea2a1e83708e6c69746536342e73697465"
-  },
-  {
    "server": "p.lite64.click",
    "port": 443,
    "secret": "eee269911715c9ef9f821d02314e6627d96c69746536342e73697465"
@@ -688,17 +638,7 @@
   {
    "server": "p.lite64.top",
    "port": 443,
-   "secret": "ee54e5e2a8c284eecb495b3f5a2f8bd3106c69746536342e73697465"
-  },
-  {
-   "server": "p.lite64.top",
-   "port": 443,
    "secret": "eee3dfe8e59202ba62b5da063ddddaa8106c69746536342e73697465"
-  },
-  {
-   "server": "p.lite64.xyz",
-   "port": 443,
-   "secret": "ee5b7d8506708660cf5e4bd70d0ccc91d26c69746536342e73697465"
   },
   {
    "server": "p.lite64.xyz",
@@ -976,10 +916,15 @@
    "secret": "1603010200010001fc030386e24c3add"
   },
   {
+   "server": "zone.chunkycorp.shop",
+   "port": 443,
+   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
    "server": "zzz.api-metrics-sync.xyz",
    "port": 443,
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 196
+ "count": 185
 }
