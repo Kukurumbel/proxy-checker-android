@@ -17,11 +17,6 @@
   },
   {
    "server": "144.31.30.136",
-   "port": 2400,
-   "secret": "ee0175e37c982172ae73e2dc33692234b379612e7275"
-  },
-  {
-   "server": "144.31.30.136",
    "port": 2401,
    "secret": "eef98447b2a74a695f96913414cd6a6d647777772e77696c64626572726965732e7275"
   },
@@ -191,11 +186,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "all-download.net.yplkmbcyu.info.",
-   "port": 88,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
    "server": "api2.medhata.org",
    "port": 2443,
    "secret": "ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267"
@@ -309,11 +299,6 @@
    "server": "e.networkmodeai.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "edge.core.sx",
-   "port": 443,
-   "secret": "ee2b457f1b779f27467e6401b49a1899f8656467652e636f72652e7378"
   },
   {
    "server": "edge.turboass.live",
@@ -961,5 +946,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 192
+ "count": 189
 }
