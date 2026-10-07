@@ -1,6 +1,16 @@
 {
  "proxies": [
   {
+   "server": "1.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "103.161.35.56",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "132.243.168.120",
    "port": 2053,
    "secret": "684006a1b9814c3d4961f40e72f324a6"
@@ -9,11 +19,6 @@
    "server": "138.201.21.32",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "144.31.30.136",
-   "port": 2399,
-   "secret": "dda3535fdb71f236099942beca35a3c49a"
   },
   {
    "server": "144.31.30.136",
@@ -31,14 +36,9 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "167.233.81.41",
+   "server": "194.120.230.106",
    "port": 443,
-   "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA"
-  },
-  {
-   "server": "167.233.89.249",
-   "port": 443,
-   "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA"
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "2.26.83.93",
@@ -54,11 +54,6 @@
    "server": "21.hide.newflamingodomain.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "212.147.241.136",
-   "port": 443,
-   "secret": "eeed0542373d8297f689458ff7dd1a4ba87777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "26.helps.help",
@@ -116,6 +111,11 @@
    "secret": "eebdcf16a127970ad245cb99fbb1fbc66a7777772e636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "65.108.123.76",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.21.222.229",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -132,6 +132,16 @@
   },
   {
    "server": "79.137.196.223",
+   "port": 3443,
+   "secret": "eeee33159ebd0ee0dcafef811a9bc7c2ab8d7777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "79.137.196.223",
+   "port": 6443,
+   "secret": "eeee121e233e90f2720d1154f701937cc5b67777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "79.137.196.223",
    "port": 19443,
    "secret": "ee34faea79631cc8b7b884a3d513857e7b7777772e636c6f7564666c6172652e636f6d"
   },
@@ -139,11 +149,6 @@
    "server": "85.133.236.147",
    "port": 2096,
    "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q"
-  },
-  {
-   "server": "87.58.149.247",
-   "port": 443,
-   "secret": "eeaaa7b0dbdfce2f2a3e7bc5563c900e297777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "90.miosen.cyou",
@@ -214,11 +219,6 @@
    "server": "ccc.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "cdn1.cdntide.org",
-   "port": 443,
-   "secret": "eeebfc2fcebe840e19f29cf87fadfaad78686f66662e7275"
   },
   {
    "server": "cdn10.cdnwave.org",
@@ -426,12 +426,12 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.lv223.info",
+   "server": "ir.grasic.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.macauley.info",
+   "server": "ir.lv223.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -604,6 +604,11 @@
    "server": "mtproxygram.lol",
    "port": 853,
    "secret": "ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65"
+  },
+  {
+   "server": "mtttt2.badvpn.pro",
+   "port": 443,
+   "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275"
   },
   {
    "server": "mtttt2.badvpn.pro",
@@ -946,5 +951,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 189
+ "count": 190
 }
