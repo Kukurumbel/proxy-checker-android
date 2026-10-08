@@ -211,6 +211,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "Arash-kamangir.ir.igakwvwa.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "ardebill.miandoabs.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
@@ -222,6 +227,11 @@
   },
   {
    "server": "aseman.lunavane.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "benevisim.nehsyaha.info.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
@@ -491,11 +501,6 @@
    "secret": "1603010200010001fc030386e24c3add"
   },
   {
-   "server": "jetish.ir.aysghfkzcxg.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "jhndoes.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -544,11 +549,6 @@
    "server": "lte.mishutkin.click",
    "port": 443,
    "secret": "ee67af30bbe3543b32fd7b6966a61417e26c74652e6d69736875746b696e2e636c69636b"
-  },
-  {
-   "server": "m.aysghfkzcxg.info.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "mahi.poolaki.co.uk",
@@ -606,11 +606,6 @@
    "secret": "dd6a67ae4c2d173b4168745435cb313a39"
   },
   {
-   "server": "moatar.golabkashan.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
    "server": "mobile.mishutkin.click",
    "port": 443,
    "secret": "eed052c02f3e13fa55568670fa5df149086d6f62696c652e6d69736875746b696e2e636c69636b"
@@ -619,11 +614,6 @@
    "server": "mofid.saheledarya.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "mosakhar.hosiyaman.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
   },
   {
    "server": "mtproxygram.lol",
@@ -749,11 +739,6 @@
    "server": "Qeshm.island.ir.igakwvwa.info",
    "port": 7443,
    "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "server": "radar.mtproxy.zip",
-   "port": 443,
-   "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275"
   },
   {
    "server": "reborn.rebirthconnect.com",
@@ -891,11 +876,6 @@
    "secret": "eebaac6961af36ddbee993d02acdd485567275747562652e7275"
   },
   {
-   "server": "tgnn.live",
-   "port": 9443,
-   "secret": "eef390d9757cb92d87826bcef28a6e75ed74676e6e2e6c697665"
-  },
-  {
    "server": "tgproxy.alnidok.ru",
    "port": 1437,
    "secret": "7tZ9Uiy1D5OKRbkArbZfy_90Z3Byb3h5LmFsbmlkb2sucnU"
@@ -956,5 +936,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 191
+ "count": 187
 }
