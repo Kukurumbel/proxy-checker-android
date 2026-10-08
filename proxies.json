@@ -11,11 +11,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "132.243.168.120",
-   "port": 2053,
-   "secret": "684006a1b9814c3d4961f40e72f324a6"
-  },
-  {
    "server": "135.181.192.163",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -29,11 +24,6 @@
    "server": "144.31.30.136",
    "port": 2401,
    "secret": "eef98447b2a74a695f96913414cd6a6d647777772e77696c64626572726965732e7275"
-  },
-  {
-   "server": "150.241.103.180",
-   "port": 8445,
-   "secret": "ee79612e7275ed636390f0ea6214ba36"
   },
   {
    "server": "167.233.100.23",
@@ -216,22 +206,12 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "ardebill.miandoabs.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
    "server": "Artmis.ir.igakwvwa.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "aseman.lunavane.co.uk.",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "benevisim.nehsyaha.info.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
@@ -256,11 +236,6 @@
    "secret": "ee42c25e3a5bebdab61abbcacf2e970c896d61676e69742e7275"
   },
   {
-   "server": "cdn7.cdnwave.org",
-   "port": 443,
-   "secret": "ee6ec9f7e082baf2397b450727ce78447e686f66662e7275"
-  },
-  {
    "server": "connect.mishutkin.click",
    "port": 443,
    "secret": "ee43b48df152c2246a45ec2f88ea52877264726976652e676f6f676c652e636f6d"
@@ -274,11 +249,6 @@
    "server": "data.utkanos.life",
    "port": 2443,
    "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
-  },
-  {
-   "server": "day.vtoroe-dyhanie.space",
-   "port": 443,
-   "secret": "ee2b4b155565df4307acfb18b632c3c9006461792e76746f726f652d647968616e69652e7370616365"
   },
   {
    "server": "day.vtoroe-dyhanie.space",
@@ -314,6 +284,11 @@
    "server": "drift-mail.site",
    "port": 853,
    "secret": "ee57274ad9e33ff7adaebe5227a777e3086d742e70756666626f742e73746f7265"
+  },
+  {
+   "server": "drift-mail.site",
+   "port": 853,
+   "secret": "ee9c7f45c9d670420d1a90b1e862930f456d742e70756666626f742e73746f7265"
   },
   {
    "server": "e.koraivpn.cfd",
@@ -379,11 +354,6 @@
    "server": "free3.gram.blog",
    "port": 443,
    "secret": "ee57639673cce7f03e351b8a5a857eea6c62726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "ghamgin-nashavid.hosiyaman.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
   },
   {
    "server": "gole-sorati.golabkashan.info",
@@ -521,11 +491,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "khosh-khande.lolauth.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
    "server": "kofe-i-chay.xyz",
    "port": 443,
    "secret": "ee2b4b155565df4307acfb18b632c3c9006b6f66652d692d636861792e78797a"
@@ -579,11 +544,6 @@
    "server": "media12.happtg.org",
    "port": 443,
    "secret": "ee620777c073f53354f2dbb2cac6f2add9686f66662e7275"
-  },
-  {
-   "server": "media6.happtg.org",
-   "port": 443,
-   "secret": "ee7391242569590e01416101927d38b565686f66662e7275"
   },
   {
    "server": "media9.happtg.org",
@@ -646,11 +606,6 @@
    "secret": "1603010200010001fc030386e24c3add"
   },
   {
-   "server": "nakoshimon-jomong.lolauth.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
    "server": "nasho.poolaki.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -659,11 +614,6 @@
    "server": "New.nchnch.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "night.vtoroe-dyhanie.space",
-   "port": 443,
-   "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f6e696768742e76746f726f652d647968616e69652e7370616365"
   },
   {
    "server": "night.vtoroe-dyhanie.space",
@@ -861,11 +811,6 @@
    "secret": "ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465"
   },
   {
-   "server": "tg.sosavpn.ru",
-   "port": 443,
-   "secret": "7hlDfj9TuZ5A7dfYESrW_3IxOTMtNDctMzMtNjcuc3NsaXAuaW8"
-  },
-  {
    "server": "tg8.chadvpn.shop",
    "port": 443,
    "secret": "ee3931ebe70d8f4e37acd9c3db534b17627275747562652e7275"
@@ -936,5 +881,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 187
+ "count": 176
 }
