@@ -16,6 +16,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "135.181.74.178",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "138.201.21.32",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -37,6 +42,11 @@
   },
   {
    "server": "194.120.230.106",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "194.120.230.40",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -117,11 +127,6 @@
   },
   {
    "server": "65.108.123.76",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.222.229",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -283,17 +288,7 @@
   {
    "server": "drift-mail.site",
    "port": 853,
-   "secret": "ee57274ad9e33ff7adaebe5227a777e3086d742e70756666626f742e73746f7265"
-  },
-  {
-   "server": "drift-mail.site",
-   "port": 853,
    "secret": "ee9c7f45c9d670420d1a90b1e862930f456d742e70756666626f742e73746f7265"
-  },
-  {
-   "server": "e.koraivpn.cfd",
-   "port": 443,
-   "secret": "ee2cbb6e8a194b863d62db5502512dba2c70696e7465726573742e636f6d"
   },
   {
    "server": "e.networkmodeai.co.uk",
@@ -401,12 +396,22 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "ir-ir.engematica.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir-ir.grumpyoldmen.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "ir.ariely.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.ataman.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -422,16 +427,6 @@
   },
   {
    "server": "ir.grasic.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.lv223.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.panhandleflyers.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -646,6 +641,11 @@
    "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f70656365686e6b692d732d636861656d2e78797a"
   },
   {
+   "server": "Pooriyaye-vali.ir.igakwvwa.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "portal.flashspder.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
@@ -671,16 +671,6 @@
    "secret": "dda4c7c07709a2c6a29fca4fc63b1ae411"
   },
   {
-   "server": "proxy2.proverka.help",
-   "port": 443,
-   "secret": "dd15681a893dce1de72b83eb0a12d3dcac"
-  },
-  {
-   "server": "public2.mtproxygram.lol",
-   "port": 443,
-   "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d"
-  },
-  {
    "server": "puot.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -689,6 +679,11 @@
    "server": "Qeshm.island.ir.igakwvwa.info",
    "port": 7443,
    "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
+   "server": "Rakhsh.ir.igakwvwa.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "reborn.rebirthconnect.com",
@@ -881,5 +876,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 176
+ "count": 175
 }
