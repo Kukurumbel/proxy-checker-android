@@ -186,11 +186,6 @@
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-   "server": "alhosein.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "api2.medhata.org",
    "port": 2443,
    "secret": "ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267"
@@ -236,6 +231,11 @@
    "secret": "ee42c25e3a5bebdab61abbcacf2e970c896d61676e69742e7275"
   },
   {
+   "server": "cdnbarrel.org",
+   "port": 443,
+   "secret": "eef40e59f4a43e92b60b4d2edaec115d2e63646e62617272656c2e6f7267"
+  },
+  {
    "server": "connect.mishutkin.click",
    "port": 443,
    "secret": "ee43b48df152c2246a45ec2f88ea52877264726976652e676f6f676c652e636f6d"
@@ -254,16 +254,6 @@
    "server": "day.vtoroe-dyhanie.space",
    "port": 443,
    "secret": "ee2b4b155565df4307acfb18b632c3c90079612e7275"
-  },
-  {
-   "server": "din5gli2.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "dingi3.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "dizgrakh.mamadali.co.uk",
@@ -326,24 +316,9 @@
    "secret": "1603010200010001fc030386e24c3add"
   },
   {
-   "server": "flat.flashspder.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
    "server": "free.loveproxy.xyz",
    "port": 443,
    "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "free1.gram.blog",
-   "port": 443,
-   "secret": "eeeb46ebb806e03733786c662fdb27dac062726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "free3.gram.blog",
-   "port": 443,
-   "secret": "ee57639673cce7f03e351b8a5a857eea6c62726f777365722e79616e6465782e7275"
   },
   {
    "server": "gole-sorati.golabkashan.info",
@@ -359,11 +334,6 @@
    "server": "gram.blog",
    "port": 853,
    "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75"
-  },
-  {
-   "server": "grampay.io",
-   "port": 853,
-   "secret": "eeee3fa7bf86890c50dbe634404da6a5c96d742e6772616d2e796f75"
   },
   {
    "server": "Hel-hi.co.uk.",
@@ -536,11 +506,6 @@
    "secret": "ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d"
   },
   {
-   "server": "mc-ssh.t-proxyru.info.",
-   "port": 25565,
-   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "media12.happtg.org",
    "port": 443,
    "secret": "ee620777c073f53354f2dbb2cac6f2add9686f66662e7275"
@@ -583,6 +548,11 @@
   {
    "server": "mtttt2.badvpn.pro",
    "port": 443,
+   "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275"
+  },
+  {
+   "server": "mtttt2.badvpn.pro",
+   "port": 443,
    "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275"
   },
   {
@@ -616,6 +586,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "nfc.neo-duo.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "night.vtoroe-dyhanie.space",
    "port": 443,
    "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f79612e7275"
@@ -629,6 +604,11 @@
    "server": "pecehnki-s-chaem.xyz",
    "port": 443,
    "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f70656365686e6b692d732d636861656d2e78797a"
+  },
+  {
+   "server": "persia.bingi.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "Pooriyaye-vali.ir.igakwvwa.info.",
@@ -751,6 +731,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "speed.runserver.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "ssh.meow0.co.uk",
    "port": 22,
    "secret": "dd79e344818749bd7ac519130220c25d09"
@@ -774,11 +759,6 @@
    "server": "support.infinityhalo.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "surfing.suslik-cloud.homes",
-   "port": 443,
-   "secret": "eed7f61466f824eafe116a533553e01bca73757266696e672e7375736c696b2d636c6f75642e686f6d6573"
   },
   {
    "server": "tazenafas.dingi3.co.uk",
@@ -866,5 +846,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 173
+ "count": 169
 }
