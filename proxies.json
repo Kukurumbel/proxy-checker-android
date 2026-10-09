@@ -21,6 +21,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "136.243.195.203",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "138.201.21.32",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -37,6 +42,11 @@
   },
   {
    "server": "194.120.230.106",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "194.120.230.37",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -314,11 +324,6 @@
    "server": "felan-by.lolauth.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "server": "free.loveproxy.xyz",
-   "port": 443,
-   "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
   },
   {
    "server": "gole-sorati.golabkashan.info",
@@ -771,16 +776,6 @@
    "secret": "ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465"
   },
   {
-   "server": "tg8.chadvpn.shop",
-   "port": 443,
-   "secret": "ee3931ebe70d8f4e37acd9c3db534b17627275747562652e7275"
-  },
-  {
-   "server": "tg9.chadvpn.shop",
-   "port": 443,
-   "secret": "eebaac6961af36ddbee993d02acdd485567275747562652e7275"
-  },
-  {
    "server": "tgproxy.alnidok.ru",
    "port": 1437,
    "secret": "7tZ9Uiy1D5OKRbkArbZfy_90Z3Byb3h5LmFsbmlkb2sucnU"
@@ -816,19 +811,14 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "www2.acientirani-uor4.ir",
-   "port": 443,
-   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
-  },
-  {
    "server": "x.shmelproxy.top",
    "port": 443,
    "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
   },
   {
-   "server": "yeh.topbelka.ru",
-   "port": 443,
-   "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
+   "server": "Yaghoub.Leys.Safari.ir.igakwvwa.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "ziste-sevom.ir.igakwvwa.info.",
@@ -846,5 +836,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 169
+ "count": 167
 }
