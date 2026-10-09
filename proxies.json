@@ -26,11 +26,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "144.31.30.136",
-   "port": 2401,
-   "secret": "eef98447b2a74a695f96913414cd6a6d647777772e77696c64626572726965732e7275"
-  },
-  {
    "server": "167.233.100.23",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -431,6 +426,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir.macauley.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir.radio-zvez.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -449,6 +449,11 @@
    "server": "ir.xn--ds-bja.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "iran.bingi.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "jadid.porsorate.co.uk",
@@ -621,21 +626,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "p.lite64.click",
-   "port": 443,
-   "secret": "eee269911715c9ef9f821d02314e6627d96c69746536342e73697465"
-  },
-  {
-   "server": "p.lite64.top",
-   "port": 443,
-   "secret": "eee3dfe8e59202ba62b5da063ddddaa8106c69746536342e73697465"
-  },
-  {
-   "server": "p.lite64.xyz",
-   "port": 443,
-   "secret": "ee8f2e46db5c058508697023181408edfe6c69746536342e73697465"
-  },
-  {
    "server": "pecehnki-s-chaem.xyz",
    "port": 443,
    "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f70656365686e6b692d732d636861656d2e78797a"
@@ -664,11 +654,6 @@
    "server": "price.syscloudio.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "proxy2.legendary.ac",
-   "port": 443,
-   "secret": "dda4c7c07709a2c6a29fca4fc63b1ae411"
   },
   {
    "server": "puot.mozitop.co.uk",
@@ -836,6 +821,11 @@
    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
   },
   {
+   "server": "usb.neo-duo.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "vasalshim.mamadgoli.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -876,5 +866,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 175
+ "count": 173
 }
