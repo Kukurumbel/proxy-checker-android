@@ -66,11 +66,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "21.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "26.helps.help",
    "port": 2096,
    "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q"
@@ -416,11 +411,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.xeonxu.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.xn--ds-bja.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -519,11 +509,6 @@
    "server": "media9.happtg.org",
    "port": 443,
    "secret": "eeb10a2a5cbffbfc86bef9f85c14fada7d6f7a6f6e2e7275"
-  },
-  {
-   "server": "mesh.eeluma.org",
-   "port": 443,
-   "secret": "eed635a4b22040d717a3c32b87a02c216d6d6573682e65656c756d612e6f7267"
   },
   {
    "server": "mio.mozitop.co.uk",
@@ -836,5 +821,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 167
+ "count": 164
 }
