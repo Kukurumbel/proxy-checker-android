@@ -311,11 +311,6 @@
    "secret": "1603010200010001fc030386e24c3add"
   },
   {
-   "server": "gov.grasic.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "gram.blog",
    "port": 853,
    "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75"
@@ -481,11 +476,6 @@
    "secret": "ee620777c073f53354f2dbb2cac6f2add9686f66662e7275"
   },
   {
-   "server": "media9.happtg.org",
-   "port": 443,
-   "secret": "eeb10a2a5cbffbfc86bef9f85c14fada7d6f7a6f6e2e7275"
-  },
-  {
    "server": "mio.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -519,11 +509,6 @@
    "server": "mtttt2.badvpn.pro",
    "port": 443,
    "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275"
-  },
-  {
-   "server": "mtttt2.badvpn.pro",
-   "port": 443,
-   "secret": "eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275"
   },
   {
    "server": "mtttt21.badvpn.pro",
@@ -656,11 +641,6 @@
    "secret": "ee777a1ab303a612c10198e713508bb840686f66662e7275"
   },
   {
-   "server": "s8.assetflux.org",
-   "port": 443,
-   "secret": "ee6a472609cf495f3864be9bfe6c91c9fa646e732d73686f702e7275"
-  },
-  {
    "server": "saboon.mikhay.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -781,5 +761,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 156
+ "count": 152
 }
