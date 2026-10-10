@@ -1,126 +1,132 @@
 {
  "proxies": [
   {
+   "server": "Qeshm.island.ir.igakwvwa.info",
+   "port": 7443,
+   "secret": "1603010200010001fc030386e24c3add",
+   "ping": 92
+  },
+  {
    "server": "31.77.146.140",
    "port": 2399,
    "secret": "dd59a5a92de85207d1aaec30ac59befa88",
-   "ping": 135
+   "ping": 144
   },
   {
    "server": "2.26.83.93",
    "port": 2399,
    "secret": "ddb1c63e3dbcd987139191f422a0dbade6",
-   "ping": 137
+   "ping": 147
   },
   {
-   "server": "nakhand-mesvak-gerone.lolauth.info",
+   "server": "bo0ji.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 193
+  },
+  {
+   "server": "e.networkmodeai.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 196
+  },
+  {
+   "server": "41.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 201
+  },
+  {
+   "server": "jedi-migi.ebimarh.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add",
-   "ping": 187
-  },
-  {
-   "server": "Lashboy.muzanesghy.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 189
+   "ping": 202
   },
   {
    "server": "felan-by.lolauth.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add",
-   "ping": 194
+   "ping": 204
   },
   {
-   "server": "Qeshm.island.ir.igakwvwa.info",
-   "port": 7443,
+   "server": "portal.flashspder.info",
+   "port": 8443,
    "secret": "1603010200010001fc030386e24c3add",
-   "ping": 203
+   "ping": 206
   },
   {
-   "server": "New.nchnch.co.uk",
-   "port": 4455,
+   "server": "ajab.lolauth.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add",
+   "ping": 211
+  },
+  {
+   "server": "nakhand-mesvak-gerone.lolauth.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add",
+   "ping": 211
+  },
+  {
+   "server": "1.iraj.trsr57d.co.uk",
+   "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 212
+  },
+  {
+   "server": "gole-sorati.golabkashan.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add",
    "ping": 214
   },
   {
    "server": "estevia.miandoabs.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add",
-   "ping": 220
+   "ping": 216
   },
   {
    "server": "mashti-khan.ebimarh.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add",
-   "ping": 222
-  },
-  {
-   "server": "ajab.lolauth.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add",
-   "ping": 223
-  },
-  {
-   "server": "tazenafas.dingi3.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 247
-  },
-  {
-   "server": "e.networkmodeai.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 330
+   "ping": 227
   },
   {
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 384
-  },
-  {
-   "server": "1.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 408
-  },
-  {
-   "server": "gole-sorati.golabkashan.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add",
-   "ping": 429
-  },
-  {
-   "server": "jedi-migi.ebimarh.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add",
-   "ping": 450
+   "ping": 321
   },
   {
    "server": "jadide.mamadali.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 506
+   "ping": 338
   },
   {
-   "server": "portal.flashspder.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add",
-   "ping": 520
+   "server": "vasalshim.mamadgoli.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 339
   },
   {
-   "server": "41.hide.newflamingodomain.co.uk",
+   "server": "noway.iraj.trsr57d.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 528
+   "ping": 360
   },
   {
-   "server": "bo0ji.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 1273
+   "server": "1.hide.newflamingodomain.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 369
+  },
+  {
+   "server": "ok.iraj.trsr57d.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 524
   }
  ],
- "count": 20,
- "checked": 152
+ "count": 21,
+ "checked": 154
 }

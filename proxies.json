@@ -6,6 +6,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "1.iraj.trsr57d.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "103.161.35.56",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -127,6 +132,11 @@
   },
   {
    "server": "65.108.123.76",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.21.227.200",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -274,16 +284,6 @@
    "server": "edge.turboass.live",
    "port": 443,
    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
-  },
-  {
-   "server": "ee3.infocross.info",
-   "port": 2443,
-   "secret": "eeca121be937833d844e8dfa7ba019e7d673746f726167652e676f6f676c65617069732e636f6d"
-  },
-  {
-   "server": "ee4.infocross.info",
-   "port": 9443,
-   "secret": "ee53ad4f36b1aaf38f95a46e7edda78df873746f726167652e676f6f676c65617069732e636f6d"
   },
   {
    "server": "estevia.miandoabs.info",
@@ -551,6 +551,16 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "noway.iraj.trsr57d.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "ok.iraj.trsr57d.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "persia.bingi.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -761,5 +771,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 152
+ "count": 154
 }
