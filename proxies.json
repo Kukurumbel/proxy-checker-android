@@ -176,6 +176,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "bramble.maggic.biz",
+   "port": 443,
+   "secret": "ee94616f95e7687e73b668140d51c1d2266272616d626c652e6d61676769632e62697a"
+  },
+  {
    "server": "ccc.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -394,11 +399,6 @@
    "server": "max.mishutkin.click",
    "port": 443,
    "secret": "ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d"
-  },
-  {
-   "server": "media12.happtg.org",
-   "port": 443,
-   "secret": "ee620777c073f53354f2dbb2cac6f2add9686f66662e7275"
   },
   {
    "server": "mio.mozitop.co.uk",
