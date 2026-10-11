@@ -601,11 +601,6 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "ssh2.best-moz.info",
-   "port": 22,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
-  },
-  {
    "server": "storagexx.space",
    "port": 443,
    "secret": "ee24b61556a3ec49bc0c7a5a7e8525702873746f7261676578782e7370616365"
@@ -681,5 +676,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 136
+ "count": 135
 }
