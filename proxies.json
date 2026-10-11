@@ -61,11 +61,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "2.26.83.93",
-   "port": 2399,
-   "secret": "ddb1c63e3dbcd987139191f422a0dbade6"
-  },
-  {
    "server": "208.87.242.223",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -99,21 +94,6 @@
    "server": "45.147.31.253",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "5.75.194.168",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "5.75.202.65",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "5.75.206.230",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "5.9.214.208",
@@ -159,11 +139,6 @@
    "server": "79.137.196.223",
    "port": 6443,
    "secret": "eeee121e233e90f2720d1154f701937cc5b67777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "85.133.236.147",
-   "port": 2096,
-   "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q"
   },
   {
    "server": "90.miosen.cyou",
@@ -326,11 +301,6 @@
    "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "helps.help",
-   "port": 2096,
-   "secret": "dd6a67ae4c2d173b4168745435cb313a39"
-  },
-  {
    "server": "honar.saheledarya.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -479,11 +449,6 @@
    "server": "mio.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "miosen.cyou",
-   "port": 2096,
-   "secret": "dd6a67ae4c2d173b4168745435cb313a39"
   },
   {
    "server": "mobile.mishutkin.click",
@@ -771,5 +736,5 @@
    "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 154
+ "count": 147
 }
