@@ -11,24 +11,9 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "103.161.35.56",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "135.181.192.163",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "135.181.74.178",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "136.243.195.203",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "138.201.21.32",
@@ -46,17 +31,12 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "194.120.230.106",
+   "server": "194.120.230.26",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "194.120.230.37",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "194.120.230.40",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -116,11 +96,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.21.227.200",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "77.42.56.66",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -154,11 +129,6 @@
    "server": "91.98.99.32",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "94.130.15.206",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "ajab.lolauth.info",
@@ -209,11 +179,6 @@
    "server": "ccc.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "cdn10.cdnwave.org",
-   "port": 443,
-   "secret": "ee42c25e3a5bebdab61abbcacf2e970c896d61676e69742e7275"
   },
   {
    "server": "cdnbarrel.org",
@@ -326,7 +291,7 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.ariely.info",
+   "server": "ir-ir.rebol.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -356,17 +321,7 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.radio-zvez.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.simpleelegance-us.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.xn--ds-bja.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -611,11 +566,6 @@
    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   },
   {
-   "server": "s11.assetflux.org",
-   "port": 443,
-   "secret": "ee777a1ab303a612c10198e713508bb840686f66662e7275"
-  },
-  {
    "server": "saboon.mikhay.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -676,14 +626,14 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "termsnal.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "tg.soika.site",
    "port": 443,
    "secret": "ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465"
-  },
-  {
-   "server": "tgproxy.alnidok.ru",
-   "port": 1437,
-   "secret": "7tZ9Uiy1D5OKRbkArbZfy_90Z3Byb3h5LmFsbmlkb2sucnU"
   },
   {
    "server": "top.mishutkin.click",
@@ -729,12 +679,7 @@
    "server": "zone.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-   "server": "zzz.api-metrics-sync.xyz",
-   "port": 443,
-   "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
   }
  ],
- "count": 147
+ "count": 136
 }
