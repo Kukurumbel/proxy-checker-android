@@ -6,16 +6,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "135.181.192.163",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "188.40.184.232",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "208.87.242.223",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -24,11 +14,6 @@
    "server": "3etare.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "5.9.214.208",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "51.83.180.40",
@@ -69,6 +54,11 @@
    "server": "91.98.97.225",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "a03.lovely.lat",
+   "port": 443,
+   "secret": "ee68d6a83140657a1c7bf8e64d98ce9432786170692e6f7a6f6e2e7275"
   },
   {
    "server": "a05.lovely.lat",
@@ -119,6 +109,11 @@
    "server": "bramble.maggic.biz",
    "port": 443,
    "secret": "ee94616f95e7687e73b668140d51c1d2266272616d626c652e6d61676769632e62697a"
+  },
+  {
+   "server": "bruh.rebirthconnect.com",
+   "port": 443,
+   "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
   },
   {
    "server": "ccc.horizon555.co.uk",
@@ -306,11 +301,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "khazar.sea.ir.pugfhtrdyted.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "kostyanchekloh.lol",
    "port": 443,
    "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275"
@@ -324,6 +314,11 @@
    "server": "lavashak.mikhay.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "link2.mtproxy.pw",
+   "port": 443,
+   "secret": "ee486cbda73d68605a42625d7f3d4276e8786170692e6f7a6f6e2e7275"
   },
   {
    "server": "lte.mishutkin.click",
@@ -451,6 +446,11 @@
    "secret": "ee37e1578ef8fe510314206344b195da57786170692e6f7a6f6e2e7275"
   },
   {
+   "server": "portal.mtjlpoto.fit",
+   "port": 443,
+   "secret": "ee4e5301d8840c786333cff0001a993e85786170692e6f7a6f6e2e7275"
+  },
+  {
    "server": "predator-artist.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
@@ -519,16 +519,6 @@
    "server": "route64.mtproxy.pw",
    "port": 443,
    "secret": "ee248bb4e2b1a030c29f02b75cb558f7f7786170692e6f7a6f6e2e7275"
-  },
-  {
-   "server": "ru1.replayeye.cc",
-   "port": 443,
-   "secret": "eed7025a1479939abeae64ba29afa827c564726976652e676f6f676c652e636f6d"
-  },
-  {
-   "server": "ru2.replayeye.cc",
-   "port": 443,
-   "secret": "ee2b1d631a79b5110bd8e6b7740f7ad62764726976652e676f6f676c652e636f6d"
   },
   {
    "server": "Rudmoain.co.uk.",
@@ -666,10 +656,15 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "yarypple.co.uk.",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
    "server": "zone.chunkycorp.shop",
    "port": 443,
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 134
+ "count": 133
 }
