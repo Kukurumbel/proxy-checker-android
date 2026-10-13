@@ -1,19 +1,9 @@
 {
  "proxies": [
   {
-   "server": "1.hide.newflamingodomain.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "1.iraj.trsr57d.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "103.161.35.23",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "135.181.192.163",
@@ -26,24 +16,9 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "194.120.230.26",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "194.120.230.37",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "208.87.242.223",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "31.77.146.140",
-   "port": 2399,
-   "secret": "dd59a5a92de85207d1aaec30ac59befa88"
   },
   {
    "server": "3etare.co.uk.",
@@ -66,17 +41,7 @@
    "secret": "eebdcf16a127970ad245cb99fbb1fbc66a7777772e636c6f7564666c6172652e636f6d"
   },
   {
-   "server": "65.108.123.76",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "77.42.56.66",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "77.42.56.67",
+   "server": "65.21.222.229",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -91,6 +56,11 @@
    "secret": "eeee121e233e90f2720d1154f701937cc5b67777772e636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "91.107.160.196",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "91.107.171.35",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -99,6 +69,11 @@
    "server": "91.98.97.225",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "a05.lovely.lat",
+   "port": 443,
+   "secret": "eec5f896b8357f2a257c7aa9bf0684d024786170692e6f7a6f6e2e7275"
   },
   {
    "server": "akenai.tg",
@@ -226,9 +201,14 @@
    "secret": "eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d"
   },
   {
-   "server": "gole-sorati.golabkashan.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
+   "server": "fast.mtproxy.zip",
+   "port": 443,
+   "secret": "ee1b21a974b0b9000865f55da8f8d330b1786170692e6f7a6f6e2e7275"
+  },
+  {
+   "server": "fast.proxynet.tech",
+   "port": 443,
+   "secret": "ee08787a2b7fd3220d9d35679aab082cab666173742e70726f78796e65742e74656368"
   },
   {
    "server": "gram.blog",
@@ -239,11 +219,6 @@
    "server": "Hel-hi.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "help.meow0.co.uk",
-   "port": 22,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "honar.saheledarya.co.uk.",
@@ -292,11 +267,6 @@
   },
   {
    "server": "ir.genesbyjohn.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.grasic.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -359,11 +329,6 @@
    "server": "lte.mishutkin.click",
    "port": 443,
    "secret": "ee67af30bbe3543b32fd7b6966a61417e26c74652e6d69736875746b696e2e636c69636b"
-  },
-  {
-   "server": "mahi.poolaki.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "mashti-khan.ebimarh.info",
@@ -466,6 +431,11 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "platinum.mtproxy.zip",
+   "port": 443,
+   "secret": "eefc3efe778fcc45b4dac121e6586a0fef786170692e6f7a6f6e2e7275"
+  },
+  {
    "server": "Pooriyaye-vali.ir.igakwvwa.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -479,11 +449,6 @@
    "server": "port33.mtproxy.pw",
    "port": 443,
    "secret": "ee37e1578ef8fe510314206344b195da57786170692e6f7a6f6e2e7275"
-  },
-  {
-   "server": "portal.flashspder.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
   },
   {
    "server": "predator-artist.top",
@@ -501,9 +466,19 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "proxy.sosavpn.ru",
+   "port": 443,
+   "secret": "ee942d2deee4d90bc892c74fd132b34d116d61782e7275"
+  },
+  {
    "server": "pulse.mtp.mom",
    "port": 443,
    "secret": "eec2a574b834962003d0d0ecf7fe9071e1786170692e6f7a6f6e2e7275"
+  },
+  {
+   "server": "pulse.mtp.quest",
+   "port": 443,
+   "secret": "ee3cf5ab28fdc1261768d3e87eba1771b5786170692e6f7a6f6e2e7275"
   },
   {
    "server": "puot.mozitop.co.uk",
@@ -524,6 +499,11 @@
    "server": "reborn.rebirthconnect.com",
    "port": 443,
    "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
+  },
+  {
+   "server": "relay.mtp.llc",
+   "port": 443,
+   "secret": "ee131a14743bb231d24f3dde784007b0b1786170692e6f7a6f6e2e7275"
   },
   {
    "server": "reserve.mtproxy.zip",
@@ -691,5 +671,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 138
+ "count": 134
 }
