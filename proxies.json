@@ -306,6 +306,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir-ir.naganuma.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir-ir.rebol.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -376,6 +381,11 @@
    "secret": "ee486cbda73d68605a42625d7f3d4276e8786170692e6f7a6f6e2e7275"
   },
   {
+   "server": "lite64tg.mtproxy.pw",
+   "port": 443,
+   "secret": "ee90a2fdedffe52c2562934f4d96513b196c69746536342e73697465"
+  },
+  {
    "server": "lllllk.iraj.trsr57d.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -419,11 +429,6 @@
    "server": "mtttt2.badvpn.pro",
    "port": 443,
    "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275"
-  },
-  {
-   "server": "mtttt2.badvpn.pro",
-   "port": 443,
-   "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275"
   },
   {
    "server": "mtttt21.badvpn.pro",
@@ -611,6 +616,11 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "signal.mtp.mom",
+   "port": 443,
+   "secret": "eeb18bb8c019bf022611a46377e3f0262a6c69746536342e73697465"
+  },
+  {
    "server": "Sorena.ir.igakwvwa.info",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -741,5 +751,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 148
+ "count": 150
 }
