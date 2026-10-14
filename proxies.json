@@ -141,6 +141,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "data.lovely.lat",
+   "port": 443,
+   "secret": "eebf84e2a14adc7fb361e00d3b8a7e000a6c69746536342e73697465"
+  },
+  {
    "server": "din5gli2.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -461,14 +466,14 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "price.syscloudio.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "proxy.sosavpn.ru",
    "port": 443,
    "secret": "ee942d2deee4d90bc892c74fd132b34d116d61782e7275"
+  },
+  {
+   "server": "public.mtproxy.zip",
+   "port": 443,
+   "secret": "eed254c766afb963c29c09cb8d382c055f6c69746536342e73697465"
   },
   {
    "server": "pulse.mtp.mom",
@@ -666,5 +671,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 133
+ "count": 134
 }
