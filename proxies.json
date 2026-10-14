@@ -21,6 +21,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "65.108.123.76",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.21.222.229",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -49,6 +54,11 @@
    "server": "91.98.97.225",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "94.130.15.206",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "a03.lovely.lat",
@@ -341,9 +351,9 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "kabab.mikhay.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
+   "server": "kamipo69.p.lite64.xyz",
+   "port": 443,
+   "secret": "ee425883d8e3a1cf13ce05b6881d0c0b416c69746536342e73697465"
   },
   {
    "server": "kostyanchekloh.lol",
@@ -586,11 +596,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "saboon.mikhay.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "server.syscloudio.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -706,6 +711,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "virane91.p.lite64.click",
+   "port": 443,
+   "secret": "eecfe0e7ff882006236808e48af4ca531c6c69746536342e73697465"
+  },
+  {
    "server": "wave.lovely.lat",
    "port": 443,
    "secret": "ee8125767ead83e3a68ce6c864e28c7b4d6c69746536342e73697465"
@@ -731,5 +741,5 @@
    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
  ],
- "count": 146
+ "count": 148
 }
