@@ -11,6 +11,16 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "194.120.230.106",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "194.120.230.120",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "208.87.242.223",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -21,44 +31,9 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "65.108.123.76",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.222.229",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "79.137.196.223",
-   "port": 3443,
-   "secret": "eeee33159ebd0ee0dcafef811a9bc7c2ab8d7777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "79.137.196.223",
-   "port": 6443,
-   "secret": "eeee121e233e90f2720d1154f701937cc5b67777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "91.107.160.196",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "91.107.171.35",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "91.98.97.225",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "94.130.15.206",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "a03.lovely.lat",
@@ -69,6 +44,11 @@
    "server": "a05.lovely.lat",
    "port": 443,
    "secret": "eec5f896b8357f2a257c7aa9bf0684d024786170692e6f7a6f6e2e7275"
+  },
+  {
+   "server": "a09.lovely.lat",
+   "port": 443,
+   "secret": "ee9e296c2cf6c9bde4a1a9f6cf2015749b6c69746536342e73697465"
   },
   {
    "server": "a17.mtproxy.cc",
@@ -176,6 +156,11 @@
    "secret": "eebf84e2a14adc7fb361e00d3b8a7e000a6c69746536342e73697465"
   },
   {
+   "server": "dene60.hollowfern.sbs",
+   "port": 443,
+   "secret": "ee0452c14b5e3aa0002b94fed71957540a6c69746536342e73697465"
+  },
+  {
    "server": "din5gli2.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -256,6 +241,11 @@
    "secret": "ee597076a2a414cba9c1d4a03979ba62796c69746536342e73697465"
   },
   {
+   "server": "fleet.mtjlpoto.fit",
+   "port": 443,
+   "secret": "eefd70c0c10b4b13bbbad6d395ad6758ec6c69746536342e73697465"
+  },
+  {
    "server": "gram.blog",
    "port": 853,
    "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75"
@@ -301,7 +291,7 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir-ir.grumpyoldmen.info",
+   "server": "ir-ir.grasic.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -394,6 +384,11 @@
    "server": "lte.mishutkin.click",
    "port": 443,
    "secret": "ee67af30bbe3543b32fd7b6966a61417e26c74652e6d69736875746b696e2e636c69636b"
+  },
+  {
+   "server": "maka16.velvetoak.work",
+   "port": 443,
+   "secret": "ee0a8b639e100bea3b89339f7b9e0742fb6c69746536342e73697465"
   },
   {
    "server": "max.mishutkin.click",
@@ -506,6 +501,11 @@
    "secret": "eefc3efe778fcc45b4dac121e6586a0fef786170692e6f7a6f6e2e7275"
   },
   {
+   "server": "point.mtproxy.pw",
+   "port": 443,
+   "secret": "ee25ab9c29d445aeb5ecdf93b5c1e0512f6c69746536342e73697465"
+  },
+  {
    "server": "Pooriyaye-vali.ir.igakwvwa.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -534,6 +534,11 @@
    "server": "premium.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "proxy.mtproxy.pw",
+   "port": 443,
+   "secret": "ee7afbfaafa7228f6d84fd6c8aad45546a6c69746536342e73697465"
   },
   {
    "server": "proxy.sosavpn.ru",
@@ -606,6 +611,11 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "seven.mtproxy.pw",
+   "port": 443,
+   "secret": "ee1cc4469f48e510ff94041731920d66986c69746536342e73697465"
+  },
+  {
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -666,6 +676,11 @@
    "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573"
   },
   {
+   "server": "sync.mtproxy.cc",
+   "port": 443,
+   "secret": "eeb1aed35159f92f2c2664da4ec774c9826c69746536342e73697465"
+  },
+  {
    "server": "tazenafas.dingi3.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -676,6 +691,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "toka69.velvetoak.work",
+   "port": 443,
+   "secret": "ee1fb23d3871d7fb9570f26aee4fc6456b6c69746536342e73697465"
+  },
+  {
    "server": "top.mishutkin.click",
    "port": 443,
    "secret": "ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d"
@@ -684,11 +704,6 @@
    "server": "top.proxynet.tech",
    "port": 443,
    "secret": "ee59d1ef95ab03cfeaebb18b0a529ad5e6746f702e70726f78796e65742e74656368"
-  },
-  {
-   "server": "topproxt.asia",
-   "port": 443,
-   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
   },
   {
    "server": "turbo.mtproxy.pw",
@@ -746,10 +761,10 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "zone.chunkycorp.shop",
+   "server": "zone.mtproxy.cc",
    "port": 443,
-   "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+   "secret": "eeb12bab8984767b541b49f7be2341edc86c69746536342e73697465"
   }
  ],
- "count": 150
+ "count": 153
 }
