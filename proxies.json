@@ -291,6 +291,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir-ir.my-pv.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir-ir.naganuma.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -736,6 +741,11 @@
    "secret": "ee59d1ef95ab03cfeaebb18b0a529ad5e6746f702e70726f78796e65742e74656368"
   },
   {
+   "server": "topproxt.asia",
+   "port": 443,
+   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
+  },
+  {
    "server": "turbo.mtproxy.pw",
    "port": 443,
    "secret": "ee776e278c3085b3f903843d06420709516c69746536342e73697465"
@@ -806,5 +816,5 @@
    "secret": "eeb12bab8984767b541b49f7be2341edc86c69746536342e73697465"
   }
  ],
- "count": 161
+ "count": 163
 }
