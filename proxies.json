@@ -21,6 +21,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "194.120.230.37",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "208.87.242.223",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -29,6 +34,11 @@
    "server": "3etare.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "65.109.98.231",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "91.98.97.225",
@@ -169,16 +179,6 @@
    "server": "dns.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "drift-mail.site",
-   "port": 853,
-   "secret": "ee9c7f45c9d670420d1a90b1e862930f456d742e70756666626f742e73746f7265"
-  },
-  {
-   "server": "e.networkmodeai.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "e3fand.fesgheli.co.uk.",
@@ -394,6 +394,11 @@
    "server": "maka16.velvetoak.work",
    "port": 443,
    "secret": "ee0a8b639e100bea3b89339f7b9e0742fb6c69746536342e73697465"
+  },
+  {
+   "server": "maka49.hollowfern.sbs",
+   "port": 443,
+   "secret": "ee7d55edf670ee5888c7f4368395f692006c69746536342e73697465"
   },
   {
    "server": "max.mishutkin.click",
@@ -791,10 +796,15 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "zolony22.lite64.xyz",
+   "port": 443,
+   "secret": "ee9f8bd664e299f9a95891232c42f8806a6c69746536342e73697465"
+  },
+  {
    "server": "zone.mtproxy.cc",
    "port": 443,
    "secret": "eeb12bab8984767b541b49f7be2341edc86c69746536342e73697465"
   }
  ],
- "count": 159
+ "count": 161
 }
