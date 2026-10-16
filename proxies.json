@@ -351,6 +351,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir-ir.simpleelegance-us.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir.ataman.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -936,5 +941,5 @@
    "secret": "eeb12bab8984767b541b49f7be2341edc86c69746536342e73697465"
   }
  ],
- "count": 187
+ "count": 188
 }
