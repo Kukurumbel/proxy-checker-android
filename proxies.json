@@ -46,6 +46,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "65.108.123.76",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.109.98.231",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -54,6 +59,11 @@
    "server": "65.21.222.229",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "79.137.196.223",
+   "port": 21443,
+   "secret": "ee70d02df07ecb5669b6eb010aba55eab07777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "91.107.140.144",
@@ -486,11 +496,6 @@
    "secret": "ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65"
   },
   {
-   "server": "mtttt2.badvpn.pro",
-   "port": 443,
-   "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275"
-  },
-  {
    "server": "mtttt21.badvpn.pro",
    "port": 443,
    "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275"
@@ -618,6 +623,11 @@
   {
    "server": "proxy.sosavpn.ru",
    "port": 443,
+   "secret": "ee942d2deee4d90bc892c74fd132b34d116d61782e7275"
+  },
+  {
+   "server": "proxy.sosavpn.ru",
+   "port": 8443,
    "secret": "ee942d2deee4d90bc892c74fd132b34d116d61782e7275"
   },
   {
@@ -816,6 +826,16 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "tg1-ru3.chadvpn.shop",
+   "port": 8443,
+   "secret": "ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70"
+  },
+  {
+   "server": "tg2-ru3.chadvpn.shop",
+   "port": 8443,
+   "secret": "ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70"
+  },
+  {
    "server": "tg4.quki-hub.com",
    "port": 9443,
    "secret": "dd58737358dee675be48618b79ece66f8c"
@@ -916,5 +936,5 @@
    "secret": "eeb12bab8984767b541b49f7be2341edc86c69746536342e73697465"
   }
  ],
- "count": 183
+ "count": 187
 }
