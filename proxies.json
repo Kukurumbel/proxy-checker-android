@@ -71,6 +71,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "91.107.160.196",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "91.107.171.35",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -126,16 +131,6 @@
    "secret": "ee261e47b390ba2ea937693039177861d56c69746536342e73697465"
   },
   {
-   "server": "appstoff.info",
-   "port": 22,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "Arash-kamangir.ir.igakwvwa.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "arc.lovely.lat",
    "port": 443,
    "secret": "ee488f2074bd7e65b7dece8cdab27987046c69746536342e73697465"
@@ -186,6 +181,11 @@
    "secret": "ee43b48df152c2246a45ec2f88ea52877264726976652e676f6f676c652e636f6d"
   },
   {
+   "server": "daliran-tangestan.ir.aysghfkzcxg.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "darya.saheledarya.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -224,6 +224,11 @@
    "server": "dns.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "dns.vdl.lat",
+   "port": 443,
+   "secret": "eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174"
   },
   {
    "server": "e3fand.fesgheli.co.uk.",
@@ -309,6 +314,11 @@
    "server": "Hel-hi.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "homa.ir.awedsj.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "honar.saheledarya.co.uk.",
@@ -501,11 +511,6 @@
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd16d69746f33382e6d6f73737772656e2e766970"
   },
   {
-   "server": "mobile.mishutkin.click",
-   "port": 443,
-   "secret": "eed052c02f3e13fa55568670fa5df149086d6f62696c652e6d69736875746b696e2e636c69636b"
-  },
-  {
    "server": "mofid.saheledarya.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -514,16 +519,6 @@
    "server": "mtproxygram.lol",
    "port": 853,
    "secret": "ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65"
-  },
-  {
-   "server": "mtttt21.badvpn.pro",
-   "port": 443,
-   "secret": "ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275"
-  },
-  {
-   "server": "mtttt22.badvpn.pro",
-   "port": 443,
-   "secret": "ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275"
   },
   {
    "server": "neraga42.amberreed.top",
@@ -681,11 +676,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "Qeshm.island.ir.igakwvwa.info",
-   "port": 7443,
-   "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
    "server": "rade94.tidelark.cc",
    "port": 443,
    "secret": "ee214011ba04108a7b1836df3a5e918b3b7261646539342e746964656c61726b2e6363"
@@ -806,11 +796,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "Rostam.ir.igakwvwa.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "route64.mtproxy.pw",
    "port": 443,
    "secret": "ee248bb4e2b1a030c29f02b75cb558f7f7786170692e6f7a6f6e2e7275"
@@ -869,11 +854,6 @@
    "server": "speed.runserver.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "ssh.meow0.co.uk",
-   "port": 22,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "storagexx.space",
@@ -1046,5 +1026,5 @@
    "secret": "eeb12bab8984767b541b49f7be2341edc86c69746536342e73697465"
   }
  ],
- "count": 209
+ "count": 205
 }
