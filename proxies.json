@@ -536,6 +536,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "newtg.flightv.online",
+   "port": 443,
+   "secret": "eef6d305d0515c6c3f9b5e0f045fa422646e657774672e666c69676874762e6f6e6c696e65"
+  },
+  {
    "server": "nfc.neo-duo.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -696,6 +701,11 @@
    "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
   },
   {
+   "server": "redflag.yazaebalsyadelatproxy.co.uk",
+   "port": 443,
+   "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+  },
+  {
    "server": "redflag.yazaebalsyadelatproxy.top",
    "port": 443,
    "secret": "ee1fb3c556f75a1b4cc2896da276c98f68726564666c61672e79617a616562616c73796164656c617470726f78792e746f70"
@@ -719,6 +729,11 @@
    "server": "redflag.yazaebalsyadelatproxy.top",
    "port": 443,
    "secret": "eecd7b5204a28b47f7cc34c67357433608726564666c61672e79617a616562616c73796164656c617470726f78792e746f70"
+  },
+  {
+   "server": "redflag.yazaebalsyadelatproxy.uk",
+   "port": 443,
+   "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
   },
   {
    "server": "redflag.yazaebalsyadelatproxy.vip",
@@ -759,6 +774,11 @@
    "server": "relay.mtp.llc",
    "port": 443,
    "secret": "ee131a14743bb231d24f3dde784007b0b1786170692e6f7a6f6e2e7275"
+  },
+  {
+   "server": "relay.surfvpn.app",
+   "port": 443,
+   "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
   },
   {
    "server": "reserve.mtproxy.zip",
@@ -1026,5 +1046,5 @@
    "secret": "eeb12bab8984767b541b49f7be2341edc86c69746536342e73697465"
   }
  ],
- "count": 205
+ "count": 209
 }
