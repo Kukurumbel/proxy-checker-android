@@ -541,6 +541,11 @@
    "secret": "ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65"
   },
   {
+   "server": "nasho.poolaki.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "neraga42.amberreed.top",
    "port": 443,
    "secret": "ee2c2d57db24073a4b0b2f5a5b0ef394d56e657261676134322e616d626572726565642e746f70"
@@ -1111,5 +1116,5 @@
    "secret": "eeb12bab8984767b541b49f7be2341edc86c69746536342e73697465"
   }
  ],
- "count": 222
+ "count": 223
 }
