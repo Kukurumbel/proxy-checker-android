@@ -36,11 +36,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "208.87.242.223",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "333.antony-gordon.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -174,11 +169,6 @@
    "server": "bo0ji.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "bramble.maggic.biz",
-   "port": 443,
-   "secret": "ee94616f95e7687e73b668140d51c1d2266272616d626c652e6d61676769632e62697a"
   },
   {
    "server": "bruh.rebirthconnect.com",
@@ -394,16 +384,6 @@
    "server": "ir.closcloud.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "ir.macauley.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.simpleelegance-us.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "iran.bingi.co.uk",
@@ -654,11 +634,6 @@
    "server": "point.mtproxy.pw",
    "port": 443,
    "secret": "ee25ab9c29d445aeb5ecdf93b5c1e0512f6c69746536342e73697465"
-  },
-  {
-   "server": "porsorate.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "port33.mtproxy.pw",
@@ -981,6 +956,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "tg.surfvpn.info",
+   "port": 443,
+   "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
+  },
+  {
    "server": "tg1-ru3.chadvpn.shop",
    "port": 8443,
    "secret": "ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70"
@@ -1131,5 +1111,5 @@
    "secret": "eeb12bab8984767b541b49f7be2341edc86c69746536342e73697465"
   }
  ],
- "count": 226
+ "count": 222
 }
