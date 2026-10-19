@@ -346,16 +346,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir-ir.flipme.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir-ir.gnutella2.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir-ir.grasic.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -624,6 +614,11 @@
    "server": "paeez.delroba.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "pe2aathp.proxlet.site",
+   "port": 8443,
+   "secret": "eec715c4d72a7605f951b46f45e011bf2470653261617468702e70726f786c65742e73697465"
   },
   {
    "server": "persia.bingi.co.uk",
@@ -916,11 +911,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "surf.suslik-cloud.homes",
-   "port": 443,
-   "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573"
-  },
-  {
    "server": "sync.mtproxy.cc",
    "port": 443,
    "secret": "eeb1aed35159f92f2c2664da4ec774c9826c69746536342e73697465"
@@ -991,11 +981,6 @@
    "secret": "ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d"
   },
   {
-   "server": "top.proxynet.tech",
-   "port": 443,
-   "secret": "ee59d1ef95ab03cfeaebb18b0a529ad5e6746f702e70726f78796e65742e74656368"
-  },
-  {
    "server": "topproxt.asia",
    "port": 443,
    "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
@@ -1014,11 +999,6 @@
    "server": "ultra.mishutkin.click",
    "port": 443,
    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
-  },
-  {
-   "server": "ultra.proxynet.tech",
-   "port": 443,
-   "secret": "eec5b6dfd5a5f78d29e7eee7aa64aae742756c7472612e70726f78796e65742e74656368"
   },
   {
    "server": "usb.neo-duo.co.uk",
@@ -1121,5 +1101,5 @@
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e7a6f76696c6f31312e6d6f73737772656e2e766970"
   }
  ],
- "count": 224
+ "count": 220
 }
