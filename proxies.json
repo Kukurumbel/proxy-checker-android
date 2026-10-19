@@ -246,11 +246,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "edge.turboass.live",
-   "port": 443,
-   "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
-  },
-  {
    "server": "engine.lovely.lat",
    "port": 443,
    "secret": "ee17830d1d27853b54661d85d0b4bfcca7786170692e6f7a6f6e2e7275"
@@ -941,6 +936,11 @@
    "secret": "ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70"
   },
   {
+   "server": "tg1-ru4.chadvpn.shop",
+   "port": 8443,
+   "secret": "eed1701b28cde5b617b23263cf5e601dae7467312d7275342e6368616476706e2e73686f70"
+  },
+  {
    "server": "tg2-ru3.chadvpn.shop",
    "port": 8443,
    "secret": "ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70"
@@ -1046,6 +1046,11 @@
    "secret": "ee8125767ead83e3a68ce6c864e28c7b4d6c69746536342e73697465"
   },
   {
+   "server": "work.mishutkin.click",
+   "port": 443,
+   "secret": "ee61947a32dca6f584a2772676b4b46924776f726b2e6d69736875746b696e2e636c69636b"
+  },
+  {
    "server": "www2.acientirani-uor4.ir",
    "port": 443,
    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
@@ -1101,5 +1106,5 @@
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e7a6f76696c6f31312e6d6f73737772656e2e766970"
   }
  ],
- "count": 220
+ "count": 221
 }
