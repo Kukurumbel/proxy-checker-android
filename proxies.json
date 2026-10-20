@@ -86,11 +86,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "a03.lovely.lat",
-   "port": 443,
-   "secret": "ee68d6a83140657a1c7bf8e64d98ce9432786170692e6f7a6f6e2e7275"
-  },
-  {
    "server": "a05.lovely.lat",
    "port": 443,
    "secret": "eec5f896b8357f2a257c7aa9bf0684d024786170692e6f7a6f6e2e7275"
@@ -601,11 +596,6 @@
    "secret": "ee09bcb48876795874b1ac8c24940ebff76c69746536342e73697465"
   },
   {
-   "server": "orbit.mtp.mom",
-   "port": 443,
-   "secret": "ee2e64e3fd0167bf4d7519b6b7222a76f3786170692e6f7a6f6e2e7275"
-  },
-  {
    "server": "paeez.delroba.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -694,6 +684,11 @@
    "server": "puot.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "rade89.mosswren.vip",
+   "port": 443,
+   "secret": "eef370f65154cbd28b4066bb9dbf5fb6d97261646538392e6d6f73737772656e2e766970"
   },
   {
    "server": "rade94.tidelark.cc",
@@ -979,6 +974,11 @@
    "server": "top.mishutkin.click",
    "port": 443,
    "secret": "ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d"
+  },
+  {
+   "server": "topo15.mosswren.vip",
+   "port": 443,
+   "secret": "ee899032aa75159cc1d735f15e7a0e3a6e746f706f31352e6d6f73737772656e2e766970"
   },
   {
    "server": "topproxt.asia",
