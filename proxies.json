@@ -86,9 +86,14 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "a05.lovely.lat",
+   "server": "94.130.15.206",
    "port": 443,
-   "secret": "eec5f896b8357f2a257c7aa9bf0684d024786170692e6f7a6f6e2e7275"
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "95.217.193.223",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "a09.lovely.lat",
@@ -271,6 +276,11 @@
    "secret": "eefd70c0c10b4b13bbbad6d395ad6758ec6c69746536342e73697465"
   },
   {
+   "server": "free.patrickkvn.space",
+   "port": 1443,
+   "secret": "ee2fe1db8abc6f21e54b344f1b1deb094c706563686b612d626f63686b612e7275"
+  },
+  {
    "server": "gagasu90.copperfinch.top",
    "port": 443,
    "secret": "ee3dd96613c02e8e9864bc2b3fa6b4a84a67616761737539302e636f7070657266696e63682e746f70"
@@ -326,7 +336,17 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir-ir.engematica.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir-ir.grasic.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir-ir.macauley.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -524,6 +544,11 @@
    "server": "mofid.saheledarya.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "mt.wexproxy.com",
+   "port": 8443,
+   "secret": "7kJv1rlqqtc0CbrNK0ZTvkdjbG91ZGZsYXJlLmNvbQ"
   },
   {
    "server": "mtproxygram.lol",
@@ -831,11 +856,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "shampoo.mikhay.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "signal.mtp.mom",
    "port": 443,
    "secret": "eeb18bb8c019bf022611a46377e3f0262a6c69746536342e73697465"
@@ -902,6 +922,11 @@
   },
   {
    "server": "tg1-ru4.chadvpn.shop",
+   "port": 853,
+   "secret": "eeb238721218eebd6f1d571990af3c4d9b7467312d7275342e6368616476706e2e73686f70"
+  },
+  {
+   "server": "tg1-ru4.chadvpn.shop",
    "port": 8443,
    "secret": "eed1701b28cde5b617b23263cf5e601dae7467312d7275342e6368616476706e2e73686f70"
   },
@@ -909,6 +934,11 @@
    "server": "tg2-ru3.chadvpn.shop",
    "port": 8443,
    "secret": "ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70"
+  },
+  {
+   "server": "tg2-ru4.chadvpn.shop",
+   "port": 853,
+   "secret": "eeb238721218eebd6f1d571990af3c4d9b7467312d7275342e6368616476706e2e73686f70"
   },
   {
    "server": "tg4.quki-hub.com",
@@ -959,11 +989,6 @@
    "server": "tovi54.tidelark.cc",
    "port": 443,
    "secret": "ee214011ba04108a7b1836df3a5e918b3b746f766935342e746964656c61726b2e6363"
-  },
-  {
-   "server": "turbo.mtproxy.pw",
-   "port": 443,
-   "secret": "ee776e278c3085b3f903843d06420709516c69746536342e73697465"
   },
   {
    "server": "ultra.mishutkin.click",
@@ -1086,5 +1111,5 @@
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd17a6f7a6f34322e746964656c61726b2e6363"
   }
  ],
- "count": 217
+ "count": 222
 }
