@@ -106,19 +106,9 @@
    "secret": "ee9e296c2cf6c9bde4a1a9f6cf2015749b6c69746536342e73697465"
   },
   {
-   "server": "a17.mtproxy.cc",
-   "port": 443,
-   "secret": "ee96843ce62d85e0df660996e4a863cbde6c69746536342e73697465"
-  },
-  {
    "server": "a21.mtjlpoto.fit",
    "port": 443,
    "secret": "ee22ff46ecf593ff44c7fc90b6a356e56b6c69746536342e73697465"
-  },
-  {
-   "server": "a29.lovely.lat",
-   "port": 443,
-   "secret": "ee30f447b0558f9991b874981c89b332c26c69746536342e73697465"
   },
   {
    "server": "aerodrive.plus-medeum24.ru",
@@ -134,6 +124,11 @@
    "server": "akenai.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+  },
+  {
+   "server": "Anahita.ir.awedsj.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "appstoff.info",
@@ -276,14 +271,14 @@
    "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e56761766938382e6d6f73737772656e2e766970"
   },
   {
+   "server": "ghoghnoos.ir.awedsj.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "gram.blog",
    "port": 853,
    "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75"
-  },
-  {
-   "server": "haven.mtproxy.cc",
-   "port": 443,
-   "secret": "eed713bf198d27cb7b4c0c74b9004fbaf46c69746536342e73697465"
   },
   {
    "server": "Hel-hi.co.uk.",
@@ -366,11 +361,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "kapopo47.lite64.top",
-   "port": 443,
-   "secret": "eece3e2e2820eac71be8f06a9cd893abc06c69746536342e73697465"
-  },
-  {
    "server": "kavima49.mosswren.vip",
    "port": 443,
    "secret": "ee6ce7aa9636179a5f67366aaab4702a266b6176696d6134392e6d6f73737772656e2e766970"
@@ -444,6 +434,11 @@
    "server": "makato62.mosswren.vip",
    "port": 443,
    "secret": "ee4e2e9413e98d2dd622d29d7dfce9df946d616b61746f36322e6d6f73737772656e2e766970"
+  },
+  {
+   "server": "male21.mosswren.vip",
+   "port": 443,
+   "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e56d616c6532312e6d6f73737772656e2e766970"
   },
   {
    "server": "mamadali.co.uk",
@@ -571,6 +566,11 @@
    "secret": "ee0542a5d2c77ba0895ba59e64626dafc96e796d6133372e616d626572726565642e746f70"
   },
   {
+   "server": "nyto59.mosswren.vip",
+   "port": 443,
+   "secret": "eefd9a9e2ac2851ddc327fe5971e25a87d6e79746f35392e6d6f73737772656e2e766970"
+  },
+  {
    "server": "one.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -604,6 +604,11 @@
    "server": "ponyny28.tidelark.cc",
    "port": 443,
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd1706f6e796e7932382e746964656c61726b2e6363"
+  },
+  {
+   "server": "pooran.ir.awedsj.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "pori49.tidelark.cc",
@@ -659,6 +664,11 @@
    "server": "rade94.tidelark.cc",
    "port": 443,
    "secret": "ee214011ba04108a7b1836df3a5e918b3b7261646539342e746964656c61726b2e6363"
+  },
+  {
+   "server": "raga84.mosswren.vip",
+   "port": 443,
+   "secret": "ee920a4026fcc79354d87c30db9280e5787261676138342e6d6f73737772656e2e766970"
   },
   {
    "server": "rale49.mosswren.vip",
@@ -791,11 +801,6 @@
    "secret": "ee796e23ad48fac2e118b50c34116c851f72696d6131352e746964656c61726b2e6363"
   },
   {
-   "server": "rimany75.pebblewisp.xyz",
-   "port": 443,
-   "secret": "ee5eb2895dd175087e3f92cb1993c67db36c69746536342e73697465"
-  },
-  {
    "server": "rootssh2.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -804,11 +809,6 @@
    "server": "Rudmoain.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "saboon.mikhay.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "severjadid.co.uk",
@@ -839,6 +839,11 @@
    "server": "storagexx.space",
    "port": 443,
    "secret": "ee24b61556a3ec49bc0c7a5a7e8525702873746f7261676578782e7370616365"
+  },
+  {
+   "server": "sukari30.tidelark.cc",
+   "port": 443,
+   "secret": "ee14697011e0c73f03e95d7b6919a2252b73756b61726933302e746964656c61726b2e6363"
   },
   {
    "server": "sune79.mosswren.vip",
@@ -929,11 +934,6 @@
    "server": "tolosu80.mosswren.vip",
    "port": 443,
    "secret": "eed83d8a931d025ab6989e824ef614ce7d746f6c6f737538302e6d6f73737772656e2e766970"
-  },
-  {
-   "server": "top.mishutkin.click",
-   "port": 443,
-   "secret": "ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d"
   },
   {
    "server": "topo15.mosswren.vip",
