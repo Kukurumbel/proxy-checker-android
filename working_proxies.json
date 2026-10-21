@@ -1,114 +1,120 @@
 {
  "proxies": [
   {
-   "server": "ssh.meow0.co.uk",
-   "port": 22,
-   "secret": "dd79e344818749bd7ac519130220c25d09",
-   "ping": 111
-  },
-  {
    "server": "rootssh2.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 122
-  },
-  {
-   "server": "tg4.quki-hub.com",
-   "port": 9443,
-   "secret": "dd58737358dee675be48618b79ece66f8c",
-   "ping": 130
-  },
-  {
-   "server": "vasalshim.mamadgoli.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 139
-  },
-  {
-   "server": "bo0ji.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 143
-  },
-  {
-   "server": "tatu.quki-hub.com",
-   "port": 443,
-   "secret": "dd8d093773085b546c7add859281992a0a",
-   "ping": 155
-  },
-  {
-   "server": "New.nchnch.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 157
+   "ping": 184
   },
   {
    "server": "tazenafas.dingi3.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 160
+   "ping": 195
   },
   {
-   "server": "yarypple.co.uk.",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 163
-  },
-  {
-   "server": "dingi3.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 164
-  },
-  {
-   "server": "mamadali.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 181
-  },
-  {
-   "server": "bfesedv.uk.",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 191
+   "server": "bo0ji.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 203
   },
   {
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 245
+   "ping": 210
+  },
+  {
+   "server": "vasalshim.mamadgoli.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 211
+  },
+  {
+   "server": "tg4.quki-hub.com",
+   "port": 9443,
+   "secret": "dd58737358dee675be48618b79ece66f8c",
+   "ping": 212
   },
   {
    "server": "Lashboy.muzanesghy.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 247
-  },
-  {
-   "server": "din5gli2.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 257
-  },
-  {
-   "server": "lllllk.iraj.trsr57d.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 315
-  },
-  {
-   "server": "0000way.iraj.trsr57d.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 330
+   "ping": 218
   },
   {
    "server": "new7.mizanmizanesgh.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 364
+   "ping": 223
+  },
+  {
+   "server": "New.nchnch.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 224
+  },
+  {
+   "server": "tatu.quki-hub.com",
+   "port": 443,
+   "secret": "dd8d093773085b546c7add859281992a0a",
+   "ping": 233
+  },
+  {
+   "server": "bfesedv.uk.",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 236
+  },
+  {
+   "server": "jadide.mamadali.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 237
+  },
+  {
+   "server": "mamadali.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 269
+  },
+  {
+   "server": "ssh.meow0.co.uk",
+   "port": 22,
+   "secret": "dd79e344818749bd7ac519130220c25d09",
+   "ping": 306
+  },
+  {
+   "server": "0000way.iraj.trsr57d.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 357
+  },
+  {
+   "server": "lllllk.iraj.trsr57d.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 378
+  },
+  {
+   "server": "dingi3.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 519
+  },
+  {
+   "server": "yarypple.co.uk.",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 652
+  },
+  {
+   "server": "din5gli2.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 1276
   }
  ],
- "count": 18,
- "checked": 221
+ "count": 19,
+ "checked": 213
 }
