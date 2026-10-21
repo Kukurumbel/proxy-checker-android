@@ -421,16 +421,6 @@
    "secret": "ee886df762dfcde8f48c03f79da90172336c656e7936312e6d6f73737772656e2e766970"
   },
   {
-   "server": "link2.mtproxy.pw",
-   "port": 443,
-   "secret": "ee486cbda73d68605a42625d7f3d4276e8786170692e6f7a6f6e2e7275"
-  },
-  {
-   "server": "lite64tg.mtproxy.pw",
-   "port": 443,
-   "secret": "ee90a2fdedffe52c2562934f4d96513b196c69746536342e73697465"
-  },
-  {
    "server": "lllllk.iraj.trsr57d.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -444,6 +434,11 @@
    "server": "lonymi12.mosswren.vip",
    "port": 443,
    "secret": "eeb0a621aecd97816306c197d21a8bf47b6c6f6e796d6931322e6d6f73737772656e2e766970"
+  },
+  {
+   "server": "lozo50.mosswren.vip",
+   "port": 443,
+   "secret": "ee6ed43ef501d67531518d7d953c72edef6c6f7a6f35302e6d6f73737772656e2e766970"
   },
   {
    "server": "lte.mishutkin.click",
@@ -561,6 +556,11 @@
    "secret": "ee2c2d57db24073a4b0b2f5a5b0ef394d56e657261676134322e616d626572726565642e746f70"
   },
   {
+   "server": "nerile71.tidelark.cc",
+   "port": 443,
+   "secret": "ee07d7284db4f16b9061db564fb8c3c4ac6e6572696c6537312e746964656c61726b2e6363"
+  },
+  {
    "server": "New.nchnch.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -634,11 +634,6 @@
    "server": "pori49.tidelark.cc",
    "port": 443,
    "secret": "eeb0a621aecd97816306c197d21a8bf47b706f726934392e746964656c61726b2e6363"
-  },
-  {
-   "server": "portal.mtjlpoto.fit",
-   "port": 443,
-   "secret": "ee4e5301d8840c786333cff0001a993e85786170692e6f7a6f6e2e7275"
   },
   {
    "server": "predator-artist.top",
@@ -856,9 +851,9 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "signal.mtp.mom",
-   "port": 443,
-   "secret": "eeb18bb8c019bf022611a46377e3f0262a6c69746536342e73697465"
+   "server": "shampoo.mikhay.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "Speed-speed.co.uk.",
@@ -1099,6 +1094,11 @@
    "server": "zovilo11.mosswren.vip",
    "port": 443,
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e7a6f76696c6f31312e6d6f73737772656e2e766970"
+  },
+  {
+   "server": "zovira85.mosswren.vip",
+   "port": 443,
+   "secret": "ee899032aa75159cc1d735f15e7a0e3a6e7a6f7669726138352e6d6f73737772656e2e766970"
   },
   {
    "server": "zozo42.tidelark.cc",
