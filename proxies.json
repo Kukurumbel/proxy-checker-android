@@ -96,11 +96,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "a09.lovely.lat",
-   "port": 443,
-   "secret": "ee9e296c2cf6c9bde4a1a9f6cf2015749b6c69746536342e73697465"
-  },
-  {
    "server": "a21.mtjlpoto.fit",
    "port": 443,
    "secret": "ee22ff46ecf593ff44c7fc90b6a356e56b6c69746536342e73697465"
@@ -234,11 +229,6 @@
    "server": "fast.proxynet.tech",
    "port": 443,
    "secret": "ee08787a2b7fd3220d9d35679aab082cab666173742e70726f78796e65742e74656368"
-  },
-  {
-   "server": "fleet.mtjlpoto.fit",
-   "port": 443,
-   "secret": "eefd70c0c10b4b13bbbad6d395ad6758ec6c69746536342e73697465"
   },
   {
    "server": "free.patrickkvn.space",
@@ -451,11 +441,6 @@
    "secret": "ee162063fc602a74460eea3cb0135cc3196d61746f38322e746964656c61726b2e6363"
   },
   {
-   "server": "matora47.amberreed.top",
-   "port": 443,
-   "secret": "ee3115ed2e32f4c3b00a4b2c7b4c4c98c16d61746f726134372e616d626572726565642e746f70"
-  },
-  {
    "server": "max.kimt.click",
    "port": 443,
    "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
@@ -556,11 +541,6 @@
    "secret": "ee210e812c62beaba8886a0e7042c435ce6e796b616e7939372e616d626572726565642e746f70"
   },
   {
-   "server": "nylole24.copperfinch.top",
-   "port": 443,
-   "secret": "eea881007b38d5a73bdbdb67c6142053d06e796c6f6c6532342e636f7070657266696e63682e746f70"
-  },
-  {
    "server": "nyma37.amberreed.top",
    "port": 443,
    "secret": "ee0542a5d2c77ba0895ba59e64626dafc96e796d6133372e616d626572726565642e746f70"
@@ -589,11 +569,6 @@
    "server": "persia.bingi.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "point.mtproxy.pw",
-   "port": 443,
-   "secret": "ee25ab9c29d445aeb5ecdf93b5c1e0512f6c69746536342e73697465"
   },
   {
    "server": "poka38.tidelark.cc",
@@ -634,11 +609,6 @@
    "server": "proxy.lodkirmm.ru",
    "port": 8443,
    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
-  },
-  {
-   "server": "proxy.mtproxy.pw",
-   "port": 443,
-   "secret": "ee7afbfaafa7228f6d84fd6c8aad45546a6c69746536342e73697465"
   },
   {
    "server": "proxy.sosavpn.ru",
@@ -846,11 +816,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "sync.mtproxy.cc",
-   "port": 443,
-   "secret": "eeb1aed35159f92f2c2664da4ec774c9826c69746536342e73697465"
-  },
-  {
    "server": "tatu.quki-hub.com",
    "port": 443,
    "secret": "dd8d093773085b546c7add859281992a0a"
@@ -1026,11 +991,6 @@
    "secret": "ee9f8bd664e299f9a95891232c42f8806a6c69746536342e73697465"
   },
   {
-   "server": "zone.mtproxy.cc",
-   "port": 443,
-   "secret": "eeb12bab8984767b541b49f7be2341edc86c69746536342e73697465"
-  },
-  {
    "server": "zori48.mosswren.vip",
    "port": 443,
    "secret": "ee214011ba04108a7b1836df3a5e918b3b7a6f726934382e6d6f73737772656e2e766970"
@@ -1051,5 +1011,5 @@
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd17a6f7a6f34322e746964656c61726b2e6363"
   }
  ],
- "count": 210
+ "count": 202
 }
