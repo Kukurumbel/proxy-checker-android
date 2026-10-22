@@ -446,6 +446,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "maravi19.tidelark.cc",
+   "port": 443,
+   "secret": "ee313ccc8ef064342771087caad4a82b616d617261766931392e746964656c61726b2e6363"
+  },
+  {
    "server": "marilo84.tidelark.cc",
    "port": 443,
    "secret": "eeae5ab45be1bccbba85eec21085b2fd206d6172696c6f38342e746964656c61726b2e6363"
@@ -519,6 +524,11 @@
    "server": "nasho.poolaki.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "neny42.tidelark.cc",
+   "port": 443,
+   "secret": "ee899032aa75159cc1d735f15e7a0e3a6e6e656e7934322e746964656c61726b2e6363"
   },
   {
    "server": "neraga42.amberreed.top",
@@ -684,11 +694,6 @@
    "server": "ranymi35.mosswren.vip",
    "port": 443,
    "secret": "ee24c8636b7e946779a023ee708370719b72616e796d6933352e6d6f73737772656e2e766970"
-  },
-  {
-   "server": "reborn.rebirthconnect.com",
-   "port": 443,
-   "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
   },
   {
    "server": "redflag.yazaebalsyadelatproxy.co.uk",
@@ -1071,5 +1076,5 @@
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd17a6f7a6f34322e746964656c61726b2e6363"
   }
  ],
- "count": 214
+ "count": 215
 }
