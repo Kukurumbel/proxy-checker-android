@@ -186,11 +186,6 @@
    "secret": "ee214011ba04108a7b1836df3a5e918b3b64656c6f34372e746964656c61726b2e6363"
   },
   {
-   "server": "demiga67.amberreed.top",
-   "port": 443,
-   "secret": "ee14697011e0c73f03e95d7b6919a2252b64656d69676136372e616d626572726565642e746f70"
-  },
-  {
    "server": "deraka22.amberreed.top",
    "port": 443,
    "secret": "ee920a4026fcc79354d87c30db9280e578646572616b6132322e616d626572726565642e746f70"
@@ -376,14 +371,14 @@
    "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275"
   },
   {
-   "server": "Lashboy.muzanesghy.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "lavashak.mikhay.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "lenelo33.mosswren.vip",
+   "port": 443,
+   "secret": "ee6ce7aa9636179a5f67366aaab4702a266c656e656c6f33332e6d6f73737772656e2e766970"
   },
   {
    "server": "leny61.mosswren.vip",
@@ -424,11 +419,6 @@
    "server": "maka49.hollowfern.sbs",
    "port": 443,
    "secret": "ee7d55edf670ee5888c7f4368395f692006c69746536342e73697465"
-  },
-  {
-   "server": "makasu60.amberreed.top",
-   "port": 443,
-   "secret": "eec95ef2f2193afa5ec0abe73fb7e3ec3c6d616b61737536302e616d626572726565642e746f70"
   },
   {
    "server": "makato62.mosswren.vip",
@@ -526,24 +516,19 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "nede81.mosswren.vip",
+   "port": 443,
+   "secret": "ee56df43598f1fce0f2fb3a1233652ee546e65646538312e6d6f73737772656e2e766970"
+  },
+  {
    "server": "neny42.tidelark.cc",
    "port": 443,
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e6e656e7934322e746964656c61726b2e6363"
   },
   {
-   "server": "neraga42.amberreed.top",
-   "port": 443,
-   "secret": "ee2c2d57db24073a4b0b2f5a5b0ef394d56e657261676134322e616d626572726565642e746f70"
-  },
-  {
    "server": "nerile71.tidelark.cc",
    "port": 443,
    "secret": "ee07d7284db4f16b9061db564fb8c3c4ac6e6572696c6537312e746964656c61726b2e6363"
-  },
-  {
-   "server": "New.nchnch.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "new7.mizanmizanesgh.co.uk",
@@ -721,16 +706,6 @@
    "secret": "ee567915370ab0dc37a3cc7bb504a72829726564666c61672e79617a616562616c73796164656c617470726f78792e746f70"
   },
   {
-   "server": "redflag.yazaebalsyadelatproxy.top",
-   "port": 443,
-   "secret": "ee5968d9f8608df9bd929d3f8f9e313113726564666c61672e79617a616562616c73796164656c617470726f78792e746f70"
-  },
-  {
-   "server": "redflag.yazaebalsyadelatproxy.top",
-   "port": 443,
-   "secret": "eecd7b5204a28b47f7cc34c67357433608726564666c61672e79617a616562616c73796164656c617470726f78792e746f70"
-  },
-  {
    "server": "redflag.yazaebalsyadelatproxy.uk",
    "port": 443,
    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
@@ -763,11 +738,6 @@
   {
    "server": "redflag.yazaebalsyadelatproxy.vip",
    "port": 443,
-   "secret": "ee899032aa75159cc1d735f15e7a0e3a6e726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
-  },
-  {
-   "server": "redflag.yazaebalsyadelatproxy.vip",
-   "port": 443,
    "secret": "ee9267d78681726d5ff1bf826b750ba4ba726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
   },
   {
@@ -779,11 +749,6 @@
    "server": "redflag.yazaebalsyadelatproxy.vip",
    "port": 443,
    "secret": "eeae5ab45be1bccbba85eec21085b2fd20726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
-  },
-  {
-   "server": "redflag.yazaebalsyadelatproxy.vip",
-   "port": 443,
-   "secret": "eeb0a621aecd97816306c197d21a8bf47b726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
   },
   {
    "server": "redflag.yazaebalsyadelatproxy.vip",
@@ -819,6 +784,16 @@
    "server": "Rudmoain.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "s1.moworkvpn.site",
+   "port": 443,
+   "secret": "ee7f544ee791d0f5b888d20b955d16b2f1737461636b6f766572666c6f772e636f6d"
+  },
+  {
+   "server": "s2.moworkvpn.site",
+   "port": 8443,
+   "secret": "ee8da87e8ee453db25d1f0cb08f544c1296a6574627261696e732e636f6d"
   },
   {
    "server": "severjadid.co.uk",
@@ -1076,5 +1051,5 @@
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd17a6f7a6f34322e746964656c61726b2e6363"
   }
  ],
- "count": 215
+ "count": 210
 }
