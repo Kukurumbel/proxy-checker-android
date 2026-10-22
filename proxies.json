@@ -51,17 +51,17 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.109.147.34",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.109.147.39",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "65.109.98.231",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "65.21.222.229",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -94,11 +94,6 @@
    "server": "95.217.193.223",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "a21.mtjlpoto.fit",
-   "port": 443,
-   "secret": "ee22ff46ecf593ff44c7fc90b6a356e56b6c69746536342e73697465"
   },
   {
    "server": "aerodrive.plus-medeum24.ru",
@@ -141,6 +136,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "babak-khoramdin.ir.aysghfkzcxg.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "bfesedv.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -179,6 +179,16 @@
    "server": "delo47.tidelark.cc",
    "port": 443,
    "secret": "ee214011ba04108a7b1836df3a5e918b3b64656c6f34372e746964656c61726b2e6363"
+  },
+  {
+   "server": "delvari.ir.aysghfkzcxg.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "demaga57.tidelark.cc",
+   "port": 443,
+   "secret": "ee9267d78681726d5ff1bf826b750ba4ba64656d61676135372e746964656c61726b2e6363"
   },
   {
    "server": "deraka22.amberreed.top",
@@ -346,6 +356,11 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "kaveh-ahangar.ir.aysghfkzcxg.info",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "kavima49.mosswren.vip",
    "port": 443,
    "secret": "ee6ce7aa9636179a5f67366aaab4702a266b6176696d6134392e6d6f73737772656e2e766970"
@@ -466,6 +481,11 @@
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e6d69646537372e6d6f73737772656e2e766970"
   },
   {
+   "server": "milo44.mosswren.vip",
+   "port": 443,
+   "secret": "eefd9a9e2ac2851ddc327fe5971e25a87d6d696c6f34342e6d6f73737772656e2e766970"
+  },
+  {
    "server": "mimizo19.tidelark.cc",
    "port": 443,
    "secret": "ee6ce7aa9636179a5f67366aaab4702a266d696d697a6f31392e746964656c61726b2e6363"
@@ -581,6 +601,11 @@
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd1706f6e796e7932382e746964656c61726b2e6363"
   },
   {
+   "server": "ponyzo32.tidelark.cc",
+   "port": 443,
+   "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e5706f6e797a6f33322e746964656c61726b2e6363"
+  },
+  {
    "server": "pooran.ir.awedsj.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -613,11 +638,6 @@
   {
    "server": "proxy.sosavpn.ru",
    "port": 443,
-   "secret": "ee942d2deee4d90bc892c74fd132b34d116d61782e7275"
-  },
-  {
-   "server": "proxy.sosavpn.ru",
-   "port": 8443,
    "secret": "ee942d2deee4d90bc892c74fd132b34d116d61782e7275"
   },
   {
@@ -801,6 +821,11 @@
    "secret": "ee14697011e0c73f03e95d7b6919a2252b73756b61726933302e746964656c61726b2e6363"
   },
   {
+   "server": "sumi71.mosswren.vip",
+   "port": 443,
+   "secret": "ee214011ba04108a7b1836df3a5e918b3b73756d6937312e6d6f73737772656e2e766970"
+  },
+  {
    "server": "sune79.mosswren.vip",
    "port": 443,
    "secret": "eeb0a621aecd97816306c197d21a8bf47b73756e6537392e6d6f73737772656e2e766970"
@@ -816,6 +841,16 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "t5.nevcodeframe.com",
+   "port": 443,
+   "secret": "ee4e7e658f96af22ada977fa3e2e472e6274352e6e6576636f64656672616d652e636f6d"
+  },
+  {
+   "server": "t6.nevcodeframe.com",
+   "port": 443,
+   "secret": "ee0e4d933242164450da8a7e6b469b629774362e6e6576636f64656672616d652e636f6d"
+  },
+  {
    "server": "tatu.quki-hub.com",
    "port": 443,
    "secret": "dd8d093773085b546c7add859281992a0a"
@@ -829,6 +864,11 @@
    "server": "termsnal.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "tg.getsurfvpn.com",
+   "port": 443,
+   "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
   },
   {
    "server": "tg.surfvpn.info",
@@ -889,11 +929,6 @@
    "server": "topo15.mosswren.vip",
    "port": 443,
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e746f706f31352e6d6f73737772656e2e766970"
-  },
-  {
-   "server": "topproxt.asia",
-   "port": 443,
-   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
   },
   {
    "server": "tovi54.tidelark.cc",
@@ -1011,5 +1046,5 @@
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd17a6f7a6f34322e746964656c61726b2e6363"
   }
  ],
- "count": 202
+ "count": 209
 }
