@@ -4,81 +4,81 @@
    "server": "ssh.meow0.co.uk",
    "port": 22,
    "secret": "dd79e344818749bd7ac519130220c25d09",
-   "ping": 178
-  },
-  {
-   "server": "help.meow0.co.uk",
-   "port": 22,
-   "secret": "dd79e344818749bd7ac519130220c25d09",
-   "ping": 187
+   "ping": 117
   },
   {
    "server": "rootssh2.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 206
-  },
-  {
-   "server": "severjadid.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 229
-  },
-  {
-   "server": "bo0ji.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 231
+   "ping": 145
   },
   {
    "server": "vasalshim.mamadgoli.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 247
+   "ping": 158
+  },
+  {
+   "server": "severjadid.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 165
   },
   {
    "server": "tazenafas.dingi3.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 252
+   "ping": 165
+  },
+  {
+   "server": "bo0ji.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 166
   },
   {
    "server": "jadide.mamadali.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 267
-  },
-  {
-   "server": "new7.mizanmizanesgh.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 279
+   "ping": 182
   },
   {
    "server": "bfesedv.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 290
+   "ping": 192
   },
   {
    "server": "yarypple.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 319
+   "ping": 224
   },
   {
-   "server": "0000way.iraj.trsr57d.co.uk",
-   "port": 8443,
+   "server": "new7.mizanmizanesgh.co.uk",
+   "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 597
+   "ping": 274
+  },
+  {
+   "server": "help.meow0.co.uk",
+   "port": 22,
+   "secret": "dd79e344818749bd7ac519130220c25d09",
+   "ping": 289
   },
   {
    "server": "lllllk.iraj.trsr57d.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 813
+   "ping": 415
+  },
+  {
+   "server": "0000way.iraj.trsr57d.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 440
   }
  ],
  "count": 13,
- "checked": 190
+ "checked": 195
 }
