@@ -21,11 +21,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "194.120.230.120",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "333.antony-gordon.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -421,11 +416,6 @@
    "secret": "ee39c068a9eef03a858d82c840c0b3728b6c6f6c6f6c6534372e746964656c61726b2e6363"
   },
   {
-   "server": "lonymi12.mosswren.vip",
-   "port": 443,
-   "secret": "eeb0a621aecd97816306c197d21a8bf47b6c6f6e796d6931322e6d6f73737772656e2e766970"
-  },
-  {
    "server": "lozo50.mosswren.vip",
    "port": 443,
    "secret": "ee6ed43ef501d67531518d7d953c72edef6c6f7a6f35302e6d6f73737772656e2e766970"
@@ -561,11 +551,6 @@
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd16e796b6138352e6d6f73737772656e2e766970"
   },
   {
-   "server": "nykany97.amberreed.top",
-   "port": 443,
-   "secret": "ee210e812c62beaba8886a0e7042c435ce6e796b616e7939372e616d626572726565642e746f70"
-  },
-  {
    "server": "nyto59.mosswren.vip",
    "port": 443,
    "secret": "eefd9a9e2ac2851ddc327fe5971e25a87d6e79746f35392e6d6f73737772656e2e766970"
@@ -674,11 +659,6 @@
    "server": "redflag.yazaebalsyadelatproxy.vip",
    "port": 443,
    "secret": "ee24c8636b7e946779a023ee708370719b726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
-  },
-  {
-   "server": "redflag.yazaebalsyadelatproxy.vip",
-   "port": 443,
-   "secret": "ee5930e8477f2227bbffb811456569caa1726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
   },
   {
    "server": "redflag.yazaebalsyadelatproxy.vip",
@@ -876,6 +856,11 @@
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e746f706f31352e6d6f73737772656e2e766970"
   },
   {
+   "server": "topproxt.asia",
+   "port": 443,
+   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
+  },
+  {
    "server": "tovi54.tidelark.cc",
    "port": 443,
    "secret": "ee214011ba04108a7b1836df3a5e918b3b746f766935342e746964656c61726b2e6363"
@@ -966,5 +951,5 @@
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd17a6f7a6f34322e746964656c61726b2e6363"
   }
  ],
- "count": 193
+ "count": 190
 }
