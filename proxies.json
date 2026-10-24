@@ -21,6 +21,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "194.120.230.120",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "333.antony-gordon.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -56,6 +61,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "65.21.227.199",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "77.mishutkin.click",
    "port": 443,
    "secret": "eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b"
@@ -64,6 +74,11 @@
    "server": "91.107.140.144",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "91.107.171.35",
+   "port": 443,
+   "secret": "104462821249bd7ac519130220c25d09"
   },
   {
    "server": "91.107.171.35",
@@ -179,6 +194,11 @@
    "server": "cdnwave.org",
    "port": 443,
    "secret": "ee5eedcb160ad8ac83ff7a1516474692d8706574726f766963682e7275"
+  },
+  {
+   "server": "cloud-sync-mx.online",
+   "port": 443,
+   "secret": "ee395b5c5d20a594c5656b17f198621c05636c6f75642d73796e632d6d782e6f6e6c696e65"
   },
   {
    "server": "connect.mishutkin.click",
@@ -352,6 +372,11 @@
   },
   {
    "server": "ir-ir.xn--ds-bja.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.ataman.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -976,5 +1001,5 @@
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd17a6f7a6f34322e746964656c61726b2e6363"
   }
  ],
- "count": 195
+ "count": 200
 }
