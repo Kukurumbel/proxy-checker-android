@@ -221,6 +221,11 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "dede19.tidelark.cc",
+   "port": 443,
+   "secret": "ee41ee77d8b25bda2a9843be139200384d6465646531392e746964656c61726b2e6363"
+  },
+  {
    "server": "delo47.tidelark.cc",
    "port": 443,
    "secret": "ee214011ba04108a7b1836df3a5e918b3b64656c6f34372e746964656c61726b2e6363"
@@ -651,6 +656,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "Pooriyaye-vali.ir.igakwvwa.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "pori49.tidelark.cc",
    "port": 443,
    "secret": "eeb0a621aecd97816306c197d21a8bf47b706f726934392e746964656c61726b2e6363"
@@ -679,6 +689,11 @@
    "server": "raga84.mosswren.vip",
    "port": 443,
    "secret": "ee920a4026fcc79354d87c30db9280e5787261676138342e6d6f73737772656e2e766970"
+  },
+  {
+   "server": "Rakhsh.ir.igakwvwa.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "ranymi35.mosswren.vip",
@@ -1006,5 +1021,5 @@
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd17a6f7a6f34322e746964656c61726b2e6363"
   }
  ],
- "count": 201
+ "count": 204
 }
