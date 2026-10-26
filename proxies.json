@@ -226,11 +226,6 @@
    "secret": "eec5227f52476ca795cdfefbb801f18e9764656e796d6939382e6d6f73737772656e2e766970"
   },
   {
-   "server": "dezori62.tidelark.cc",
-   "port": 443,
-   "secret": "ee24c8636b7e946779a023ee708370719b64657a6f726936322e746964656c61726b2e6363"
-  },
-  {
    "server": "dns.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -344,6 +339,11 @@
    "server": "ir.closcloud.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "ir.forzajuve.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "ir.groundfloorsolutions.co.uk",
@@ -481,11 +481,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "mt.wexproxy.com",
-   "port": 8443,
-   "secret": "7kJv1rlqqtc0CbrNK0ZTvkdjbG91ZGZsYXJlLmNvbQ"
-  },
-  {
    "server": "mtproxygram.lol",
    "port": 853,
    "secret": "ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65"
@@ -566,11 +561,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "pe2aathp.proxlet.site",
-   "port": 8443,
-   "secret": "eec715c4d72a7605f951b46f45e011bf2470653261617468702e70726f786c65742e73697465"
-  },
-  {
    "server": "persian.gulf.ir.bcsadwtgd.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -634,21 +624,6 @@
    "server": "ramane52.mosswren.vip",
    "port": 443,
    "secret": "eeae5ab45be1bccbba85eec21085b2fd2072616d616e6535322e6d6f73737772656e2e766970"
-  },
-  {
-   "server": "redflag.yazaebalsyadelatproxy.co.uk",
-   "port": 443,
-   "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-  },
-  {
-   "server": "redflag.yazaebalsyadelatproxy.com",
-   "port": 443,
-   "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-  },
-  {
-   "server": "redflag.yazaebalsyadelatproxy.uk",
-   "port": 443,
-   "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
   },
   {
    "server": "redflag.yazaebalsyadelatproxy.vip",
@@ -811,6 +786,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "tehran.bingi.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "termsnal.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -834,6 +814,16 @@
    "server": "tg1-ru4.chadvpn.shop",
    "port": 8443,
    "secret": "eed1701b28cde5b617b23263cf5e601dae7467312d7275342e6368616476706e2e73686f70"
+  },
+  {
+   "server": "tg1-ru5.chadvpn.shop",
+   "port": 853,
+   "secret": "ee01298cb2ddd631b1f5f7de3dce151c8b7467312d7275352e6368616476706e2e73686f70"
+  },
+  {
+   "server": "tg1-ru6.chadvpn.shop",
+   "port": 853,
+   "secret": "eefa945f5b3ab915949e388a90b521d72c7467312d7275362e6368616476706e2e73686f70"
   },
   {
    "server": "tg2-ru4.chadvpn.shop",
@@ -891,15 +881,10 @@
    "secret": "ee0aa650d01f25f5a4995b61f181286d9a617669746f2e7275"
   },
   {
-   "server": "zori48.mosswren.vip",
-   "port": 443,
-   "secret": "ee214011ba04108a7b1836df3a5e918b3b7a6f726934382e6d6f73737772656e2e766970"
-  },
-  {
    "server": "zovira85.mosswren.vip",
    "port": 443,
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e7a6f7669726138352e6d6f73737772656e2e766970"
   }
  ],
- "count": 180
+ "count": 177
 }
