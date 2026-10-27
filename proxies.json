@@ -96,6 +96,11 @@
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
+   "server": "amoo.bingi.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "Anahita.ir.awedsj.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -239,6 +244,11 @@
    "server": "fast.mishutkin.click",
    "port": 443,
    "secret": "eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d"
+  },
+  {
+   "server": "free.loveproxy.xyz",
+   "port": 443,
+   "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
   },
   {
    "server": "free.patrickkvn.space",
@@ -586,6 +596,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "public2.mtproxygram.lol",
+   "port": 443,
+   "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d"
+  },
+  {
    "server": "puot.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -859,7 +874,12 @@
    "server": "x4.shmelproxy.top",
    "port": 443,
    "secret": "ee0aa650d01f25f5a4995b61f181286d9a617669746f2e7275"
+  },
+  {
+   "server": "yeh.topbelka.ru",
+   "port": 443,
+   "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
   }
  ],
- "count": 172
+ "count": 176
 }
