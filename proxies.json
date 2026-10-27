@@ -56,6 +56,11 @@
    "secret": "eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b"
   },
   {
+   "server": "91.107.140.144",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "91.107.160.196",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -201,11 +206,6 @@
    "secret": "ee41ee77d8b25bda2a9843be139200384d6465646531392e746964656c61726b2e6363"
   },
   {
-   "server": "delo47.tidelark.cc",
-   "port": 443,
-   "secret": "ee214011ba04108a7b1836df3a5e918b3b64656c6f34372e746964656c61726b2e6363"
-  },
-  {
    "server": "delvari.ir.aysghfkzcxg.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -307,11 +307,6 @@
   },
   {
    "server": "ir-ir.panhandleflyers.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir-ir.pbdjarum.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -441,11 +436,6 @@
    "secret": "ee313ccc8ef064342771087caad4a82b616d617261766931392e746964656c61726b2e6363"
   },
   {
-   "server": "mato82.tidelark.cc",
-   "port": 443,
-   "secret": "ee162063fc602a74460eea3cb0135cc3196d61746f38322e746964656c61726b2e6363"
-  },
-  {
    "server": "max.kimt.click",
    "port": 443,
    "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
@@ -556,6 +546,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "Pasargad.ir.bcsadwtgd.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "persian.gulf.ir.bcsadwtgd.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -594,11 +589,6 @@
    "server": "puot.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "rade89.mosswren.vip",
-   "port": 443,
-   "secret": "eef370f65154cbd28b4066bb9dbf5fb6d97261646538392e6d6f73737772656e2e766970"
   },
   {
    "server": "raga84.mosswren.vip",
@@ -871,5 +861,5 @@
    "secret": "ee0aa650d01f25f5a4995b61f181286d9a617669746f2e7275"
   }
  ],
- "count": 174
+ "count": 172
 }
