@@ -111,11 +111,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "akenai.tg",
-   "port": 853,
-   "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
-  },
-  {
    "server": "akenai.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
@@ -124,6 +119,16 @@
    "server": "amoo.bingi.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "appstoff.info",
+   "port": 22,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "Ariobarzanes.ir.igakwvwa.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "aseman.lunavane.co.uk.",
@@ -184,6 +189,16 @@
    "server": "cloud-sync-mx.online",
    "port": 443,
    "secret": "ee395b5c5d20a594c5656b17f198621c05636c6f75642d73796e632d6d782e6f6e6c696e65"
+  },
+  {
+   "server": "connect.mtproxy.me",
+   "port": 443,
+   "secret": "dd616cf892574b078aab3f73e63b8b7df4"
+  },
+  {
+   "server": "daliran-tangestan.ir.aysghfkzcxg.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "darya.saheledarya.co.uk.",
@@ -257,11 +272,6 @@
   },
   {
    "server": "haji.estabonita.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "hapoo.nanaz.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
@@ -496,6 +506,11 @@
    "secret": "ee39d3b1d3fe4d2e7c46ddf88c1eb87b456e796d6133392e6d6f73737772656e2e766970"
   },
   {
+   "server": "nyne45.foxglade.xyz",
+   "port": 443,
+   "secret": "ee899032aa75159cc1d735f15e7a0e3a6e6e796e6534352e666f78676c6164652e78797a"
+  },
+  {
    "server": "nypo47.tidelark.cc",
    "port": 443,
    "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e56e79706f34372e746964656c61726b2e6363"
@@ -531,11 +546,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "pishi.nanaz.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "pofak.mikhay.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -549,6 +559,11 @@
    "server": "porsorate.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "pozo12.saltfern.xyz",
+   "port": 443,
+   "secret": "ee14697011e0c73f03e95d7b6919a2252b706f7a6f31322e73616c746665726e2e78797a"
   },
   {
    "server": "predator-artist.top",
@@ -776,11 +791,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "tg.getsurfvpn.com",
-   "port": 443,
-   "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
-  },
-  {
    "server": "tg1-ru4.chadvpn.shop",
    "port": 853,
    "secret": "eeb238721218eebd6f1d571990af3c4d9b7467312d7275342e6368616476706e2e73686f70"
@@ -861,11 +871,6 @@
    "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
   },
   {
-   "server": "x4.shmelproxy.top",
-   "port": 443,
-   "secret": "ee0aa650d01f25f5a4995b61f181286d9a617669746f2e7275"
-  },
-  {
    "server": "yarypple.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -886,5 +891,5 @@
    "secret": "ee14697011e0c73f03e95d7b6919a2252b7a6f746f6d6139342e6d6f73737772656e2e766970"
   }
  ],
- "count": 177
+ "count": 178
 }
