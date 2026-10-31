@@ -176,11 +176,6 @@
    "secret": "eecee7b6e27470f95e6aa8c507f66a0c9f686f66662e7275"
   },
   {
-   "server": "cdnwave.org",
-   "port": 443,
-   "secret": "ee5eedcb160ad8ac83ff7a1516474692d8706574726f766963682e7275"
-  },
-  {
    "server": "connect.mtproxy.me",
    "port": 443,
    "secret": "dd616cf892574b078aab3f73e63b8b7df4"
@@ -231,6 +226,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "edge-pl.vetka.rest",
+   "port": 443,
+   "secret": "eeb6e1ab49f971ecdd9d3a2220a6784c687777772e626f6f6b696e672e636f6d"
+  },
+  {
    "server": "exiscos.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -251,6 +251,11 @@
    "secret": "eecd7b5204a28b47f7cc34c6735743360867616e6538362e746964656c61726b2e6363"
   },
   {
+   "server": "gato74.saltfern.xyz",
+   "port": 443,
+   "secret": "ee214011ba04108a7b1836df3a5e918b3b6761746f37342e73616c746665726e2e78797a"
+  },
+  {
    "server": "gazo19.mosswren.vip",
    "port": 443,
    "secret": "eefd9a9e2ac2851ddc327fe5971e25a87d67617a6f31392e6d6f73737772656e2e766970"
@@ -269,11 +274,6 @@
    "server": "Hel-hi.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "help.meow0.co.uk",
-   "port": 22,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "honar.saheledarya.co.uk.",
@@ -386,6 +386,11 @@
    "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275"
   },
   {
+   "server": "lazeyka-31.getvelora.space",
+   "port": 443,
+   "secret": "eef3c1c7586ab159cb0c9af470501870b16f7a6f6e2e7275"
+  },
+  {
    "server": "lelode97.tidelark.cc",
    "port": 443,
    "secret": "eefd9a9e2ac2851ddc327fe5971e25a87d6c656c6f646539372e746964656c61726b2e6363"
@@ -476,11 +481,6 @@
    "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e56e656d6135372e7175696574666a6f72642e636c69636b"
   },
   {
-   "server": "neny42.tidelark.cc",
-   "port": 443,
-   "secret": "ee899032aa75159cc1d735f15e7a0e3a6e6e656e7934322e746964656c61726b2e6363"
-  },
-  {
    "server": "nepo38.tidelark.cc",
    "port": 443,
    "secret": "ee6ce7aa9636179a5f67366aaab4702a266e65706f33382e746964656c61726b2e6363"
@@ -566,11 +566,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "Pooriyaye-vali.ir.igakwvwa.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "porsorate.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -603,11 +598,6 @@
   {
    "server": "puot.mozitop.co.uk",
    "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "Rakhsh.ir.igakwvwa.info.",
-   "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -851,6 +841,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "vile61.foxglade.xyz",
+   "port": 443,
+   "secret": "ee920a4026fcc79354d87c30db9280e57876696c6536312e666f78676c6164652e78797a"
+  },
+  {
    "server": "vima74.tidelark.cc",
    "port": 443,
    "secret": "ee14697011e0c73f03e95d7b6919a2252b76696d6137342e746964656c61726b2e6363"
@@ -911,5 +906,5 @@
    "secret": "ee14697011e0c73f03e95d7b6919a2252b7a6f746f6d6139342e6d6f73737772656e2e766970"
   }
  ],
- "count": 182
+ "count": 181
 }
