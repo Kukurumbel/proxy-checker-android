@@ -11,6 +11,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "135.181.74.183",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "178.105.127.56",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -49,6 +54,16 @@
    "server": "49.12.36.40",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "65.109.106.132",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.109.106.179",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "65.109.147.39",
@@ -161,11 +176,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "dede19.tidelark.cc",
-   "port": 443,
-   "secret": "ee41ee77d8b25bda2a9843be139200384d6465646531392e746964656c61726b2e6363"
-  },
-  {
    "server": "deka41.mosswren.vip",
    "port": 443,
    "secret": "ee6ce7aa9636179a5f67366aaab4702a2664656b6134312e6d6f73737772656e2e766970"
@@ -276,6 +286,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "ir-ir.connectina.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir-ir.panhandleflyers.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -341,6 +356,16 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "iran.bingi.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "IRAN.ir.bcsadwtgd.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "jhndoes.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -359,11 +384,6 @@
    "server": "kanene25.tidelark.cc",
    "port": 443,
    "secret": "eefd9a9e2ac2851ddc327fe5971e25a87d6b616e656e6532352e746964656c61726b2e6363"
-  },
-  {
-   "server": "kanezo67.tidelark.cc",
-   "port": 443,
-   "secret": "eeae5ab45be1bccbba85eec21085b2fd206b616e657a6f36372e746964656c61726b2e6363"
   },
   {
    "server": "kasu10.tidelark.cc",
@@ -444,11 +464,6 @@
    "server": "lolo89.larchmere.xyz",
    "port": 443,
    "secret": "ee24c8636b7e946779a023ee708370719b6c6f6c6f38392e6c617263686d6572652e78797a"
-  },
-  {
-   "server": "loneny11.tidelark.cc",
-   "port": 443,
-   "secret": "ee9267d78681726d5ff1bf826b750ba4ba6c6f6e656e7931312e746964656c61726b2e6363"
   },
   {
    "server": "losuny65.quietfjord.click",
@@ -576,11 +591,6 @@
    "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e56e796b6137382e746964656c61726b2e6363"
   },
   {
-   "server": "nyma39.mosswren.vip",
-   "port": 443,
-   "secret": "ee39d3b1d3fe4d2e7c46ddf88c1eb87b456e796d6133392e6d6f73737772656e2e766970"
-  },
-  {
    "server": "nyne45.foxglade.xyz",
    "port": 443,
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e6e796e6534352e666f78676c6164652e78797a"
@@ -616,6 +626,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "persia.bingi.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "pofak.mikhay.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -649,6 +664,11 @@
    "server": "premium.speed-benz.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "proxy.nizya.club",
+   "port": 443,
+   "secret": "ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562"
   },
   {
    "server": "proxy.quietmedadow.site",
@@ -688,11 +708,6 @@
   {
    "server": "redflag.yazaebalsyadelatproxy.vip",
    "port": 443,
-   "secret": "ee13ad3d93bdcf5fed02b1252415631fd5726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
-  },
-  {
-   "server": "redflag.yazaebalsyadelatproxy.vip",
-   "port": 443,
    "secret": "ee214011ba04108a7b1836df3a5e918b3b726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
   },
   {
@@ -703,22 +718,12 @@
   {
    "server": "redflag.yazaebalsyadelatproxy.vip",
    "port": 443,
-   "secret": "ee899032aa75159cc1d735f15e7a0e3a6e726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
-  },
-  {
-   "server": "redflag.yazaebalsyadelatproxy.vip",
-   "port": 443,
    "secret": "ee9267d78681726d5ff1bf826b750ba4ba726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
   },
   {
    "server": "relay.surfvpn.app",
    "port": 443,
    "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
-  },
-  {
-   "server": "rile85.mosswren.vip",
-   "port": 443,
-   "secret": "eeae5ab45be1bccbba85eec21085b2fd2072696c6538352e6d6f73737772656e2e766970"
   },
   {
    "server": "riny51.larchmere.xyz",
@@ -996,5 +1001,5 @@
    "secret": "ee14697011e0c73f03e95d7b6919a2252b7a6f746f6d6139342e6d6f73737772656e2e766970"
   }
  ],
- "count": 199
+ "count": 200
 }
