@@ -21,16 +21,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "194.120.230.106",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "194.120.230.120",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "194.120.230.37",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -179,6 +169,11 @@
    "server": "deka41.mosswren.vip",
    "port": 443,
    "secret": "ee6ce7aa9636179a5f67366aaab4702a2664656b6134312e6d6f73737772656e2e766970"
+  },
+  {
+   "server": "dezo23.foxglade.xyz",
+   "port": 443,
+   "secret": "ee899032aa75159cc1d735f15e7a0e3a6e64657a6f32332e666f78676c6164652e78797a"
   },
   {
    "server": "din5gli2.co.uk",
@@ -376,6 +371,11 @@
    "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e56b61737531302e746964656c61726b2e6363"
   },
   {
+   "server": "kavi63.fernlark.xyz",
+   "port": 443,
+   "secret": "ee14697011e0c73f03e95d7b6919a2252b6b61766936332e6665726e6c61726b2e78797a"
+  },
+  {
    "server": "Kingdom-persia.ir.hey-gardash.info.",
    "port": 1080,
    "secret": "79e344818749bd7ac519130220c25d09"
@@ -451,6 +451,16 @@
    "secret": "ee9267d78681726d5ff1bf826b750ba4ba6c6f6e656e7931312e746964656c61726b2e6363"
   },
   {
+   "server": "losuny65.quietfjord.click",
+   "port": 443,
+   "secret": "ee214011ba04108a7b1836df3a5e918b3b6c6f73756e7936352e7175696574666a6f72642e636c69636b"
+  },
+  {
+   "server": "lotoka28.copperwren.click",
+   "port": 443,
+   "secret": "eefd9a9e2ac2851ddc327fe5971e25a87d6c6f746f6b6132382e636f707065727772656e2e636c69636b"
+  },
+  {
    "server": "mahi.poolaki.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -519,6 +529,11 @@
    "server": "neka94.tidelark.cc",
    "port": 443,
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd16e656b6139342e746964656c61726b2e6363"
+  },
+  {
+   "server": "nele46.mossharbor.xyz",
+   "port": 443,
+   "secret": "ee920a4026fcc79354d87c30db9280e5786e656c6534362e6d6f7373686172626f722e78797a"
   },
   {
    "server": "nema57.quietfjord.click",
@@ -916,6 +931,11 @@
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e7669737531382e6665726e6c61726b2e78797a"
   },
   {
+   "server": "visu82.tidalbirch.sbs",
+   "port": 443,
+   "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e57669737538322e746964616c62697263682e736273"
+  },
+  {
    "server": "vitori41.tidelark.cc",
    "port": 443,
    "secret": "ee214011ba04108a7b1836df3a5e918b3b7669746f726934312e746964656c61726b2e6363"
@@ -939,6 +959,11 @@
    "server": "work.mishutkin.click",
    "port": 443,
    "secret": "ee61947a32dca6f584a2772676b4b46924776f726b2e6d69736875746b696e2e636c69636b"
+  },
+  {
+   "server": "www2.acientirani-uor4.ir",
+   "port": 443,
+   "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
    "server": "x.shmelproxy.top",
@@ -971,5 +996,5 @@
    "secret": "ee14697011e0c73f03e95d7b6919a2252b7a6f746f6d6139342e6d6f73737772656e2e766970"
   }
  ],
- "count": 194
+ "count": 199
 }
