@@ -26,11 +26,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "194.120.230.37",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "208.87.242.223",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -904,6 +899,11 @@
    "server": "topproxt.asia",
    "port": 443,
    "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
+  },
+  {
+   "server": "ultra.mishutkin.click",
+   "port": 443,
+   "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
   },
   {
    "server": "ultra.proxynet.tech",
