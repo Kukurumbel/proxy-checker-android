@@ -126,11 +126,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "best-speed.ir.bcsadwtgd.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "bfesedv.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -229,6 +224,11 @@
    "server": "exiscos.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "fast.mishutkin.click",
+   "port": 443,
+   "secret": "eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d"
   },
   {
    "server": "fast.proxynet.tech",
@@ -369,11 +369,6 @@
    "server": "ir.shentaichiacademy.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.speed.finecooking.info",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "ir.strawberrybarn.co.uk",
@@ -806,11 +801,6 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-   "server": "sarma.ir.bcsadwtgd.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "severjadid.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -956,11 +946,6 @@
    "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
   },
   {
-   "server": "turbo-speed.ir.bcsadwtgd.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "ultra.mishutkin.click",
    "port": 443,
    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
@@ -1071,5 +1056,5 @@
    "secret": "ee14697011e0c73f03e95d7b6919a2252b7a6f746f6d6139342e6d6f73737772656e2e766970"
   }
  ],
- "count": 214
+ "count": 211
 }
