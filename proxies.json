@@ -96,6 +96,11 @@
    "secret": "ddb83572a117470fd34eee07134d361f0b"
   },
   {
+   "server": "65.109.106.179",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "65.109.98.231",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -122,6 +127,11 @@
   },
   {
    "server": "91.107.171.35",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "91.107.180.53",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -153,6 +163,11 @@
   {
    "server": "aseman.lunavane.co.uk.",
    "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "Best.IRAN.ir.awedsj.info.",
+   "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
@@ -716,6 +731,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "por-sorat.ir.awedsj.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "posude79.fernlark.xyz",
    "port": 443,
    "secret": "ee37a60897c9ca648e94350eb8919ea47f706f7375646537392e6665726e6c61726b2e78797a"
@@ -1031,5 +1051,5 @@
    "secret": "eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275"
   }
  ],
- "count": 206
+ "count": 210
 }
