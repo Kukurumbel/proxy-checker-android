@@ -201,6 +201,11 @@
    "secret": "ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275"
   },
   {
+   "server": "coinvpnpro.duckdns.org",
+   "port": 443,
+   "secret": "ee3c23bf23e13aff489d37ab8181e48144636f696e76706e70726f2e6475636b646e732e6f7267"
+  },
+  {
    "server": "connect.mishutkin.click",
    "port": 443,
    "secret": "ee43b48df152c2246a45ec2f88ea52877264726976652e676f6f676c652e636f6d"
@@ -496,11 +501,6 @@
    "secret": "ee24c8636b7e946779a023ee708370719b706574726f766963682e7275"
   },
   {
-   "server": "Kingdom-persia.ir.hey-gardash.info.",
-   "port": 1080,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
    "server": "kostyanchekloh.lol",
    "port": 443,
    "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275"
@@ -514,11 +514,6 @@
    "server": "lazeyka-31.getvelora.space",
    "port": 443,
    "secret": "eef3c1c7586ab159cb0c9af470501870b16f7a6f6e2e7275"
-  },
-  {
-   "server": "levika43.fernlark.xyz",
-   "port": 443,
-   "secret": "eea02849a55daccdc7f7a05691b7ef7cd16c6576696b6134332e6665726e6c61726b2e78797a"
   },
   {
    "server": "lezoka78.quillmarsh.xyz",
@@ -861,11 +856,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "suga14.quillmarsh.xyz",
-   "port": 443,
-   "secret": "eecd7b5204a28b47f7cc34c673574336087375676131342e7175696c6c6d617273682e78797a"
-  },
-  {
    "server": "suka98.fernlark.xyz",
    "port": 8443,
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e706574726f766963682e7275"
@@ -1041,5 +1031,5 @@
    "secret": "eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275"
   }
  ],
- "count": 208
+ "count": 206
 }
