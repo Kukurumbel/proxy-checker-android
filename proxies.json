@@ -6,6 +6,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "103.161.35.56",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "109.120.183.165",
    "port": 2302,
    "secret": "2084c7e58d8213296a3206da70356c81"
@@ -249,16 +254,6 @@
    "server": "dezo23.foxglade.xyz",
    "port": 443,
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e64657a6f32332e666f78676c6164652e78797a"
-  },
-  {
-   "server": "din5gli2.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "dingi3.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "dl.linux-orggv.co.uk",
@@ -606,6 +601,11 @@
    "secret": "ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65"
   },
   {
+   "server": "n210bbb.lumenpost.top",
+   "port": 443,
+   "secret": "ee0b03536395a48484bf73aadee0e37dd46d2e6c756d656e706f73742e746f70"
+  },
+  {
    "server": "n7d626c.lumenpost.top",
    "port": 443,
    "secret": "ee0b03536395a48484bf73aadee0e37dd46d2e6c756d656e706f73742e746f70"
@@ -846,11 +846,6 @@
    "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
   },
   {
-   "server": "storagexx.space",
-   "port": 443,
-   "secret": "ee24b61556a3ec49bc0c7a5a7e8525702873746f7261676578782e7370616365"
-  },
-  {
    "server": "Strait-of-Hormuz.ir.bcsadwtgd.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -996,11 +991,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "xxmatrixx.top",
-   "port": 853,
-   "secret": "eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70"
-  },
-  {
    "server": "yarypple.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1031,5 +1021,5 @@
    "secret": "eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275"
   }
  ],
- "count": 206
+ "count": 204
 }
