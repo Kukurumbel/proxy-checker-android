@@ -296,11 +296,6 @@
    "secret": "eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d"
   },
   {
-   "server": "fast.proxynet.tech",
-   "port": 443,
-   "secret": "ee08787a2b7fd3220d9d35679aab082cab666173742e70726f78796e65742e74656368"
-  },
-  {
    "server": "fast.webproxy.lol",
    "port": 443,
    "secret": "ee4160cbb0629c129ad2209f4df88d4bc964726976652e676f6f676c652e636f6d"
@@ -381,7 +376,17 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir-ir.radio-zvez.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir-ir.xeonxu.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir-ir.xn--ds-bja.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -407,6 +412,11 @@
   },
   {
    "server": "ir.lv426.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.mohearn.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -439,11 +449,6 @@
    "server": "ir.strobox.info",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "iran.bingi.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "IRAN.ir.bcsadwtgd.info.",
@@ -511,9 +516,19 @@
    "secret": "eeae5ab45be1bccbba85eec21085b2fd20706574726f766963682e7275"
   },
   {
+   "server": "lomavi84.mosswren.vip",
+   "port": 443,
+   "secret": "ee24c8636b7e946779a023ee708370719b6c6f6d61766938342e6d6f73737772656e2e766970"
+  },
+  {
    "server": "lora56.tidelark.cc",
    "port": 8443,
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e706574726f766963682e7275"
+  },
+  {
+   "server": "lovide37.tidelark.cc",
+   "port": 443,
+   "secret": "eeae5ab45be1bccbba85eec21085b2fd206c6f7669646533372e746964656c61726b2e6363"
   },
   {
    "server": "lozo34.copperwren.click",
@@ -676,6 +691,11 @@
    "secret": "eeae5ab45be1bccbba85eec21085b2fd20706f6b616e7934312e73616c746665726e2e78797a"
   },
   {
+   "server": "pomide92.mosswren.vip",
+   "port": 443,
+   "secret": "ee899032aa75159cc1d735f15e7a0e3a6e706f6d69646539322e6d6f73737772656e2e766970"
+  },
+  {
    "server": "pooran.ir.awedsj.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -831,11 +851,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "surf.suslik-cloud.com",
-   "port": 443,
-   "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d"
-  },
-  {
    "server": "surge.proxylite.tech",
    "port": 443,
    "secret": "7qIJcFetgp2gApkkN8oFR-JzdXJnZS5wcm94eWxpdGUudGVjaA"
@@ -911,6 +926,11 @@
    "secret": "ee14697011e0c73f03e95d7b6919a2252b76696d6137342e746964656c61726b2e6363"
   },
   {
+   "server": "vima78.tidelark.cc",
+   "port": 443,
+   "secret": "eeb0a621aecd97816306c197d21a8bf47b76696d6137382e746964656c61726b2e6363"
+  },
+  {
    "server": "ving.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -956,6 +976,11 @@
    "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
   },
   {
+   "server": "xe1rn.proxydazhenaparkovke.site",
+   "port": 443,
+   "secret": "ee4a26ea6bb803e4d556b56178d75a0889786531726e2e70726f787964617a68656e617061726b6f766b652e73697465"
+  },
+  {
    "server": "xenon.foriran.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -996,5 +1021,5 @@
    "secret": "eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275"
   }
  ],
- "count": 199
+ "count": 204
 }
