@@ -381,17 +381,7 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir-ir.radio-zvez.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir-ir.xeonxu.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir-ir.xn--ds-bja.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -407,11 +397,6 @@
   },
   {
    "server": "ir.forzajuve.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.groundfloorsolutions.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -1011,5 +996,5 @@
    "secret": "eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275"
   }
  ],
- "count": 202
+ "count": 199
 }
