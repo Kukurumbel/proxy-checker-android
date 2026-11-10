@@ -516,6 +516,11 @@
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e6c657a6f6b6137382e7175696c6c6d617273682e78797a"
   },
   {
+   "server": "lolole47.tidelark.cc",
+   "port": 443,
+   "secret": "ee39c068a9eef03a858d82c840c0b3728b706574726f766963682e7275"
+  },
+  {
    "server": "lomavi84.mosswren.vip",
    "port": 443,
    "secret": "ee24c8636b7e946779a023ee708370719b6c6f6d61766938342e6d6f73737772656e2e766970"
@@ -626,11 +631,6 @@
    "secret": "eeb26dd44a039e6125d490c0aeaa262559786170692e6f7a6f6e2e7275"
   },
   {
-   "server": "nepo38.tidelark.cc",
-   "port": 443,
-   "secret": "ee6ce7aa9636179a5f67366aaab4702a266e65706f33382e746964656c61726b2e6363"
-  },
-  {
    "server": "new7.mizanmizanesgh.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -649,11 +649,6 @@
    "server": "nyne45.foxglade.xyz",
    "port": 443,
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e6e796e6534352e666f78676c6164652e78797a"
-  },
-  {
-   "server": "nypo47.tidelark.cc",
-   "port": 443,
-   "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e56e79706f34372e746964656c61726b2e6363"
   },
   {
    "server": "nyto92.foxglade.xyz",
@@ -761,16 +756,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "razori60.mosswren.vip",
-   "port": 443,
-   "secret": "eea02849a55daccdc7f7a05691b7ef7cd172617a6f726936302e6d6f73737772656e2e766970"
-  },
-  {
-   "server": "ripo43.mosswren.vip",
-   "port": 443,
-   "secret": "eecd7b5204a28b47f7cc34c673574336087269706f34332e6d6f73737772656e2e766970"
-  },
-  {
    "server": "rootssh2.co.uk.",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -844,6 +829,11 @@
    "server": "suka98.fernlark.xyz",
    "port": 8443,
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e706574726f766963682e7275"
+  },
+  {
+   "server": "sukapo16.foxglade.xyz",
+   "port": 8443,
+   "secret": "ee0fde41eb62ad6ce7e55c5d018a87732e706574726f766963682e7275"
   },
   {
    "server": "sulone58.tidelark.cc",
@@ -1041,5 +1031,5 @@
    "secret": "ee24c8636b7e946779a023ee708370719b706574726f766963682e7275"
   }
  ],
- "count": 208
+ "count": 206
 }
