@@ -276,6 +276,11 @@
    "secret": "ee0c63bf0d9b4a6cb5455e677bad52bf8b6d61782e7275"
   },
   {
+   "server": "dede19.tidelark.cc",
+   "port": 443,
+   "secret": "ee41ee77d8b25bda2a9843be139200384d706574726f766963682e7275"
+  },
+  {
    "server": "derima87.quietfjord.click",
    "port": 8443,
    "secret": "ee3af38e0d42b0d6a32b921b0f2737dc4a786170692e6f7a6f6e2e7275"
@@ -579,6 +584,11 @@
    "server": "migato73.foxglade.xyz",
    "port": 443,
    "secret": "eea4a5485d284eb7d8f22ce0fa98c199c9786170692e6f7a6f6e2e7275"
+  },
+  {
+   "server": "mikaga72.larchmere.xyz",
+   "port": 443,
+   "secret": "eee2bb975ea85e1dc2466cf7f309ce6b95706574726f766963682e7275"
   },
   {
    "server": "mio.mozitop.co.uk",
@@ -1031,5 +1041,5 @@
    "secret": "ee24c8636b7e946779a023ee708370719b706574726f766963682e7275"
   }
  ],
- "count": 206
+ "count": 208
 }
