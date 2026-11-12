@@ -11,11 +11,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "109.120.183.165",
-   "port": 2302,
-   "secret": "2084c7e58d8213296a3206da70356c81"
-  },
-  {
    "server": "130.210.28.61",
    "port": 8443,
    "secret": "ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d"
@@ -54,11 +49,6 @@
    "server": "169.58.86.18",
    "port": 443,
    "secret": "ee85dc3d6c2900e59b6f97f68ee7d1e349676f6f676c65617069732e636f6d"
-  },
-  {
-   "server": "176.65.135.69",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "178.105.137.152",
@@ -146,11 +136,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "65.109.98.231",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.21.227.250",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -166,11 +151,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "91.107.171.35",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "91.107.180.53",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -179,16 +159,6 @@
    "server": "91.98.97.225",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "92.246.87.242",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "94.130.15.206",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "akenai.top",
@@ -251,11 +221,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "citrus.driftquill.click",
-   "port": 8443,
-   "secret": "ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275"
-  },
-  {
    "server": "coinvpnpro.duckdns.org",
    "port": 443,
    "secret": "ee3c23bf23e13aff489d37ab8181e48144636f696e76706e70726f2e6475636b646e732e6f7267"
@@ -264,11 +229,6 @@
    "server": "connect.mishutkin.click",
    "port": 443,
    "secret": "ee43b48df152c2246a45ec2f88ea52877264726976652e676f6f676c652e636f6d"
-  },
-  {
-   "server": "connect.mtproxy.me",
-   "port": 443,
-   "secret": "dd616cf892574b078aab3f73e63b8b7df4"
   },
   {
    "server": "dark-rush-85krcymd.expresshost.cloud",
@@ -336,9 +296,9 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "fast.mishutkin.click",
+   "server": "fast.prxtg.top",
    "port": 443,
-   "secret": "eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d"
+   "secret": "ee2c6cbde6f1e8947d8495ea1de476fc0b64726976652e676f6f676c652e636f6d"
   },
   {
    "server": "fast.webproxy.lol",
@@ -379,11 +339,6 @@
    "server": "gazo19.mosswren.vip",
    "port": 443,
    "secret": "eefd9a9e2ac2851ddc327fe5971e25a87d67617a6f31392e6d6f73737772656e2e766970"
-  },
-  {
-   "server": "ge2.kkkservers.tech",
-   "port": 8443,
-   "secret": "eef99731abbc063924c8b52c5cd7aeca3a6765322e6b6b6b736572766572732e74656368"
   },
   {
    "server": "gov.grasic.info",
@@ -427,6 +382,11 @@
   },
   {
    "server": "ir-ir.goaphrodite.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir-ir.grumpyoldmen.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -506,12 +466,12 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.shentaichiacademy.co.uk",
+   "server": "ir.sherlock049.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.sherlock049.co.uk",
+   "server": "ir.simpleelegance-us.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -531,9 +491,9 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "IRAN.ir.bcsadwtgd.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+   "server": "ir.xn--ds-bja.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "irl.firemedia.digital",
@@ -741,11 +701,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "nyne45.foxglade.xyz",
-   "port": 443,
-   "secret": "ee899032aa75159cc1d735f15e7a0e3a6e6e796e6534352e666f78676c6164652e78797a"
-  },
-  {
    "server": "nyto92.foxglade.xyz",
    "port": 8443,
    "secret": "eea02849a55daccdc7f7a05691b7ef7cd1706574726f766963682e7275"
@@ -821,11 +776,6 @@
    "secret": "ee37a60897c9ca648e94350eb8919ea47f706f7375646537392e6665726e6c61726b2e78797a"
   },
   {
-   "server": "pozo12.saltfern.xyz",
-   "port": 443,
-   "secret": "ee14697011e0c73f03e95d7b6919a2252b706f7a6f31322e73616c746665726e2e78797a"
-  },
-  {
    "server": "predator-artist.top",
    "port": 853,
    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
@@ -896,11 +846,6 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "shared3.ddproxy.xyz",
-   "port": 443,
-   "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
-  },
-  {
    "server": "shared4.ddproxy.xyz",
    "port": 443,
    "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
@@ -949,11 +894,6 @@
    "server": "suka90.mossharbor.xyz",
    "port": 443,
    "secret": "ee33e69fd218748e738b564b82cabecf47786170692e6f7a6f6e2e7275"
-  },
-  {
-   "server": "suka98.fernlark.xyz",
-   "port": 8443,
-   "secret": "ee899032aa75159cc1d735f15e7a0e3a6e706574726f766963682e7275"
   },
   {
    "server": "sukapo16.foxglade.xyz",
@@ -1018,11 +958,6 @@
   {
    "server": "tolera44.copperwren.click",
    "port": 8443,
-   "secret": "ee24c8636b7e946779a023ee708370719b64726976652e676f6f676c652e636f6d"
-  },
-  {
-   "server": "tolera44.copperwren.click",
-   "port": 8443,
    "secret": "ee24c8636b7e946779a023ee708370719b786170692e6f7a6f6e2e7275"
   },
   {
@@ -1054,6 +989,11 @@
    "server": "ultra.mishutkin.click",
    "port": 443,
    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
+  },
+  {
+   "server": "v4c2w.proxydazhenaparkovke.site",
+   "port": 443,
+   "secret": "eead68fade400c2e0cb6c663196bc65e4276346332772e70726f787964617a68656e617061726b6f766b652e73697465"
   },
   {
    "server": "vile61.foxglade.xyz",
@@ -1166,5 +1106,5 @@
    "secret": "eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275"
   }
  ],
- "count": 233
+ "count": 221
 }
