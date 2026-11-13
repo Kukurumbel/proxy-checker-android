@@ -26,16 +26,6 @@
    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d"
   },
   {
-   "server": "164.37.224.216",
-   "port": 443,
-   "secret": "ddc62c6006d0a383e80aab9f1b8a233856"
-  },
-  {
-   "server": "18.216.73.109",
-   "port": 443,
-   "secret": "0bc2ca2843411272cace1e4436cd83f1"
-  },
-  {
    "server": "185.166.214.158",
    "port": 8443,
    "secret": "7n3yZ_5IshU33VFu-RJW7fZ3d3cuYXBwbGUuY29t"
@@ -101,9 +91,9 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "78.154.103.41",
-   "port": 14525,
-   "secret": "ee57413039fdb20b14e05c0af86bebf7497777772e676f6f676c652e636f6d"
+   "server": "79.137.196.223",
+   "port": 443,
+   "secret": "eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d"
   },
   {
    "server": "91.107.140.144",
@@ -486,19 +476,9 @@
    "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275"
   },
   {
-   "server": "lazeyka-31.getvelora.space",
-   "port": 443,
-   "secret": "eef3c1c7586ab159cb0c9af470501870b16f7a6f6e2e7275"
-  },
-  {
    "server": "lezoka78.quillmarsh.xyz",
    "port": 443,
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e6c657a6f6b6137382e7175696c6c6d617273682e78797a"
-  },
-  {
-   "server": "login.kerfilia.info",
-   "port": 6775,
-   "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
   },
   {
    "server": "loleri73.saltfern.xyz",
@@ -546,11 +526,6 @@
    "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c"
   },
   {
-   "server": "m.lumenpost.top",
-   "port": 443,
-   "secret": "eeadb7cfebd78712e71db745c9da7281b16d2e6c756d656e706f73742e746f70"
-  },
-  {
    "server": "mahi.poolaki.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -569,6 +544,11 @@
    "server": "maposu18.birchquay.xyz",
    "port": 443,
    "secret": "ee5e0432a980a8a58aebaa40580866bbc1786170692e6f7a6f6e2e7275"
+  },
+  {
+   "server": "max.fastprx.top",
+   "port": 443,
+   "secret": "eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d"
   },
   {
    "server": "migato73.foxglade.xyz",
@@ -621,6 +601,11 @@
    "secret": "ee0b03536395a48484bf73aadee0e37dd46d2e6c756d656e706f73742e746f70"
   },
   {
+   "server": "n78dcf0.tidalcache.com",
+   "port": 443,
+   "secret": "7lyJqyAmbOdZ-WoHRbY9fN9lZGdlLnRpZGFsY2FjaGUuY29t"
+  },
+  {
    "server": "n7d626c.lumenpost.top",
    "port": 443,
    "secret": "ee0b03536395a48484bf73aadee0e37dd46d2e6c756d656e706f73742e746f70"
@@ -666,11 +651,6 @@
    "secret": "ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275"
   },
   {
-   "server": "panir.begir.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "persia.bingi.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -704,16 +684,6 @@
    "server": "pomide92.mosswren.vip",
    "port": 443,
    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e706f6d69646539322e6d6f73737772656e2e766970"
-  },
-  {
-   "server": "pooran.ir.awedsj.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "Pooriyaye-vali.ir.igakwvwa.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "por-sorat.ir.awedsj.info.",
@@ -786,6 +756,11 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "russia.knox-proxy.world",
+   "port": 4515,
+   "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
    "server": "s4.zentconnect.xyz",
    "port": 853,
    "secret": "7uVtKuCy6tRJSvU7EIZdrWRzMS56ZW50Y29ubmVjdC54eXo"
@@ -801,14 +776,14 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "shared4.ddproxy.xyz",
+   "server": "shared1.ddproxy.xyz",
    "port": 443,
    "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
   },
   {
-   "server": "Sorena.ir.igakwvwa.info",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+   "server": "shared4.ddproxy.xyz",
+   "port": 443,
+   "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
   },
   {
    "server": "Speed-speed.co.uk.",
@@ -896,6 +871,11 @@
    "secret": "eef84b5bf22712eba2c12b8c0582237add74672e676574726f636b65742e6d65"
   },
   {
+   "server": "tg.panther.pics",
+   "port": 443,
+   "secret": "2b2956eac133607cc458a43dd54f6a50"
+  },
+  {
    "server": "tg.proxynet.tech",
    "port": 443,
    "secret": "ee6d98b7c125f854c0ac73c588ec9f225864726976652e676f6f676c652e636f6d"
@@ -904,11 +884,6 @@
    "server": "tg.prxtg.top",
    "port": 443,
    "secret": "ee2d1bb45f31056d1063563fc6e38e5a1064726976652e676f6f676c652e636f6d"
-  },
-  {
-   "server": "tg.wequ.lat",
-   "port": 443,
-   "secret": "0289a13d961b91438fea5069a8097cb3"
   },
   {
    "server": "tg2.fkwallet.online",
@@ -931,6 +906,16 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "tonyzo46.birchquay.xyz",
+   "port": 8443,
+   "secret": "eeae5ab45be1bccbba85eec21085b2fd20706574726f766963682e7275"
+  },
+  {
+   "server": "top.fastprx.top",
+   "port": 443,
+   "secret": "ee2eaa3efe26957df17447871a78aa19b064726976652e676f6f676c652e636f6d"
+  },
+  {
    "server": "top.proxynet.tech",
    "port": 443,
    "secret": "ee59d1ef95ab03cfeaebb18b0a529ad5e6746f702e70726f78796e65742e74656368"
@@ -949,11 +934,6 @@
    "server": "turbo.webproxy.lol",
    "port": 443,
    "secret": "ee51fa3aadf3d9849a914784a8de1ff7e0747572626f2e77656270726f78792e6c6f6c"
-  },
-  {
-   "server": "ultra.mishutkin.click",
-   "port": 443,
-   "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
   },
   {
    "server": "v4c2w.proxydazhenaparkovke.site",
@@ -1056,5 +1036,5 @@
    "secret": "eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275"
   }
  ],
- "count": 211
+ "count": 207
 }
