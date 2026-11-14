@@ -381,6 +381,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "iran.yes.ir.bcsadwtgd.info",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "irl.firemedia.digital",
    "port": 443,
    "secret": "eeadd144b0531c1a9f5947e3cb29dc4fd569726c2e666972656d656469612e6469676974616c"
@@ -569,11 +574,6 @@
    "server": "origin.mossharbor.xyz",
    "port": 8443,
    "secret": "ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275"
-  },
-  {
-   "server": "Pasargad.ir.bcsadwtgd.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "persia.bingi.co.uk",
