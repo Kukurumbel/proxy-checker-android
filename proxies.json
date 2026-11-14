@@ -36,6 +36,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "48.103.224.73",
+   "port": 443,
+   "secret": "eeb3302b8ce6f18e5e5f32360e1d70a4ff676f6f676c657461676d616e616765722e636f6d"
+  },
+  {
    "server": "4x4.subaru-volga.com",
    "port": 443,
    "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c"
@@ -239,21 +244,6 @@
    "server": "fast.webproxy.lol",
    "port": 443,
    "secret": "ee4160cbb0629c129ad2209f4df88d4bc964726976652e676f6f676c652e636f6d"
-  },
-  {
-   "server": "free.loveproxy.xyz",
-   "port": 443,
-   "secret": "eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "free1.gram.blog",
-   "port": 443,
-   "secret": "eeeb46ebb806e03733786c662fdb27dac062726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "free3.gram.blog",
-   "port": 443,
-   "secret": "ee57639673cce7f03e351b8a5a857eea6c62726f777365722e79616e6465782e7275"
   },
   {
    "server": "gadesu10.quillmarsh.xyz",
@@ -876,6 +866,11 @@
    "secret": "ee51fa3aadf3d9849a914784a8de1ff7e0747572626f2e77656270726f78792e6c6f6c"
   },
   {
+   "server": "ultraproxy.shop",
+   "port": 443,
+   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275"
+  },
+  {
    "server": "v4c2w.proxydazhenaparkovke.site",
    "port": 443,
    "secret": "eead68fade400c2e0cb6c663196bc65e4276346332772e70726f787964617a68656e617061726b6f766b652e73697465"
@@ -941,11 +936,6 @@
    "secret": "eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70"
   },
   {
-   "server": "yeh.topbelka.ru",
-   "port": 443,
-   "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
-  },
-  {
    "server": "yydwb.proxytg.fit",
    "port": 443,
    "secret": "eee10c45d4bea31923b7540545f769af3b79796477622e70726f787974672e666974"
@@ -961,5 +951,5 @@
    "secret": "eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275"
   }
  ],
- "count": 192
+ "count": 190
 }
