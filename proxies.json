@@ -21,6 +21,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt"
   },
   {
+   "server": "31.57.185.114",
+   "port": 2526,
+   "secret": "eec6763bc47915355261eaab46a9c096097777772e636c6f7564666c6172652e636f6d"
+  },
+  {
    "server": "333.antony-gordon.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -116,6 +121,11 @@
    "secret": "ee61a214279f303f07c536ce7a8228e4c5626f6f73742e77656270726f78792e6c6f6c"
   },
   {
+   "server": "boro.poolaki.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "Caspian-sea.ir.bcsadwtgd.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -166,6 +176,11 @@
    "secret": "ee58851f6640315bea58279e83ed6ca84c786170692e6f7a6f6e2e7275"
   },
   {
+   "server": "demo.white-bars.ru",
+   "port": 443,
+   "secret": "ee12f392b7ee1dd989907a3dbdac0e523964656d6f2e77686974652d626172732e7275"
+  },
+  {
    "server": "derima87.quietfjord.click",
    "port": 8443,
    "secret": "ee3af38e0d42b0d6a32b921b0f2737dc4a786170692e6f7a6f6e2e7275"
@@ -201,6 +216,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "e3fand.fesgheli.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "exiscos.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -209,6 +229,11 @@
    "server": "fast.prxtg.top",
    "port": 443,
    "secret": "ee2c6cbde6f1e8947d8495ea1de476fc0b64726976652e676f6f676c652e636f6d"
+  },
+  {
+   "server": "fast.strobox.info",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
    "server": "fast.webproxy.lol",
@@ -321,6 +346,16 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "ir.forzajuve.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.groundfloorsolutions.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir.gung-ho.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -362,6 +397,11 @@
   },
   {
    "server": "ir.simpleelegance-us.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir.strawberrybarn.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -696,6 +736,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "shared3.ddproxy.xyz",
+   "port": 443,
+   "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
+  },
+  {
    "server": "Speed-speed.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -896,11 +941,6 @@
    "secret": "eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70"
   },
   {
-   "server": "yarypple.co.uk.",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
    "server": "yeh.topbelka.ru",
    "port": 443,
    "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
@@ -921,5 +961,5 @@
    "secret": "eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275"
   }
  ],
- "count": 184
+ "count": 192
 }
