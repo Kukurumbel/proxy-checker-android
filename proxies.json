@@ -521,6 +521,11 @@
    "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
+   "server": "khune.ir.bcsadwtgd.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "kostyanchekloh.lol",
    "port": 443,
    "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275"
@@ -1116,5 +1121,5 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
   }
  ],
- "count": 223
+ "count": 224
 }
