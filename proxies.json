@@ -246,11 +246,6 @@
    "secret": "ee3af38e0d42b0d6a32b921b0f2737dc4a786170692e6f7a6f6e2e7275"
   },
   {
-   "server": "deto84.larchmere.xyz",
-   "port": 8443,
-   "secret": "ee3295597e6c795e6a1a4b0a1231aec821786170692e6f7a6f6e2e7275"
-  },
-  {
    "server": "dezori37.quietfjord.click",
    "port": 443,
    "secret": "eed445782cb1e82ad1cf49a53db0ec0ced786170692e6f7a6f6e2e7275"
@@ -316,6 +311,11 @@
    "secret": "dd3734eba41c93d0154af5016413b6a00e"
   },
   {
+   "server": "freeconnect.lol",
+   "port": 443,
+   "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275"
+  },
+  {
    "server": "gadesu10.quillmarsh.xyz",
    "port": 443,
    "secret": "ee5ac0b2e9a1fc16db76843c86bb831775706574726f766963682e7275"
@@ -344,6 +344,11 @@
    "server": "gram.blog",
    "port": 853,
    "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75"
+  },
+  {
+   "server": "gram.proxynet.tech",
+   "port": 443,
+   "secret": "ee46a30f9e2a6c81ba8466e5055d3d497a64726976652e676f6f676c652e636f6d"
   },
   {
    "server": "gram.prxtg.top",
@@ -596,11 +601,6 @@
    "secret": "eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d"
   },
   {
-   "server": "migato73.foxglade.xyz",
-   "port": 443,
-   "secret": "eea4a5485d284eb7d8f22ce0fa98c199c9786170692e6f7a6f6e2e7275"
-  },
-  {
    "server": "mikaga72.larchmere.xyz",
    "port": 443,
    "secret": "eee2bb975ea85e1dc2466cf7f309ce6b95706574726f766963682e7275"
@@ -614,11 +614,6 @@
    "server": "mio.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "misu42.copperwren.click",
-   "port": 443,
-   "secret": "eebeb3cc6e60d47ebe83eccee3c0475a47786170692e6f7a6f6e2e7275"
   },
   {
    "server": "mitoka72.tidelark.cc",
@@ -669,11 +664,6 @@
    "server": "neka18.ashwren.xyz",
    "port": 443,
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157786170692e6f7a6f6e2e7275"
-  },
-  {
-   "server": "neka92.larchmere.xyz",
-   "port": 8443,
-   "secret": "eeb26dd44a039e6125d490c0aeaa262559786170692e6f7a6f6e2e7275"
   },
   {
    "server": "nekari33.quietfjord.click",
@@ -966,11 +956,6 @@
    "secret": "ee8a22a2efc31d03cfe33e7dc2abb809db706574726f766963682e7275"
   },
   {
-   "server": "tolera44.copperwren.click",
-   "port": 8443,
-   "secret": "ee24c8636b7e946779a023ee708370719b786170692e6f7a6f6e2e7275"
-  },
-  {
    "server": "tomi60.ashwren.xyz",
    "port": 443,
    "secret": "ee8a22a2efc31d03cfe33e7dc2abb809db6f7a6f6e2e7275"
@@ -1024,11 +1009,6 @@
    "server": "vasl-sho-eshgh-kon.ir.bcsadwtgd.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "vimika15.tidelark.cc",
-   "port": 443,
-   "secret": "ee4abe44348ba405ac59448f7f9fe6353c706574726f766963682e7275"
   },
   {
    "server": "ving.mozitop.co.uk",
@@ -1111,5 +1091,5 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
   }
  ],
- "count": 222
+ "count": 218
 }
