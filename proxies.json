@@ -36,6 +36,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "194.120.230.26",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "194.120.230.37",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -44,6 +49,11 @@
    "server": "195.62.32.55",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt"
+  },
+  {
+   "server": "199.246.127.144",
+   "port": 443,
+   "secret": "0b0205af4ea1511058c799a11f75287b"
   },
   {
    "server": "31.57.185.114",
@@ -71,11 +81,6 @@
    "secret": "a84102e409230c3b69dd4f68cef86baf"
   },
   {
-   "server": "65.109.106.179",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "65.109.98.213",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -94,16 +99,6 @@
    "server": "79.137.196.223",
    "port": 443,
    "secret": "eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d"
-  },
-  {
-   "server": "91.107.140.144",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "server": "91.107.180.53",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "91.98.97.225",
@@ -296,9 +291,19 @@
    "secret": "79e344818749bd7ac519130220c25d09"
   },
   {
+   "server": "foxfrost.heronglade.space",
+   "port": 8443,
+   "secret": "eef34d88320a4d0b6e8aaf11541681dd7c786170692e6f7a6f6e2e7275"
+  },
+  {
    "server": "fr.internet4free.org",
    "port": 443,
    "secret": "dd3734eba41c93d0154af5016413b6a00e"
+  },
+  {
+   "server": "free.deal-market.xyz",
+   "port": 8443,
+   "secret": "ee8b79c6d1a900b4bcd70637a416f3a5c1696e74656c2e636f6d"
   },
   {
    "server": "freeconnect.lol",
@@ -381,6 +386,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir-ir.connectina.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir-ir.gnutella2.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -399,6 +409,11 @@
    "server": "ir.closcloud.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "ir.dinocol.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "ir.forzajuve.co.uk",
@@ -656,14 +671,14 @@
    "secret": "ee3766caef3a1312832d053fae6706c1d86f7a6f6e2e7275"
   },
   {
+   "server": "neon.tealbriar.xyz",
+   "port": 8443,
+   "secret": "ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275"
+  },
+  {
    "server": "neri21.sorrelbay.xyz",
    "port": 443,
    "secret": "eee1d528d13649f8288c1ea7898787b486786170692e6f7a6f6e2e7275"
-  },
-  {
-   "server": "new7.mizanmizanesgh.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "nocloudnew.co.uk.",
@@ -691,6 +706,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "partnerupload.steampower.online",
+   "port": 3864,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "parts.kemerovo.online",
    "port": 443,
    "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c"
@@ -714,11 +734,6 @@
    "server": "popora96.ashwren.xyz",
    "port": 443,
    "secret": "ee71184e2ac505ed5840dd5a00da3318f3706574726f766963682e7275"
-  },
-  {
-   "server": "porsorate.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "posude79.fernlark.xyz",
@@ -786,9 +801,9 @@
    "secret": "ee71184e2ac505ed5840dd5a00da3318f3617669746f2e7275"
   },
   {
-   "server": "rootssh2.co.uk.",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
+   "server": "rose.heronglade.space",
+   "port": 443,
+   "secret": "eef34d88320a4d0b6e8aaf11541681dd7c706574726f766963682e7275"
   },
   {
    "server": "Rudmoain.co.uk.",
@@ -864,6 +879,11 @@
    "server": "support.infinityhalo.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "surf.suslik-cloud.com",
+   "port": 443,
+   "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d"
   },
   {
    "server": "t3.myrka.digital",
@@ -961,11 +981,6 @@
    "secret": "eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65"
   },
   {
-   "server": "vasl-sho-eshgh-kon.ir.bcsadwtgd.info.",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "ving.mozitop.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -999,6 +1014,11 @@
    "server": "willowtulip.heronglade.space",
    "port": 8443,
    "secret": "eedac1697485fe37f9c1435848f8ec2ff5706574726f766963682e7275"
+  },
+  {
+   "server": "www.prxtg.top",
+   "port": 443,
+   "secret": "ee4274afdce63c4c3a2b341bad09220a047777772e70727874672e746f70"
   },
   {
    "server": "x.shmelproxy.top",
@@ -1041,5 +1061,5 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
   }
  ],
- "count": 208
+ "count": 212
 }
