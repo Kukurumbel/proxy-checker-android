@@ -341,11 +341,6 @@
    "secret": "ee0387ddee19bfe48499262c18214228ec617669746f2e7275"
   },
   {
-   "server": "gov.grasic.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "gram.blog",
    "port": 853,
    "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75"
@@ -406,11 +401,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.atcfirealarms.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.brettanderson.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -447,11 +437,6 @@
   },
   {
    "server": "ir.mohearn.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.naganuma.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -579,11 +564,6 @@
    "server": "lonezo26.saltfern.xyz",
    "port": 8443,
    "secret": "eeec569fca8169b57457c573b55bbaa8ec706574726f766963682e7275"
-  },
-  {
-   "server": "lynette.myrka.digital",
-   "port": 443,
-   "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c"
   },
   {
    "server": "mahi.poolaki.co.uk",
@@ -1071,5 +1051,5 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
   }
  ],
- "count": 214
+ "count": 210
 }

@@ -4,93 +4,99 @@
    "server": "51.254.130.47",
    "port": 8443,
    "secret": "a84102e409230c3b69dd4f68cef86baf",
-   "ping": 163
-  },
-  {
-   "server": "ram7.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 190
-  },
-  {
-   "server": "bo0ji.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 199
-  },
-  {
-   "server": "Tond.strobox.info",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 205
-  },
-  {
-   "server": "new7.mizanmizanesgh.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 208
-  },
-  {
-   "server": "porsorate.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 208
-  },
-  {
-   "server": "tazenafas.dingi3.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 220
-  },
-  {
-   "server": "jadide.mamadali.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 224
-  },
-  {
-   "server": "rootssh2.co.uk.",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 224
-  },
-  {
-   "server": "dizgrakh.mamadali.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 229
-  },
-  {
-   "server": "jadid.porsorate.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 235
-  },
-  {
-   "server": "fandogh.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 244
-  },
-  {
-   "server": "fast.strobox.info",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 257
+   "ping": 90
   },
   {
    "server": "kasco.alhosein.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 272
+   "ping": 112
+  },
+  {
+   "server": "tazenafas.dingi3.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 113
+  },
+  {
+   "server": "jadid.porsorate.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 116
+  },
+  {
+   "server": "Tond.strobox.info",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 116
+  },
+  {
+   "server": "porsorate.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 117
+  },
+  {
+   "server": "bo0ji.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 123
+  },
+  {
+   "server": "new7.mizanmizanesgh.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 141
   },
   {
    "server": "ir.strobox.info",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 282
+   "ping": 168
+  },
+  {
+   "server": "rootssh2.co.uk.",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 186
+  },
+  {
+   "server": "jadide.mamadali.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 193
+  },
+  {
+   "server": "fandogh.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 221
+  },
+  {
+   "server": "fast.strobox.info",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 237
+  },
+  {
+   "server": "dizgrakh.mamadali.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 249
+  },
+  {
+   "server": "ram7.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 264
+  },
+  {
+   "server": "proxy.gocdn-prime.ir",
+   "port": 41816,
+   "secret": "82f1ed94476a3948772eae5db8ea9646",
+   "ping": 424
   }
  ],
- "count": 15,
- "checked": 214
+ "count": 16,
+ "checked": 210
 }
