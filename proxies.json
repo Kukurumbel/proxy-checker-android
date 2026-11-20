@@ -66,11 +66,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "48.103.224.73",
-   "port": 443,
-   "secret": "eeb3302b8ce6f18e5e5f32360e1d70a4ff676f6f676c657461676d616e616765722e636f6d"
-  },
-  {
    "server": "4x4.subaru-volga.com",
    "port": 443,
    "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c"
@@ -111,9 +106,19 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "79.137.196.223",
+   "port": 2053,
+   "secret": "eeee1701dff011da0ee1313d584fc565187777772e636c6f7564666c6172652e636f6d"
+  },
+  {
    "server": "91.98.97.225",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "95.217.193.214",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "akenai.top",
@@ -181,11 +186,6 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-   "server": "boro.poolaki.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "breeze.paperteapot.com",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c94627265657a652e7061706572746561706f742e636f6d"
@@ -209,6 +209,21 @@
    "server": "ccc.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "cdnbarrel.org",
+   "port": 443,
+   "secret": "ee7e417407b715ff26d9fafff34e31a33b686f66662e7275"
+  },
+  {
+   "server": "cdncoast.com",
+   "port": 443,
+   "secret": "eea0802366dd565a104bdfb2f9e390c2d4686f66662e7275"
+  },
+  {
+   "server": "cdncove.com",
+   "port": 443,
+   "secret": "eea9bf6807ab1fccfb24817bcb05189bf3686f66662e7275"
   },
   {
    "server": "coinvpnpro.duckdns.org",
@@ -456,16 +471,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "ir.forzajuve.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.groundfloorsolutions.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.konstruktion.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -496,11 +501,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "ir.strawberrybarn.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
    "server": "ir.strobox.info",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -519,11 +519,6 @@
    "server": "iran.yes.ir.bcsadwtgd.info",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "irl.firemedia.digital",
-   "port": 443,
-   "secret": "eeadd144b0531c1a9f5947e3cb29dc4fd569726c2e666972656d656469612e6469676974616c"
   },
   {
    "server": "ivoryazure.heronglade.space",
@@ -666,6 +661,11 @@
    "secret": "ee6939e0f212e69f68a8fec9bb1699c9bb6d7430312e776869736b657974616e676f666f7874726f742e6c6f6c"
   },
   {
+   "server": "mt1.hiesen-proxy.ru",
+   "port": 443,
+   "secret": "ee785147b766a76a27abd34ee1a98a8ec0676f6f676c652e636f6d"
+  },
+  {
    "server": "mtproxygram.lol",
    "port": 853,
    "secret": "ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65"
@@ -784,6 +784,16 @@
    "server": "pishi.nanaz.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "polar.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94706f6c61722e7061706572746561706f742e636f6d"
+  },
+  {
+   "server": "polar.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94706f6c61722e76656c76657477696e646f772e6363"
   },
   {
    "server": "pomi46.kelpmoor.xyz",
@@ -986,16 +996,6 @@
    "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d"
   },
   {
-   "server": "t3.myrka.digital",
-   "port": 444,
-   "secret": "ee8888777766665555444433332222111174332e6d79726b612e6469676974616c"
-  },
-  {
-   "server": "t4.myrka.digital",
-   "port": 443,
-   "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c"
-  },
-  {
    "server": "tazenafas.dingi3.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1056,11 +1056,6 @@
    "secret": "ee2eaa3efe26957df17447871a78aa19b064726976652e676f6f676c652e636f6d"
   },
   {
-   "server": "topproxt.asia",
-   "port": 443,
-   "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
-  },
-  {
    "server": "turbo.webproxy.lol",
    "port": 443,
    "secret": "ee51fa3aadf3d9849a914784a8de1ff7e0747572626f2e77656270726f78792e6c6f6c"
@@ -1079,6 +1074,11 @@
    "server": "valenki.kemerovo.online",
    "port": 443,
    "secret": "eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65"
+  },
+  {
+   "server": "vampire132541623.fun",
+   "port": 443,
+   "secret": "7khP_sc19xjiOZYzYUXTJ7V3d3cuY2xvdWRmbGFyZS5jb20"
   },
   {
    "server": "ving.mozitop.co.uk",
