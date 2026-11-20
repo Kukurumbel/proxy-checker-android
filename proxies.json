@@ -186,6 +186,16 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "breeze.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94627265657a652e7061706572746561706f742e636f6d"
+  },
+  {
+   "server": "breeze.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94627265657a652e76656c76657477696e646f772e6363"
+  },
+  {
    "server": "breezeridge.heronglade.space",
    "port": 8443,
    "secret": "eecb583feec28443b065f8a1f3df502eea706574726f766963682e7275"
@@ -741,6 +751,16 @@
    "secret": "eed09fb30e9ba945e3eb272875413c8c946f70616c2e76656c76657477696e646f772e6363"
   },
   {
+   "server": "orchid.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946f72636869642e7061706572746561706f742e636f6d"
+  },
+  {
+   "server": "orchid.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946f72636869642e76656c76657477696e646f772e6363"
+  },
+  {
    "server": "partnerupload.steampower.online",
    "port": 3864,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -769,6 +789,11 @@
    "server": "pomi46.kelpmoor.xyz",
    "port": 8443,
    "secret": "eef17c22a56cac8bd46d12b91f8f9e102f62726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "poneny87.sorrelbay.xyz",
+   "port": 8443,
+   "secret": "eed9f17e3daed2eba291d36ea30d9aded8786170692e6f7a6f6e2e7275"
   },
   {
    "server": "pony78.ashwren.xyz",
@@ -841,6 +866,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCWFydmFuY2xvdWQuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
   },
   {
+   "server": "rimira82.ashwren.xyz",
+   "port": 443,
+   "secret": "eed9f17e3daed2eba291d36ea30d9aded862726f777365722e79616e6465782e7275"
+  },
+  {
    "server": "risuto15.kelpmoor.xyz",
    "port": 8443,
    "secret": "eee1d528d13649f8288c1ea7898787b486617669746f2e7275"
@@ -864,6 +894,16 @@
    "server": "russia.knox-proxy.world",
    "port": 4515,
    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "sapphireaurora.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c9473617070686972656175726f72612e7061706572746561706f742e636f6d"
+  },
+  {
+   "server": "sapphireaurora.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c9473617070686972656175726f72612e76656c76657477696e646f772e6363"
   },
   {
    "server": "shared2.ddproxy.xyz",
@@ -1096,11 +1136,6 @@
    "secret": "ee4274afdce63c4c3a2b341bad09220a047777772e70727874672e746f70"
   },
   {
-   "server": "x.shmelproxy.top",
-   "port": 443,
-   "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
-  },
-  {
    "server": "xe1rn.proxydazhenaparkovke.site",
    "port": 443,
    "secret": "ee4a26ea6bb803e4d556b56178d75a0889786531726e2e70726f787964617a68656e617061726b6f766b652e73697465"
@@ -1131,5 +1166,5 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
   }
  ],
- "count": 226
+ "count": 233
 }
