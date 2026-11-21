@@ -136,11 +136,6 @@
    "secret": "7hXN1Lxn0j-oiEBe3j4Z_9B3d3cuY2xvdWRmbGFyZS5jb20"
   },
   {
-   "server": "apple.heronglade.space",
-   "port": 8443,
-   "secret": "eecb583feec28443b065f8a1f3df502eea706574726f766963682e7275"
-  },
-  {
    "server": "aseman.lunavane.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -159,11 +154,6 @@
    "server": "awd.subaru-volga.com",
    "port": 443,
    "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c"
-  },
-  {
-   "server": "bamboohollow.heronglade.space",
-   "port": 443,
-   "secret": "eecb583feec28443b065f8a1f3df502eea786170692e6f7a6f6e2e7275"
   },
   {
    "server": "barsik.subaru-volga.com",
@@ -431,17 +421,22 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "info.sibasiba.space",
+   "port": 443,
+   "secret": "7rMwK4zm8Y5eXzI2Dh1wpP9pbmZvLnNpYmFzaWJhLnNwYWNl"
+  },
+  {
+   "server": "ir-ir-ir.grumpyoldmen.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir-ir.billblog.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
    "server": "ir-ir.connectina.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir-ir.gnutella2.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -481,6 +476,11 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir.mhanna.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir.peachsoft.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -497,11 +497,6 @@
   },
   {
    "server": "ir.vanitydomain.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ir.xn--ds-bja.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -556,11 +551,6 @@
    "secret": "eee38448c7e07ec8d42dfb2ca4d668b79062726f777365722e79616e6465782e7275"
   },
   {
-   "server": "lene36.kelpmoor.xyz",
-   "port": 8443,
-   "secret": "ee8a22a2efc31d03cfe33e7dc2abb809db6f7a6f6e2e7275"
-  },
-  {
    "server": "light.paperteapot.com",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c946c696768742e7061706572746561706f742e636f6d"
@@ -606,6 +596,16 @@
    "secret": "eeec569fca8169b57457c573b55bbaa8ec706574726f766963682e7275"
   },
   {
+   "server": "maple.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946d61706c652e7061706572746561706f742e636f6d"
+  },
+  {
+   "server": "maple.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946d61706c652e76656c76657477696e646f772e6363"
+  },
+  {
    "server": "mapo12.tidalbirch.sbs",
    "port": 443,
    "secret": "eec351e909bc2939e1ca4fbcc6b762a1bd786170692e6f7a6f6e2e7275"
@@ -619,6 +619,16 @@
    "server": "maraka16.ashwren.xyz",
    "port": 443,
    "secret": "ee912defad667a620d66dbf5fd0b2a1bcc62726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "matrixxx.vip",
+   "port": 443,
+   "secret": "eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970"
+  },
+  {
+   "server": "matrixxx.wtf",
+   "port": 443,
+   "secret": "ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466"
   },
   {
    "server": "max.fastprx.top",
@@ -671,12 +681,12 @@
    "secret": "ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65"
   },
   {
-   "server": "my-iran.vingardium.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
+   "server": "my.home.ir.bcsadwtgd.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "my.home.ir.bcsadwtgd.info.",
+   "server": "My.IRAN.ir.bcsadwtgd.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
@@ -721,6 +731,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "noon.begir.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "north.tealbriar.xyz",
    "port": 8443,
    "secret": "eed8e23b55798e53b64877d42e6ef94a3f706574726f766963682e7275"
@@ -759,6 +774,11 @@
    "server": "orchid.velvetwindow.cc",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c946f72636869642e76656c76657477696e646f772e6363"
+  },
+  {
+   "server": "panir.begir.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
    "server": "partnerupload.steampower.online",
@@ -854,11 +874,6 @@
    "server": "quill.velvetwindow.cc",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c947175696c6c2e76656c76657477696e646f772e6363"
-  },
-  {
-   "server": "rade48.sorrelbay.xyz",
-   "port": 443,
-   "secret": "ee8a22a2efc31d03cfe33e7dc2abb809db617669746f2e7275"
   },
   {
    "server": "ram7.co.uk",
@@ -1051,16 +1066,6 @@
    "secret": "eef17c22a56cac8bd46d12b91f8f9e102f62726f777365722e79616e6465782e7275"
   },
   {
-   "server": "toka23.kelpmoor.xyz",
-   "port": 8443,
-   "secret": "ee8a22a2efc31d03cfe33e7dc2abb809db706574726f766963682e7275"
-  },
-  {
-   "server": "tomi60.ashwren.xyz",
-   "port": 443,
-   "secret": "ee8a22a2efc31d03cfe33e7dc2abb809db6f7a6f6e2e7275"
-  },
-  {
    "server": "Tond.strobox.info",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
@@ -1201,5 +1206,5 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
   }
  ],
- "count": 240
+ "count": 241
 }
