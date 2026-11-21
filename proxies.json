@@ -21,6 +21,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "177.202.67.229",
+   "port": 443,
+   "secret": "ee59e09347d9a61afe7dfaa53d46d55bfd646576656c6f7065722e6e76696469612e636f6d"
+  },
+  {
    "server": "185.77.96.1",
    "port": 8443,
    "secret": "bf2603b017a75407b95a0e97fe27e61e"
@@ -151,11 +156,6 @@
    "secret": "eedac1697485fe37f9c1435848f8ec2ff5706574726f766963682e7275"
   },
   {
-   "server": "awd.subaru-volga.com",
-   "port": 443,
-   "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c"
-  },
-  {
    "server": "barsik.subaru-volga.com",
    "port": 443,
    "secret": "ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c"
@@ -194,11 +194,6 @@
    "server": "breeze.velvetwindow.cc",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c94627265657a652e76656c76657477696e646f772e6363"
-  },
-  {
-   "server": "breezeridge.heronglade.space",
-   "port": 8443,
-   "secret": "eecb583feec28443b065f8a1f3df502eea706574726f766963682e7275"
   },
   {
    "server": "brookpearl.heronglade.space",
@@ -301,11 +296,6 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "echoreed.heronglade.space",
-   "port": 8443,
-   "secret": "eecb583feec28443b065f8a1f3df502eea706574726f766963682e7275"
-  },
-  {
    "server": "edgespindle.org",
    "port": 443,
    "secret": "eebec6acb2a5464709485d7cbeedd8612b686f66662e7275"
@@ -324,11 +314,6 @@
    "server": "fast.strobox.info",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "server": "fast.webproxy.lol",
-   "port": 443,
-   "secret": "ee4160cbb0629c129ad2209f4df88d4bc964726976652e676f6f676c652e636f6d"
   },
   {
    "server": "forums.steampower.online",
@@ -416,6 +401,11 @@
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
+   "server": "honar.saheledarya.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "im.dumaniltd.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -499,11 +489,6 @@
    "server": "ir.vanitydomain.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "server": "ivoryazure.heronglade.space",
-   "port": 443,
-   "secret": "eecb583feec28443b065f8a1f3df502eea786170692e6f7a6f6e2e7275"
   },
   {
    "server": "jadide.mamadali.co.uk",
@@ -664,6 +649,11 @@
    "server": "mobile.prxtg.top",
    "port": 443,
    "secret": "ee8ae40a2aa7554a058f3340b6449e4e666d6f62696c652e70727874672e746f70"
+  },
+  {
+   "server": "mofid.saheledarya.co.uk.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "mt01.whiskeytangofoxtrot.lol",
@@ -1011,11 +1001,6 @@
    "secret": "eed09fb30e9ba945e3eb272875413c8c9473756e2e76656c76657477696e646f772e6363"
   },
   {
-   "server": "Suodbo.co.uk.",
-   "port": 443,
-   "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
    "server": "support.infinityhalo.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1029,6 +1014,11 @@
    "server": "tazenafas.dingi3.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "teledomen.lol",
+   "port": 443,
+   "secret": "ee47865459ee8e60d17b7374b5c7b53d086d6170792e636f6d"
   },
   {
    "server": "termsnal.co.uk.",
@@ -1056,9 +1046,9 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "thunder.heronglade.space",
-   "port": 443,
-   "secret": "eecb583feec28443b065f8a1f3df502eea786170692e6f7a6f6e2e7275"
+   "server": "this-is.fastnet-vpn.xyz",
+   "port": 4443,
+   "secret": "ee466f3ef394f7c682a47b604deda898ea746869732d69732e666173746e65742d76706e2e78797a"
   },
   {
    "server": "toga43.sorrelbay.xyz",
@@ -1206,5 +1196,5 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
   }
  ],
- "count": 241
+ "count": 239
 }
