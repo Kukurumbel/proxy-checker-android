@@ -16,11 +16,6 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-   "server": "168.119.142.46",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "176.65.135.69",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -511,11 +506,6 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "iran.yes.ir.bcsadwtgd.info",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "ivoryazure.heronglade.space",
    "port": 443,
    "secret": "eecb583feec28443b065f8a1f3df502eea786170692e6f7a6f6e2e7275"
@@ -561,14 +551,34 @@
    "secret": "ee888877776666555544443333222211117474322e6d79726b612e6469676974616c"
   },
   {
+   "server": "lelo74.kelpmoor.xyz",
+   "port": 443,
+   "secret": "eee38448c7e07ec8d42dfb2ca4d668b79062726f777365722e79616e6465782e7275"
+  },
+  {
    "server": "lene36.kelpmoor.xyz",
    "port": 8443,
    "secret": "ee8a22a2efc31d03cfe33e7dc2abb809db6f7a6f6e2e7275"
   },
   {
+   "server": "light.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946c696768742e7061706572746561706f742e636f6d"
+  },
+  {
+   "server": "light.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946c696768742e76656c76657477696e646f772e6363"
+  },
+  {
    "server": "lilythistle.heronglade.space",
    "port": 8443,
    "secret": "eef34d88320a4d0b6e8aaf11541681dd7c786170692e6f7a6f6e2e7275"
+  },
+  {
+   "server": "loga86.sorrelbay.xyz",
+   "port": 8443,
+   "secret": "eee38448c7e07ec8d42dfb2ca4d668b790617669746f2e7275"
   },
   {
    "server": "lole53.kelpmoor.xyz",
@@ -976,6 +986,16 @@
    "secret": "ee0fde41eb62ad6ce7e55c5d018a87732e706574726f766963682e7275"
   },
   {
+   "server": "sun.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c9473756e2e7061706572746561706f742e636f6d"
+  },
+  {
+   "server": "sun.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c9473756e2e76656c76657477696e646f772e6363"
+  },
+  {
    "server": "Suodbo.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -1111,6 +1131,16 @@
    "secret": "ee4b20619b99880640b45f275c18e20555786170692e6f7a6f6e2e7275"
   },
   {
+   "server": "violetvalley.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c9476696f6c657476616c6c65792e7061706572746561706f742e636f6d"
+  },
+  {
+   "server": "violetvalley.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c9476696f6c657476616c6c65792e76656c76657477696e646f772e6363"
+  },
+  {
    "server": "visu60.sorrelbay.xyz",
    "port": 443,
    "secret": "ee779e9f58a7841578350dfd6d464f462062726f777365722e79616e6465782e7275"
@@ -1171,5 +1201,5 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
   }
  ],
- "count": 234
+ "count": 240
 }
