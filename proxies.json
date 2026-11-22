@@ -31,11 +31,6 @@
    "secret": "bf2603b017a75407b95a0e97fe27e61e"
   },
   {
-   "server": "194.120.230.106",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
    "server": "194.120.230.120",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -109,6 +104,11 @@
    "server": "79.137.196.223",
    "port": 2053,
    "secret": "eeee1701dff011da0ee1313d584fc565187777772e636c6f7564666c6172652e636f6d"
+  },
+  {
+   "server": "91.107.140.144",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
    "server": "91.221.191.138",
@@ -196,11 +196,6 @@
    "secret": "eed09fb30e9ba945e3eb272875413c8c94627265657a652e76656c76657477696e646f772e6363"
   },
   {
-   "server": "brookpearl.heronglade.space",
-   "port": 8443,
-   "secret": "ee2b60d9fbfb7978842047eb90c50862a0786170692e6f7a6f6e2e7275"
-  },
-  {
    "server": "ccc.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -229,11 +224,6 @@
    "server": "crest.velvetwindow.cc",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c9463726573742e76656c76657477696e646f772e6363"
-  },
-  {
-   "server": "crystal.heronglade.space",
-   "port": 443,
-   "secret": "ee2b60d9fbfb7978842047eb90c50862a0706574726f766963682e7275"
   },
   {
    "server": "darkdept.store",
@@ -326,6 +316,16 @@
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+   "server": "fig.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946669672e7061706572746561706f742e636f6d"
+  },
+  {
+   "server": "fig.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946669672e76656c76657477696e646f772e6363"
+  },
+  {
    "server": "forums.steampower.online",
    "port": 3864,
    "secret": "79e344818749bd7ac519130220c25d09"
@@ -411,6 +411,16 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "harborwinter.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94686172626f7277696e7465722e7061706572746561706f742e636f6d"
+  },
+  {
+   "server": "harborwinter.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94686172626f7277696e7465722e76656c76657477696e646f772e6363"
+  },
+  {
    "server": "Hel-hi.co.uk.",
    "port": 443,
    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
@@ -424,6 +434,16 @@
    "server": "im.dumaniltd.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "indigo.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94696e6469676f2e7061706572746561706f742e636f6d"
+  },
+  {
+   "server": "indigo.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94696e6469676f2e76656c76657477696e646f772e6363"
   },
   {
    "server": "info.sibasiba.space",
@@ -506,9 +526,9 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
-   "server": "jadide.mamadali.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
+   "server": "irl.firemedia.digital",
+   "port": 443,
+   "secret": "eeadd144b0531c1a9f5947e3cb29dc4fd569726c2e666972656d656469612e6469676974616c"
   },
   {
    "server": "jhndoes.co.uk.",
@@ -519,11 +539,6 @@
    "server": "kami25.ashwren.xyz",
    "port": 443,
    "secret": "ee779e9f58a7841578350dfd6d464f4620706574726f766963682e7275"
-  },
-  {
-   "server": "kasco.alhosein.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "kavilo33.sorrelbay.xyz",
@@ -976,11 +991,6 @@
    "secret": "ee81155f42409fce134de8524006051c6973736f2e70727874672e746f70"
   },
   {
-   "server": "storagexx.space",
-   "port": 443,
-   "secret": "ee24b61556a3ec49bc0c7a5a7e8525702873746f7261676578782e7370616365"
-  },
-  {
    "server": "stormlaurel.heronglade.space",
    "port": 443,
    "secret": "eedac1697485fe37f9c1435848f8ec2ff5786170692e6f7a6f6e2e7275"
@@ -999,6 +1009,11 @@
    "server": "sukapo16.foxglade.xyz",
    "port": 8443,
    "secret": "ee0fde41eb62ad6ce7e55c5d018a87732e706574726f766963682e7275"
+  },
+  {
+   "server": "summit.tealbriar.xyz",
+   "port": 8443,
+   "secret": "ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275"
   },
   {
    "server": "sun.paperteapot.com",
@@ -1181,6 +1196,11 @@
    "secret": "eedac1697485fe37f9c1435848f8ec2ff5706574726f766963682e7275"
   },
   {
+   "server": "work.deal-market.xyz",
+   "port": 853,
+   "secret": "eed54b7276c5dfb4e0ecb7996de53dc9ae696e74656c2e636f6d"
+  },
+  {
    "server": "www.prxtg.top",
    "port": 443,
    "secret": "ee4274afdce63c4c3a2b341bad09220a047777772e70727874672e746f70"
@@ -1189,11 +1209,6 @@
    "server": "xe1rn.proxydazhenaparkovke.site",
    "port": 443,
    "secret": "ee4a26ea6bb803e4d556b56178d75a0889786531726e2e70726f787964617a68656e617061726b6f766b652e73697465"
-  },
-  {
-   "server": "xxmatrixx.top",
-   "port": 853,
-   "secret": "eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70"
   },
   {
    "server": "yydwb.proxytg.fit",
@@ -1216,5 +1231,5 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
   }
  ],
- "count": 243
+ "count": 246
 }
