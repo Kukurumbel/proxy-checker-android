@@ -141,6 +141,11 @@
    "secret": "7hXN1Lxn0j-oiEBe3j4Z_9B3d3cuY2xvdWRmbGFyZS5jb20"
   },
   {
+   "server": "ams2.tlgfast.com",
+   "port": 443,
+   "secret": "ee2a4905e52c0b5fa1b009ec835de0e9b6616d73322e746c67666173742e636f6d"
+  },
+  {
    "server": "aseman.lunavane.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -174,11 +179,6 @@
    "server": "bimeh.my-moon.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "birchshore.heronglade.space",
-   "port": 443,
-   "secret": "ee2b60d9fbfb7978842047eb90c50862a0706574726f766963682e7275"
   },
   {
    "server": "bo0ji.co.uk.",
@@ -481,6 +481,16 @@
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
   {
+   "server": "ir-mainland.steveharrop.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir-neverland.nowhearthis.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "ir.brettanderson.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -651,6 +661,11 @@
    "secret": "eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d"
   },
   {
+   "server": "media.maxim-api.com",
+   "port": 18443,
+   "secret": "ee888d29ec050419c2d69ddc04a4bf12d86d656469612e6d6178696d2d6170692e636f6d"
+  },
+  {
    "server": "mint.paperteapot.com",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c946d696e742e7061706572746561706f742e636f6d"
@@ -679,6 +694,11 @@
    "server": "mofid.saheledarya.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "server": "mt-sw.alex-photo-notes.pl",
+   "port": 443,
+   "secret": "eeee677bf5d2356b3744e1208cc35d70887777772e676f6f676c652e636f6d"
   },
   {
    "server": "mt01.whiskeytangofoxtrot.lol",
@@ -961,11 +981,6 @@
    "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
   },
   {
-   "server": "skymoon.heronglade.space",
-   "port": 8443,
-   "secret": "ee2b60d9fbfb7978842047eb90c50862a0786170692e6f7a6f6e2e7275"
-  },
-  {
    "server": "solar.heronglade.space",
    "port": 443,
    "secret": "ee4b20619b99880640b45f275c18e20555706574726f766963682e7275"
@@ -1191,6 +1206,11 @@
    "secret": "eec15b39b08e586ff58acd45d81178bf1864726976652e676f6f676c652e636f6d"
   },
   {
+   "server": "w1.hiesen-proxy.ru",
+   "port": 443,
+   "secret": "ee19f35317df4dff3cab0202fa96ee51de676f6f676c652e636f6d"
+  },
+  {
    "server": "willowtulip.heronglade.space",
    "port": 8443,
    "secret": "eedac1697485fe37f9c1435848f8ec2ff5706574726f766963682e7275"
@@ -1206,9 +1226,14 @@
    "secret": "ee4274afdce63c4c3a2b341bad09220a047777772e70727874672e746f70"
   },
   {
-   "server": "xe1rn.proxydazhenaparkovke.site",
+   "server": "www.tgda.best",
    "port": 443,
-   "secret": "ee4a26ea6bb803e4d556b56178d75a0889786531726e2e70726f787964617a68656e617061726b6f766b652e73697465"
+   "secret": "ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374"
+  },
+  {
+   "server": "www.zone51.online",
+   "port": 443,
+   "secret": "eefaf243dd3c6f6d19c3d1feb60c85b0237777772e7a6f6e6535312e6f6e6c696e65"
   },
   {
    "server": "yydwb.proxytg.fit",
@@ -1231,5 +1256,5 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
   }
  ],
- "count": 246
+ "count": 251
 }
