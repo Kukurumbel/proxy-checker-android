@@ -4,81 +4,75 @@
    "server": "91.221.191.138",
    "port": 443,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 120
-  },
-  {
-   "server": "51.254.130.47",
-   "port": 8443,
-   "secret": "a84102e409230c3b69dd4f68cef86baf",
-   "ping": 127
+   "ping": 139
   },
   {
    "server": "199.246.127.144",
    "port": 443,
    "secret": "0b0205af4ea1511058c799a11f75287b",
-   "ping": 147
+   "ping": 157
+  },
+  {
+   "server": "51.254.130.47",
+   "port": 8443,
+   "secret": "a84102e409230c3b69dd4f68cef86baf",
+   "ping": 184
   },
   {
    "server": "bo0ji.co.uk.",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 179
-  },
-  {
-   "server": "ir.strobox.info",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 187
-  },
-  {
-   "server": "tazenafas.dingi3.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 227
-  },
-  {
-   "server": "Tond.strobox.info",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 285
-  },
-  {
-   "server": "fast.strobox.info",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 289
-  },
-  {
-   "server": "proxy.gocdn-prime.ir",
-   "port": 41816,
-   "secret": "82f1ed94476a3948772eae5db8ea9646",
-   "ping": 326
-  },
-  {
-   "server": "ram7.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 387
-  },
-  {
-   "server": "fandogh.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 410
-  },
-  {
-   "server": "fr.internet4free.org",
-   "port": 443,
-   "secret": "dd3734eba41c93d0154af5016413b6a00e",
-   "ping": 470
+   "ping": 201
   },
   {
    "server": "aptupdate.appnormoor.info",
    "port": 443,
    "secret": "dd27729feca8dbcd8008c3fa4f12d92793",
-   "ping": 782
+   "ping": 218
+  },
+  {
+   "server": "fast.strobox.info",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 220
+  },
+  {
+   "server": "ir.strobox.info",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 221
+  },
+  {
+   "server": "fandogh.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 244
+  },
+  {
+   "server": "tazenafas.dingi3.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 276
+  },
+  {
+   "server": "ram7.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 281
+  },
+  {
+   "server": "proxy.gocdn-prime.ir",
+   "port": 41816,
+   "secret": "82f1ed94476a3948772eae5db8ea9646",
+   "ping": 314
+  },
+  {
+   "server": "fr.internet4free.org",
+   "port": 443,
+   "secret": "dd3734eba41c93d0154af5016413b6a00e",
+   "ping": 711
   }
  ],
- "count": 13,
- "checked": 253
+ "count": 12,
+ "checked": 251
 }
