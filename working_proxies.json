@@ -4,75 +4,69 @@
    "server": "91.221.191.138",
    "port": 443,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 113
+   "ping": 146
   },
   {
    "server": "199.246.127.144",
    "port": 443,
    "secret": "0b0205af4ea1511058c799a11f75287b",
-   "ping": 131
+   "ping": 152
   },
   {
    "server": "51.254.130.47",
    "port": 8443,
    "secret": "a84102e409230c3b69dd4f68cef86baf",
-   "ping": 162
-  },
-  {
-   "server": "bo0ji.co.uk.",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 164
-  },
-  {
-   "server": "tazenafas.dingi3.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 188
-  },
-  {
-   "server": "Tond.strobox.info",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 189
-  },
-  {
-   "server": "fast.strobox.info",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 200
-  },
-  {
-   "server": "ir.strobox.info",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 204
-  },
-  {
-   "server": "fandogh.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 207
+   "ping": 157
   },
   {
    "server": "ram7.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 232
+   "ping": 173
+  },
+  {
+   "server": "tazenafas.dingi3.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 185
+  },
+  {
+   "server": "bo0ji.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 195
+  },
+  {
+   "server": "Tond.strobox.info",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 329
+  },
+  {
+   "server": "fast.strobox.info",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 332
+  },
+  {
+   "server": "ir.strobox.info",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 338
   },
   {
    "server": "proxy.gocdn-prime.ir",
    "port": 41816,
    "secret": "82f1ed94476a3948772eae5db8ea9646",
-   "ping": 329
+   "ping": 377
   },
   {
-   "server": "fr.internet4free.org",
-   "port": 443,
-   "secret": "dd3734eba41c93d0154af5016413b6a00e",
-   "ping": 462
+   "server": "fandogh.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 478
   }
  ],
- "count": 12,
- "checked": 262
+ "count": 11,
+ "checked": 246
 }
