@@ -56,6 +56,16 @@
    "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c"
   },
   {
+   "server": "5.222.0.59",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "5.222.12.36",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
    "server": "51.254.130.47",
    "port": 8443,
    "secret": "a84102e409230c3b69dd4f68cef86baf"
@@ -411,11 +421,6 @@
    "secret": "eefa048bc9fcc498244c3c7c8b2c2388d562726f777365722e79616e6465782e7275"
   },
   {
-   "server": "gardenkite.heronglade.space",
-   "port": 443,
-   "secret": "ee4b20619b99880640b45f275c18e20555706574726f766963682e7275"
-  },
-  {
    "server": "gavi83.sorrelbay.xyz",
    "port": 443,
    "secret": "ee26b9ec16854635afb251cb286cd72618617669746f2e7275"
@@ -522,6 +527,11 @@
   },
   {
    "server": "ir-ir.makkers.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "server": "ir-landofgods.fourie.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
   },
@@ -851,11 +861,6 @@
    "secret": "EERighJJvXrFGRMCIMJdCQ"
   },
   {
-   "server": "pine.heronglade.space",
-   "port": 8443,
-   "secret": "ee4b20619b99880640b45f275c18e20555786170692e6f7a6f6e2e7275"
-  },
-  {
    "server": "Ping-khub.ir.osahflahyev.info.",
    "port": 7443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -956,6 +961,11 @@
    "secret": "eeebf9726b89cc8ca940357d833f491a04706574726f766963682e7275"
   },
   {
+   "server": "rebous.info.",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "reed.paperteapot.com",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c94726565642e7061706572746561706f742e636f6d"
@@ -1004,6 +1014,11 @@
    "server": "sapphireaurora.velvetwindow.cc",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c9473617070686972656175726f72612e76656c76657477696e646f772e6363"
+  },
+  {
+   "server": "sersinn.info",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "shared2.ddproxy.xyz",
@@ -1104,11 +1119,6 @@
    "server": "tg-caax4eer.q80.ru",
    "port": 9443,
    "secret": "ee9cd9f3058380f86f43494292c59b3beb7362692e7362657262616e6b2e7275"
-  },
-  {
-   "server": "tg.getrocket.me",
-   "port": 443,
-   "secret": "eef84b5bf22712eba2c12b8c0582237add74672e676574726f636b65742e6d65"
   },
   {
    "server": "tg.prxtg.top",
@@ -1291,5 +1301,5 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
   }
  ],
- "count": 258
+ "count": 260
 }
