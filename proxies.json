@@ -131,6 +131,11 @@
    "secret": "ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d"
   },
   {
+   "server": "baba.ir.osahflahyev.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
    "server": "bamboo.paperteapot.com",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c9462616d626f6f2e7061706572746561706f742e636f6d"
@@ -579,6 +584,11 @@
    "server": "lole53.kelpmoor.xyz",
    "port": 443,
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157786170692e6f7a6f6e2e7275"
+  },
+  {
+   "server": "maman.ir.osahflahyev.info.",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
    "server": "maple.paperteapot.com",
@@ -1256,5 +1266,5 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
   }
  ],
- "count": 251
+ "count": 253
 }
