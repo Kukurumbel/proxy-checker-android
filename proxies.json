@@ -6,6 +6,11 @@
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
+   "server": "135.181.74.189",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
    "server": "145.79.7.181",
    "port": 8443,
    "secret": "dd7fd89aa5690699c1375b20a11b6b75ba"
@@ -54,11 +59,6 @@
    "server": "3etare.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "server": "4x4.subaru-volga.com",
-   "port": 443,
-   "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c"
   },
   {
    "server": "51.254.130.47",
@@ -229,6 +229,11 @@
    "server": "cdn-static.assets_for_all.visitors.we_are.the_network.creative-clouds.info",
    "port": 8443,
    "secret": "2I25nuNyHw_LQKT_Y7XNKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
+  {
+   "server": "cdn.backend.gateway.infrastructure.creative-clouds.info.",
+   "port": 8443,
+   "secret": "2I25nuNyHw_LQKT_Y7XNKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
   },
   {
    "server": "cdn.divpal.com",
@@ -711,11 +716,6 @@
    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
   },
   {
-   "server": "mobile.prxtg.top",
-   "port": 443,
-   "secret": "ee8ae40a2aa7554a058f3340b6449e4e666d6f62696c652e70727874672e746f70"
-  },
-  {
    "server": "mofid.saheledarya.co.uk.",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -924,6 +924,11 @@
    "server": "proxy.nizya.club",
    "port": 443,
    "secret": "ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562"
+  },
+  {
+   "server": "pspro9.co.uk",
+   "port": 443,
+   "secret": "dd104462821349bd7ac519130220c25d09"
   },
   {
    "server": "puot.mozitop.co.uk",
@@ -1316,5 +1321,5 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
   }
  ],
- "count": 263
+ "count": 264
 }
