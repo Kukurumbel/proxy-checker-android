@@ -10,81 +10,105 @@
    "server": "94.184.39.150",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 139
-  },
-  {
-   "server": "91.221.191.138",
-   "port": 443,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 142
-  },
-  {
-   "server": "51.254.130.47",
-   "port": 8443,
-   "secret": "a84102e409230c3b69dd4f68cef86baf",
-   "ping": 145
+   "ping": 140
   },
   {
    "server": "94.184.39.151",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 145
+   "ping": 140
   },
   {
-   "server": "ir.strobox.info",
+   "server": "ws24.ir.sam-pars.ir.hamann-motorsports.ir.ip-market.ir.norden-co.com.misaghtalayieh.ir.tiwall.io.saatchi.space",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 183
+   "ping": 161
   },
   {
-   "server": "fast.strobox.info",
+   "server": "Tond.strobox.info",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 193
+   "ping": 184
   },
   {
-   "server": "bo0ji.co.uk.",
+   "server": "Jacob-Elordi.Serial-seriesIron.Fist-Soft.speedtest-Soft.name.Original.Sub.S07-BluRay.saatchi.space",
    "port": 443,
    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-   "ping": 213
+   "ping": 186
+  },
+  {
+   "server": "51.254.130.47",
+   "port": 8443,
+   "secret": "a84102e409230c3b69dd4f68cef86baf",
+   "ping": 190
   },
   {
    "server": "pspro9.co.uk",
    "port": 443,
    "secret": "dd104462821349bd7ac519130220c25d09",
-   "ping": 221
-  },
-  {
-   "server": "fandogh.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 223
-  },
-  {
-   "server": "tazenafas.dingi3.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 235
+   "ping": 200
   },
   {
    "server": "vasalshim.mamadgoli.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 248
+   "ping": 203
+  },
+  {
+   "server": "bo0ji.co.uk.",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 210
+  },
+  {
+   "server": "ir.strobox.info",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 218
   },
   {
    "server": "ram7.co.uk",
    "port": 4455,
    "secret": "dd104462821249bd7ac519130220c25d09",
-   "ping": 267
+   "ping": 248
+  },
+  {
+   "server": "tazenafas.dingi3.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 256
+  },
+  {
+   "server": "aptupdate.appnormoor.info",
+   "port": 443,
+   "secret": "dd27729feca8dbcd8008c3fa4f12d92793",
+   "ping": 260
+  },
+  {
+   "server": "fandogh.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "ping": 263
+  },
+  {
+   "server": "fast.strobox.info",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+   "ping": 325
+  },
+  {
+   "server": "proxy.gocdn-prime.ir",
+   "port": 41816,
+   "secret": "82f1ed94476a3948772eae5db8ea9646",
+   "ping": 396
   },
   {
    "server": "fr.internet4free.org",
    "port": 443,
    "secret": "dd3734eba41c93d0154af5016413b6a00e",
-   "ping": 574
+   "ping": 559
   }
  ],
- "count": 14,
- "checked": 264
+ "count": 18,
+ "checked": 263
 }
