@@ -56,6 +56,11 @@
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+   "server": "5.222.29.195",
+   "port": 443,
+   "secret": "f0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
    "server": "51.254.130.47",
    "port": 8443,
    "secret": "a84102e409230c3b69dd4f68cef86baf"
@@ -67,6 +72,16 @@
   },
   {
    "server": "65.109.147.39",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.109.98.213",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "server": "65.109.98.231",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   },
@@ -179,11 +194,6 @@
    "server": "bamboo.velvetwindow.cc",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c9462616d626f6f2e76656c76657477696e646f772e6363"
-  },
-  {
-   "server": "barsik.subaru-volga.com",
-   "port": 443,
-   "secret": "ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c"
   },
   {
    "server": "bb.ew-n.xyz",
@@ -446,6 +456,16 @@
    "secret": "dd3734eba41c93d0154af5016413b6a00e"
   },
   {
+   "server": "free1.gram.blog",
+   "port": 443,
+   "secret": "eeeb46ebb806e03733786c662fdb27dac062726f777365722e79616e6465782e7275"
+  },
+  {
+   "server": "free3.gram.blog",
+   "port": 443,
+   "secret": "ee57639673cce7f03e351b8a5a857eea6c62726f777365722e79616e6465782e7275"
+  },
+  {
    "server": "freeconnect.lol",
    "port": 443,
    "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275"
@@ -459,11 +479,6 @@
    "server": "gany40.ashwren.xyz",
    "port": 8443,
    "secret": "ee302cabde68f0b8c57ca48b73072cd27662726f777365722e79616e6465782e7275"
-  },
-  {
-   "server": "ganymi63.sorrelbay.xyz",
-   "port": 8443,
-   "secret": "ee0387ddee19bfe48499262c18214228ec617669746f2e7275"
   },
   {
    "server": "gapolo64.kelpmoor.xyz",
@@ -616,11 +631,6 @@
    "secret": "ee779e9f58a7841578350dfd6d464f4620706574726f766963682e7275"
   },
   {
-   "server": "kvas.kemerovo.online",
-   "port": 8443,
-   "secret": "ee888877776666555544443333222211117474322e6d79726b612e6469676974616c"
-  },
-  {
    "server": "lenyma85.ashwren.xyz",
    "port": 8443,
    "secret": "ee26b9ec16854635afb251cb286cd726186f7a6f6e2e7275"
@@ -649,11 +659,6 @@
    "server": "maple.velvetwindow.cc",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c946d61706c652e76656c76657477696e646f772e6363"
-  },
-  {
-   "server": "maraka16.ashwren.xyz",
-   "port": 443,
-   "secret": "ee912defad667a620d66dbf5fd0b2a1bcc62726f777365722e79616e6465782e7275"
   },
   {
    "server": "marble.paperteapot.com",
@@ -776,14 +781,14 @@
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157786170692e6f7a6f6e2e7275"
   },
   {
-   "server": "nema75.kelpmoor.xyz",
-   "port": 443,
-   "secret": "ee3766caef3a1312832d053fae6706c1d86f7a6f6e2e7275"
-  },
-  {
    "server": "neon.tealbriar.xyz",
    "port": 8443,
    "secret": "ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275"
+  },
+  {
+   "server": "news-mtp.ir.afusbansdkfi.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "nfc.neo-duo.co.uk",
@@ -856,11 +861,6 @@
    "secret": "eed09fb30e9ba945e3eb272875413c8c946f7474657263656461722e76656c76657477696e646f772e6363"
   },
   {
-   "server": "panir.begir.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
    "server": "parts.kemerovo.online",
    "port": 443,
    "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c"
@@ -874,6 +874,11 @@
    "server": "pebble.velvetwindow.cc",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c94706562626c652e76656c76657477696e646f772e6363"
+  },
+  {
+   "server": "persian.gulf.ir.olsjddhf.info.",
+   "port": 88,
+   "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
    "server": "pesar.nanaz.co.uk",
@@ -1304,11 +1309,6 @@
    "server": "zenith.lanternmoss.top",
    "port": 443,
    "secret": "ee3af44f54fb6bb24e664d38ffb1a781197a656e6974682e6c616e7465726e6d6f73732e746f70"
-  },
-  {
-   "server": "zone88.sorrelbay.xyz",
-   "port": 8443,
-   "secret": "ee0a717e9ba394eff63a9943ff11493cc2706574726f766963682e7275"
   },
   {
    "server": "zonyzo22.sorrelbay.xyz",
